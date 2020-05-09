@@ -17,8 +17,8 @@ tags:
 
 منذ أن** أغلقت حسابي على فيس بوك** منذ قرابة شهرين، وأنا أفكر كيف سأشرح الدوافع التي جعلتني أتّخذ هذا القرار، لأنني أريد أن أساعد المتردّدين في اتخاذ قرار كهذا وعليّ أن أكون واضحًا ومفصّلاً. هناك الكثير من الأشياء التي قد تُعجبك في فيس بوك، فهو بالأساس مُلتقى للعائلة (خصوصًا للمغتربين) ومصدر للأخبار ومكان لمناقشة الأمور الدراسية مع زملائك ومراسلة أصدقائك وإنجاز بعض الأعمال الجادّة ويمكنه كذلك أن يُساعدك في "**قتل الوقت**".
 
-[![keep-calm-and-leave-facebook](http://socialmedia4arab.com/wp-content/uploads/2014/07/keep-calm-and-leave-facebook.png)
-](http://socialmedia4arab.com/wp-content/uploads/2014/07/keep-calm-and-leave-facebook.png)
+[![keep-calm-and-leave-facebook](https://socialmedia4arab.com/wp-content/uploads/2014/07/keep-calm-and-leave-facebook.png)
+](https://socialmedia4arab.com/wp-content/uploads/2014/07/keep-calm-and-leave-facebook.png)
 
 
 ## #5 التشتت
@@ -65,7 +65,7 @@ tags:
 ## #1 هذه
 
 
-[![i-dont-want-to-live-on-this-planet-anymore](http://socialmedia4arab.com/wp-content/uploads/2014/07/i-dont-want-to-live-on-this-planet-anymore.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2014/07/i-dont-want-to-live-on-this-planet-anymore.jpg)
+[![i-dont-want-to-live-on-this-planet-anymore](https://socialmedia4arab.com/wp-content/uploads/2014/07/i-dont-want-to-live-on-this-planet-anymore.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2014/07/i-dont-want-to-live-on-this-planet-anymore.jpg)
 
 لا شيء لدي أقوله عن هذه الصورة!

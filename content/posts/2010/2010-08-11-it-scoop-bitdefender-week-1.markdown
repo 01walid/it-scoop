@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](http://it-scoop.com/rsc/bitDefender_250_250.jpg)
+[![](https://www.it-scoop.com/rsc/bitDefender_250_250.jpg)
 ](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-1/)
 
 

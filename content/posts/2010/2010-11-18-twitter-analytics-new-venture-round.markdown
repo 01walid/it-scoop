@@ -32,7 +32,7 @@ tags:
 
 لمعرفة المزيد عن طرق تربح Twitter من خدماتهما يرجى قراءة هذا المقال:
 
-[كيف تتربح Twitter من خدماتها؟](http://socialmedia4arab.com/2010/09/twitter-monetization/)
+[كيف تتربح Twitter من خدماتها؟](https://socialmedia4arab.com/2010/09/twitter-monetization/)
 
 **تحديث:**
 

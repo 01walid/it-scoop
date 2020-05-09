@@ -53,7 +53,7 @@ tags:
 
 
 
-[![](http://it-scoop.com/rsc/Bitdefender-250x250.jpg)
+[![](https://www.it-scoop.com/rsc/Bitdefender-250x250.jpg)
 ](http://goo.gl/4ph8W)
 
 

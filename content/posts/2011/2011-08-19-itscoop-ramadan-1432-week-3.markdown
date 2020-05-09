@@ -42,7 +42,7 @@ tags:
 
 
 
-[![](http://it-scoop.com/rsc/DZsecurity-250x250.png)
+[![](https://www.it-scoop.com/rsc/DZsecurity-250x250.png)
 ](https://www.it-scoop.com/wp-يوغرطة بن علي (Youghourta Benali)/post-new.php)
 
 

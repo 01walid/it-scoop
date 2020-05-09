@@ -19,7 +19,7 @@ tags:
 
 
 أطلقت Google اليوم عدة إضافات وصفتها بالفائقة "Extra !" على خدمتها الإخبارية Google News تتيح للمستخدمين تخصيص الواجهة الرئيسية للموقع و مشاركة  أسهل و أوسع (sharing) على المواقع الاجتماعية.
-[![Google News](http://1.bp.blogspot.com/_7ZYqYi4xigk/TCuWLmXhdjI/AAAAAAAAGVI/umfi5tHpBr0/Google+News+Redesign+June+30+2010+AM+PT.jpg)
+[![Google News](https://1.bp.blogspot.com/_7ZYqYi4xigk/TCuWLmXhdjI/AAAAAAAAGVI/umfi5tHpBr0/Google+News+Redesign+June+30+2010+AM+PT.jpg)
 ](https://www.it-scoop.com/2010/07/google-news-redesigned/)
 
 

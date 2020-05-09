@@ -19,7 +19,7 @@ tags:
 
 قامت Google بنشر مجموعة من الـ Templates الخاصة بإنشاء مواقع و ذلك للمشتركين في خدمة Google Sites .
 
-![](http://4.bp.blogspot.com/_7ZYqYi4xigk/SwIwvcSS5lI/AAAAAAAAE8I/nV-5HDw-Hq0/s400/club+template.png)
+![](https://4.bp.blogspot.com/_7ZYqYi4xigk/SwIwvcSS5lI/AAAAAAAAE8I/nV-5HDw-Hq0/s400/club+template.png)
 
 
 يعود إنشاء خدمة Google Sites إلى فبراير 2008  و ذلك بالاعتماد على التقنية المحصل عليها من شراء Goolge لشركة JotSpot المتخصصة في الـ Wiki  في أكتوبر 2006

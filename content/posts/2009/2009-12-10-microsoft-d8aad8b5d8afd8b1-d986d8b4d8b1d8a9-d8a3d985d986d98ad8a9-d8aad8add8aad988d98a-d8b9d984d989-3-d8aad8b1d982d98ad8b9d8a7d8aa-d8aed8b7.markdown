@@ -21,7 +21,7 @@ tags:
 
 قامت Microsoft كعادتها بإصدار نشرة أمنية  تحتوي على3 ترقيعات خطيرة و 3  ترقيعات هامة.
 
-![](http://djug.developpez.com/rsc/patch_tuesday.jpg)
+![](https://djug.developpez.com/rsc/patch_tuesday.jpg)
 
 
 الترقيعات الثلاثة الخطيرة هي [MS09-071](http://www.microsoft.com/technet/security/bulletin/ms09-071.mspx),[MS09-074](http://www.microsoft.com/technet/security/bulletin/ms09-074.mspx),[MS09-072](http://www.microsoft.com/technet/security/bulletin/ms09-072.mspx) تخص ثغرات في كل من أنظمة Windows برنامج Microsoft Office Project و المتصفح Internet Explorer  و التي من الممكن استعمالها لتنفيذ كود  عن بعد.

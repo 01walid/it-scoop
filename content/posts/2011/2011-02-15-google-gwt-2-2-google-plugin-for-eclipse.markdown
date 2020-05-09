@@ -20,7 +20,7 @@ tags:
 
 أطلقت Google [الإصدار 2.2](http://googlewebtoolkit.blogspot.com/2011/02/google-plugin-for-eclipse-and-gwt-22.html) من Google Web Tools المعروف اختصارا بـ GWT  ، إلى جانب إصدار جديد من Google Plugin for Eclipse  (إضافة للـ Eclipse  ).
 
-[![](http://4.bp.blogspot.com/_HrTFtSYIY_8/TJI51hat_zI/AAAAAAAAABM/lEhElpZTeEA/s640/Picture+3+10-39-12.png)
+[![](https://4.bp.blogspot.com/_HrTFtSYIY_8/TJI51hat_zI/AAAAAAAAABM/lEhElpZTeEA/s640/Picture+3+10-39-12.png)
 ](https://www.it-scoop.com/2011/02/google-gwt-2-2-google-plugin-for-eclipse/)
 
 [GWT ](http://en.wikipedia.org/wiki/Google_Web_Toolkit)عبارة عن مجموعة من الأدوات تسمح بكتابة تطبيقات Web تفاعلية ، و يتم الاعتماد على لغة البرمجة Java قبل أن تتم ترجمة الشفرة إلى JavaScript،

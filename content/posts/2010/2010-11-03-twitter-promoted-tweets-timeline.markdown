@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/09/Promoted-Tweets.jpg)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/09/Promoted-Tweets.jpg)
 ](https://www.it-scoop.com/2010/11/twitter-promoted-tweets-timeline)
 
 
@@ -37,4 +37,4 @@ tags:
 
 و لمعرفة المزيد عن الطرق التي تستعملها Twitter للتربح من خدماتها أنصحكم بقراءة هذا الموضوع:
 
-[كيف تتربح Twitter من خدماتها؟](http://socialmedia4arab.com/2010/09/twitter-monetization/)
+[كيف تتربح Twitter من خدماتها؟](https://socialmedia4arab.com/2010/09/twitter-monetization/)

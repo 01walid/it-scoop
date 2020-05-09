@@ -37,8 +37,8 @@ tags:
 
 
 
-[![تويتر الجديد](http://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter1.png)
-](http://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter1.png)
+[![تويتر الجديد](https://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter1.png)
+](https://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter1.png)
 
 
 
@@ -53,8 +53,8 @@ tags:
 
 
 
-[![خاصية Discover على تويتر الجديد](http://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter-Discover.png)
-](http://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter-Discover.png)
+[![خاصية Discover على تويتر الجديد](https://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter-Discover.png)
+](https://socialmedia4arab.com/wp-content/uploads/2011/12/News-Twitter-Discover.png)
 
 
 
@@ -81,8 +81,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/12/kia-twitter.png)
-](http://socialmedia4arab.com/wp-content/uploads/2011/12/kia-twitter.png)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/12/kia-twitter.png)
+](https://socialmedia4arab.com/wp-content/uploads/2011/12/kia-twitter.png)
 
 
 
@@ -97,8 +97,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/12/Twitter-HP.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2011/12/Twitter-HP.jpg)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/12/Twitter-HP.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2011/12/Twitter-HP.jpg)
 
 
 

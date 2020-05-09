@@ -16,8 +16,8 @@ tags:
 يعتقد الكثير من المدونين أن شبكة التغريد المصغر Twitter تشكل تهديدا حقيقيا للمدونات. قد تبدو بعض تلك المخاوف مبررة ، و قد تكون لها خلفيات منطقية، لكن على الجانب الآخر يتيح Twitter للمدونين فرصا يندر مثيلها في أدوات و وسائل أخرى.
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/01/twitter-wordpress.jpg)
-](http://socialmedia4arab.com/2011/01/10-opportunities-twitter-bloggers)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/01/twitter-wordpress.jpg)
+](https://socialmedia4arab.com/2011/01/10-opportunities-twitter-bloggers)
 
 
 سنحاول -من خلال هذا المقال- رصد أهم 10 فرص يوفرها Twitter للمدونين قد تكون غفلت عنها، أو لم تلق لها بالا من قبل.

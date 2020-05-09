@@ -26,10 +26,10 @@ tags:
 
 يمكن ملاحظة ذلك عبر الإعلان التالي و الذي تختلف ملامحه باختلاف المعطيات المذكورة سابقا.
 
-![](http://4.bp.blogspot.com/_7ZYqYi4xigk/SwqxuPyLNfI/AAAAAAAAE-U/kAb2t9Wj0kc/s400/top.jpg)
+![](https://4.bp.blogspot.com/_7ZYqYi4xigk/SwqxuPyLNfI/AAAAAAAAE-U/kAb2t9Wj0kc/s400/top.jpg)
 
 
-![](http://1.bp.blogspot.com/_7ZYqYi4xigk/SwqxuS6vRqI/AAAAAAAAE-c/NFgd4ffRlqg/s400/bottom.jpg)
+![](https://1.bp.blogspot.com/_7ZYqYi4xigk/SwqxuS6vRqI/AAAAAAAAE-c/NFgd4ffRlqg/s400/bottom.jpg)
 
 
 في نفس السياق و حسب دراسة لـ comScore المتخصصة في التسويق، فإن المصدر الأول لدخل Google يتمثل في الإعلانات النصية و التي  تمتلك Google  حصة تقدر بـ2,2%  من إجمالي السوق. فيما تمتلك غريمتها Yahoo  حصة تقدر بـ 14,5 %.

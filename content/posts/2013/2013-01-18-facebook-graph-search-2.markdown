@@ -25,8 +25,8 @@ tags:
 
 
 
-[![facebook-Graph-Search](http://socialmedia4arab.com/wp-content/uploads/2013/01/facebook-Graph-Search.png)
-](http://socialmedia4arab.com/2013/01/facebook-graph-search/facebook-graph-search/)
+[![facebook-Graph-Search](https://socialmedia4arab.com/wp-content/uploads/2013/01/facebook-Graph-Search.png)
+](https://socialmedia4arab.com/2013/01/facebook-graph-search/facebook-graph-search/)
 
 
 
@@ -47,8 +47,8 @@ Facebook Graph Search عبارة عن محرك بحث داخلي لفيس بوك
 
 
 
-[![FB_Search_themes](http://socialmedia4arab.com/wp-content/uploads/2013/01/FB_Search_themes.png)
-](http://socialmedia4arab.com/2013/01/facebook-graph-search/fb_search_themes/)
+[![FB_Search_themes](https://socialmedia4arab.com/wp-content/uploads/2013/01/FB_Search_themes.png)
+](https://socialmedia4arab.com/2013/01/facebook-graph-search/fb_search_themes/)
 
 
 
@@ -221,8 +221,8 @@ Facebook Graph Search عبارة عن محرك بحث داخلي لفيس بوك
 
 
 
-[![FB_Search_Brand](http://socialmedia4arab.com/wp-content/uploads/2013/01/FB_Search_Brand.png)
-](http://socialmedia4arab.com/2013/01/facebook-graph-search/fb_search_brand/)
+[![FB_Search_Brand](https://socialmedia4arab.com/wp-content/uploads/2013/01/FB_Search_Brand.png)
+](https://socialmedia4arab.com/2013/01/facebook-graph-search/fb_search_brand/)
 
 
 
@@ -294,7 +294,7 @@ Facebook Graph Search عبارة عن محرك بحث داخلي لفيس بوك
 
 
 
-لتلخيص الأمر، يمكن القول بأن فيس بوك يتجه في الاتجاه الخطأ مع محرك بحثه الجديد لأنه يستحيل عليه أن ينافس الخدمات التي يود منافستها من خلاله. البحث الدلالي الخاص بـ Knowledge Graph والمجتمعات الخاصة بـ Google+ أغنى وأدق من منشورات أصدقائك، هذا إن لم يكن هدف فيس بوك هو مجرد تحسين آلية البحث عن أصدقائك (لا أكثر ولا أقل)، وإن كان الأمر كذلك فإنه يؤكد الحقيقة المرة التي يعرفها فيس بوك حاليا والمتمثلة في محدودية الإبداع لديها. [شراء Instagram](http://socialmedia4arab.com/2012/04/facebook-instagram/) مقابل هذا السعر الخيالي، وإطلاق منافس لتطبيق Snapchat  يعتبر نسخة مطابقة له كلها دلائل على عدم قدرة فيس بوك على الإبداع ([Facebook’s Poke app as a Snapchat clone is a bad sign](http://www.slate.com/articles/technology/technology/2012/12/facebook_s_poke_its_snapchat_clone_is_a_bad_sign.html)). إطلاق محرك البحث الجديد دليل آخر على أن فيس بوك لا تحاول بذل جهد كبير، وتكتفي بإضافة ما يُتوقع منها إضافته فقط ([What Facebook Should Be Building](http://techcrunch.com/2013/01/13/facebook-to-the-future/)) .
+لتلخيص الأمر، يمكن القول بأن فيس بوك يتجه في الاتجاه الخطأ مع محرك بحثه الجديد لأنه يستحيل عليه أن ينافس الخدمات التي يود منافستها من خلاله. البحث الدلالي الخاص بـ Knowledge Graph والمجتمعات الخاصة بـ Google+ أغنى وأدق من منشورات أصدقائك، هذا إن لم يكن هدف فيس بوك هو مجرد تحسين آلية البحث عن أصدقائك (لا أكثر ولا أقل)، وإن كان الأمر كذلك فإنه يؤكد الحقيقة المرة التي يعرفها فيس بوك حاليا والمتمثلة في محدودية الإبداع لديها. [شراء Instagram](https://socialmedia4arab.com/2012/04/facebook-instagram/) مقابل هذا السعر الخيالي، وإطلاق منافس لتطبيق Snapchat  يعتبر نسخة مطابقة له كلها دلائل على عدم قدرة فيس بوك على الإبداع ([Facebook’s Poke app as a Snapchat clone is a bad sign](http://www.slate.com/articles/technology/technology/2012/12/facebook_s_poke_its_snapchat_clone_is_a_bad_sign.html)). إطلاق محرك البحث الجديد دليل آخر على أن فيس بوك لا تحاول بذل جهد كبير، وتكتفي بإضافة ما يُتوقع منها إضافته فقط ([What Facebook Should Be Building](http://techcrunch.com/2013/01/13/facebook-to-the-future/)) .
 
 
 

@@ -42,7 +42,7 @@ tags:
 
 
 
-[![](http://it-scoop.com/rsc/Balsem-250x250.png)
+[![](https://www.it-scoop.com/rsc/Balsem-250x250.png)
 ](http://goo.gl/V84B8) [مؤسسة البلسم لتقنية المعلومات](http://goo.gl/V84B8)  هي شركة مغربية تقدم خدمات حجز النطاقات المغربية والعالمية، وتأجير السيرفرات الكاملة والافتراضية، ويمكن الاطلاع على كافة الخدمات التي تقدمها بزيارة [موقعها](http://goo.gl/V84B8)، كما يمكن متابعتها على Twitter [من هنا](http://twitter.com/#%21/belsemtech).
 
 

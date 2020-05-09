@@ -21,7 +21,7 @@ tags:
 
 و لقد تم سحب اسم  "أحمد مدحت يوسف" في السحب الخامس و اسم "Youssef Elazzaoui" في السحب الختامي، و تم الاتصال بهما لتسليمهما الجائزة
 
-![](http://it-scoop.com/rsc/bitDefender_250_250.jpg)
+![](https://www.it-scoop.com/rsc/bitDefender_250_250.jpg)
 
 
 و إليكم تذكيرا بقائمة أسماء الفائزين الستة :

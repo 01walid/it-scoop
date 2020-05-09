@@ -27,7 +27,7 @@ tags:
 و أغتنم الفرصة لأعلن عن اسم الفائز في السحب الذي تم ليلة أمس ، حيث فاز بجائزة الأسبوع الثاني الأخ **أحمد محمد عبد العظيم نجم** من مصر صاحب التعليق رقم 8 عل صفحة المجلة على الـ Facebook. و لقد تم إرسال المفتاح إليه و أكد استلامه منذ قليل.
 
 
-[![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
+[![](https://www.it-scoop.com/rsc/bitDefender_250_250.jpg )
 ](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)
 
 

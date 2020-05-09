@@ -19,7 +19,7 @@ tags:
 أطلقت Google اليوم رسميا نظامها الجديد لفهرسة الويب و البحث فيه و الذي أطلق عليه اسم Google caffeine، و الذي يعمل على توفير نتائج بحث أكثر حداثة مما كان عليه نظام الأرشفة القديم.
 
 
-[![](http://1.bp.blogspot.com/_7ZYqYi4xigk/TA7I2hFm20I/AAAAAAAAGQA/nbajoe0ibHA/caffeine.jpg  )
+[![](https://1.bp.blogspot.com/_7ZYqYi4xigk/TA7I2hFm20I/AAAAAAAAGQA/nbajoe0ibHA/caffeine.jpg  )
 ](https://www.it-scoop.com/2010/06/google-new-search-index-caffeine)نظام Google caffeine و الذي تم الكشف عنه لأول مرة خلال شهر أغسطس من العام الماضي، يأتي ليقدم نتائج بحث يكون محتواها 50% أحدث من نتائج البحث التي يقدمها الفهرس القديم، و يعود ذلك لانتهاج طريقة جديدة أسرع لفهرسة محتوى الويب تعتمد على طريق جديدة لاكتشاف ما تمت إضافته حديثا.
 
 

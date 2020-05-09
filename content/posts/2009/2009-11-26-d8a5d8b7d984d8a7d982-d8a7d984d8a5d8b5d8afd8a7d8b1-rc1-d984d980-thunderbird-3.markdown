@@ -18,7 +18,7 @@ tags:
 
 أعلنت Mozilla Messaging عن إطلاق الإصدار  RC1 من برنامجها الشهير للبريد الالكتروني 3 Thunderbird ، و الذي حسب Mozilla سيغير بصورة ملحوظة الطريقة التي يقرأ و يكتب و يبحث و ينظم الناس فيها بريدهم الالكتروني.
 
-![](http://djug.developpez.com/rsc/thunderbird-logo-64x64.png)
+![](https://djug.developpez.com/rsc/thunderbird-logo-64x64.png)
 
 
 يأتي الإصدار الثالث من Thunderbird بالعديد من المواصفات الجديدة على غرار كل من:

@@ -18,7 +18,7 @@ tags:
 يبدو أن ظاهرة الروابط المختصرة أصبحت موضة تستهوي قلوب المواقع الكبرى، فبعد كل [من خدمتي Goo.gl و fb.me](../../../../../2009/12/%d9%88-%d8%aa%d8%a8%d8%af%d8%a3-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b5%d8%b1%d8%a9-%d8%a8%d9%8a%d9%86-google-%d9%88-facebook/) المقدمتان من طرف  من google و Facebook حان الآن دور Youtube (المملوكة لـ Google) لتقدم خدمة مشابهة.
 
 
-![](http://djug.developpez.com/rsc/youtube-logo.jpg)
+![](https://djug.developpez.com/rsc/youtube-logo.jpg)
 
 
 

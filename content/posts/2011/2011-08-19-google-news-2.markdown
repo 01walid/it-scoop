@@ -72,7 +72,7 @@ http://www.youtube.com/watch?v=AviQ05CwXZA&feature=player_embedded
 
 	  * [أضافت](http://googleblog.blogspot.com/2011/08/rain-or-shine-see-weather-in-google.html) Google طبقة لمعرفة الطّقس ودرجات الحرارة في Google Maps مباشرة على الخريطة؛ والخدمة تعتمد على معلومات موقع [weather.com](http://www.weather.com).
 
-[![](http://2.bp.blogspot.com/-EPAo0tkXf7g/Tk0_42F_fRI/AAAAAAAAIak/7yKB8kM2sno/s400/weather.png)
+[![](https://2.bp.blogspot.com/-EPAo0tkXf7g/Tk0_42F_fRI/AAAAAAAAIak/7yKB8kM2sno/s400/weather.png)
 ](https://www.it-scoop.com/2011/08/google-news-2/)
 
 

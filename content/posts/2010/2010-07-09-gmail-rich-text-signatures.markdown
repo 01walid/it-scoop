@@ -25,7 +25,7 @@ tags:
 
 
 
-[![gmail rich signatures](http://4.bp.blogspot.com/_JE4qNpFW6Yk/TDYhaX9aJCI/AAAAAAAAAok/SUZMdB9N7sI/rich_text_signatures1.png)
+[![gmail rich signatures](https://4.bp.blogspot.com/_JE4qNpFW6Yk/TDYhaX9aJCI/AAAAAAAAAok/SUZMdB9N7sI/rich_text_signatures1.png)
 ](https://www.it-scoop.com/2010/07/gmail-rich-text-signatures/)
 
 

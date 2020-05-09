@@ -26,7 +26,7 @@ tags:
 
 حسب سلسلة من التجارب التي خضعت لها مجموعة من برامج الـ Antivirus المجانية و التجارية و المتمثلة في تجارب تخص التحميل و فك الضغط و النسخ و اللصق و التشفير فإن Microsoft Security Essentials اجتازها بنجاح و فوق كل هذا تميز بعدم استهلاكه للكثير من الموارد.
 
-[![](http://djug.developpez.com/rsc/AV-Comparatives.png)
+[![](https://djug.developpez.com/rsc/AV-Comparatives.png)
 ](https://www.it-scoop.com/2009/12/microsoft-security-essentials-%d9%8a%d9%8f%d8%ae%d8%aa%d8%a7%d8%b1-%d9%83%d8%a3%d9%81%d8%b6%d9%84-antivirus-%d9%85%d8%ac%d8%a7%d9%86%d9%8a/)
 
 يمكن الإطلاع  على الدراسة كاملة من خلال الملف [التالي](http://www.av-comparatives.org/images/stories/test/performance/performance_dec09.pdf)

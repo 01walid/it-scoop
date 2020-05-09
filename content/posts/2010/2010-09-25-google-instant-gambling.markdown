@@ -16,8 +16,8 @@ tags:
 
 لا شك أنك سمعت عن Google Instant الخدمة الجديد المقدمة من طرف Google و التي تقوم باستظهار نتائج جديدة كلما واصل الباحث إدخال كلمات و حروف جديدة في خانة البحث، إضافة إلى مساعدته باقتراح كلمات مفتاحية عبر خدمتها Google Suggest.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/09/google_chocolate_poker_chips.jpg)
-](http://socialmedia4arab.com/2010/09/google-instant-gambling/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/09/google_chocolate_poker_chips.jpg)
+](https://socialmedia4arab.com/2010/09/google-instant-gambling/)
 
 لم تجرب هذه الخدمة من قبل؟ ادخل إلى [هذه الصفحة](http://www.google.com/instant/) لتعرف المزيد عن هذه الخدمة و لتجربها.
 

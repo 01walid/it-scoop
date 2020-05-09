@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/GooglePlus1.png)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/GooglePlus1.png)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 
@@ -35,8 +35,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/Gplus_growth_20M.jpg)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/Gplus_growth_20M.jpg)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 
@@ -46,8 +46,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/googleplus-visitors.jpg)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/googleplus-visitors.jpg)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 
@@ -57,8 +57,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/googleplus-top-countries.jpg)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/googleplus-top-countries.jpg)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 
@@ -68,8 +68,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/GPlus_Stats_US.png)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/GPlus_Stats_US.png)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 
@@ -84,8 +84,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/FacebookTwitterGoogle.jpg)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/FacebookTwitterGoogle.jpg)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 
@@ -126,8 +126,8 @@ Google أعدت العدة واستعملت موارد كثيرة لإنجاح G
 
 
 فعلى سبيل المثال تبدي شركة Dell عبر مؤسسها اهتماما بخدمة Hangout وخاصة على مستوى فرق المبيعات والدعم الفني ([5 Emerging Trends On Google+](http://www.psfk.com/2011/07/5-emerging-trends-on-google.html)). كما أن شركة Ford قررت إنشاء "[صفحة رسمية](https://plus.google.com/114277687548103339609/posts)" في محاولة منها للضغط على Google لترسيم الأمر.
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/GPlus_Ford.jpg)
-](http://socialmedia4arab.com/2011/07/google-plus-future/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/GPlus_Ford.jpg)
+](https://socialmedia4arab.com/2011/07/google-plus-future/)
 
 
 

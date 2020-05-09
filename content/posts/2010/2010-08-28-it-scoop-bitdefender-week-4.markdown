@@ -27,7 +27,7 @@ tags:
 و أغتنم الفرصة لأعلن عن اسم الفائز في السحب الذي تم ليلة أمس ، حيث فاز بجائزة الأسبوع الثاني الأخ **Mo3Tah**** **صاحب التعليق رقم 2 عل على تدوينة مسابقة الأسبوع الثالث..**(بعد مرور 48 ساعة على إرسال رسائل له و لم يرد تم عمل سحب ثاني و فاز بالمسابقة **Tarek Boutefara )
 
 
-[![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
+[![](https://www.it-scoop.com/rsc/bitDefender_250_250.jpg )
 ](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
 
 

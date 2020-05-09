@@ -16,8 +16,8 @@ tags:
 
 في هذا المقال سنحاول تسليط الضوء على 10 مبادئ يستحسن للوافد الجديد إلى Twitter معرفتها (بل قد يصل الأمر إلى حد الوجوب حسب أحد المذاهب التويترية :p ). قراءة ممتعة.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/12/twitter-300x300.png)
-](http://socialmedia4arab.com/2010/12/10-principles-twitter-beginners)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/12/twitter-300x300.png)
+](https://socialmedia4arab.com/2010/12/10-principles-twitter-beginners)
 
 <!-- more -->
 

@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](http://it-scoop.com/rsc/banners/336x280.png)
+[![](https://www.it-scoop.com/rsc/banners/336x280.png)
 ](https://www.it-scoop.com/2011/07/it-scoop-google-plus/ ‎)
 
 

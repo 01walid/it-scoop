@@ -25,7 +25,7 @@ tags:
 
 و يقوم التطبيق باستغلال خدمة الترجمة الفورية التي توفرها Google على موقعها، لكن الأمر الأهم في هذا التطبيق هو خاصية الترجمة الصوتية، فعلى سبيل المثال يمكن نطق جملة  يتم تحويلها إلى نص قبل أن تترجم و يمكن للتطبيق قراءتها بعد ذلك.
 
-[![](http://3.bp.blogspot.com/_pcoA74Ez-Ks/TVGNNGpztlI/AAAAAAAAA5o/ORtGVgVkk-0/s320/image01.png )
+[![](https://3.bp.blogspot.com/_pcoA74Ez-Ks/TVGNNGpztlI/AAAAAAAAA5o/ORtGVgVkk-0/s320/image01.png )
 ](https://www.it-scoop.com/2011/02/google-translate-ios/)
 
 اللغة  العربية مدعومة جزئيا فقط، فعلى سبيل المثال لا يمكن استعمال الترجمة الصوتية مع اللغة العربية و لا يمكن قراءة النصوص المترجمة أيضا.

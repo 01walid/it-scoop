@@ -30,4 +30,4 @@ tags:
 
 للمزيد حول الموضوع :
 
-[هل هي بداية نهاية Facebook ؟](http://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end/) على [مدونة الإعلام الاجتماعي](http://socialmedia4arab.com/).
+[هل هي بداية نهاية Facebook ؟](https://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end/) على [مدونة الإعلام الاجتماعي](https://socialmedia4arab.com/).

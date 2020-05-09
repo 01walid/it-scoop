@@ -21,7 +21,7 @@ tags:
 حسب بعض المصادر على الانترنت فإن Google تحاول حاليا إقناع العديد من الاستوديوهات المالكة لبعض المسلسلات و البرامج التلفزيونية للحصول على التراخيص التي تسمح لها ببثها على Youtube (بالمقابل طبعا).
 
 
-![](http://djug.developpez.com/rsc/youtube-logo.jpg)
+![](https://djug.developpez.com/rsc/youtube-logo.jpg)
 
 
 

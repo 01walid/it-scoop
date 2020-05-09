@@ -22,7 +22,7 @@ tags:
 
 كشفت Microsoft النقاب عن نظام Windows Embedded compact 7 و الذي يعتبر نسخة خفيفة من نظام Windows 7 الموجهة للأجهزة المحمولة عموما و للأجهزة اللوحية خصوصا، و ذلك في مؤتمر Computex 2010 المنعقد حاليا في تايبيه التايوانية.
 
-[![](http://djug.developpez.com/rsc/ASUS_Eee_Pad.jpg)
+[![](https://djug.developpez.com/rsc/ASUS_Eee_Pad.jpg)
 ](https://www.it-scoop.com/2010/06/Microsoft-Launches-Windows-Embedded-Compact-7)
 
 هذا الإصدار من نظام Windows 7 موجه بصورة أكبر للأجهزة اللوحية و التي قد يكون من الصعب أن يستطيع أي نظام جديد منافسة الأنظمة الحالية  و المتمثلة حاليا في كل من iPhone OS، Android و MeeGo.

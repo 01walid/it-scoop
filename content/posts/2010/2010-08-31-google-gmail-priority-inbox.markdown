@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](http://4.bp.blogspot.com/_JE4qNpFW6Yk/THxYa8Dm-kI/AAAAAAAAAsY/rtemh6ninwY/s500/priority_inbox_quick_guide.png )
+[![](https://4.bp.blogspot.com/_JE4qNpFW6Yk/THxYa8Dm-kI/AAAAAAAAAsY/rtemh6ninwY/s500/priority_inbox_quick_guide.png )
 ]( https://www.it-scoop.com/2010/08/google-gmail-priority-inbox/)
 
 

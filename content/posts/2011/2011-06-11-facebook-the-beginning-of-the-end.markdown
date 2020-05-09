@@ -21,8 +21,8 @@ tags:
 
 مثلما تجاوز Internet Explorer متصفح Netscape بعد أن كان هو المهيمن على السوق، و مثلما فقدت Yahoo مكانتها على يد Google و مثلما فعلت Facebook الأفاعيل في كل من Friendster و MySpace، سيحين دور Facebook لا محالة.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/06/facebook.jpg)
-](http://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/06/facebook.jpg)
+](https://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
 
 لنكن واقعيين و واضحين منذ البداية، لا حاجة لأن نكون متخصصين في التقنيات الحديثة لنعلن عن هذه "النبوءة"، يكفي أن نلقي نظرة على الأحداث الراهنة لنرى ذلك بأعيننا. كلما تعلق الأمر بحدث خاص أو محاكمة تجرى هنا و هناك، فلا أحد يفكر في تحديث حالته على Facebook،  شبكة Facrbook أصبحت جزء من الماضي في كل ما يتعلق بتغطية أحداث الجارية في مكان معين و في مجال معين. الكل أصبح يتجه صوب Twitter.
 
@@ -50,8 +50,8 @@ tags:
 
 لكن في المقابل لو أمعنا النظر في بعض المواقع الشهيرة مثل Mashable  لوجدنا أن عداد المشاركة عبر Twitter (زر Retweet) يتجاوز بكثير عداد الـ "Like "  الخاص بـ Facebook. كما أن حظوظ هذا الأخير في تقلص مستمر خاصة مع ظهور زر +1 الخاصة بـ Google.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/06/mashable.png)
-](http://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/06/mashable.png)
+](https://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
 
 
 # 1000 fans  على Facebook أو 1000 متابع على Twitter؟
@@ -59,8 +59,8 @@ tags:
 
 لنكن صريحين مع أنفسنا، كم مرة في الأسبوع نزور فيها الصفحات التي "أعجبنا" بها على Facebook  منذ شهر مضى ؟ كم شخصا تعرفه يزور بشكل دوري صفحات Coca Cola أو Starbucks على Facebook   أو أية صفحات أخرى ؟
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/06/dislike.jpg)
-](http://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/06/dislike.jpg)
+](https://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
 
 على ضوء ذلك، كم من بين 1000 "معجب" على Facebook التي حصلت عليها بعد جهد جهيد (و قد تكون دفعت مالا مقابل ذلك) سيقوم بإعادة نشر ما تقوم أنت بنشره على الصفحات التي تديرها على الـ Facebook ؟
 
@@ -84,8 +84,8 @@ tags:
 
 إن كان الـ  [SoMoLoCo](http://dailysocial.net/en/2011/05/03/somoloco/) هو الحل السحري للتجارة الالكترونية في الصين مثلما نفهمه من مؤتمر Global Mobile Internet Conference الذي أقيم في بكين الصينية شهر أبريل الماضي، فإنه و من دون شك سيكون الحل أيضا لباقي بلدان العالم.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/06/SoMoLoCo.jpg)
-](http://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/06/SoMoLoCo.jpg)
+](https://socialmedia4arab.com/2011/06/facebook-the-beginning-of-the-end)
 
 Twitter صمم منذ البداية ليستعمل على الهواتف و يستفيد من خواص تحديد الأماكن geolocalisation و موجه بشكل أكبر لتغطية الأحداث المحلية Local، لكن بالرغم من ذلك، فشبكة التغريد المصغر لم تتوصل بعد إلىbusiness Model  للاستفادة المادية من الخدمة التي يقدمها،عكس Facebook الذي أصبح من أهم مواقع الإعلانات في العالم.
 

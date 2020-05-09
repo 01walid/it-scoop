@@ -18,7 +18,7 @@ tags:
 
 حسب دراسة قامت بها [StatCounter](http://translate.googleusercontent.com/translate_c?hl=fr&ie=UTF-8&sl=en&tl=fr&u=http://gs.statcounter.com/&rurl=translate.google.com&usg=ALkJrhjiFr9IU5hTRzsXk2NFzJGSW7E4YQ#browser_version-ww-weekly-200827-200951) فإن Firefox 3.5 قد تجاوز مؤخرا Internet Explorer 7  و أصبح المتصفح رقم واحد عالميا.
 
-![StatCounterGlobal](http://djug.developpez.com/rsc/StatCounterGlobal.jpg)
+![StatCounterGlobal](https://djug.developpez.com/rsc/StatCounterGlobal.jpg)
 
 
 حسب هذه الدراسة فإن Firefox 3.5 يملك نسبة 21.9%  من إجمالي الاستعمال العالمي مقابل 21.2% لـ Internet Explorer 7.

@@ -21,8 +21,8 @@ tags:
 
 
 
-[![twitter-stock](http://socialmedia4arab.com/wp-content/uploads/2014/02/twitter-stock.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2014/02/twitter-stock.jpg)
+[![twitter-stock](https://socialmedia4arab.com/wp-content/uploads/2014/02/twitter-stock.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2014/02/twitter-stock.jpg)
 
 
 
@@ -50,7 +50,7 @@ tags:
 
 
 
-قبل أن نُحاول فهم معنى هذه النسبة يجب أن نتوقف أولا عند تعريف تويتر للمُستخدم النشط. بداية ما تأخذه تويتر بالحسبان هو الحساب وليس المُستخدم في حد ذاته. فعلى عكس ما هو عليه الحال مع فيس بوك مثلا فإنه لا يتم التفريق ما بين حسابات الأفراد (شخص مادي) والمؤسسات (شخص معنوي)، وكما هو معلوم فإن إدارة حسابات الأشخاص المعنويين تتم من طرف أشخاص ماديين لديهم حساباتهم الشخصية (يعني وكأننا نجمع عدد الملفات الشخصية وعدد صفحات فيس بوك لاحتساب عدد المُستخدمين الكُليين لفيس بوك). النقطة الثانية التي يجب أخذها بالحسبان هو مفهوم "النشاط" على تويتر، حيث تعتبر تويتر أي حساب تم تسجيل الدخول إليه مرة واحدة في الشهر كحساب نشط سواء قام صاحب الحساب بالتغريد أو لم يقم. هذا المُشكل في تعريف الحسابات النشطة ليس بالجديد، حيث أنه عادة ما يتم التعبير عن حجم نشاط تويتر بعدد الحسابات التي تم تسجيلها على الشبكة في مُحاولة لتجنب الحديث عن الحسابات النشطة (اقرأ أيضا: [هل يمكن أن نصدق كل الإحصائيات المنشورة حول الشبكات الاجتماعية ؟](http://socialmedia4arab.com/2011/03/social-media-statistics/))
+قبل أن نُحاول فهم معنى هذه النسبة يجب أن نتوقف أولا عند تعريف تويتر للمُستخدم النشط. بداية ما تأخذه تويتر بالحسبان هو الحساب وليس المُستخدم في حد ذاته. فعلى عكس ما هو عليه الحال مع فيس بوك مثلا فإنه لا يتم التفريق ما بين حسابات الأفراد (شخص مادي) والمؤسسات (شخص معنوي)، وكما هو معلوم فإن إدارة حسابات الأشخاص المعنويين تتم من طرف أشخاص ماديين لديهم حساباتهم الشخصية (يعني وكأننا نجمع عدد الملفات الشخصية وعدد صفحات فيس بوك لاحتساب عدد المُستخدمين الكُليين لفيس بوك). النقطة الثانية التي يجب أخذها بالحسبان هو مفهوم "النشاط" على تويتر، حيث تعتبر تويتر أي حساب تم تسجيل الدخول إليه مرة واحدة في الشهر كحساب نشط سواء قام صاحب الحساب بالتغريد أو لم يقم. هذا المُشكل في تعريف الحسابات النشطة ليس بالجديد، حيث أنه عادة ما يتم التعبير عن حجم نشاط تويتر بعدد الحسابات التي تم تسجيلها على الشبكة في مُحاولة لتجنب الحديث عن الحسابات النشطة (اقرأ أيضا: [هل يمكن أن نصدق كل الإحصائيات المنشورة حول الشبكات الاجتماعية ؟](https://socialmedia4arab.com/2011/03/social-media-statistics/))
 
 
 
@@ -176,8 +176,8 @@ tags:
 
 
 
- 	  * [![income-advertising-twitter-q4-2013](http://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013.png)
-](http://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013.png)
+ 	  * [![income-advertising-twitter-q4-2013](https://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013.png)
+](https://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013.png)
 
 
 
@@ -203,8 +203,8 @@ tags:
 
 
 
-[![income-advertising-twitter-q4-2013-2](http://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013-2.png)
-](http://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013-2.png)
+[![income-advertising-twitter-q4-2013-2](https://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013-2.png)
+](https://socialmedia4arab.com/wp-content/uploads/2014/02/income-advertising-twitter-q4-2013-2.png)
 
 
 

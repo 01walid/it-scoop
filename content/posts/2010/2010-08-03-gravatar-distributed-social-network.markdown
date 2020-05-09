@@ -13,8 +13,8 @@ tags:
 - Gravatar
 ---
 
-إذا كنت مدونا أو من رواد المدونات فإنك تعرف حتما خدمة Gravatar  و التي هي اختصار لـ **G**lobaly **R**ecognized **A**vatar. الهدف الأول لهذه الخدمة هو إعطاء صبغة "إنسانية" للتعليقات على مختلف التدوينات و ذلك بإظهار صورة المعلق أو[![](http://socialmedia4arab.com/wp-content/uploads/2010/08/gravatar-logo.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2010/08/gravatar-logo.jpg) صورة رمزية له أمام تعليقاته.
+إذا كنت مدونا أو من رواد المدونات فإنك تعرف حتما خدمة Gravatar  و التي هي اختصار لـ **G**lobaly **R**ecognized **A**vatar. الهدف الأول لهذه الخدمة هو إعطاء صبغة "إنسانية" للتعليقات على مختلف التدوينات و ذلك بإظهار صورة المعلق أو[![](https://socialmedia4arab.com/wp-content/uploads/2010/08/gravatar-logo.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2010/08/gravatar-logo.jpg) صورة رمزية له أمام تعليقاته.
 
 
 مبدأ عمل هذه الخدمة  (و التي اشترتها  شركة  [automattic](http://automattic.com/) الراعية لنظام إدارة المدونات Wordpress)  بسيط جدا، حيث تتم مقارنة عنوان البريد الالكتروني المستعمل للتعليق بالعناوين الموجودة في  قاعدة بيانات الخدمة (التسجيل في هذه الخدمة مجاني)، و إن حدث أي تطابق، يتم استظهار الصورة المقرونة بهذا العنوان.
@@ -23,8 +23,8 @@ tags:
 
 <!-- more -->
 
-[caption id="attachment_35" align="aligncenter" width="300" caption="مثال عن معلقين يستعمال خدمة Gravatar"][![](http://socialmedia4arab.com/wp-content/uploads/2010/08/exemple-gravatar-300x294.png)
-](http://socialmedia4arab.com/wp-content/uploads/2010/08/exemple-gravatar.png)[/caption]
+[caption id="attachment_35" align="aligncenter" width="300" caption="مثال عن معلقين يستعمال خدمة Gravatar"][![](https://socialmedia4arab.com/wp-content/uploads/2010/08/exemple-gravatar-300x294.png)
+](https://socialmedia4arab.com/wp-content/uploads/2010/08/exemple-gravatar.png)[/caption]
 
 هذا الاهتمام بالصورة يعتبر أحد عناصر ما يطلق عليه بـ "إدارة الهوية الرقمية"، و هو الطريق الذي ترسمه automattic  حاليا لخدمة Gravatar  من خلال الـ [Gravatar-Powered Profiles](http://en.blog.wordpress.com/2010/03/26/gravatar-powered-profiles/) و التي يعتبر مبدؤها أيضا بسيطا و المتمثل في ربط صورة كل معلق بملفه الخاص على Gravatar.
 

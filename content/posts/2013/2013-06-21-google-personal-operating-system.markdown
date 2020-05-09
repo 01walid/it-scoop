@@ -31,8 +31,8 @@ tags:
 
 
 
-[![google-now](http://socialmedia4arab.com/wp-content/uploads/2013/06/google-now.png)
-](http://socialmedia4arab.com/wp-content/uploads/2013/06/google-now.png)
+[![google-now](https://socialmedia4arab.com/wp-content/uploads/2013/06/google-now.png)
+](https://socialmedia4arab.com/wp-content/uploads/2013/06/google-now.png)
 
 
 
@@ -71,8 +71,8 @@ tags:
 
 
 
-[![gmail-action-buttons](http://socialmedia4arab.com/wp-content/uploads/2013/06/gmail-action-buttons.png)
-](http://socialmedia4arab.com/wp-content/uploads/2013/06/gmail-action-buttons.png)
+[![gmail-action-buttons](https://socialmedia4arab.com/wp-content/uploads/2013/06/gmail-action-buttons.png)
+](https://socialmedia4arab.com/wp-content/uploads/2013/06/gmail-action-buttons.png)
 
 
 
@@ -102,8 +102,8 @@ tags:
 
 
 
-[caption id="attachment_358" align="aligncenter" width="503"][![هل يمكن اعتبار Google مركزا لكوننا؟ ](http://socialmedia4arab.com/wp-content/uploads/2013/06/google-copernic.png)
-](http://socialmedia4arab.com/wp-content/uploads/2013/06/google-copernic.png) هل يمكن اعتبار Google مركزا لكوننا؟[/caption]
+[caption id="attachment_358" align="aligncenter" width="503"][![هل يمكن اعتبار Google مركزا لكوننا؟ ](https://socialmedia4arab.com/wp-content/uploads/2013/06/google-copernic.png)
+](https://socialmedia4arab.com/wp-content/uploads/2013/06/google-copernic.png) هل يمكن اعتبار Google مركزا لكوننا؟[/caption]
 
 
 نختم بالإجابة عن السؤال الذي طرحناه كعنوان للمقال: هل تطمح Google إلى أن تصبح نظام تشغيل للأفراد؟الجواب هو نعم، مثلما كان عليه الحال مع Microsoft خلال سنوات مجدها، أو مثلما تطمح Alibaba أو Rakute, في مجال نشاطها. الأمر متعلق بشكل مُباشر بحجم الطموح، الوسائل التي تسمح بذلك والوقت اللازم للقيام بذلك. يبدو بأن هذه الشركات ستصل إلى ما تهدف إليه، وبعد ذلك  سيكون السؤال الذي يجب التفكير في إجابة له هو: من سيحدد وتيرة التطور والإبداع واعتماد هذه الإبداعات؟ هل هي الشركات الخاصة؟ أم المؤسسات الحكومية وغير الحكومية؟  يُمكنك إيجاد بعض من عناصر الإجابة على هذا السؤال في [هذا المقال](http://www.erwanngaucher.com/article/28/05/2013/ces-fetichistes-du-papier-qui-sont-au-pouvoir/1106) (مكتوب بالفرنسية).

@@ -20,7 +20,7 @@ tags:
 
 أكدت شركة Microsoft أن الثغرة التي تم الإعلان عنها مؤخرا هي فعلا موجودة في متصفحها الشهير Internet Explorer.
 
-![](http://djug.developpez.com/rsc/Internet_Explorer_7_Logo.png)
+![](https://djug.developpez.com/rsc/Internet_Explorer_7_Logo.png)
 
 
 كما أعلنت Microsoft  عن الإصدارات المعنية بهذه الثغرة و هي:

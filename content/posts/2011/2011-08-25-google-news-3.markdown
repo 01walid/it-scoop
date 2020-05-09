@@ -46,7 +46,7 @@ tags:
 
 
 
-[![](http://1.bp.blogspot.com/-1kyUJIvP_xU/TlUpabdSAKI/AAAAAAAAIbU/MA4X2E9kuF8/s1600/dead+poets+society.png)
+[![](https://1.bp.blogspot.com/-1kyUJIvP_xU/TlUpabdSAKI/AAAAAAAAIbU/MA4X2E9kuF8/s1600/dead+poets+society.png)
 ](https://www.it-scoop.com/2011/08/google-news-3/)<!-- more -->
 
 
@@ -80,5 +80,5 @@ tags:
 
 	  * سيكون بإمكانك ملء حقل إدخال عنوان الخرائط في Google Maps وكذلك العثور على الاتّجاهات على حاسوبك صوتيًّا بالاعتماد على تقنيّا HTML5 بشكل يشبه بحث Google الصّوتي في الويب، هذا ما أعلنته الشّركة في [مدوّنتها الرّسميّة](http://google-latlong.blogspot.com/2011/08/search-google-maps-out-loud.html). الميزة حتّى الآن مقتصرة على متصفّح Chrome وسكّان الولايات المتّحدة.
 
-[![](http://1.bp.blogspot.com/-wWpPJPH7tzo/TlUtfJUppjI/AAAAAAAAAME/CDc0LP6XoZA/s1600/Mic%2B%25281%2529.png)
+[![](https://1.bp.blogspot.com/-wWpPJPH7tzo/TlUtfJUppjI/AAAAAAAAAME/CDc0LP6XoZA/s1600/Mic%2B%25281%2529.png)
 ](https://www.it-scoop.com/2011/08/google-news-3/)

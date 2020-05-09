@@ -56,4 +56,4 @@ tags:
 
 
 
-[لماذا يواصل سعر سهم فيس بوك النزول؟](http://socialmedia4arab.com/2012/06/facebook-shares-keep-falling/)
+[لماذا يواصل سعر سهم فيس بوك النزول؟](https://socialmedia4arab.com/2012/06/facebook-shares-keep-falling/)

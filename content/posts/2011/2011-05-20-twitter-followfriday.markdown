@@ -16,8 +16,8 @@ tags:
 
 اليوم هو يوم الجمعة و بالنسبة لمعشر المغردين فاليوم هو يوم الـ FollowFriday أو ما يعرف اختصارا بـ #FF، و لمن لا يعرف ما هو الـ FollowFriday أو لم يسبق له أن شاهد هذا #FF، فهو باختصار عبارة عن HashTag يستعمله المغردون أيام الجمعة لينصحوا متتبعيهم (Followers) بتتبع بعض الحسابات التي يرونها مفيدة.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/05/Follow-friday.jpg)
-](http://socialmedia4arab.com/2011/05/twitter-followfriday/)<!-- more -->
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/05/Follow-friday.jpg)
+](https://socialmedia4arab.com/2011/05/twitter-followfriday/)<!-- more -->
 
 الفكرة في حد ذاتها جيدة، حيث أنها تمكن من اكتشاف أشخاص مهمين على Twitter مما يعني الحصول على معلومات و فوائد أكثر. المشكل يكمن في أن هذه الطريقة أصبحت عادة يقوم بها المغردون كل يوم جمعة و أحيانا يتم ذلك بشكل آلي و متكرر مما يفقدها نكهتها و فائدتها أيضا.
 

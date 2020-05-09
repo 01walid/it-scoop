@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](http://3.bp.blogspot.com/_8Kvtw29jRUk/TTxuYw7Bw-I/AAAAAAAAB3E/YSa5DjOfrKU/s1600/Qt_logostrap_CMYK.png)
+[![](https://3.bp.blogspot.com/_8Kvtw29jRUk/TTxuYw7Bw-I/AAAAAAAAB3E/YSa5DjOfrKU/s1600/Qt_logostrap_CMYK.png)
 ](https://www.it-scoop.com/2011/03/qt-creator-2-1-0-،-qt-4-7-2-qt-mobility-1-1-1)
 
 

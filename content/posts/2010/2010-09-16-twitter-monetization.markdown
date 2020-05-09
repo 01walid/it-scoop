@@ -28,8 +28,8 @@ tags:
 # الحسابات Premium
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/09/tweet-150x150.jpg)
-](http://socialmedia4arab.com/2010/09/twitter-monetization/ )
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/09/tweet-150x150.jpg)
+](https://socialmedia4arab.com/2010/09/twitter-monetization/ )
 
 هذه الحسابات و التي تم الإعلان عنها منذ حوالي العام، عبارة عن حسابات مدفوعة الأجر خاصة بالشركات. مبدئيا من ناحية الاستعمال تعتبر هذه الحسابات مثل الحسابات العادية، لكن ما  يميزها هو توفير خدمات إضافية تهم الشركات دون غيرها من الخواص، مثلما هو الحال مع أدوات تحليل الحسابات و دراسة مدى فاعلية الحملات المعتمدة على Twitter. و ما [عملية شراء smallthought systems  المتخصصة في الـ Web analytics و المنتجة لـ Trendly منذ أسابيع](https://www.it-scoop.com/2010/06/twitter-buys-smallthought-systems/) إلا دليل آخر على حرص Twitter  على تقديم أدوات تحليلية متقدمة لزبائنها من قطاع الشركات.
 
@@ -39,8 +39,8 @@ tags:
 # Promoted Tweets
 
 
-بالنسبة للـ [Promoted Tweets ](https://www.it-scoop.com/2010/04/twitter-launches-promoted-tweets/) فإن أولى الحملات التي قامت بها كبريات الشركات أمثال Red Bull ، VirginiAmerica [![](http://socialmedia4arab.com/wp-content/uploads/2010/09/Promoted-Tweets-150x150.jpg)
-](http://socialmedia4arab.com/2010/09/twitter-monetization/ )، NBC أعطت نتائج طيبة. كما أن الـ CPC (Cost Per Click) مرتفع في هذه الخدمة مقارنة مع غيرها من طرق الإعلان على مختلف المواقع. رغم كل هذا فإن إمكانية تأثير الـ  Promoted Tweets  للرفع من قيمة حساب شركة ما على Twitter يبقى أمرا مشكوكا في فعاليته.
+بالنسبة للـ [Promoted Tweets ](https://www.it-scoop.com/2010/04/twitter-launches-promoted-tweets/) فإن أولى الحملات التي قامت بها كبريات الشركات أمثال Red Bull ، VirginiAmerica [![](https://socialmedia4arab.com/wp-content/uploads/2010/09/Promoted-Tweets-150x150.jpg)
+](https://socialmedia4arab.com/2010/09/twitter-monetization/ )، NBC أعطت نتائج طيبة. كما أن الـ CPC (Cost Per Click) مرتفع في هذه الخدمة مقارنة مع غيرها من طرق الإعلان على مختلف المواقع. رغم كل هذا فإن إمكانية تأثير الـ  Promoted Tweets  للرفع من قيمة حساب شركة ما على Twitter يبقى أمرا مشكوكا في فعاليته.
 
 لكن الأمر مختلف فيما يخص إظهار تغريدات معينة لدى استعمال محرك البحث الداخلي للشبكة، حيث أن مثل هذه التقنية أعطت ثمارها على محركات البحث التقليدية مثلما هو الحال مع Google.
 
@@ -56,8 +56,8 @@ tags:
 # Earlybird
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/09/earlybird-150x150.jpg)
-](http://socialmedia4arab.com/2010/09/twitter-monetization/ )و المتمثل في [حساب على Twitter](https://www.it-scoop.com/2010/07/twitter-launches-rarlybird/) خاص بالعروض الخاصة محدودة الفترة، حيث تستعمله الشركات للإعلان عن عروضها المحدودة عبر هذا الحساب، بمقابل مادي يتم دفعه لـ Twitter. يشهد هذا الحساب متابعة كبيرة نسبية تتجاوز حاليا الـ 120 ألفا حساب، كما عرفت انطلاقة قوية تجاوزت الـ 13 متتبع في اليوم الأول من إطلاقه.
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/09/earlybird-150x150.jpg)
+](https://socialmedia4arab.com/2010/09/twitter-monetization/ )و المتمثل في [حساب على Twitter](https://www.it-scoop.com/2010/07/twitter-launches-rarlybird/) خاص بالعروض الخاصة محدودة الفترة، حيث تستعمله الشركات للإعلان عن عروضها المحدودة عبر هذا الحساب، بمقابل مادي يتم دفعه لـ Twitter. يشهد هذا الحساب متابعة كبيرة نسبية تتجاوز حاليا الـ 120 ألفا حساب، كما عرفت انطلاقة قوية تجاوزت الـ 13 متتبع في اليوم الأول من إطلاقه.
 
 
 # ما هي الطرق الأخرى التي يمكن لـ Twitter أن تتربح منها؟

@@ -21,7 +21,7 @@ tags:
 
 أعلنت مطور إضافة Noscript الخاصة بمتصفح Firefox عن أن الحماية المستعملة ضد هجمات XSS في المتصفح Internet Explorer 8 غير آمنة بل خطيرة.
 
-![](http://djug.developpez.com/rsc/internet_explorer-8.jpg)
+![](https://djug.developpez.com/rsc/internet_explorer-8.jpg)
 
 
 حسب Giorgio Maone و الذي لم يكشف بعد عن تفاصيل الأمر أن الأمر برمته مبني على خطأ في التصميم الأساسي مما يتوجب إعادة النظر في التصميم.

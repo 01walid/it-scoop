@@ -18,8 +18,8 @@ tags:
 
 
 
-[![social-media-saturation](http://socialmedia4arab.com/wp-content/uploads/2014/01/social-media-saturation.png)
-](http://socialmedia4arab.com/wp-content/uploads/2014/01/social-media-saturation.png)
+[![social-media-saturation](https://socialmedia4arab.com/wp-content/uploads/2014/01/social-media-saturation.png)
+](https://socialmedia4arab.com/wp-content/uploads/2014/01/social-media-saturation.png)
 
 
 
@@ -45,8 +45,8 @@ tags:
 
 
 
-[![notoriete-rs](http://socialmedia4arab.com/wp-content/uploads/2014/01/notoriete-rs.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2014/01/notoriete-rs.jpg)
+[![notoriete-rs](https://socialmedia4arab.com/wp-content/uploads/2014/01/notoriete-rs.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2014/01/notoriete-rs.jpg)
 
 
 
@@ -61,14 +61,14 @@ tags:
  	  * 
 
 
-[![inscription-rs](http://socialmedia4arab.com/wp-content/uploads/2014/01/inscription-rs.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2014/01/inscription-rs.jpg)فيما يخص تردد المُستخدمين على هذه المنصات الاجتماعية فيحتل فيس بوك الصدارة أيضا، حيث تفوق نسبة المُستخدمين الذي يزورون الشبكة الاجتماعية أكثر من مرة واحدة أسبوعيا نسبة 80%.
+[![inscription-rs](https://socialmedia4arab.com/wp-content/uploads/2014/01/inscription-rs.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2014/01/inscription-rs.jpg)فيما يخص تردد المُستخدمين على هذه المنصات الاجتماعية فيحتل فيس بوك الصدارة أيضا، حيث تفوق نسبة المُستخدمين الذي يزورون الشبكة الاجتماعية أكثر من مرة واحدة أسبوعيا نسبة 80%.
 
 
 
 
-[![frequence-rs](http://socialmedia4arab.com/wp-content/uploads/2014/01/frequence-rs.png)
-](http://socialmedia4arab.com/wp-content/uploads/2014/01/frequence-rs.png)
+[![frequence-rs](https://socialmedia4arab.com/wp-content/uploads/2014/01/frequence-rs.png)
+](https://socialmedia4arab.com/wp-content/uploads/2014/01/frequence-rs.png)
 
 
 
@@ -79,8 +79,8 @@ tags:
 
 
 
- 	  * [![dynamique-rs](http://socialmedia4arab.com/wp-content/uploads/2014/01/dynamique-rs.png)
-](http://socialmedia4arab.com/wp-content/uploads/2014/01/dynamique-rs.png)
+ 	  * [![dynamique-rs](https://socialmedia4arab.com/wp-content/uploads/2014/01/dynamique-rs.png)
+](https://socialmedia4arab.com/wp-content/uploads/2014/01/dynamique-rs.png)
  	  * 
 
 

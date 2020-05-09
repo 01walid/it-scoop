@@ -17,7 +17,7 @@ tags:
 
 أطلقت Twitter خدمة Twitter Places و المتمثلة في إمكانية إرفاق كل تغريدة بمكان كتابتها، مما يعطي –حسب Twitter- معنى أفضل لها.
 
-[![](http://3.bp.blogspot.com/_CkYnq4qiHGc/TBajRoOIzqI/AAAAAAAABtE/7F3FM652K4U/s400/place_tweets_1.png)
+[![](https://3.bp.blogspot.com/_CkYnq4qiHGc/TBajRoOIzqI/AAAAAAAABtE/7F3FM652K4U/s400/place_tweets_1.png)
 ](https://www.it-scoop.com/2010/06/twitter-launches-twitter-places)
 
 الخدمة الجديدة و التي أطلقت كبداية في الولايات المتحدة فقط، تسمح لمستخدمي Twitter و الإصدار الموجه للهواتف منه تحديد مكان

@@ -33,6 +33,6 @@ tags:
 
 يمكن الاطلاع على تدوينة Peter Kafka صاحب الاشاعة في موقع All Things Digital [من هنا](http://mediamemo.allthingsd.com/20100927/exclusive-want-twitter-to-help-you-find-more-followers-pay-up-for-a-promoted-account/).
 
-- إن كنت تتساءل كيف ستتربح Twitter من جراء هذه الخدمة ومثيلاتها "Promoted Tweets" و "Promoted trends" فننصحك بقرائة [هذه المقالة](http://socialmedia4arab.com/2010/09/twitter-monetization/).
+- إن كنت تتساءل كيف ستتربح Twitter من جراء هذه الخدمة ومثيلاتها "Promoted Tweets" و "Promoted trends" فننصحك بقرائة [هذه المقالة](https://socialmedia4arab.com/2010/09/twitter-monetization/).
 
-- نرى أن Twitter لا تزال تسعى في رسم business model مربح في خدماتها، فهل ستضمن "Promoted Accounts" إلى [نتائج عمليات البحث](http://socialmedia4arab.com/2010/09/twitter-800-millions-tweets/) كمثيلاتها "Promoted tweets" و "Promoted trends"؟ يبدو الأمر منطقيا؟ فما رأيك عزيزي القارئ؟
+- نرى أن Twitter لا تزال تسعى في رسم business model مربح في خدماتها، فهل ستضمن "Promoted Accounts" إلى [نتائج عمليات البحث](https://socialmedia4arab.com/2010/09/twitter-800-millions-tweets/) كمثيلاتها "Promoted tweets" و "Promoted trends"؟ يبدو الأمر منطقيا؟ فما رأيك عزيزي القارئ؟

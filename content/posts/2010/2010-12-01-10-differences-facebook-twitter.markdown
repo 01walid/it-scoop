@@ -18,8 +18,8 @@ tags:
 
 و تتميز عادة Facebook بطابع ترفيهي، عكس Twitter و الذي يستعمل بشكل أكبر للبقاء على اطلاع متواصل و الحصول على المعلومة بشكل سريع لحظة وقوعها. و بالتالي فإنه لا يصح استعمال كلتا الشبكتين بنفس الطريقة.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/12/twitter-facebook.jpg)
-](http://socialmedia4arab.com/2010/12/10-differences-facebook-twitter)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/12/twitter-facebook.jpg)
+](https://socialmedia4arab.com/2010/12/10-differences-facebook-twitter)
 
 في هذا المقال سنحاول التركيز على 10 اختلافات أساسية فيما يتعلق بالنشر على Facebook و ،Twitter الإلمام بها يجعل استعمالك لهما أكثر فاعلية
 

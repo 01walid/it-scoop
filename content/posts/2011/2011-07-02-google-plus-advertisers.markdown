@@ -19,8 +19,8 @@ tags:
 
 لم تمض سوى بضعة أيام [على إطلاق Google لطبقتها الاجتماعية Google+](https://www.it-scoop.com/2011/06/google-plus/) ،إلا أن عدد المقالات التي تتحدث عنها في تزايد مستمر، كما عرف العديد من مبحري الإنترنت حالات نفسية تتراوح ما بين القلق و الاحباط لعدم حصولهم على دعوات لتجربة الخدمة الجديدة. لكن لماذا كل هذا الاهتمام المتزايد ؟ بكل بساطة لأن Google قد أعدت العدة و سخرت إمكانيات كبيرة لإنشاء منصة اجتماعية ذات أبعاد مختلفة.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2011/07/GooglePlus.png)
-](http://socialmedia4arab.com/2011/07/google-plus-advertisers/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2011/07/GooglePlus.png)
+](https://socialmedia4arab.com/2011/07/google-plus-advertisers/)
 
 بعد تجربة الخدمة لبعض الوقت، فإنه يمكن الجزم بأن Google+ ليس شبكة اجتماعية عادية و إنما تجمع أجود ما توفره باقي الشبكات الاجتماعية، و لنذكر على سبيل المثال:
 

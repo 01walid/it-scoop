@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2012/02/Facebook-Open-Graph.png)
-](http://socialmedia4arab.com/wp-content/uploads/2012/02/Facebook-Open-Graph.png)<!-- more -->
+[![](https://socialmedia4arab.com/wp-content/uploads/2012/02/Facebook-Open-Graph.png)
+](https://socialmedia4arab.com/wp-content/uploads/2012/02/Facebook-Open-Graph.png)<!-- more -->
 
 
 
@@ -57,9 +57,9 @@ tags:
 
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2012/02/Timeline_Apps.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2012/02/Timeline_Apps.jpg)ليس الأمر كما يبدو عليه، فهدف كل هذه العملية ليس توفير محتوى أغنى للمُستخدمين، ولكنها تهدف إلى جعلهم أسهل للاستهداف عبر الإعلانات المُستهدفة ([ما مدى تأثير تغييرات Facebook الجديدة على المستخدمين، المعلنين ومنتجي المحتوى ؟)](../2011/09/facebook-f8/). بطبيعة الأمر ستكون دقة هذا الاستهداف مرتبطة بقدرة المطورين ومنتجي المحتوى (الشركات والعلامات التجارية بصفة عامة) على خلق تفاعلات ذات قيمة مُضافة مع مستخدمي الشبكة، على شاكلة تطبيق [TicketMaster](techcrunch.com/2012/01/18/ticketmaster-recommended-listening/) الذي يقترح على مُستخدميه تذاكرَ للحفلات الموسيقية اعتمادًا على الأغاني التي يستمعون إليها عبر Spotify (والذي يقوم بإنتاج تحديثات كلما استمع المستخدمون إلى أغاني جديدة)[![](http://socialmedia4arab.com/wp-content/uploads/2012/02/ticketmaster-recommendations-based-on-listening1.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2012/02/ticketmaster-recommendations-based-on-listening1.jpg).مثلما تم الإعلان عنه منذ أشهر عديدة، فإن Open Graph الجديد يُعتبر "منجم ذهب" للشركات، لكنه للأسف لا يزال يُعاني من عدة مشاكل ترتب "بحداثة سنه":
+[![](https://socialmedia4arab.com/wp-content/uploads/2012/02/Timeline_Apps.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2012/02/Timeline_Apps.jpg)ليس الأمر كما يبدو عليه، فهدف كل هذه العملية ليس توفير محتوى أغنى للمُستخدمين، ولكنها تهدف إلى جعلهم أسهل للاستهداف عبر الإعلانات المُستهدفة ([ما مدى تأثير تغييرات Facebook الجديدة على المستخدمين، المعلنين ومنتجي المحتوى ؟)](../2011/09/facebook-f8/). بطبيعة الأمر ستكون دقة هذا الاستهداف مرتبطة بقدرة المطورين ومنتجي المحتوى (الشركات والعلامات التجارية بصفة عامة) على خلق تفاعلات ذات قيمة مُضافة مع مستخدمي الشبكة، على شاكلة تطبيق [TicketMaster](techcrunch.com/2012/01/18/ticketmaster-recommended-listening/) الذي يقترح على مُستخدميه تذاكرَ للحفلات الموسيقية اعتمادًا على الأغاني التي يستمعون إليها عبر Spotify (والذي يقوم بإنتاج تحديثات كلما استمع المستخدمون إلى أغاني جديدة)[![](https://socialmedia4arab.com/wp-content/uploads/2012/02/ticketmaster-recommendations-based-on-listening1.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2012/02/ticketmaster-recommendations-based-on-listening1.jpg).مثلما تم الإعلان عنه منذ أشهر عديدة، فإن Open Graph الجديد يُعتبر "منجم ذهب" للشركات، لكنه للأسف لا يزال يُعاني من عدة مشاكل ترتب "بحداثة سنه":
 
 
 

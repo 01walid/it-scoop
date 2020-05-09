@@ -30,9 +30,9 @@ Twitter لا تعتبر الحساب "فعالا" إلا إذا تابع على 
 
 و للمزيد حول الإحصائيات التي تنشر حول الشبكات الاجتماعية، و عن الحسابات غير الفعالة على Twitter أنصحكم بقراءة المقالين التاليين:
 
-[هل يمكن أن نصدق كل الإحصائيات المنشورة حول الشبكات الاجتماعية ؟](http://socialmedia4arab.com/2011/03/social-media-statistics/)
+[هل يمكن أن نصدق كل الإحصائيات المنشورة حول الشبكات الاجتماعية ؟](https://socialmedia4arab.com/2011/03/social-media-statistics/)
 
-[الأسباب الثلاثة التي من أجلها لن تحذف Twitter الحسابات غير الفعالة](http://socialmedia4arab.com/2010/08/twitter-inactive-account/)
+[الأسباب الثلاثة التي من أجلها لن تحذف Twitter الحسابات غير الفعالة](https://socialmedia4arab.com/2010/08/twitter-inactive-account/)
 
 
 

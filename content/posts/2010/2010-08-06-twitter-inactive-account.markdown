@@ -13,8 +13,8 @@ tags:
 - تويتر
 ---
 
-أول خطوة يقوم بها الوافد الجديد إلى Twitter هو اختيار اسم مستخدم Username. كلما زاد عدد مستخدمي خدمة التغريد[![](http://socialmedia4arab.com/wp-content/uploads/2010/08/twitter.jpg)
-](http://socialmedia4arab.com/2010/08/twitter-inactive-account/)المصغر كلما أصبح من الصعب إيجاد أسماء متاحة. غالبا ما يكون الاسم الذي يود الوافد الجديد استعماله محجوزا ، و غالبا ما يكون الحساب الذي يستعمل هذا الاسم غير فعال، إن لم نقل مهملا، إذ أنه لا يحتوي سوى تغريدات قليلة على شاكلة "Hello Twitter".
+أول خطوة يقوم بها الوافد الجديد إلى Twitter هو اختيار اسم مستخدم Username. كلما زاد عدد مستخدمي خدمة التغريد[![](https://socialmedia4arab.com/wp-content/uploads/2010/08/twitter.jpg)
+](https://socialmedia4arab.com/2010/08/twitter-inactive-account/)المصغر كلما أصبح من الصعب إيجاد أسماء متاحة. غالبا ما يكون الاسم الذي يود الوافد الجديد استعماله محجوزا ، و غالبا ما يكون الحساب الذي يستعمل هذا الاسم غير فعال، إن لم نقل مهملا، إذ أنه لا يحتوي سوى تغريدات قليلة على شاكلة "Hello Twitter".
 
 على صفحة المساعدة التي يمكن الوصول إليها [هنا](http://support.twitter.com/entries/14608-i-m-having-trouble-with-my-username)، تشير Twitter أن العمل جار على آلية لتوفير الأسماء المحجوزة للحسابات غير الفعالة لأكثر من 9 أشهر، لكنها لم تحدد موعدا لشروع في عمليات التحرير هذه.
 
@@ -26,8 +26,8 @@ tags:
 # 1.       أغلب حسابات Twitter غير فعالة
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/08/Twitter_inactive.jpg)
-](http://socialmedia4arab.com/2010/08/twitter-inactive-account/)حسب آخر الإحصائيات، فإن عدد أعضاء Twitter قد وصل إلى 105 مليون نهاية شهر أبريل الماضي. لكن هذا العدد يخفي وراءه الكثير من المعطيات.، فحسب [دراسة](http://blogs.hbr.org/cs/2009/06/new_twitter_research_men_follo.html) أجرتها  Harvard Business Reviewعلى 300 ألف حساب ، استخلصت النتائج التالية:
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/08/Twitter_inactive.jpg)
+](https://socialmedia4arab.com/2010/08/twitter-inactive-account/)حسب آخر الإحصائيات، فإن عدد أعضاء Twitter قد وصل إلى 105 مليون نهاية شهر أبريل الماضي. لكن هذا العدد يخفي وراءه الكثير من المعطيات.، فحسب [دراسة](http://blogs.hbr.org/cs/2009/06/new_twitter_research_men_follo.html) أجرتها  Harvard Business Reviewعلى 300 ألف حساب ، استخلصت النتائج التالية:
 
 
 
@@ -46,8 +46,8 @@ tags:
 
 
 
-	  * 1 إلى 5 مليون دولار لدى الانطلاقة[![](http://socialmedia4arab.com/wp-content/uploads/2010/08/twitter-money.png)
-](http://socialmedia4arab.com/2010/08/twitter-inactive-account/)
+	  * 1 إلى 5 مليون دولار لدى الانطلاقة[![](https://socialmedia4arab.com/wp-content/uploads/2010/08/twitter-money.png)
+](https://socialmedia4arab.com/2010/08/twitter-inactive-account/)
 	  * 22 مليون دولار سنة 2008
 	  * 35 مليون دولار سنة 2009
 
@@ -61,8 +61,8 @@ tags:
 
 يتمتع المشاهير على شبكة Twitter  بأرقام هائلة من المتتبعين، حيث أنه تشهد هذه الحسابات زيادات يومية معتبرة في أعداد متتبعيها، و بطبيعة الحال، فإن 75% من المتتبعين الجدد لا يضيفون أكثر من 4 تغريدات قبل أن يولوا ظهورهم للموقع.
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/08/celebtwtiter-300x225.jpg)
-](http://socialmedia4arab.com/2010/08/twitter-inactive-account/)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/08/celebtwtiter-300x225.jpg)
+](https://socialmedia4arab.com/2010/08/twitter-inactive-account/)
 
 و بما أن Twitter تتفاخر بالمشاهير المسجلين في خدمتها و الذين بدورهم يتفاخرون بالأعداد الكبير  لمتتبعيهم، فإن مجرد التفكير في تحرير هذا الكم الكبير من الحسابات غير الفعالة، ستكون له عواقب وخيمة على حسابات المشاهير، و بالتالي على حملة "تفاخر" Twitter.
 

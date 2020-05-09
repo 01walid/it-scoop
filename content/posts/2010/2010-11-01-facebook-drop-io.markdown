@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://drop.io/images/homepageLogo3.gif)
+[![](https://drop.io/images/homepageLogo3.gif)
 ](https://www.it-scoop.com/2010/11/facebook-drop-io/)
 
 

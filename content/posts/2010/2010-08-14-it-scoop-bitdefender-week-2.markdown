@@ -27,7 +27,7 @@ tags:
 و أغتنم الفرصة لأعلن عن اسم الفائز في السحب الذي تم ليلة أمس ، حيث فاز بجائزة الأسبوع الأول الأخ **عبد الوهاب بن علي** من الجزائر  صاحب التعليق رقم 9 عل صفحة المجلة على الـ Facebook. و لقد تم إرسال المفتاح إليه ليلة أمس.
 
 
-[![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
+[![](https://www.it-scoop.com/rsc/bitDefender_250_250.jpg )
 ](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/)
 
 

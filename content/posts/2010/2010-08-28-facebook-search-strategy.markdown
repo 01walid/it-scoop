@@ -20,7 +20,7 @@ tags:
 السؤال الذي يطرح نفسه هو: هل تستطيع Facebook إطلاق محرك البحث الخاص بها؟
 
 
-![](http://socialmedia4arab.com/wp-content/uploads/2010/08/facebook-search-engine.jpg)
+![](https://socialmedia4arab.com/wp-content/uploads/2010/08/facebook-search-engine.jpg)
 
 
 
@@ -44,14 +44,14 @@ tags:
 
 و إن كانت Twitter قد نشرت إحصائيات مضخمة بخصوص عمليات البحث على شبكتها الاجتماعية، فإن Facebook تعتمد إستراتيجية بعيدة المدى بفضل زرها Like.
 
-[](http://socialmedia4arab.com/wp-content/uploads/2010/08/facebook-search-engine.jpg)
+[](https://socialmedia4arab.com/wp-content/uploads/2010/08/facebook-search-engine.jpg)
 
 
 # زر Like كأداة لأرشفة الويب
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/08/facebook_like_button_stamp.jpg)
-](http://socialmedia4arab.com/wp-content/uploads/2010/08/facebook_like_button_stamp.jpg)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/08/facebook_like_button_stamp.jpg)
+](https://socialmedia4arab.com/wp-content/uploads/2010/08/facebook_like_button_stamp.jpg)
 
 بفضل الـ 300 ألف موقع الذي تستعمل زر Like الخاص بـ Facebook و التي يتم استظهاره 3 مليارات مرة يوميا ، فإنFacebook أصبحت قادرة على تقديم نتائج بحث تعتمد على توصيات أعضائها و هذا بالاعتماد على عدد نقرات هذاالزر.
 

@@ -36,8 +36,8 @@ tags:
 قد تكون أحد  أهم الوسائل التي تساعد المواقع عموما و المدونات خصوصا على الانتشار  –خاصة في الآونة الأخيرة- هو ربطها بالشبكات الاجتماعية، و قد تكون من أهم  عوامل الانتشار السريع لها هو توفير و تسهيل آلية نشرها عبر الشبكات  الاجتماعية خاصة الـ Facebook و Twitter.
 
 
-[![](http://socialmedia4arab.com/wp-content/uploads/2010/10/blue-pearl-social-media-icons.jpg)
-](http://socialmedia4arab.com/2010/10/25-wordpress-plugins-widgets-social-media)
+[![](https://socialmedia4arab.com/wp-content/uploads/2010/10/blue-pearl-social-media-icons.jpg)
+](https://socialmedia4arab.com/2010/10/25-wordpress-plugins-widgets-social-media)
 
 
 من خلال هذا المقال سنحاول استعراض أهم 25 إضافة Plugins لمدونات Wordpress لجعلها أكثر اجتماعية. ستجد خلال قراءتك لهذا الموضوع بعض الإضافات التي تقدم نفس الخدمة، لكن وجب ذكرها و ترك الخيار لك

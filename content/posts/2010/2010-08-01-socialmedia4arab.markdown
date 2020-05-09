@@ -35,7 +35,7 @@ tags:
 
 لمتابعة مدونة الإعلام الاجتماعي:
 
-عنوان المدونة: [http://socialmedia4arab.com/](http://socialmedia4arab.com/)
+عنوان المدونة: [https://socialmedia4arab.com/](https://socialmedia4arab.com/)
 
 [رابط خلاصات المواضيع](http://feeds.feedburner.com/socialmedia4arab)
 

@@ -24,7 +24,7 @@ tags:
 
 سيكون من الممكن معرفة الـ Promoted Tweets بسهولة إذ أنها ستذيل كلها بهذه العبارة.
 
-[![](http://2.bp.blogspot.com/_XayS5AUf9_U/S8SdPNDrAJI/AAAAAAAAAEc/QgA3hJpPTXc/s1600/promoted-tweet.jpg)
+[![](https://2.bp.blogspot.com/_XayS5AUf9_U/S8SdPNDrAJI/AAAAAAAAAEc/QgA3hJpPTXc/s1600/promoted-tweet.jpg)
 ](https://www.it-scoop.com/2010/04/twitter-launches-promoted-tweets/)
 
 يمكن قراءة المزيد عن هذه الخدمة الجديدة من على مدونتة Twitter الرسمية من [هنا](http://blog.twitter.com/2010/04/hello-world.html)

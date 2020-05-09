@@ -79,7 +79,7 @@ tags:
 
 
 
-يمكن الاطلاع على كافة ما يقدمه هذا الإصدار من [هنا](http://openjdk.java.net/projects/jdk7/features/)، و لمن لا يطيق صبرا حتى موعد الإصدار النهائي من Java 7 ما عليه سوى تحميل الإصدار RC من [هنا](http://jdk7.java.net/download.html)
+يمكن الاطلاع على كافة ما يقدمه هذا الإصدار من [هنا](https://openjdk.java.net/projects/jdk7/features/)، و لمن لا يطيق صبرا حتى موعد الإصدار النهائي من Java 7 ما عليه سوى تحميل الإصدار RC من [هنا](http://jdk7.java.net/download.html)
 
 
 

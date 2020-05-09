@@ -39,7 +39,7 @@ tags:
 و أغتنم الفرصة لأعلن عن اسم الفائز في السحب الذي تم ليلة أمس ، حيث فاز بجائزة الأسبوع الرابع “موسى المحسن” من السعودية (تم الاتصال به و لم يرد بعد )
 
 
-[![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
+[![](https://www.it-scoop.com/rsc/bitDefender_250_250.jpg )
 ](https://www.it-scoop.com/2010/09/it-scoop-bitdefender-week-5/)
 
 

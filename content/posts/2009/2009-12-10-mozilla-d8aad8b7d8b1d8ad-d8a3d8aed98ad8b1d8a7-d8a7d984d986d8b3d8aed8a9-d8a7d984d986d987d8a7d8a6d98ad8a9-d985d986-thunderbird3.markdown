@@ -19,7 +19,7 @@ tags:
 
 أطلقت Mozilla أمس النسخة النهائية من برنامجها للبريد الالكتروني الشهير Thunderbird3.
 
-![](http://djug.developpez.com/rsc/thunderbird-logo-64x64.png)
+![](https://djug.developpez.com/rsc/thunderbird-logo-64x64.png)
 
 
 تأتي هذه النسخة النهائية بعد نسختين RC خلال الأسابيع الماضية

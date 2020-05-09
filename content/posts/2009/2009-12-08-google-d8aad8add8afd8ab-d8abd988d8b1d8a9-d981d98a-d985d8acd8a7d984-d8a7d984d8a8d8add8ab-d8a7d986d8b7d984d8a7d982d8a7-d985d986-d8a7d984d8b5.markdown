@@ -23,7 +23,7 @@ tags:
 مرة أخرى تطلق Google برنامجا آخر بسيطا لكنه ذو إمكانيات رائعة. هذه المرة البرنامج هو Google Goggles  الذي يسمح بعمل بحث على الانترنت انطلاقا من صورة بدل الكلمات المفتاحية.
 
 
-![](http://djug.developpez.com/rsc/Google-Goggles.jpg)
+![](https://djug.developpez.com/rsc/Google-Goggles.jpg)
 
 
 
