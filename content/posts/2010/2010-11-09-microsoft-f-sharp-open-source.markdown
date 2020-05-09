@@ -6,18 +6,17 @@ title: Microsoft تفتح مصدر لغة F# 2.0
 type: post
 url: /2010/11/microsoft-f-sharp-open-source/
 categories:
-- Microsoft
-- Open source
-- برمجيات
+  - Microsoft
+  - Open source
+  - برمجيات
 tags:
-- .net
-- Dotnet
-- F#
-- Microsoft
+  - .net
+  - Dotnet
+  - F-sharp
+  - Microsoft
 ---
 
 **[Microsoft تفتح مصدر لغة F# 2.0](http://www.it-scoop.com/2010/11/microsoft-f-sharp-open-source/)**
-
 
 في حين [تعزز Oracle](http://www.it-scoop.com/2010/11/oracle-premium-java-virtual-machine/) من حظوظها للترشح لمنصب عدو المصادر المفتوحة رقم واحد، سهلت Microsoft اليوم لها المهمة بفتح مصدر لغة البرمجة #F التابعة لها، وذلك يشمل المصرف Compiler و المكتبات libraries  الأساسية.
 
@@ -28,7 +27,7 @@ tags:
 
 اللغة وما تشمله من أدوات  تم إطلاقها مفتوحة حسب ما تنص عليه رخصة Apache 2.0 ، والكل يمكن النفاذ إليه وتحميله ضمن باقة [ F# PowerPack](http://fsharppowerpack.codeplex.com/) المسكنة في موقع CodePlex . وتحوي هذه النسخة المفتوحة على بعض الأدوات المكملة ومكتبات لا تتوفر في الإصدارة الرسمية.
 
-يجدر الإشارة أنه ليس هذه أو مرة تفتح فيها Microsoft مصرفات Compliers، فقد سبق وأن فعلت ذلك مع IronPython و  IronRuby وهي نسخ Python و Ruby مكرسة لمنصة .NET
+يجدر الإشارة أنه ليس هذه أو مرة تفتح فيها Microsoft مصرفات Compliers، فقد سبق وأن فعلت ذلك مع IronPython و IronRuby وهي نسخ Python و Ruby مكرسة لمنصة .NET
 
 يمكن الإطلاع على إعلان فتح مصدر اللغة على لسان Dom Syme مطور اللغة [من على مدونته](http://blogs.msdn.com/b/dsyme/archive/2010/11/04/announcing-the-f-compiler-library-source-code-drop.aspx).
 
