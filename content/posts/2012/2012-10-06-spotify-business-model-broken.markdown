@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/Daniel-EK-spotify.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/Daniel-EK-spotify.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/Daniel-EK-spotify.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/Daniel-EK-spotify.jpg)
 
 
 
@@ -40,8 +40,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/privco-spotify.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/privco-spotify.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/privco-spotify.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/privco-spotify.png)
 
 
 

@@ -11,7 +11,7 @@ tags:
 - Maingear
 ---
 
-[**Maingear F1X حاسوب بإمكانيات تسعد محترفي الألعاب الإلكترونية**](http://www.it-scoop.com/2010/01/maingear-f1x-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8-%d8%a8%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b3%d8%b9%d8%af-%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7/)
+[**Maingear F1X حاسوب بإمكانيات تسعد محترفي الألعاب الإلكترونية**](https://www.it-scoop.com/2010/01/maingear-f1x-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8-%d8%a8%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b3%d8%b9%d8%af-%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7/)
 
 
 
@@ -22,7 +22,7 @@ tags:
 
 
 [![g](http://www.digitaltrends.com/wp-content/uploads/2010/01/f1x-opencase1.jpg)
-](http://www.it-scoop.com/2010/01/maingear-f1x-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8-%d8%a8%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b3%d8%b9%d8%af-%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7/)
+](https://www.it-scoop.com/2010/01/maingear-f1x-%d8%ad%d8%a7%d8%b3%d9%88%d8%a8-%d8%a8%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b3%d8%b9%d8%af-%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7/)
 يأتي الجهاز بالمواصفات التالية:
 معالج  Intel Core i5 or I7
 نظام التبريد بالسوائل

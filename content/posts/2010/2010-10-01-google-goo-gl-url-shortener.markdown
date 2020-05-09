@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[Google تتيح خدمة تقصير الروابط goo.gl للجميع](http://www.it-scoop.com/2010/10/google-goo-gl-url-shortener/)**
+**[Google تتيح خدمة تقصير الروابط goo.gl للجميع](https://www.it-scoop.com/2010/10/google-goo-gl-url-shortener/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/goo.gl_.jpg)
-](http://www.it-scoop.com/2010/10/google-goo-gl-url-shortener/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/goo.gl_.jpg)
+](https://www.it-scoop.com/2010/10/google-goo-gl-url-shortener/)
 
 
 سيقول قائل :خدمة تقصير مواقع أخرى ؟ و ماذا بعد؟ نعم هي بالفعل خدمة تقصير روابط أخرى، لكنها تمتاز بخواص إضافية كالتأكد من الروابط قبل النقر عليها و تعتمد Google على خدمة فلترة البريد الالكتروني التي تستخدمها على Gmail و التي أثبتت كفاءتها. كما أن الأمر الذي قد يدفع بالكثيرين إلى التخلي عن خدماتهم السابقة للتقصير و الانتقال إلى [Goo.gl](http://goo.gl/) هو الإحصائيات الدقيقة التي تقدمها Google.

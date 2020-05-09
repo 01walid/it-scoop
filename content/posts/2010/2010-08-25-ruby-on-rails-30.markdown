@@ -12,7 +12,7 @@ tags:
 - Ruby on Rails
 ---
 
-**[الإصدار 3.0 من Ruby On Rails سيبصر النور خلال هذا الأسبوع]( http://www.it-scoop.com/2010/08/ruby-on-rails-30/)**
+**[الإصدار 3.0 من Ruby On Rails سيبصر النور خلال هذا الأسبوع]( https://www.it-scoop.com/2010/08/ruby-on-rails-30/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/rails-logo.png)
-](http://www.it-scoop.com/2010/08/ruby-on-rails-30/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/rails-logo.png)
+](https://www.it-scoop.com/2010/08/ruby-on-rails-30/)
 
 
 يأتي الإعلان مصاحبا للـ  RC2 لنفس الإصدار و التي وصفها Hansson بأنها تكاد لا تضيف شيئا جديدا على الـ RC1 عدا بعض الترقيعات الطفيفة هنا و هناك، مما يعطي صورة أوضح عن ثبات هذا الإصدار.

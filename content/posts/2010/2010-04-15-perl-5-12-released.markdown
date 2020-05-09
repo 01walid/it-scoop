@@ -12,15 +12,15 @@ tags:
 - Perl
 ---
 
-[**إطلاق الإصدار 5.12 لـ Perl ، بعد 16 سنة من ظهور الإصدار 5.0**](http://www.it-scoop.com/2010/04/perl-5-12-released/)
+[**إطلاق الإصدار 5.12 لـ Perl ، بعد 16 سنة من ظهور الإصدار 5.0**](https://www.it-scoop.com/2010/04/perl-5-12-released/)
 
 
 
 
 تم إطلاق الإصدار 5.12 من لغة Perl مفتوحة المصدر ،و التي تأتي 16 سنة بعد الإصدار 5.0 التي أبصرت النور في سنة 1994.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Perl-logo.jpg)
-](http://www.it-scoop.com/2010/04/perl-5-12-released/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Perl-logo.jpg)
+](https://www.it-scoop.com/2010/04/perl-5-12-released/)
 
 يأتي هذا الإصدار بالعديد من التصليحات على غرار علة  سنة 2038  المشابهة لعلة سنة  2000.
 

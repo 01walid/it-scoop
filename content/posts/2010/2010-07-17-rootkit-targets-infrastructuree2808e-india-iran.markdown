@@ -12,7 +12,7 @@ tags:
 - rootkit
 ---
 
-**[برمجية خبيثة تستهدف البنية التحتية لأنظمة الشبكات الإيرانية و الهندية](http://www.it-scoop.com/2010/07/rootkit-targets-infrastructure‎-india-iran)**
+**[برمجية خبيثة تستهدف البنية التحتية لأنظمة الشبكات الإيرانية و الهندية](https://www.it-scoop.com/2010/07/rootkit-targets-infrastructure‎-india-iran)**
 
 
 
@@ -20,8 +20,8 @@ tags:
 تداولت عدة مواقع خبرا يتعلق بانتشار برمجية خبيثة استهدفت إلى الآن دولتي إيران و الهند و يشتبه في إصابتها للشبكات الأندونيسية أيضا.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/virus-india-iran.jpg)
-](http://www.it-scoop.com/2010/07/rootkit-targets-infrastructure‎-india-iran)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/virus-india-iran.jpg)
+](https://www.it-scoop.com/2010/07/rootkit-targets-infrastructure‎-india-iran)
 
 فيما لم يتطرق المصدر لاحتمال انتشاره في دول أخرى ،أو أنه موجه فقط لاستهداف الدولتين المذكورتين دون غيرهما مع الإشارة إلى أن إصابة شبكات أخرى في دول أخرى أمر وارد جدا لأن البرمجية المعنية تنتشر بالطرق التقليدية و بالطرق الجديدة .
 

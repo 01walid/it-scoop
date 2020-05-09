@@ -15,7 +15,7 @@ tags:
 - vulnerability
 ---
 
-**[Oracle تصدر ترقيعات لـ 59 ثغرة في منتجاتها](http://www.it-scoop.com/2010/07/Oracle-Critical-Patch-Update-Released)**
+**[Oracle تصدر ترقيعات لـ 59 ثغرة في منتجاتها](https://www.it-scoop.com/2010/07/Oracle-Critical-Patch-Update-Released)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/Oracle-logo.png)
-](http://www.it-scoop.com/2010/07/Oracle-Critical-Patch-Update-Released)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Oracle-logo.png)
+](https://www.it-scoop.com/2010/07/Oracle-Critical-Patch-Update-Released)
 
 
 تشمل هذه الحزمة على تصحيحات لـ 59 ثغرة، بينما شملت الحزمة السابقة على تصحيحات لـ 47 مشكلة أمنية وكانت تلك أول حزمة تقوم فيها بطرح تصحيحات أمنية لبرمجيات المالك السابق Sun بما في ذلك نظام تشغيل Solaris.

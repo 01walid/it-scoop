@@ -22,8 +22,8 @@ tags:
 
 
 
-[![ترتيب جوجل زايت جايست لأكثر المواضيع شعبية خلال 2011](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Zeitgeist-2011.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Zeitgeist-2011.png)
+[![ترتيب جوجل زايت جايست لأكثر المواضيع شعبية خلال 2011](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Zeitgeist-2011.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Zeitgeist-2011.png)
 
 
 

@@ -12,13 +12,13 @@ tags:
 - delphi4arab
 ---
 
-[**صدور العدد الخامس من مجلة منتدى دلفي للعرب**](http://www.it-scoop.com/2011/06/delphi4arab-magazine-5/)
+[**صدور العدد الخامس من مجلة منتدى دلفي للعرب**](https://www.it-scoop.com/2011/06/delphi4arab-magazine-5/)
 
 
 بعد غياب طويل تعود مجلة منتدى دلفي للعرب للصدور من جديد و هذه المرة مع عدد خامس يحتوي على العديد من المواضيع المفيدة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/delphi4arab_magazine_051.jpg)
-](http://www.it-scoop.com/2011/06/delphi4arab-magazine-5/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/delphi4arab_magazine_051.jpg)
+](https://www.it-scoop.com/2011/06/delphi4arab-magazine-5/)
 
 و إليكم فهرس هذا العدد:
 

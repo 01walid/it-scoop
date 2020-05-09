@@ -13,13 +13,13 @@ tags:
 - Twitter
 ---
 
-[**Twitter تشتري تطبيق Tweetie  و تجعله مجانيا على الـ AppStore**](http://www.it-scoop.com/2010/04/twitter-acquires-tweetie/)
+[**Twitter تشتري تطبيق Tweetie  و تجعله مجانيا على الـ AppStore**](https://www.it-scoop.com/2010/04/twitter-acquires-tweetie/)
 
 
 أعلنت Twitter على مدونتها الرسمية شراءها لتطبيق Tweetie  المستعمل على كل من الـ iPhone، iPod Touch و الـ Mac، وإتاحته مجانا على الـ AppStore بعد تغيير اسمه إلى Twitter  for iPhone‎ .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Tweetie.png)
-](http://www.it-scoop.com/2010/04/twitter-acquires-tweetie/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Tweetie.png)
+](https://www.it-scoop.com/2010/04/twitter-acquires-tweetie/)
 
 تفسر Twitter عملية الشراء هذه بالحيرة التي يقع فيها مستعملو Twitter لدى بحثهم على تطبيقات لهواتفهم تخص Twitter  و ذلك لعدم توفر تطبيق رسمي له. و بما أن برنامج  Tweetie ذو كفاءة و شهرة عالية، فمن الأفضل لها شراؤه و مواصلة العمل عليه بدل إعادة اختراع العجلة من جديد.
 

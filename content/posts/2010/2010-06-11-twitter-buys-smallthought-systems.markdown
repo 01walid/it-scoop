@@ -16,13 +16,13 @@ tags:
 - Web analytics
 ---
 
-**[Twitter تعلن شراءها لـ Smallthought Systems المتخصصة في الـ Web analytics و المنتجة لـ Trendly](http://www.it-scoop.com/2010/06/twitter-buys-Smallthought-Systems)**
+**[Twitter تعلن شراءها لـ Smallthought Systems المتخصصة في الـ Web analytics و المنتجة لـ Trendly](https://www.it-scoop.com/2010/06/twitter-buys-Smallthought-Systems)**
 
 
 تواصل Twitter حملة شرائها لشركات ناشئة لتقوية  خدماتها، فبعد كل من تطبيق الـ iPhone المسمى سابقا Tweetie و شركة Cloudhopper المتخصصة في ربط مستخدمي Twitter عبر الـ SMS، هاهي تعلن يوم أمس عن شرائها لشركةmallthought Systems.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/trendly-logo.png)
-](http://www.it-scoop.com/2010/06/twitter-buys-Smallthought-Systems)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/trendly-logo.png)
+](https://www.it-scoop.com/2010/06/twitter-buys-Smallthought-Systems)
 
 تشتهر شركة  Smallthought Systems بفضل خدمتها Trendly الخاصة بالـ Web analytics، حيث سيسمح لـ Twitter دمج خدمة Trendly مع خدماتها الحالية الوقوف على إحصائيات دقيقة جدا لمستخدمي شبكتها الاجتماعية، كما ستمكنها من توفير وسائل إضافية للشركات تسمح لها بدراسة مدى نجاعة حملاتها الإعلانية على شبكة التدوين المصغر، إضافة إلى فعالية حضورها على الشبكة.
 

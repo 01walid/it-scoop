@@ -15,13 +15,13 @@ tags:
 - Zuckerberg
 ---
 
-**[هل سيغلق الـ Facebook أبوابه في الـ 15 مارس القادم ؟ :D](http://www.it-scoop.com/2011/01/facebook-shut-down-march-15th)**
+**[هل سيغلق الـ Facebook أبوابه في الـ 15 مارس القادم ؟ :D](https://www.it-scoop.com/2011/01/facebook-shut-down-march-15th)**
 
 
 نشر صحيفة [Weekly World News ](http://en.wikipedia.org/wiki/Weekly_World_News) المعروفة بأخبارها الخيالية (و التي ترفقها عادة بصور معدلة لتدعيمها)، [خبرا](http://weeklyworldnews.com/headlines/27321/facebook-will-end-on-march-15th/) مفاده أن شبكة Facebook ستغلق أبوابها في الـ 15 مارس القادم بسبب "خروج الموقع عن السيطرة" مثلما  "أدلى" به Zuckerberg للجريدة في مقابلتها الحصرية الخيالية.
 
 [![](http://weeklyworldnews.files.wordpress.com/2011/01/facebook.jpg?w=375&h=200 )
-](http://www.it-scoop.com/2011/01/facebook-shut-down-march-15th)
+](https://www.it-scoop.com/2011/01/facebook-shut-down-march-15th)
 
 و "يشير" Zuckerberg  -حسب هذا الخبر- إلى أن هذه الخطوة من شأنها أن تدفع بالناس إلى الخروج و تكوين صداقات حقيقية بدل الصداقات الافتراضية التي يقوم على أساسها Facebook.
 

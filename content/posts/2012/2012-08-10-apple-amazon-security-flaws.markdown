@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/hacker.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/hacker.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/hacker.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/hacker.jpg)
 
 
 

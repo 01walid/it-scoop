@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/11/arabnet-Riyadh-1024x682.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/11/arabnet-Riyadh.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/11/arabnet-Riyadh-1024x682.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/11/arabnet-Riyadh.jpg)
 
 
 

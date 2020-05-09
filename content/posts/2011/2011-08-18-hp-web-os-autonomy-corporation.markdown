@@ -16,18 +16,18 @@ tags:
 - Web OS
 ---
 
-[**HP: ما بين التخلي عن الأجهزة المكتبية، التخلص من نظام WebOS ومنتجاته وشراء شركة Autonomy Corporation**](http://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)
+[**HP: ما بين التخلي عن الأجهزة المكتبية، التخلص من نظام WebOS ومنتجاته وشراء شركة Autonomy Corporation**](https://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)
 
 
 
 
-ليست [وحدها Google](http://www.it-scoop.com/2011/08/google-motorola-mobility/) التي تستغل "سكون" الصيف لإحداث تغييرات كبيرة، حيث خرجت HP عن صمتها معلنة عن ثلاث خطوات مستقبلية من شأنها تغيير مسار الشركة بشكل كبير.
+ليست [وحدها Google](https://www.it-scoop.com/2011/08/google-motorola-mobility/) التي تستغل "سكون" الصيف لإحداث تغييرات كبيرة، حيث خرجت HP عن صمتها معلنة عن ثلاث خطوات مستقبلية من شأنها تغيير مسار الشركة بشكل كبير.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/HP-Sucks.jpg)
-](http://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/HP-Sucks.jpg)
+](https://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)
 
 
 

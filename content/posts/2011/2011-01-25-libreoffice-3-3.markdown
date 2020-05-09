@@ -15,7 +15,7 @@ tags:
 - OpenOffice.org
 ---
 
-**[إطلاق الإصدار النهائي من 3.3 LibreOffice](http://www.it-scoop.com/2011/01/libreoffice-3-3/)**
+**[إطلاق الإصدار النهائي من 3.3 LibreOffice](https://www.it-scoop.com/2011/01/libreoffice-3-3/)**
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://www.libreoffice.org/themes/libo/images/logo.png)
-](http://www.it-scoop.com/2011/01/libreoffice-3-3/ )
+](https://www.it-scoop.com/2011/01/libreoffice-3-3/ )
 
 
 يأتي هذا الإصدار بكل مستجدات الإصدار 3.3 من OpenOffice (الإصدار التجاري) و يضيف عليها بعض الخصائص مثل دعم نسق الملفات SVG في تطبيق Draw، إمكانية استيراد ملفات Microsoft Works و Lotus Word Pro و تضمين بعض الإضافات كالتي تخص استيراد ملفات PDF.

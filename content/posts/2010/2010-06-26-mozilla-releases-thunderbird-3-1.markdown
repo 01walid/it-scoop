@@ -14,13 +14,13 @@ tags:
 - Thunderbird
 ---
 
-[**Mozilla تطلق الإصدار 3.1  من Thunderbird**](http://www.it-scoop.com/2010/06/Mozilla-releases-Thunderbird-3-1)
+[**Mozilla تطلق الإصدار 3.1  من Thunderbird**](https://www.it-scoop.com/2010/06/Mozilla-releases-Thunderbird-3-1)
 
 
 أطلق قسم Mozilla Messaging الإصدار 3.1  من البرنامج الخاص بالبريد الإلكتروني Thunderbird المنافس لتطبيق Outlook من حزمة Microsoft Office.
 
 [![](http://djug.developpez.com/rsc/thunderbird-logo-64x64.png)
-](http://www.it-scoop.com/2010/06/Mozilla-releases-Thunderbird-3-1)
+](https://www.it-scoop.com/2010/06/Mozilla-releases-Thunderbird-3-1)
 
 الإصدار الجديد يأتي ليصلح بعض العلل الموجودة في الإصدار السابق، كما يأتي ببعض المستجدات و التي قد يكون من أهمها إضافة مدير الملفات المحملة ، تحسين إدارة كلمات السر إلى جانب تحسين آلية إضافة عناوين بريد إلكتروني إضافية.
 

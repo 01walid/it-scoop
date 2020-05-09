@@ -20,13 +20,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/facebook-stay-in-control.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/facebook-stay-in-control.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/facebook-stay-in-control.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/facebook-stay-in-control.png)
 
 
 
 
-وقد تكون عمليات قرصنة ملايين كلمات المرور التي تعرض لها مؤخرا العديد من المواقع كخدمة [LinkedIn](http://www.it-scoop.com/2012/06/linkedin-6-5-million-passwords-leaked/)، eHarmony أو [Last.fm](http://www.it-scoop.com/2012/06/lastfm-password-leak/) هي التي دفعت بفيس بوك إلى اتخاذ مثل هذا الإجراء، رغم أنه لم تكن هناك أية إشارة إلى ذلك. كما أنها [تهدف](http://techcrunch.com/2012/06/14/facebook-security-tips/) إلى تجنب إرسال رسائل بريد إلكتروني لأعضائها الذين قُرصنت حساباتهم نظرا لكون هذه الرسائل عديمة الفائدة في كثيرة من الأحيان، حيث يعتبرها الكثيرون كرسائل سخام مثلما تشير إليه [هذه الدراسة](http://www.insidefacebook.com/2010/10/12/security-one-time-passwords/)، وهو ما يبقي الوضع مثلما كان عليه من دون تغيير.
+وقد تكون عمليات قرصنة ملايين كلمات المرور التي تعرض لها مؤخرا العديد من المواقع كخدمة [LinkedIn](https://www.it-scoop.com/2012/06/linkedin-6-5-million-passwords-leaked/)، eHarmony أو [Last.fm](https://www.it-scoop.com/2012/06/lastfm-password-leak/) هي التي دفعت بفيس بوك إلى اتخاذ مثل هذا الإجراء، رغم أنه لم تكن هناك أية إشارة إلى ذلك. كما أنها [تهدف](http://techcrunch.com/2012/06/14/facebook-security-tips/) إلى تجنب إرسال رسائل بريد إلكتروني لأعضائها الذين قُرصنت حساباتهم نظرا لكون هذه الرسائل عديمة الفائدة في كثيرة من الأحيان، حيث يعتبرها الكثيرون كرسائل سخام مثلما تشير إليه [هذه الدراسة](http://www.insidefacebook.com/2010/10/12/security-one-time-passwords/)، وهو ما يبقي الوضع مثلما كان عليه من دون تغيير.
 
 
 

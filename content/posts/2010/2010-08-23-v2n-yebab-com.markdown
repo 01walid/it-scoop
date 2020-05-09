@@ -13,7 +13,7 @@ tags:
 - Yebab.com
 ---
 
-**[مجموعة شركات N2V  تعلن عن استثمارها في موقع Yebab.com الإماراتي](http://www.it-scoop.com/2010/08/v2n-yebab-com/)**
+**[مجموعة شركات N2V  تعلن عن استثمارها في موقع Yebab.com الإماراتي](https://www.it-scoop.com/2010/08/v2n-yebab-com/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://www.yebab.com/blog/wp-content/uploads/2010/08/N2V-Yebab.JPG)
-](http://www.it-scoop.com/2010/08/v2n-yebab-com/)
+](https://www.it-scoop.com/2010/08/v2n-yebab-com/)
 
 
 و حسب ما ورد في البيان الصحفي الذي نشرته مجموعة N2V فإن هذا الاستثمار يأتي متماشيا مع توجهاتها الآنية و تطلعاتها المستقبلية الرامية إلى توسعة أعمالها  إقليميا و المساهمة في تطوير صناعة الإنترنت في الوطن العربي.

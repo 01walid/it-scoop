@@ -15,13 +15,13 @@ tags:
 - StatCounter
 ---
 
-لو أمعنا النظر في [إحصائيات Statcounter](http://gs.statcounter.com/#browser-ww-daily-20111028-20120130) خلال الفترة الماضية، فإننا لا نلحظ فقط [تجاوز Chrome لمتصفح Firefox](http://www.it-scoop.com/2011/11/chrome-matches-firefox-market-share/) ولكن هناك اتجاه آخر يمكن أن نلحظه على المتصفحات، حيث أن استعمال Internet Explorer يزيد خلال أيام العمل، ويقل خلال عطل نهايات الأسابيع ليفسح المجال أمام Chrome لترتفع نسبة استخدامه أكثر.
+لو أمعنا النظر في [إحصائيات Statcounter](http://gs.statcounter.com/#browser-ww-daily-20111028-20120130) خلال الفترة الماضية، فإننا لا نلحظ فقط [تجاوز Chrome لمتصفح Firefox](https://www.it-scoop.com/2011/11/chrome-matches-firefox-market-share/) ولكن هناك اتجاه آخر يمكن أن نلحظه على المتصفحات، حيث أن استعمال Internet Explorer يزيد خلال أيام العمل، ويقل خلال عطل نهايات الأسابيع ليفسح المجال أمام Chrome لترتفع نسبة استخدامه أكثر.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-ww-daily-20111028-20120130.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-ww-daily-20111028-20120130.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-ww-daily-20111028-20120130.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-ww-daily-20111028-20120130.png)
 
 
 
@@ -31,8 +31,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-eu-daily-20111028-20120130.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-eu-daily-20111028-20120130.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-eu-daily-20111028-20120130.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/StatCounter-browser-eu-daily-20111028-20120130.png)
 
 
 

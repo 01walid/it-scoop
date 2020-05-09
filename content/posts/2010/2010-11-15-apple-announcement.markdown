@@ -12,7 +12,7 @@ tags:
 - iTunes
 ---
 
-**[ما الذي ستكشف عنه Apple يوم غد ؟](http://www.it-scoop.com/2010/11/apple-announcement/)**
+**[ما الذي ستكشف عنه Apple يوم غد ؟](https://www.it-scoop.com/2010/11/apple-announcement/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/Apple-16-1162010.jpg)
-](http://www.it-scoop.com/2010/11/apple-announcement/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Apple-16-1162010.jpg)
+](https://www.it-scoop.com/2010/11/apple-announcement/)
 
 
 

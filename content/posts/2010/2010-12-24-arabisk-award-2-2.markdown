@@ -17,14 +17,14 @@ tags:
 
 
 
-**[مسابقة أرابسيك لم تلغى... و إنما تأخرت قليلا لتحظى بانطلاقة أفضل](http://www.it-scoop.com/2010/12/arabisk-award-2-2/)**
+**[مسابقة أرابسيك لم تلغى... و إنما تأخرت قليلا لتحظى بانطلاقة أفضل](https://www.it-scoop.com/2010/12/arabisk-award-2-2/)**
 
 
-نشرنا سابقا [خبرا](http://www.it-scoop.com/2010/08/arabisk-award-2/) مفاده أنه يتم التحضير للنسخة الثانية من مسابقة أرابيسك لأفضل المدونات الناطقة باللغة العربية و التي كان من المنتظر إطلاقها في الفاتح من أكتوبر الماضي، ثم [أجلت](http://blog.arabisk-award.com/archives/27) إلى بداية ديسمبر، قبل أن [تلغى](http://blog.arabisk-award.com/archives/30) بسبب نقص التمويل.
+نشرنا سابقا [خبرا](https://www.it-scoop.com/2010/08/arabisk-award-2/) مفاده أنه يتم التحضير للنسخة الثانية من مسابقة أرابيسك لأفضل المدونات الناطقة باللغة العربية و التي كان من المنتظر إطلاقها في الفاتح من أكتوبر الماضي، ثم [أجلت](http://blog.arabisk-award.com/archives/27) إلى بداية ديسمبر، قبل أن [تلغى](http://blog.arabisk-award.com/archives/30) بسبب نقص التمويل.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Arabisk-logo.png )
-](http://www.it-scoop.com/2010/12/arabisk-award-2-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Arabisk-logo.png )
+](https://www.it-scoop.com/2010/12/arabisk-award-2-2/)
 
 
 و قبل قليل [أعلن ](http://blog.arabisk-award.com/archives/36) [معمر عامر](http://twitter.com/amtoon) على مدونة المسابقة الرسمية عن شرائه للمسابقة و بعثها من جديد، و يطمئن من خلالها أن المسابقة ستتواصل على نفس النهج السابق لتتويج أفضل المدونات العربية.

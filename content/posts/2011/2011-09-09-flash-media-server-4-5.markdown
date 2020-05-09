@@ -19,7 +19,7 @@ tags:
 - iPhone
 ---
 
-[**Adobe تطلق الإصدار 4.5 من Flash Media Server لتمكين هواتف iPhone من قراءة محتويات Flash**](http://www.it-scoop.com/2011/09/flash-media-server-4-5/)
+[**Adobe تطلق الإصدار 4.5 من Flash Media Server لتمكين هواتف iPhone من قراءة محتويات Flash**](https://www.it-scoop.com/2011/09/flash-media-server-4-5/)
 
 
 
@@ -29,8 +29,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/flash-media-server-4-5.jpg)
-](http://www.it-scoop.com/2011/09/flash-media-server-4-5/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/flash-media-server-4-5.jpg)
+](https://www.it-scoop.com/2011/09/flash-media-server-4-5/)
 
 
 

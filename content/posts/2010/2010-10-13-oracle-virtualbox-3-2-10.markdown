@@ -14,7 +14,7 @@ tags:
 - Virtula machine
 ---
 
-**[Oracle تطلق التحديث 3.2.10 لتطبيقها VirtualBox](http://www.it-scoop.com/2010/10/oracle-virtualbox-3-2-10/)**
+**[Oracle تطلق التحديث 3.2.10 لتطبيقها VirtualBox](https://www.it-scoop.com/2010/10/oracle-virtualbox-3-2-10/)**
 
 
 
@@ -24,13 +24,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/oracle-virtualbox.png)
-](http://www.it-scoop.com/2010/10/oracle-virtualbox-3-2-10/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/oracle-virtualbox.png)
+](https://www.it-scoop.com/2010/10/oracle-virtualbox-3-2-10/)
 
 
 التحديث الجديد يأتي بعدة مستجدات يغلب عليها طابع التحديثات و التحسينات، و التي قد يكون أهمها تحسين أداء الـ Virtual Machines التي تستعمل ذاكرة أكبر من 2 Gb، إلى جانب تحسين الأداء مع نواة Linux 2.6.36
 
-كما  ركزت Oracle في [تدوينتها](http://blogs.oracle.com/virtualization/2010/10/oracle_vm_virtualbox_3210_rele.html) التي تعلن فيها عن هذا الإصدار من VirtualBox عن كونه يدعم أحدث إصدارات توزيعات Linux و خصت بالذكر [Ubuntu 10.10](http://www.it-scoop.com/tag/ubuntu/) و [Fedora 14](http://www.it-scoop.com/tag/fedora/).
+كما  ركزت Oracle في [تدوينتها](http://blogs.oracle.com/virtualization/2010/10/oracle_vm_virtualbox_3210_rele.html) التي تعلن فيها عن هذا الإصدار من VirtualBox عن كونه يدعم أحدث إصدارات توزيعات Linux و خصت بالذكر [Ubuntu 10.10](https://www.it-scoop.com/tag/ubuntu/) و [Fedora 14](https://www.it-scoop.com/tag/fedora/).
 
 VirtualBox 3.2.10 متوفر للتحميل المجاني لأنظمة Windows، Linux ، Mac و Solaris من [هنا](http://www.virtualbox.org/wiki/Downloads).
 

@@ -14,13 +14,13 @@ tags:
 - SmartPhone
 ---
 
-سبق وأن حدثناكم عن إعلان مدير Nokia التنفيذي بأن [شركته ليست للبيع](http://www.it-scoop.com/2011/06/nokia-not-for-sale/)، لكن طفت إلى السطح من جديد أنباء حول احتمال بيع قسم الهواتف الذكية فقط والمشتري سيكون طبعا Microsoft.
+سبق وأن حدثناكم عن إعلان مدير Nokia التنفيذي بأن [شركته ليست للبيع](https://www.it-scoop.com/2011/06/nokia-not-for-sale/)، لكن طفت إلى السطح من جديد أنباء حول احتمال بيع قسم الهواتف الذكية فقط والمشتري سيكون طبعا Microsoft.
 
 
 
 
-[![هل ستشتري Microsoft قسم الهواتف الذكية الخاص بـ Nokia؟](http://www.it-scoop.com/wp-content/uploads/2012/01/Nokia-Microsoft-Apps.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/Nokia-Microsoft-Apps.jpg)
+[![هل ستشتري Microsoft قسم الهواتف الذكية الخاص بـ Nokia؟](https://www.it-scoop.com/wp-content/uploads/2012/01/Nokia-Microsoft-Apps.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/Nokia-Microsoft-Apps.jpg)
 
 
 
@@ -67,12 +67,12 @@ tags:
 
 
 
-لكن لماذا تهتم Microsoft إلى هذا الحد بامتلاك قدرات خاصة بتصنيع الهواتف الذكية؟ قد يكون ذلك راجعا إما لمحاولة مسايرة Google التي [اشترت Motorola Mobility](http://www.it-scoop.com/2011/08/google-motorola-mobility/) وبذلك لن تعود في حاجة إلى "ترجي" أي مصنع لاستخدام نظامه، أو أنه سير على نهج Apple التي تتحكم في جميع مراحل تصنيع وتسويق منجاتها، خاصة وأن Microsoft قد أثبتت جدارتها فيما يخص تصنيع وتسويق الأجهزة خاصة جهازي Xbox و Kinect.
+لكن لماذا تهتم Microsoft إلى هذا الحد بامتلاك قدرات خاصة بتصنيع الهواتف الذكية؟ قد يكون ذلك راجعا إما لمحاولة مسايرة Google التي [اشترت Motorola Mobility](https://www.it-scoop.com/2011/08/google-motorola-mobility/) وبذلك لن تعود في حاجة إلى "ترجي" أي مصنع لاستخدام نظامه، أو أنه سير على نهج Apple التي تتحكم في جميع مراحل تصنيع وتسويق منجاتها، خاصة وأن Microsoft قد أثبتت جدارتها فيما يخص تصنيع وتسويق الأجهزة خاصة جهازي Xbox و Kinect.
 
 
 
 
-للتذكير فإنه سبق وأن [ظهرت إشاعات أخرى](http://www.it-scoop.com/2011/12/who-will-eat-rim/) حول احتمال تقدم كل من Microsoft و Nokia بعرض لشراء RIM المصنعة لهواتف BlackBerry دون أن يتم ترسيم الأمر أو التعليق عليه من طرف الشركات المعنية.
+للتذكير فإنه سبق وأن [ظهرت إشاعات أخرى](https://www.it-scoop.com/2011/12/who-will-eat-rim/) حول احتمال تقدم كل من Microsoft و Nokia بعرض لشراء RIM المصنعة لهواتف BlackBerry دون أن يتم ترسيم الأمر أو التعليق عليه من طرف الشركات المعنية.
 
 
 

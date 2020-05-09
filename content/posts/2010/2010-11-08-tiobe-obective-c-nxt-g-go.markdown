@@ -15,14 +15,14 @@ tags:
 - Tiobe
 ---
 
-**[ترتيب TIOBE للغات البرمجة: Objective-C يتراجع،  NXT-G يدخل نادي الكبار، و نجم Go يأفل]( http://www.it-scoop.com/2010/11/tiobe-obective-c-nxt-g-go/)**
+**[ترتيب TIOBE للغات البرمجة: Objective-C يتراجع،  NXT-G يدخل نادي الكبار، و نجم Go يأفل]( https://www.it-scoop.com/2010/11/tiobe-obective-c-nxt-g-go/)**
 
 
 ككل شهر يرصد ترتيب TIOBE اللغات البرمجية الأكثر شعبية على الإنترنت (و ليس من حيث استعمالها)، فلقد كشف [ترتيب شهر نوفمبر الجاري](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html) محافظة لغة Objective-C  على مكانتها الثامنة و بالرغم من تراجع شعبيتها قليلا بما يزيد قليلا عن 0.5% ، في حين شهد لغة G0 الخاصة بـ Google خروجها من الـ TOP 20.
 
 
 [![](http://www.tiobe.com/content/paperinfo/tpci/images/tpci_trends.png)
-]( http://www.it-scoop.com/2010/11/tiobe-obective-c-nxt-g-go/)
+]( https://www.it-scoop.com/2010/11/tiobe-obective-c-nxt-g-go/)
 
 
 لكن اللغة التي خطفت الأضواء لهذا الشهر هي لغة NXT-G التي تستعمل في برمجة روبوتات [Lego Mindstorms NXT](http://en.wikipedia.org/wiki/Lego_Mindstorms_NXT)، حيث حلت في المرتبة 17. و سجل معها أيضا كل من لغات [RPG (OS/400)](http://en.wikipedia.org/wiki/IBM_RPG) ،[Transact-SQL](http://en.wikipedia.org/wiki/Transact-SQL) و[Ada](http://en.wikipedia.org/wiki/Ada_(programming_language)) دخولها إلى نادي الكبار.

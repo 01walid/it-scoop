@@ -19,7 +19,7 @@ tags:
 
 أعلنت Mandriva  عن توفر Mandriva Flash 2010  على وحدات USB. و هي عبارة عن "سطح مكتب" كامل على وحدة    USB و ذلك مقابل 49,9  يورو.
 
-![MandriavaUSB2010](http://www.it-scoop.com/wp-content/uploads/2009/11/MandriavaUSB2010.jpg)
+![MandriavaUSB2010](https://www.it-scoop.com/wp-content/uploads/2009/11/MandriavaUSB2010.jpg)
 
 
 حسب موقع التوزيعة فإنه من الممكن من حاليا إرسال طلبات Mandriva Flash 2010 ،و سيكون التسليم ابتداء من النصف الثاني من شهر ديسمبر القادم.

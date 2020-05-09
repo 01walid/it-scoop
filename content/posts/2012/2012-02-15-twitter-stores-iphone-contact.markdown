@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/twitter-https.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/twitter-https.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/twitter-https.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/twitter-https.png)
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/Twitter-stores-full-iPhone-contact.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Twitter-stores-full-iPhone-contact.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/Twitter-stores-full-iPhone-contact.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Twitter-stores-full-iPhone-contact.jpg)
 
 
 

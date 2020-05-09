@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/Microsoft-Yammer-Logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/Microsoft-Yammer-Logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/Microsoft-Yammer-Logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/Microsoft-Yammer-Logo.jpg)
 
 
 

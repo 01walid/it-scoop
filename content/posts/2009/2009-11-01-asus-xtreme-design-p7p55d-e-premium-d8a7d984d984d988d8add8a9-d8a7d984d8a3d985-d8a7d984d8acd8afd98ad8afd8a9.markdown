@@ -14,7 +14,7 @@ tags:
 أعلنت شركة Asus  أنها ستقوم قريبا بتسويق اللوحة الأم  الجديدة  Asus Xtreme Design P7P55D-E Premium بسعر 299 دولار أمريكي
 تتميز هذه اللوحة الأم الجديدة بدعمها لأحدث التقنيات الحالية على غرار كل من  USB3.0   الـ DDR3  و الـ SATA-3
 
-![asuseMB](http://www.it-scoop.com/wp-content/uploads/2009/11/asuseMB.jpg)
+![asuseMB](https://www.it-scoop.com/wp-content/uploads/2009/11/asuseMB.jpg)
 
 تحتوي اللوحة الأم على منفذي   SATA-3  تصل سرعة نقلهما القصوى إلى  6 Gbit/s
 إضافة إلى منفذي USB3.0  و اللذان يمكنهما نظريا الوصول إلى سرعة نقل  4,8 Gbits/s  و 12 منفذا للـ USB2.0

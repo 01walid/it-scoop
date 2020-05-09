@@ -20,8 +20,8 @@ tags:
 
 
 
-[![Top 5 Desktop inux distributions distrowatch ](http://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions.jpg)
+[![Top 5 Desktop inux distributions distrowatch ](https://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions.jpg)
 
 
 
@@ -36,8 +36,8 @@ tags:
 
 
 
-[![Top 5 Desktop linux distributions google trends](http://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions-google-trends.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions-google-trends.png)
+[![Top 5 Desktop linux distributions google trends](https://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions-google-trends.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/Top-5-Desktop-linux-distributions-google-trends.png)
 
 
 

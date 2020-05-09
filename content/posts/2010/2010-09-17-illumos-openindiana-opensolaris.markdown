@@ -16,18 +16,18 @@ tags:
 - Unix
 ---
 
-**[إطلاق OpenIndiana التوزيعة البديلة لـ OpenSolaris التي 'أعدمتها' Oracle سابقا](http://www.it-scoop.com/2010/09/illumos-openindiana-opensolaris)**
+**[إطلاق OpenIndiana التوزيعة البديلة لـ OpenSolaris التي 'أعدمتها' Oracle سابقا](https://www.it-scoop.com/2010/09/illumos-openindiana-opensolaris)**
 
 
 
 
-بعد أن أطلقت Oracle [رصاصة الرحمة](http://www.it-scoop.com/2010/08/open-solaris-board-resigns/) على مشروع OpenSolaris، و بعد أن عزم أحد موظفي Sun السابقين مواصلة "الكفاح" ها هي أولى إصدارات الـ Fork الخاص بنظام OpenSolaris تبصر النور حاملة الاسم OpenIndiana.
+بعد أن أطلقت Oracle [رصاصة الرحمة](https://www.it-scoop.com/2010/08/open-solaris-board-resigns/) على مشروع OpenSolaris، و بعد أن عزم أحد موظفي Sun السابقين مواصلة "الكفاح" ها هي أولى إصدارات الـ Fork الخاص بنظام OpenSolaris تبصر النور حاملة الاسم OpenIndiana.
 
 
 
 
 [![](http://openindiana.org/wp-content/uploads/2010/09/openindiana_logonew2_WP.png )
-](http://www.it-scoop.com/2010/09/illumos-openindiana-opensolaris)
+](https://www.it-scoop.com/2010/09/illumos-openindiana-opensolaris)
 
 
 مشروع OpenIndiana و الذي ترعاه مؤسسة Illumos سيكون متوافقا مع Solaris 11 و Solaris 11 Express، و يقارن مطورو المشروع بين OpenIndiana و توزيعة CentOS التي تعتبر النسخة المجانية من توزيعة  Red Hat Enterprise Linux (RHEL).

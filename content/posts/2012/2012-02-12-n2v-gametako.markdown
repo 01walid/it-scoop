@@ -14,13 +14,13 @@ tags:
 - Tako
 ---
 
-تُواصل الوطنية للإنترنت N2V استثمارها في الشركات العربية الناشئة، فبعد [سلسلة من الاستثمارات](http://www.it-scoop.com/tag/n2v/) على مر الأشهر  الماضية، تعود هذا الأسبوع لتُعلن عن استثمار جديد في موقع Tako للألعاب.
+تُواصل الوطنية للإنترنت N2V استثمارها في الشركات العربية الناشئة، فبعد [سلسلة من الاستثمارات](https://www.it-scoop.com/tag/n2v/) على مر الأشهر  الماضية، تعود هذا الأسبوع لتُعلن عن استثمار جديد في موقع Tako للألعاب.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/tako-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/tako-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/tako-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/tako-logo.png)
 
 
 

@@ -17,8 +17,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/06/The-Signal-and-the-Noise.jpg)
-](http://www.it-scoop.com/2018/06/the-signal-and-the-noise/the-signal-and-the-noise-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/06/The-Signal-and-the-Noise.jpg)
+](https://www.it-scoop.com/2018/06/the-signal-and-the-noise/the-signal-and-the-noise-2/)
 
 
 

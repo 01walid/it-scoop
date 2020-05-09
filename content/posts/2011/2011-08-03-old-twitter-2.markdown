@@ -20,7 +20,7 @@ tags:
 
 
 
-[**واجهة Twitter القديمة تعيش أيامها الأخيرة**](http://www.it-scoop.com/2011/08/old-twitter-2/)
+[**واجهة Twitter القديمة تعيش أيامها الأخيرة**](https://www.it-scoop.com/2011/08/old-twitter-2/)
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/old-twitter.png)
-](http://www.it-scoop.com/2011/08/old-twitter-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/old-twitter.png)
+](https://www.it-scoop.com/2011/08/old-twitter-2/)
 
 
 

@@ -19,8 +19,8 @@ tags:
 
 
 
-[![dark-patterns](http://www.it-scoop.com/wp-content/uploads/2013/07/dark-patterns.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/dark-patterns.png)
+[![dark-patterns](https://www.it-scoop.com/wp-content/uploads/2013/07/dark-patterns.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/dark-patterns.png)
 
 
 
@@ -35,8 +35,8 @@ tags:
 
 
 
-[![ios-dark-patterns](http://www.it-scoop.com/wp-content/uploads/2013/07/ios-dark-patterns.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/ios-dark-patterns.png)
+[![ios-dark-patterns](https://www.it-scoop.com/wp-content/uploads/2013/07/ios-dark-patterns.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/ios-dark-patterns.png)
 
 
 
@@ -56,8 +56,8 @@ tags:
 
 
 
-[![post-office-dark-patterns](http://www.it-scoop.com/wp-content/uploads/2013/07/post-office-dark-patterns.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/post-office-dark-patterns.png)
+[![post-office-dark-patterns](https://www.it-scoop.com/wp-content/uploads/2013/07/post-office-dark-patterns.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/post-office-dark-patterns.png)
 
 
 
@@ -77,8 +77,8 @@ tags:
 
 
 
-[![Ryanair-dark-patterns](http://www.it-scoop.com/wp-content/uploads/2013/07/Ryanair-dark-patterns.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/Ryanair-dark-patterns.png)
+[![Ryanair-dark-patterns](https://www.it-scoop.com/wp-content/uploads/2013/07/Ryanair-dark-patterns.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/Ryanair-dark-patterns.png)
 
 
 

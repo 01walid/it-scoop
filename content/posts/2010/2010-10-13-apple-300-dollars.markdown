@@ -12,7 +12,7 @@ tags:
 - Apple
 ---
 
-**[سعر سهم Apple يتجاوز لأول مرة حاجز 300 دولار في البورصة](http://www.it-scoop.com/2010/10/apple-300-dollars/)**
+**[سعر سهم Apple يتجاوز لأول مرة حاجز 300 دولار في البورصة](https://www.it-scoop.com/2010/10/apple-300-dollars/)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://chart.finance.yahoo.com/t?s=AAPL&lang=en-US&region=US&width=300&height=180 )
-](http://www.it-scoop.com/2010/10/apple-300-dollars/)
+](https://www.it-scoop.com/2010/10/apple-300-dollars/)
 
 
 

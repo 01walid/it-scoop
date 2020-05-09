@@ -27,8 +27,8 @@ tags:
 
 
 
-[![it-scoop-fourth-anniversary](http://www.it-scoop.com/wp-content/uploads/2013/11/it-scoop-fourth-anniversary.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/it-scoop-fourth-anniversary.png)
+[![it-scoop-fourth-anniversary](https://www.it-scoop.com/wp-content/uploads/2013/11/it-scoop-fourth-anniversary.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/it-scoop-fourth-anniversary.png)
 
 
 

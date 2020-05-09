@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/huawei-logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/huawei-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/huawei-logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/huawei-logo.jpg)
 
 
 

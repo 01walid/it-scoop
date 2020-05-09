@@ -12,7 +12,7 @@ tags:
 - LinkedIn
 ---
 
-**[أنباء عن نية LinkedIn دخول البورصة للحفاظ على حظوظها أمام Facebook](http://www.it-scoop.com/2011/01/linkedin-ipo/)**
+**[أنباء عن نية LinkedIn دخول البورصة للحفاظ على حظوظها أمام Facebook](https://www.it-scoop.com/2011/01/linkedin-ipo/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo-300x88.jpg)
-](http://www.it-scoop.com/2011/01/linkedin-ipo/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo-300x88.jpg)
+](https://www.it-scoop.com/2011/01/linkedin-ipo/)
 
 
 و حسب هذا الخبر، فإن LinkedIn لم تؤكد ذلك، و لم تنفيه أيضا، حيث أعلن أحد متحدثيها الرسمين قائلا:

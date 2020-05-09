@@ -14,13 +14,13 @@ tags:
 - IE6
 ---
 
-[**Chrome يستفيد من تراجع منافسيه، و IE6 تحت عتبة 5% في الولايات المتحدة**](http://www.it-scoop.com/2010/06/browser-market-share-may-2010/)
+[**Chrome يستفيد من تراجع منافسيه، و IE6 تحت عتبة 5% في الولايات المتحدة**](https://www.it-scoop.com/2010/06/browser-market-share-may-2010/)
 
 
 حسب الإحصائيات الصادرة من طرف Net Applications الخاصة بشهر مايو المنصرم، فإن متصفح Chrome استطاع الاستفادة من تراجع منافسيه، حيث يواصل كل من  Internet Explorer و Firefox تراجعهما.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Browser-Market-Share-May-2010-NetApplications.png)
-](http://www.it-scoop.com/2010/06/browser-market-share-may-2010/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Browser-Market-Share-May-2010-NetApplications.png)
+](https://www.it-scoop.com/2010/06/browser-market-share-may-2010/)
 
 دائما و حسب هذه الإحصائيات، فإن Internet Explorer  يواصل نزوله تحت مستوى 60% حيث تقدر حصته خلال شهر مايو الماضي بـ59.69 %. في حين سجل Firefox  تراجعا طفيفا و تراجعت حصته إلى 24.35 % بعد أن كانت تقدر بـ 24,59 % خلال شهر أبريل الماضي.
 

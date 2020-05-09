@@ -18,7 +18,7 @@ tags:
 - Novell
 ---
 
-[**إطلاق الإصدار النهائي لـ Mono for Android لكتابة تطبيقات Android باستعمال إطار Dotnet**]( http://www.it-scoop.com/2011/04/mono-for-android-dotnet/)
+[**إطلاق الإصدار النهائي لـ Mono for Android لكتابة تطبيقات Android باستعمال إطار Dotnet**]( https://www.it-scoop.com/2011/04/mono-for-android-dotnet/)
 
 
 
@@ -26,7 +26,7 @@ tags:
 بعد أن "تعدى" إطار العمل Dotnet على نظام Linux و أصبح بمقدور المطورين كتابة تطبيقات تعمل على نظام Linux، ها هي Novell تبدع من جديد و تطلق الإصدار النهائي لـ [Mono for Android 1.0](http://mono-android.net/) و الذي يتيح كتابة تطبيقات باستخدام إطار العمل Dotnet على أنظمة Android.*
 
 [![](http://mono-android.net/@api/deki/files/78/=android_phone.png )
-](http://www.it-scoop.com/2011/04/mono-for-android-dotnet/)
+](https://www.it-scoop.com/2011/04/mono-for-android-dotnet/)
 
 و سيصبح ممكنا كتابة تطبيقات لـ Android  بلغة C# باستخدام Visual Studio 2010 حيث أن Mono for Android عبارة عن إضافة يمكن تنصيبها على هذا الـ IDE، أو الاكتفاء بالإصدار المجاني الموجه لـ MonoDevelop .
 

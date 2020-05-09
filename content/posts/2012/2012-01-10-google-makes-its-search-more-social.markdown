@@ -16,8 +16,8 @@ tags:
 في [تدوينة جديدة](http://googleblog.blogspot.com/2012/01/search-plus-your-world.html) على مدوّنتها الرّسميّة، كشفت Google عن طبقة جديدة تضيفها إلى محرّك بحثها المسيطر على السّوق في محاولة منها للتّوسّع في العالم الاجتماعيّ وتحسين نتائج البحث لتكون أكثر شخصيّة وعمليّة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/google-social.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-social.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/google-social.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-social.png)
 
 
 
@@ -34,30 +34,30 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-results.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-results.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-results.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-results.png)
 
 
 الملفّات الشّخصيّة في البحث: ستظهر الملفّات الشّخصيّة في قائمة الإكمال التّلقائي لمدخل البحث وفي نتائج البحث أيضًا، وتضمن الأشخاص الّذين تعرفهم أو قد ترغب بإضافتهم على Google+ (في حال كان لديك حساب على الشّبكة).
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-suggest.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-suggest.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-suggest.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-suggest.png)
 
 
 النّاس والصّفحات: وتختلف عن السّابقة بكونها تظهر كنتيجة بحث عن موضوع معيّن، فالبحث عن ما يتعلّق بالرّياضة سيظهر الملفّات الشّخصيّة لرياضيّين مشهورين وصفحات تنشر أخبار رياضيّة مثلًا على Google+، وسيكون بإمكانك بالطّبع إضافتهم من صفحة البحث عبر زرّ الإضافة إلى الدّوائر.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-People-and-Pages.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-People-and-Pages.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-People-and-Pages.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-personal-People-and-Pages.png)
 
 
 **الخصوصيّة والحماية**
 
 تتابع الشّركة الحديث عن ميّزات هذه الطّبقة لتتطرّق لموضوع الخصوصيّة والأمان، فصفحات نتائج البحث مع هذه الطّبقة مشفّرة بتشفير SSL لتحميك من تجسس أطراف ثالثة على محتواها. كذلك سيكون بإمكانك الانتقال إلى البحث التّقليديّ بكبسة زرّ، وضبط الإعداد الافتراضي أيضًا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/People-and-Pages-Toggle.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/People-and-Pages-Toggle.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/People-and-Pages-Toggle.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/People-and-Pages-Toggle.png)
 
 رأيي أنّ هذه الإضافات برأيي خطوة جديدة لدمج Google+ مع بقيّة منتجات الشّركة بحيث تصبح طبقة اجتماعيّة أكثر من كونها شبكة، وهذا ما أكّدت عليه Google في السّابق، تقول الشّركة إنّ هذه هي البداية، ولا ننسَ تصريحًا سابقًا من أحد مسؤوليها بأنّهم "أضافوا +، وبقي Google". بهذه الإضافات تنافس Google العلاقة بين Facebook وBing وتجعل نتائج البحث اجتماعيّة أكثر وأقرب إلى احتياجات المستخدم، لكنّها أيضًا قد تحصره في عالمه الخاصّ وتغيّبه عن أخبار ما يحدث خارجه!
 

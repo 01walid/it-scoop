@@ -14,13 +14,13 @@ tags:
 - The Talking Shoe
 ---
 
-بعد نظاراتها الذكية [Google Glass](http://www.it-scoop.com/2012/04/google-news-10/) التي كثر الحديث عنها حتى قبل الشروع في تسويقها، كشفت **Google** عن نموذج prototype لمنتج "قديم" يستخدم التقنية بشكل جديد، أطلقت عليه اسم **The Talking Shoe** والمُتمثل –مثلما هو واضح من الاسم- في حذاء يُمكنه الحديث والتفاعل مع لابسه.
+بعد نظاراتها الذكية [Google Glass](https://www.it-scoop.com/2012/04/google-news-10/) التي كثر الحديث عنها حتى قبل الشروع في تسويقها، كشفت **Google** عن نموذج prototype لمنتج "قديم" يستخدم التقنية بشكل جديد، أطلقت عليه اسم **The Talking Shoe** والمُتمثل –مثلما هو واضح من الاسم- في حذاء يُمكنه الحديث والتفاعل مع لابسه.
 
 
 
 
-[![google-talking-shoe](http://www.it-scoop.com/wp-content/uploads/2013/03/google-talking-shoe.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/google-talking-shoe.png)
+[![google-talking-shoe](https://www.it-scoop.com/wp-content/uploads/2013/03/google-talking-shoe.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/google-talking-shoe.png)
 
 
 

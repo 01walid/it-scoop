@@ -14,7 +14,7 @@ tags:
 - John J. Barton
 ---
 
-[**مطور إضافة Firebug يعلن عن انضمامه إلى فريق عمل متصفح Chrome**](http://www.it-scoop.com/2011/07/barton-firebug-chrome/)
+[**مطور إضافة Firebug يعلن عن انضمامه إلى فريق عمل متصفح Chrome**](https://www.it-scoop.com/2011/07/barton-firebug-chrome/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/firebug_firefox.png)
-](http://www.it-scoop.com/2011/07/barton-firebug-chrome/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/firebug_firefox.png)
+](https://www.it-scoop.com/2011/07/barton-firebug-chrome/)
 
 
 
@@ -46,7 +46,7 @@ tags:
 
 
 [![](https://static-cdn.addons.mozilla.net/img/uploads/previews/full/52/52710.png)
-](http://www.it-scoop.com/2011/07/barton-firebug-chrome/)
+](https://www.it-scoop.com/2011/07/barton-firebug-chrome/)
 
 
 

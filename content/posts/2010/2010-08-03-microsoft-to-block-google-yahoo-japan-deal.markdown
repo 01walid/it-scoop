@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/yahoo_logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/yahoo_logo.png)
 ](it-scoop.com/2010/08/microsoft-to-Block-Google-Yahoo-Japan-Deal)
 
 

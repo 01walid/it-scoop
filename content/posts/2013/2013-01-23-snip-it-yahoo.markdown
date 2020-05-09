@@ -21,7 +21,7 @@ tags:
 
 
 
-![Print](http://www.it-scoop.com/wp-content/uploads/2013/01/SnipIt-Logo.jpg)
+![Print](https://www.it-scoop.com/wp-content/uploads/2013/01/SnipIt-Logo.jpg)
 
 
 

@@ -12,7 +12,7 @@ tags:
 - Woot
 ---
 
-**[Amazon تضع يدها على Woot، الموقع الذي يبيع شيئا واحدا و وحيدا كل يوم](http://www.it-scoop.com/2010/07/woot-amazon/)**
+**[Amazon تضع يدها على Woot، الموقع الذي يبيع شيئا واحدا و وحيدا كل يوم](https://www.it-scoop.com/2010/07/woot-amazon/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/rsc/Woot-Logo.png)
-](http://www.it-scoop.com/2010/07/woot-amazon/ )
+[![](https://www.it-scoop.com/rsc/Woot-Logo.png)
+](https://www.it-scoop.com/2010/07/woot-amazon/ )
 
 
 موقع Woot  و الذي فتح أبوابه سنة 2004، مشابه من -حيث المبدأ- لموقع Amazon حيث يبيع كلاهما سلعا مختلفة ، لكن يمتاز عنه في طريقة البيع، حيث لا يعرض موقع Woot سوى منتجا واحدا و وحيدا كل يوم بسعر جد تنافسي، و في اليوم التالي يتم عرض منتج آخر بسعر تنافسي أيضا، و هكذا دواليك.

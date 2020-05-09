@@ -18,13 +18,13 @@ tags:
 - Symphony
 ---
 
-بعد أن [أبدت](http://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache/) رغبتها في القيام بذلك منذ حوالي 10 أشهر، [أعلنت](http://article.gmane.org/gmane.comp.apache.incubator.ooo.devel/18332) **IBM** عن تحول مهم في مسار حزمتها المكتبية **Lotus Symphony**، حيث كشف بأنها شرعت في عملية نقل مصدرها إلى منظمة **Apache** التي تتولى حاليا مهمة تطوير حزمة **OpenOffice.org** والتي تم تغيير اسمها ليصبح **Apache OpenOffice**.
+بعد أن [أبدت](https://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache/) رغبتها في القيام بذلك منذ حوالي 10 أشهر، [أعلنت](http://article.gmane.org/gmane.comp.apache.incubator.ooo.devel/18332) **IBM** عن تحول مهم في مسار حزمتها المكتبية **Lotus Symphony**، حيث كشف بأنها شرعت في عملية نقل مصدرها إلى منظمة **Apache** التي تتولى حاليا مهمة تطوير حزمة **OpenOffice.org** والتي تم تغيير اسمها ليصبح **Apache OpenOffice**.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/apache-lotus-symphony.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/apache-lotus-symphony.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/apache-lotus-symphony.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/apache-lotus-symphony.jpg)
 
 
 

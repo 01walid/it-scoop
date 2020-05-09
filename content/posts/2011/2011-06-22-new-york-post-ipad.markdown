@@ -12,7 +12,7 @@ tags:
 - New York Post
 ---
 
-[**جريدة الـ New York Post تحتجب على الـ iPad لتجبر قراءها على شراء تطبيقها**](http://www.it-scoop.com/2011/06/new-york-post-ipad/)
+[**جريدة الـ New York Post تحتجب على الـ iPad لتجبر قراءها على شراء تطبيقها**](https://www.it-scoop.com/2011/06/new-york-post-ipad/)
 
 
 
@@ -25,11 +25,11 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/new-york-post-safari-ipad-application.jpg)
-](http://www.it-scoop.com/2011/06/new-york-post-ipad/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/new-york-post-safari-ipad-application.jpg)
+](https://www.it-scoop.com/2011/06/new-york-post-ipad/)
 
 
-و يأتي قرار New York Post كنوع من "الترويج" لتطبيقها الخاص بالـ iPad الذي يباع مقابل 1.99 دولار و الذي يمكن من الحصول على محتويات الجريدة مقابل 6.99 دولار للشهر الواحد. و هو نفس الأسلوب المتبع من طرف جريدة [The Daily](http://www.it-scoop.com/tag/the-daily/) التابعة لـ news corp (نفس الشركة الأم لـ New York Post)، و التي تنشر حصريا على الـ iPad مقابل اشتراك دوري.
+و يأتي قرار New York Post كنوع من "الترويج" لتطبيقها الخاص بالـ iPad الذي يباع مقابل 1.99 دولار و الذي يمكن من الحصول على محتويات الجريدة مقابل 6.99 دولار للشهر الواحد. و هو نفس الأسلوب المتبع من طرف جريدة [The Daily](https://www.it-scoop.com/tag/the-daily/) التابعة لـ news corp (نفس الشركة الأم لـ New York Post)، و التي تنشر حصريا على الـ iPad مقابل اشتراك دوري.
 
 في رأيك هل ستكون نتائج هذا القرار سلبية أو إيجابية على الجريدة ؟ و هل أنت مستعد للدفع مقابل تصفح جريدتك المفضلة على الـ iPad ؟
 

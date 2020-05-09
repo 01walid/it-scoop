@@ -23,8 +23,8 @@ tags:
 
 
 
-[![all-marketers-are-liars](http://www.it-scoop.com/wp-content/uploads/2016/11/All-Marketers-Are-Liars.jpg)
-](http://www.it-scoop.com/2016/11/all-marketers-are-liars/all-marketers-are-liars/)
+[![all-marketers-are-liars](https://www.it-scoop.com/wp-content/uploads/2016/11/All-Marketers-Are-Liars.jpg)
+](https://www.it-scoop.com/2016/11/all-marketers-are-liars/all-marketers-are-liars/)
 
 
 

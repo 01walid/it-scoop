@@ -15,13 +15,13 @@ tags:
 - ubuntu 10.04.2
 ---
 
-**[تحديث Ubuntu 10.04.2 LTS  متوفر للتحميل](http://www.it-scoop.com/2011/02/ubuntu-10-02-2-lts/ )**
+**[تحديث Ubuntu 10.04.2 LTS  متوفر للتحميل](https://www.it-scoop.com/2011/02/ubuntu-10-02-2-lts/ )**
 
 
 [أعلنت](https://lists.ubuntu.com/archives/ubuntu-announce/2011-February/000141.html) Canonical عن إطلاق  الإصدار 10.04.2  من Ubuntu ( و أخواتها)  و هو التحديث الثاني للإصدار  10.04 الموسوم بـ LTS.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu-300x79.png)
-](http://www.it-scoop.com/2011/02/ubuntu-10-02-2-lts/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu-300x79.png)
+](https://www.it-scoop.com/2011/02/ubuntu-10-02-2-lts/ )
 
 و يقصد بالـ LTS   الدعم طويل المدى Long Term Support  و الذي يقدر بـ 3 سنوات لإصدارات الـ  desktop  و 5 سنوات لإصدارات الخوادم بينما الإصدارات العادية تحظى بدعم عام و نصف فقط
 

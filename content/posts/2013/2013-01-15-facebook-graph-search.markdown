@@ -17,7 +17,7 @@ tags:
 
 
 
-![facebook-Graph-Search](http://www.it-scoop.com/wp-content/uploads/2013/01/facebook-Graph-Search.png)
+![facebook-Graph-Search](https://www.it-scoop.com/wp-content/uploads/2013/01/facebook-Graph-Search.png)
 
 
 

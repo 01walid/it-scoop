@@ -15,14 +15,14 @@ tags:
 - Adobe Security
 ---
 
-[**Adobe تسعى إلى حصتّها من Patch Tuesday بطرح تحديثها الأمني في وقت غير متوقع!**](http://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
+[**Adobe تسعى إلى حصتّها من Patch Tuesday بطرح تحديثها الأمني في وقت غير متوقع!**](https://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
 
 
-خلافاً لما تقوم به Adobe عادة من طرح نشراتها الأمنية بشكل ربع سنوي، فإنها هذه المرة قد أعلنت بأن تحديثات حرجة لتطبيقات Acrobat و Reader سيتم طرحها يوم الثلاثاء القادم (13 أبريل/نيسان) ، مما يوحي بأن Adobe  تسعى إلى حصّة من [الـ Patch Tuesday  المصطلح الخاص بـ Microsoft أيضاً](http://www.it-scoop.com/2010/04/microsoft-patch-tuesday-april-2010/) :)
+خلافاً لما تقوم به Adobe عادة من طرح نشراتها الأمنية بشكل ربع سنوي، فإنها هذه المرة قد أعلنت بأن تحديثات حرجة لتطبيقات Acrobat و Reader سيتم طرحها يوم الثلاثاء القادم (13 أبريل/نيسان) ، مما يوحي بأن Adobe  تسعى إلى حصّة من [الـ Patch Tuesday  المصطلح الخاص بـ Microsoft أيضاً](https://www.it-scoop.com/2010/04/microsoft-patch-tuesday-april-2010/) :)
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
-](http://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+](https://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
 
 
 ستختص هذه التحديثات بالإصدار 9.3.1 من تطبيق Adobe Reader لأنظمة Windows، Macintosh و Unix; الإصدار 9.3.1 من تطبيق Adobe Acrobat لنظامي Windows و Macintosh; و 8.2.1 من تطبيقي Adobe Reader و Adobe Acrobat لنظامي Windows و Macintosh.
@@ -32,7 +32,7 @@ tags:
 سيملك مستخدمي Windows ثلاثة خيارات (تثبيت التحديثات بشكل تلقائي، تحميل التحديثات بشكل تلقائي لكن يترك للمستخدم حرية اختيار متى يرد تثبيتها; عدم تحميل التحديثات بشكل تلقائي).
 
 [![](http://www.sophos.com/images/blogs/gc/2010/04/adobe-updater.jpg)
-](http://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
+](https://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
 
 بينما مستخدمو Mac -لسبب ما-  يملكون خيارين فقط (تحميل التحديثات بشكل تلقائي لكن يترك للمستخدم حرية اختيار متى يريد تثبيتها; عدم تحميل التحديثات بشكل تلقائي).
 

@@ -13,7 +13,7 @@ tags:
 - Facebook Mail
 ---
 
-**[Zuckerberg  يكشف عن بريد Facebook الجديد و يؤكد على أنه ليس "Gmail Killer"](http://www.it-scoop.com/2010/11/facebook-email/)**
+**[Zuckerberg  يكشف عن بريد Facebook الجديد و يؤكد على أنه ليس "Gmail Killer"](https://www.it-scoop.com/2010/11/facebook-email/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/Facebook-Email.png)
-](http://www.it-scoop.com/2010/11/facebook-email/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Facebook-Email.png)
+](https://www.it-scoop.com/2010/11/facebook-email/)
 
 
 حسب Zuckerberg فإن بريد Facebook الجديد لن يكون "Gmail Killer" كما أشيع عنه مؤخرا، لكنه سيغير من طريقة النظر إلى البريد الالكتروني، حيث يشير إلى أن هذا الأخير سيصبح أحد الطرق المستعملة للتواصل و ليست الطريقة الوحيدة، و ينوه إلى أن البريد الالكتروني يكتسي حاليا طابعا "جديا" أو "رسميا" أكثر مقارنة مع رسائل الـ SMS أو التواصل مباشرة عبر الـ Facebook و هما الوسيلتان المفضلتان لدى الشباب بحسبه.

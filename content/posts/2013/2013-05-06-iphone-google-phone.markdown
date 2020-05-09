@@ -22,8 +22,8 @@ tags:
 
 
 
-[![google-iPhone](http://www.it-scoop.com/wp-content/uploads/2013/05/google-iPhone.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/05/google-iPhone.jpg)
+[![google-iPhone](https://www.it-scoop.com/wp-content/uploads/2013/05/google-iPhone.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/05/google-iPhone.jpg)
 
 
 
@@ -58,7 +58,7 @@ tags:
 
 
 
-ما هي الخطوة القادمة؟ تخيلوا مثلا لو قامت Apple بإتاحة كتابة تطبيقات من صنف Launcher (ربما لمغازلة فيس بوك ولحدثها على إطلاق خدمة [Facebook Home](http://www.it-scoop.com/tag/facebook-home/) على نظام iOS أيضا)، ربما ستستغل Google تلك الفرصة لبناء Launcher خاص بها، سيجعل من هاتفك... نسخة مطورة من نظام Google على نظام iOS (لكيلا نقول نسخة مصغرة من نظام Android) معدة خصيصا لتشغيل تطبيقات Google. قد يبدو الأمر مبالغا فيه (ربما بشكل كبير)، لكن لا يبدو أن هناك أية عوائق تقنية ستمنع  Google من احتلال المزيد من الأراضي على أرض غريمتها Apple.
+ما هي الخطوة القادمة؟ تخيلوا مثلا لو قامت Apple بإتاحة كتابة تطبيقات من صنف Launcher (ربما لمغازلة فيس بوك ولحدثها على إطلاق خدمة [Facebook Home](https://www.it-scoop.com/tag/facebook-home/) على نظام iOS أيضا)، ربما ستستغل Google تلك الفرصة لبناء Launcher خاص بها، سيجعل من هاتفك... نسخة مطورة من نظام Google على نظام iOS (لكيلا نقول نسخة مصغرة من نظام Android) معدة خصيصا لتشغيل تطبيقات Google. قد يبدو الأمر مبالغا فيه (ربما بشكل كبير)، لكن لا يبدو أن هناك أية عوائق تقنية ستمنع  Google من احتلال المزيد من الأراضي على أرض غريمتها Apple.
 
 
 

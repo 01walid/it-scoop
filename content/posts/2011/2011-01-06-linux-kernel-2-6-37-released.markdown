@@ -15,13 +15,13 @@ tags:
 - Linux 2.6.37
 ---
 
-**[إطلاق الإصدار 2.6.37 من نواة Linux](http://www.it-scoop.com/2011/01/linux-kernel-2-6-37-released/)**
+**[إطلاق الإصدار 2.6.37 من نواة Linux](https://www.it-scoop.com/2011/01/linux-kernel-2-6-37-released/)**
 
 
 أعلن Linus Torvalds يوم أمس عن [إطلاق ](http://article.gmane.org/gmane.linux.kernel/1083342)الإصدار 2.6.37 من نواة نظام التشغيل Linux .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/Linux-kernel.jpeg)
-](http://www.it-scoop.com/2011/01/linux-kernel-2-6-37-released/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/Linux-kernel.jpeg)
+](https://www.it-scoop.com/2011/01/linux-kernel-2-6-37-released/)
 
 تأتي هذه النواة بتحديثات وإضافات كثيرة جدا منها :
 

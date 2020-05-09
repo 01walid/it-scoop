@@ -12,13 +12,13 @@ tags:
 - facebook
 ---
 
-[**البريد الإلكتروني قريبا على Facebook**](http://www.it-scoop.com/2010/02/%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-%d8%b9%d9%84%d9%89-facebook/)
+[**البريد الإلكتروني قريبا على Facebook**](https://www.it-scoop.com/2010/02/%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-%d8%b9%d9%84%d9%89-facebook/)
 
 
 إذا صدق ما أشارت إليه مدونة [Techcrunch](http://www.techcrunch.com/2010/02/05/facebooks-project-titan-a-full-featured-webmail-product/) فإن Facebook بصدد التحضير لإضافة البريد الإلكتروني للشبكة الاجتماعية قريبا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/facebook-logo-300x112.jpg)
-](http://www.it-scoop.com/2010/02/%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-%d8%b9%d9%84%d9%89-facebook/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/facebook-logo-300x112.jpg)
+](https://www.it-scoop.com/2010/02/%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-%d8%b9%d9%84%d9%89-facebook/)
 
 المشروع الذي تعمله عليه Facrbook حاليا و المسمى Titan سيتيح –لدى إنهاء العمل عليه- Webmail بكل ما تحمله الكلمة من معنى، بعبارة أخرى سيكون منافسا قويا لـ Gmail الـ Webmail المقدم من Google.
 

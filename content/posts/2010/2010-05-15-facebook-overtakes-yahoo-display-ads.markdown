@@ -13,13 +13,13 @@ tags:
 - Yahoo
 ---
 
-[**Facebook يتجاوز Yahoo في عدد الإعلانات المصورة في الولايات المتحدة**](http://www.it-scoop.com/2010/05/Facebook-overtakes-Yahoo-display-Ads)
+[**Facebook يتجاوز Yahoo في عدد الإعلانات المصورة في الولايات المتحدة**](https://www.it-scoop.com/2010/05/Facebook-overtakes-Yahoo-display-Ads)
 
 
 ذكر تقرير أعدته ComScore أن عدد الإعلانات المصورة (banners) المعروضة على الشبكة الاجتماعية Facebook يتجاوز لأول مرة Yahoo في الولايات المتحدة  خلال الربع الأول من العام الحالي و يحتل بذلك المرتبة الأولى.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/comscorenumbers_610x330.png)
-](http://www.it-scoop.com/2010/05/Facebook-overtakes-Yahoo-display-Ads)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/comscorenumbers_610x330.png)
+](https://www.it-scoop.com/2010/05/Facebook-overtakes-Yahoo-display-Ads)
 
 لكن و بالرغم من احتلال Facebook الصدارة  إلا أن عوائد Yahoo  خلال نفس الفترة لا تزال في صدارة العوائد  المسجلة من هذه الإعلانات مما يقلل بعضا من أهمية فقدان Yahoo للمرتبة الأولى .
 

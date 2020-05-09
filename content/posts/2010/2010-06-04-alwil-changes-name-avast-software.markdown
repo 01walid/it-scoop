@@ -13,13 +13,13 @@ tags:
 - Avast
 ---
 
-[**شركة ALWIL تغير اسم الشركة إلى  AVAST Software**](http://www.it-scoop.com/2010/06/alwil-changes-name-avast-software)
+[**شركة ALWIL تغير اسم الشركة إلى  AVAST Software**](https://www.it-scoop.com/2010/06/alwil-changes-name-avast-software)
 
 
 أعلنت ALWIL للبرمجيات، الشركة المنتجة لبرنامج Avast لمكافحة الفيروسات المعروف، أنها ستقوم مع بداية 1 حزيران/يونيو بتغيير اسم الشركة من ALWIL إلى AVAST للبرمجيات (AVAST Software).
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/avast-logo.png)
-](http://www.it-scoop.com/2010/06/alwil-changes-name-avast-software)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/avast-logo.png)
+](https://www.it-scoop.com/2010/06/alwil-changes-name-avast-software)
 
 يقول Vince Steckler، المدير العام للشركة
 

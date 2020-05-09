@@ -17,7 +17,7 @@ tags:
 
 
 
-![](http://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
+![](https://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
 
 
 

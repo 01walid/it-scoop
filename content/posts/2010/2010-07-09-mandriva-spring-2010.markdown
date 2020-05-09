@@ -13,7 +13,7 @@ tags:
 - Mandriva Spring 2010
 ---
 
-**[إطلاق توزيعة Mandriva Spring 2010](http://www.it-scoop.com/2010/07/mandriva-spring-2010/)**
+**[إطلاق توزيعة Mandriva Spring 2010](https://www.it-scoop.com/2010/07/mandriva-spring-2010/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo.jpg)
-](http://www.it-scoop.com/2010/07/mandriva-spring-2010/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo.jpg)
+](https://www.it-scoop.com/2010/07/mandriva-spring-2010/)
 
 
 توفر Mandriva كل من إصدار Free مفتوح المصدر كلية و الذي لا يحتوي على أية برامج مملوكة عكس الإصدار Powerpack الذي يحتوي على العديد من البرامج المملوكة (على غرار الـ codecs الخاص بملفات المرئيات و الصوتيات، تطبيقات Adobe و بعض البرامج شائعة الاستعمال كـ Skype) و الذي يمكن الحصول عليه مقابل مبلغ 49 يورو.

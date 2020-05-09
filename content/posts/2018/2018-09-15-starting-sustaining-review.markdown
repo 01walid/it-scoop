@@ -20,8 +20,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/09/Starting-Sustaining.jpg)
-](http://www.it-scoop.com/2018/09/starting-sustaining-review/starting-sustaining/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/09/Starting-Sustaining.jpg)
+](https://www.it-scoop.com/2018/09/starting-sustaining-review/starting-sustaining/)
 
 
 

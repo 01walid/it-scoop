@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/internet_explorer.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/internet_explorer.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/internet_explorer.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/internet_explorer.png)
 
 
 
@@ -39,9 +39,9 @@ tags:
 
 
 
-ذهبت العديد من المواقع التقنية العالمية إلى تفسير تراجع حصة Chrome بالعقوبة التي فرضتها Google على فريق عمل هذا الأخير والذي استعان بأطراف خارجية لتلميع صورة المتصفح بطرق تُخالف قوانين الشركة (يمكنكم معرفة المزيد حول الأمر بقراءة [هذا المقال](http://www.it-scoop.com/2012/01/chrome-page-pagerank-reduced/))، لكن يبقى تفسير زيادة استعمال IE6 صعبا، إلا أن TechCrunch [ربطت الأمر](http://techcrunch.com/2012/02/03/google-chrome-market-share-drops-for-first-time-in-two-years/) بزيادة استعمال (وليس زيادة عدد المستخدمين) التي عرفها نظام Windows XP خلال نفس الفترة، والذي يعود –حسب هذه المدونة- إلى أعمال نهاية السنة التي قد تتطلب العمل على نظام XP.
+ذهبت العديد من المواقع التقنية العالمية إلى تفسير تراجع حصة Chrome بالعقوبة التي فرضتها Google على فريق عمل هذا الأخير والذي استعان بأطراف خارجية لتلميع صورة المتصفح بطرق تُخالف قوانين الشركة (يمكنكم معرفة المزيد حول الأمر بقراءة [هذا المقال](https://www.it-scoop.com/2012/01/chrome-page-pagerank-reduced/))، لكن يبقى تفسير زيادة استعمال IE6 صعبا، إلا أن TechCrunch [ربطت الأمر](http://techcrunch.com/2012/02/03/google-chrome-market-share-drops-for-first-time-in-two-years/) بزيادة استعمال (وليس زيادة عدد المستخدمين) التي عرفها نظام Windows XP خلال نفس الفترة، والذي يعود –حسب هذه المدونة- إلى أعمال نهاية السنة التي قد تتطلب العمل على نظام XP.
 
 
 
 
-اتجاه غريب آخر سبقت ملاحظته على المتصفحات مؤخرا، ويتعلق الأمر [بزيادة نسبة استخدام Internet Explorer خلال أيام الأسبوع وتراجعها خلال عطل نهايات الأسابيع](http://www.it-scoop.com/2012/01/statcounter-internet-explorer-chrome-weekends/) لتفسح المجال أمام استخدام أكثر لمتصفح Chrome. وهو ما يدفع إلى التساؤل إن كان Internet Explorer سيعود/سيبقى لعشرية أخرى على رأس قائمة أكثر المتصفحات استخداما.
+اتجاه غريب آخر سبقت ملاحظته على المتصفحات مؤخرا، ويتعلق الأمر [بزيادة نسبة استخدام Internet Explorer خلال أيام الأسبوع وتراجعها خلال عطل نهايات الأسابيع](https://www.it-scoop.com/2012/01/statcounter-internet-explorer-chrome-weekends/) لتفسح المجال أمام استخدام أكثر لمتصفح Chrome. وهو ما يدفع إلى التساؤل إن كان Internet Explorer سيعود/سيبقى لعشرية أخرى على رأس قائمة أكثر المتصفحات استخداما.

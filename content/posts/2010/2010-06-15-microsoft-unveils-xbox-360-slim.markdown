@@ -14,7 +14,7 @@ tags:
 - Xbox 360 slim
 ---
 
-**[Microsoft تكشف عن نسخة أنحف منXbox 360](http://www.it-scoop.com/2010/06/microsoft-unveils-xbox-360-slim)**
+**[Microsoft تكشف عن نسخة أنحف منXbox 360](https://www.it-scoop.com/2010/06/microsoft-unveils-xbox-360-slim)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Xbox-360-Slim.jpg)
-](http://www.it-scoop.com/2010/06/microsoft-unveils-xbox-360-slim)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Xbox-360-Slim.jpg)
+](https://www.it-scoop.com/2010/06/microsoft-unveils-xbox-360-slim)
 
 
 

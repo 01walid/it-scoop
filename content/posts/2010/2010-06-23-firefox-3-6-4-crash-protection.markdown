@@ -13,7 +13,7 @@ tags:
 - Mozilla
 ---
 
-**[Mozilla تطلق التحديث 3.6.4 لمتصفح Firefox و الذي يعزل الإضافات عن باقي المتصفح](http://www.it-scoop.com/2010/06/firefox-3-6-4-crash-protection)**
+**[Mozilla تطلق التحديث 3.6.4 لمتصفح Firefox و الذي يعزل الإضافات عن باقي المتصفح](https://www.it-scoop.com/2010/06/firefox-3-6-4-crash-protection)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/mozilla-firefox.jpg)
-](http://www.it-scoop.com/2010/06/firefox-3-6-4-crash-protection)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/mozilla-firefox.jpg)
+](https://www.it-scoop.com/2010/06/firefox-3-6-4-crash-protection)
 
 
 

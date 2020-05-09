@@ -13,7 +13,7 @@ tags:
 - QR Codes
 ---
 
-[**Bit.ly يضيف خاصية الـ QR Codes إلى خدمة تقصير الروابط**](http://www.it-scoop.com/2010/10/bit-ly-qr-codes/)
+[**Bit.ly يضيف خاصية الـ QR Codes إلى خدمة تقصير الروابط**](https://www.it-scoop.com/2010/10/bit-ly-qr-codes/)
 
 
 قرر موقع Bit.ly المتخصص في خدمة تقصير الروابط إضافة خاصية QR Codes إلى خدمته. حيث تكفي إضافة .qr إلى نهاية أي من روابط bit.ly لاستظهار الـ QR code. كالتالي:
@@ -22,8 +22,8 @@ tags:
 
 [http://bit.ly/bUCcGq.qr](http://bit.ly/bUCcGq.qr)
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/bit.ly-logo-300x232.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/10/bit.ly-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/bit.ly-logo-300x232.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/10/bit.ly-logo.jpg)
 
 تأتي هذه الخطوة  بعد أن قامت Google بإطلاق خدمة تقصير الروابط الخاصة بها Goo.gl و التي توفر هذه الخاصية، مما لا يدع مجالا للشك بإحساس Bit.ly بالخطر الذي قد يلحقها من طرف Google.
 

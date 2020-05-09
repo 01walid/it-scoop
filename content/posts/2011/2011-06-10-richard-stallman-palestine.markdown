@@ -14,15 +14,15 @@ tags:
 - فلسطين
 ---
 
-[**Richard Stallman يؤكد زيارته لفلسطين**](http://www.it-scoop.com/2011/06/richard-stallman-palestine/ )
+[**Richard Stallman يؤكد زيارته لفلسطين**](https://www.it-scoop.com/2011/06/richard-stallman-palestine/ )
 
 
 تلقينا لتنونا بيانا صحفيا من طرف [مجتمع المصدر المفتوح الفلسطيني](http://www.opensource.ps/) يعلن عن تأكيد Richard Stallman زيارته لفلسطين المرتقبة خلال شهر يوليو القادم. و قد أعلن Stallman شخصيا عن الأمر على موقعه الرسمي من [هنا](http://stallman.org/articles/palestine-trip.html). و إليكم نص البيان الصحفي:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/richard_stallman.jpg)
-](http://www.it-scoop.com/2011/06/richard-stallman-palestine/)<!-- more -->
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/richard_stallman.jpg)
+](https://www.it-scoop.com/2011/06/richard-stallman-palestine/)<!-- more -->
 
 ** **
 

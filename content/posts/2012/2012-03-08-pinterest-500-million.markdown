@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/Pinterest-logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Pinterest-logo.jpg)Pinterest لا تحقق حاليا أية أرباح، ولا تملك أية مداخيل، لكن ما الذي يدفع الصندوق الاستثماري Privco  إلى [تقدير قيمته بحوالي 500 مليون دولار](http://www.privco.com/press/top-5-reasons-facebook-should-acquire-pinterest-and-quickly) وهو ما يُمثل أزيد من 18 ضعفا لقيمة الاستثمار الذي حصلت عليه الشبكة (27.5 مليون دولار) مؤخرا وما الذي يدفعها إلى أن تنصح Facebook إلى شرائه لتنجب مُنافسته؟ الجواب يكمن في الزيادة الكبيرة في عدد المُستخدمين التي تعرفها الشبكة حيث استطاعت أن تُضاعف عدد مستخدميها ثلاث مرات مؤخرا رغم كونها في مرحلة تجريبية، كما أن طريقة تفاعل المُستخدمين معها User Engagement ملفتة للانتباه.
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/Pinterest-logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Pinterest-logo.jpg)Pinterest لا تحقق حاليا أية أرباح، ولا تملك أية مداخيل، لكن ما الذي يدفع الصندوق الاستثماري Privco  إلى [تقدير قيمته بحوالي 500 مليون دولار](http://www.privco.com/press/top-5-reasons-facebook-should-acquire-pinterest-and-quickly) وهو ما يُمثل أزيد من 18 ضعفا لقيمة الاستثمار الذي حصلت عليه الشبكة (27.5 مليون دولار) مؤخرا وما الذي يدفعها إلى أن تنصح Facebook إلى شرائه لتنجب مُنافسته؟ الجواب يكمن في الزيادة الكبيرة في عدد المُستخدمين التي تعرفها الشبكة حيث استطاعت أن تُضاعف عدد مستخدميها ثلاث مرات مؤخرا رغم كونها في مرحلة تجريبية، كما أن طريقة تفاعل المُستخدمين معها User Engagement ملفتة للانتباه.
 
 
 

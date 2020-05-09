@@ -14,7 +14,7 @@ tags:
 - UberMedia
 ---
 
-**[هل تريد Twitter شراء TweetDeck لـ"قتله" أم لقطع الطريق أمام UberMedia ؟](http://www.it-scoop.com/2011/04/tweetdeck-twitter-ubermedia/)**
+**[هل تريد Twitter شراء TweetDeck لـ"قتله" أم لقطع الطريق أمام UberMedia ؟](https://www.it-scoop.com/2011/04/tweetdeck-twitter-ubermedia/)**
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/TweetDeck.jpg)
-](http://www.it-scoop.com/2011/04/tweetdeck-twitter-ubermedia/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/TweetDeck.jpg)
+](https://www.it-scoop.com/2011/04/tweetdeck-twitter-ubermedia/)
 
 
 

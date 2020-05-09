@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[Gmail: إضافة خاصيتي استرجاع العناوين المحذوفة و تمكين غيرك من الدخول إلى بريدك](http://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation)**
+**[Gmail: إضافة خاصيتي استرجاع العناوين المحذوفة و تمكين غيرك من الدخول إلى بريدك](https://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/gmail_logo-e1263484332925-300x94.png)
-](http://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/gmail_logo-e1263484332925-300x94.png)
+](https://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation)
 
 
 [الخاصية الأولى](http://gmailblog.blogspot.com/2010/12/restore-your-contacts.html) تتمثل في التمكن من استرجاع العناوين المحذوفة (عمدا أو عن طريق الخطأ) حيث أصبح من الممكن  الرجوع إلى حالتها(Contact List) إلى ما كانت عليه منذ 10 دقائاق، ساعة، يوم، أسبوع، أو حتى إلى أي تاريخ يحدده المستخدم بنفسه.

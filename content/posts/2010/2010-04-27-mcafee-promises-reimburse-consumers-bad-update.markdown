@@ -14,13 +14,13 @@ tags:
 - VirusScan Enterprise 8.7i SP3
 ---
 
-[**McAfee تقرر تعويض بعض المتضررين من المشاكل التي سببها تحديثها الأمني**](http://www.it-scoop.com/2010/04/McAfee-promises-reimburse-consumers-bad-update)
+[**McAfee تقرر تعويض بعض المتضررين من المشاكل التي سببها تحديثها الأمني**](https://www.it-scoop.com/2010/04/McAfee-promises-reimburse-consumers-bad-update)
 
 
 بعد أن فعلت McAfee فعلتها و قامت [بنشر تحديث أمني في الـ 21 من الشهر الحالي](../../../../../2010/04/mcafee-false-positive-bricks-enterprise-pcs/) و الذي تسبب في مشاكل للعديد من زبائنها المستعملين لحلولها و خاصة من الشركات، و في خطوة منها لتلميع صورتها قررت McAfee تعويض بعض من المتضررين جراء ذلك، شريطة أن تكون التعويضات "منطقية".
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/mcafee_logo.jpg)
-](http://www.it-scoop.com/2010/04/McAfee-promises-reimburse-consumers-bad-update)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/mcafee_logo.jpg)
+](https://www.it-scoop.com/2010/04/McAfee-promises-reimburse-consumers-bad-update)
 
 حيث أشارت McAfee إلى أنها تنوي تقديم تعويضات للمبالغ المدفوعة للفنيين لتصحيح الوضع، مما يعني وجوب تقديم وثائق تثبت ذلك، دون أن تحدد  أي قيمة قصوى للتعويض،إضافة إلى إهدائهم نسخة مجانية لمدة سنتين لمضاد الفيروسات الخاصة بها.
 

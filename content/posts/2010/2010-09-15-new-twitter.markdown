@@ -11,7 +11,7 @@ tags:
 - Twitter
 ---
 
-**[اكتشفوا Twitter... في حلته و نظامه الجديدين]( http://www.it-scoop.com/2010/09/new-twitter/)**
+**[اكتشفوا Twitter... في حلته و نظامه الجديدين]( https://www.it-scoop.com/2010/09/new-twitter/)**
 
 
 
@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/New-Twitter.jpg)
-]( http://www.it-scoop.com/2010/09/new-twitter/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/New-Twitter.jpg)
+]( https://www.it-scoop.com/2010/09/new-twitter/)
 
 
 النظام الجديد يوفر عرضا كاملا للتغريدات بدون الحاجة إلى الضغط في كل مرة على الزر أسفل الصفحة لاستظهار المزيد، كما أنه يسمح باستظهار معلومات متعلقة بكل تغريدة و مشاهدة الصور و الفيديوهات التي تحتويها من دون الحاجة إلى الخروج من الموقع و الذهاب إلى الموقع الذي يستضيف الصور.

@@ -15,13 +15,13 @@ tags:
 - iSuppli
 ---
 
-**[ثمن مجموع القطع المستعلمة في أجهزة iPhone 4 لا يتجاوز187,51 دولار](http://www.it-scoop.com/2010/06/iPhone-4-costs-188-dollars-in-part)**
+**[ثمن مجموع القطع المستعلمة في أجهزة iPhone 4 لا يتجاوز187,51 دولار](https://www.it-scoop.com/2010/06/iPhone-4-costs-188-dollars-in-part)**
 
 
 كعادته قام مكتب iSuppli بتفكيك جهاز iPhone 4 لتقييم ثمن القطع المستعملة في تصنيعه، و النتيجة كانت 187.51 دولار أمريكي فقط. مما يسمح لـ Apple تحقيق أرباح أكبر مقارنة بالأجيال السابقة من أجهزة الـ iPhone.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/iphone-disassembled.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/06/iphone-disassembled.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iphone-disassembled.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/06/iphone-disassembled.jpg)
 
 أغلى قطعة في الجهاز كانت -و بدون منازع- الشاشة، حيث بلغ سعر الشاشة التي تصنعها LG 28.50 دولار، تلاها المعالج A4  المصنع من طرف Samsung و الذي قدر ثمنه بـ 10.75  دولار، و حل ثالثا الـgyroscope الذي يسجل أول ظهور له في هذا الجيل بثمن قدر بـ 2.60 دولار.
 

@@ -16,13 +16,13 @@ tags:
 - iPhone
 ---
 
-**[تطبيق Google Goggles على هواتف iPhone قبل نهاية السنة](http://www.it-scoop.com/2010/08/google-goggles-ios)**
+**[تطبيق Google Goggles على هواتف iPhone قبل نهاية السنة](https://www.it-scoop.com/2010/08/google-goggles-ios)**
 
 
 بعد أن صرح مدير مشروع Google Goggles يوليو الماضي أن العمل جار على توفير التطبيق لنظام iOS دون أن يعطي تفاصيل عن موعد إطلاقه، صرح أمس David Petrou المهندس لدى Google خلال مؤتمر Hot Chips المقام في جامعة Stanford  أن التطبيق قد أصبح شبه جاهز لإطلاقه و أن ذلك سيكون قبل نهاية السنة الجارية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Google-Goggles.jpg)
-](http://www.it-scoop.com/2010/08/google-goggles-ios)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Google-Goggles.jpg)
+](https://www.it-scoop.com/2010/08/google-goggles-ios)
 
 كما أكد Petrou أن إعادة كتابة التطبيق ليتوافق نظام iOS ليس بالأمر الهين نظرا للاختلاف الكبير بين النظامين. كما أكد أن فكرة إطلاق تطبيق ويب  لـ Google Goggles مستبعدة حيث صرح قائلا:
 

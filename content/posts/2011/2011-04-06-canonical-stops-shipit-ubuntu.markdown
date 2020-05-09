@@ -13,13 +13,13 @@ tags:
 - Ubuntu
 ---
 
-[**Canonical توقف برنامج توزيع أقراص Ubuntu المجانية**](http://www.it-scoop.com/2011/04/canonical-stops-shipit-ubuntu/)
+[**Canonical توقف برنامج توزيع أقراص Ubuntu المجانية**](https://www.it-scoop.com/2011/04/canonical-stops-shipit-ubuntu/)
 
 
 إن كنت ألفت استلام أقراص Ubuntu المجانية (عبر برنامج ShipIt الخاص بـ Canonical) فهذا خبر قد لا يسرك إطلاقا، فقد أعلن Gerry Carr  المسؤول عن المنتجات لدى Canonical عن إيقاف برنامج ShipIt  الخاص بإرسال الأقراص المجانية ابتداء من الإصدار القادم و الذي تم إطلاقه سنة 2005.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/shipit_ubuntu.jpg)
-](http://www.it-scoop.com/2011/04/canonical-stops-shipit-ubuntu/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/shipit_ubuntu.jpg)
+](https://www.it-scoop.com/2011/04/canonical-stops-shipit-ubuntu/)
 
 و قد تم التقليص تدريجيا من نشاط هذا البرنامج خلال السنتين الماضيتين و ذلك من حيث عدد الأقراص التي يمكن لكل مشترك طلبها و عدد المرات التي يمكن أن يقدم فيها طلبا.
 

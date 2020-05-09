@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/12/The-Tipping-Point.jpg)
-](http://www.it-scoop.com/2018/12/the-tipping-point-book-review/the-tipping-point/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/12/The-Tipping-Point.jpg)
+](https://www.it-scoop.com/2018/12/the-tipping-point-book-review/the-tipping-point/)
 
 
 
@@ -82,4 +82,4 @@ categories:
 
 
 
-هل أنصح بقراءة الكتاب؟ صراحة لست أدري. إن سبق وأن قرأت أيّا من كُتب جلادويل من قبل فقد لا ترغب في "إفساد" أي لذّة وجدتها في تلك الكتب بما قد تقرأ في هذا الكتاب. إن كنت مهتمًا أكثر بالأسلوب القصصي الذي يتّبعه الكاتب فستجد ضالتك في هذا الكتاب. إن لم يسبق لك قراءة أي كتاب لجلادويل وترغب في التّعرف على أسلوبه فأنصحك حينها بقراءة كتاب outliers. ستجد مُراجعتي له هنا: [http://www.it-scoop.com/2016/12/outliers/](http://www.it-scoop.com/2016/12/outliers/)
+هل أنصح بقراءة الكتاب؟ صراحة لست أدري. إن سبق وأن قرأت أيّا من كُتب جلادويل من قبل فقد لا ترغب في "إفساد" أي لذّة وجدتها في تلك الكتب بما قد تقرأ في هذا الكتاب. إن كنت مهتمًا أكثر بالأسلوب القصصي الذي يتّبعه الكاتب فستجد ضالتك في هذا الكتاب. إن لم يسبق لك قراءة أي كتاب لجلادويل وترغب في التّعرف على أسلوبه فأنصحك حينها بقراءة كتاب outliers. ستجد مُراجعتي له هنا: [https://www.it-scoop.com/2016/12/outliers/](https://www.it-scoop.com/2016/12/outliers/)

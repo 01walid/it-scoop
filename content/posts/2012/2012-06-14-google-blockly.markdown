@@ -18,13 +18,13 @@ tags:
 - جوجل
 ---
 
-هل تذكرون خدمة [App Inventor](http://www.it-scoop.com/2010/07/google-app-inventor/) التي تُتيح برمجة تطبيقات لنظام Android من دون كتابة أي سطر؟ الآن يمكن القيام بأمر مماثل مع تطبيقات الويب، وذلك مع مشروع **Blockly** الذي أطلقته **Google** لتسهيل مهمة إنشاء تطبيقات الويب الصغيرة من دون كتابتها.
+هل تذكرون خدمة [App Inventor](https://www.it-scoop.com/2010/07/google-app-inventor/) التي تُتيح برمجة تطبيقات لنظام Android من دون كتابة أي سطر؟ الآن يمكن القيام بأمر مماثل مع تطبيقات الويب، وذلك مع مشروع **Blockly** الذي أطلقته **Google** لتسهيل مهمة إنشاء تطبيقات الويب الصغيرة من دون كتابتها.
 
 
 
 
-[caption id="attachment_10966" align="aligncenter" width="284"][![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-blockly-sample.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-blockly-sample.png) مثال عن برنامج "مكتوب" بلغة Blockly[/caption]
+[caption id="attachment_10966" align="aligncenter" width="284"][![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-blockly-sample.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-blockly-sample.png) مثال عن برنامج "مكتوب" بلغة Blockly[/caption]
 
 
 [حسب Google](http://code.google.com/p/google-blockly/wiki/FAQHighLevel)  فإن أهم عائقين يواجهان متعلم البرمجة هما وصف فكرته وتحويلها إلى جملة من "التصريحات المنطقية" تفهمها الآلة، إضافة إلى تجنب الأخطاء المتعلقة باللغة البرمجية، وهو العائق الذي لن يواجهه مستخدمو  Blockly لعدم حاجتهم إلى كتابة أية أسطر برمجية لإنشاء تطبيقاتهم.

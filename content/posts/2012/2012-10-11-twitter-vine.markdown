@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/twitter-video.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/twitter-video.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/twitter-video.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/twitter-video.png)
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 
-من المتوقع أن لا يُثير إطلاق هذه الخدمة -إن تم- حفيظة خدمات نشر الفيديوهات على تويتر مثل خدمة TwitVid، yFrog وغيرهما فحسب، وإنما سيزيد الوضع الحالي ما بين تويتر ومطوري التطبيقات الطرف الثالث تعقيدا، [خصوصا بعد أن أغلقت الطريق أمام خدمات نشر الصور أمثال TwitPic على تطبيقاتها على الهواتف الذكية](http://www.it-scoop.com/2012/09/twitter-forces-use-image-service-ios-apps/) إَضافة إلى [التضييقات المؤخرة على واجهتها البرمجية](http://www.it-scoop.com/2012/08/twitter-new-api-changes/).
+من المتوقع أن لا يُثير إطلاق هذه الخدمة -إن تم- حفيظة خدمات نشر الفيديوهات على تويتر مثل خدمة TwitVid، yFrog وغيرهما فحسب، وإنما سيزيد الوضع الحالي ما بين تويتر ومطوري التطبيقات الطرف الثالث تعقيدا، [خصوصا بعد أن أغلقت الطريق أمام خدمات نشر الصور أمثال TwitPic على تطبيقاتها على الهواتف الذكية](https://www.it-scoop.com/2012/09/twitter-forces-use-image-service-ios-apps/) إَضافة إلى [التضييقات المؤخرة على واجهتها البرمجية](https://www.it-scoop.com/2012/08/twitter-new-api-changes/).
 
 
 

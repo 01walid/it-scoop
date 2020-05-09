@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/08/Data-and-Goliath.jpg)
-](http://www.it-scoop.com/2018/08/data-and-goliath-review/data-and-goliath_pbk_978-0-393-35217-7-indd/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/08/Data-and-Goliath.jpg)
+](https://www.it-scoop.com/2018/08/data-and-goliath-review/data-and-goliath_pbk_978-0-393-35217-7-indd/)
 
 
 

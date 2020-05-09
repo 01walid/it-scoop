@@ -23,9 +23,9 @@ tags:
 أكيد نحن نتكلم عن Red Hat، لكن من هي الابنة المدللة ؟ .. إذا كنت من مناصري القبعة الحمراء، فحتما أنت عرفتها، ومن غيرها Fedora !، لكن هذه المرة فأنت من سيرفع قبعته الحمراء:p لما ستحويه الحسناء من ميزات قادمة، وقد أُريد للمُسمى أن يكون له اسما مناسبا للمناسبة فكان « Lovelock » ...لكن تمهل ..... فليس كل ما يرجوه المرء يدركه -فورا- ... تأتي الإصدارات متأخرة كالعادة:) لذلك فصبر جميل إلى غاية 10 مايو القادم، وقبل أن تهيج بي قريحتي وأهيّج بها في المقدمة، ننتقل إلى الجد:)
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo21.jpeg)
-](http://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)[![](http://www.it-scoop.com/wp-content/uploads/2011/02/Logo_fedoralogo-300x91.png)
-](http://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo21.jpeg)
+](https://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)[![](https://www.it-scoop.com/wp-content/uploads/2011/02/Logo_fedoralogo-300x91.png)
+](https://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-أيضا ستأتي هذه الاصدارة بنواة Linux رقم 2.6.38 والتي ستشهد [الترقيع المعجزة الذي يسرع تعددية المهام!](http://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders/)
+أيضا ستأتي هذه الاصدارة بنواة Linux رقم 2.6.38 والتي ستشهد [الترقيع المعجزة الذي يسرع تعددية المهام!](https://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders/)
 
 
 

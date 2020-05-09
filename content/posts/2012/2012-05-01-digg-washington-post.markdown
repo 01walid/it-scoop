@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/digg-logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/digg-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/digg-logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/digg-logo.jpg)
 
 
 

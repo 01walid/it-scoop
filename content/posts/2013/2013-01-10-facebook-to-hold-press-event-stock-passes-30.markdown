@@ -19,7 +19,7 @@ tags:
 
 
 
-![facebook-event-invitation](http://www.it-scoop.com/wp-content/uploads/2013/01/facebook-event-invitation.jpeg)
+![facebook-event-invitation](https://www.it-scoop.com/wp-content/uploads/2013/01/facebook-event-invitation.jpeg)
 
 
 
@@ -30,18 +30,18 @@ tags:
 
 
 
-![facebook-new-timeline](http://www.it-scoop.com/wp-content/uploads/2013/01/facebook-new-timeline.png)
+![facebook-new-timeline](https://www.it-scoop.com/wp-content/uploads/2013/01/facebook-new-timeline.png)
 
 
 
 
 
-إلا أن هناك من يرى بأن الإعلان سيخص تحسينات تخص تطبيق الشبكة على الهواتف الذكية. لكن هناك من تمادى في تخيله ليُعيد طرح فكرة [هاتف خاص بفيس بوك](http://www.it-scoop.com/2010/09/facebook-phone/)، رغم أن Zuckerberg قد سبق له وأن [أقر](http://techcrunch.com/2012/09/11/mark-zuckerberg-a-facebook-phone-just-doesnt-make-any-sense/) بأن فكرة هاتف ذكي خاص بالشبكة لا معنى له على الإطلاق.
+إلا أن هناك من يرى بأن الإعلان سيخص تحسينات تخص تطبيق الشبكة على الهواتف الذكية. لكن هناك من تمادى في تخيله ليُعيد طرح فكرة [هاتف خاص بفيس بوك](https://www.it-scoop.com/2010/09/facebook-phone/)، رغم أن Zuckerberg قد سبق له وأن [أقر](http://techcrunch.com/2012/09/11/mark-zuckerberg-a-facebook-phone-just-doesnt-make-any-sense/) بأن فكرة هاتف ذكي خاص بالشبكة لا معنى له على الإطلاق.
 
 
 
 
-![facebook-phone](http://www.it-scoop.com/wp-content/uploads/2010/09/facebook-phone.jpeg)
+![facebook-phone](https://www.it-scoop.com/wp-content/uploads/2010/09/facebook-phone.jpeg)
 
 
 

@@ -14,7 +14,7 @@ tags:
 - iPhone4
 ---
 
-**[Apple](http://www.it-scoop.com/2010/07/apple-antenna-press-conference/)****[تعلن عن مؤتمر صحفي بسبب مشاكل الهوائي الخاصة بالـ iPhone 4](http://www.it-scoop.com/2010/07/apple-antenna-press-conference/)**
+**[Apple](https://www.it-scoop.com/2010/07/apple-antenna-press-conference/)****[تعلن عن مؤتمر صحفي بسبب مشاكل الهوائي الخاصة بالـ iPhone 4](https://www.it-scoop.com/2010/07/apple-antenna-press-conference/)**
 
 
 
@@ -29,8 +29,8 @@ tags:
 ** **بعد جملة الانتقادات التي تعرضت لها Apple بسبب مشاكل الهوائي التي يعرفها الـ iPhone4 و بعد أن طالبت المستخدمين بعدم مسك الجهاز بشمائلهم تارة، و إشارتها إلى كون الخلل برمجي فقط تارة أخرى، و بعد أن خرجت الأمور عن السيطرة بإعلان مجلة Consumer Reports العريقة أنها لا تنصح قراءها بشراء الـ iPhone 4 كون مشكل الهوائي مشكل في العتاد و ليس برمجيا مما سبب تراجعا في قيمة أسهم Apple، سارعت Apple (إن جاز قول ذلك) بالإعلان عن مؤتمر صحفي غدا الجمعة و الذي سيكون محتواه بدون شك مشكل الهوائي.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/steve-jobs-iphone.png)
-](http://www.it-scoop.com/2010/07/apple-antenna-press-conference/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/steve-jobs-iphone.png)
+](https://www.it-scoop.com/2010/07/apple-antenna-press-conference/)
 
 لا ندري ما هي الورقة التي ستكشف عنها Apple يوم غد خاصة بعد أن أصدرت تحديثا للـ iOS4 الذي لا يحل مشكل الهوائي عكس ما كان منتظرا منه. لكن تبقى أمام Apple بعض الحلول المكلفة، إما استدعاء جميع الأجهزة المباعة و هو ما سيكلفها قرابة 1.5 مليار دولار، أو تقديم أنصاف حلول المتمثلة في توفير أغطية خاصة للهاتف تقلل من المشكل و هو ما سيكلفها 45 مليون دولار، لكنه حل استعبدته Apple منذ ظهور أولى بوادر المشكل.
 

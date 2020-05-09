@@ -18,13 +18,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/Mike-Verdu-zynga.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/Mike-Verdu-zynga.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/Mike-Verdu-zynga.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/Mike-Verdu-zynga.jpg)
 
 
 
 
-وقد يكون السبب المباشر لهذه الاستقالات المتتالية الأوضاع المالية الحرجة للشركة، حيث أن سهمها في البورصة فقد أكثر من 70% من قيمته، حيث نزل في الآونة الأخيرة تحت سقف 3 دولار للسهم الواحد وذلك بعد أن كان [السعر الافتتاحي له 10 دولارات للسهم الواحد](http://www.it-scoop.com/2011/12/zynga-ipo/).
+وقد يكون السبب المباشر لهذه الاستقالات المتتالية الأوضاع المالية الحرجة للشركة، حيث أن سهمها في البورصة فقد أكثر من 70% من قيمته، حيث نزل في الآونة الأخيرة تحت سقف 3 دولار للسهم الواحد وذلك بعد أن كان [السعر الافتتاحي له 10 دولارات للسهم الواحد](https://www.it-scoop.com/2011/12/zynga-ipo/).
 
 
 

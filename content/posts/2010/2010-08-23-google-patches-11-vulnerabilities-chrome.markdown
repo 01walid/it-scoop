@@ -15,13 +15,13 @@ tags:
 - Security
 ---
 
-**[Google تصدر تحديثا لـ Chrome يرقع 11 ثغرة](http://www.it-scoop.com/2010/08/google-patches-11-vulnerabilities-chrome)**
+**[Google تصدر تحديثا لـ Chrome يرقع 11 ثغرة](https://www.it-scoop.com/2010/08/google-patches-11-vulnerabilities-chrome)**
 
 
 نشرت Google التحديث رقم 5.0.375.127 لمتصفح Chrome و الذي يأتي ليرقع 11 ثغرة و تخص كلا من Windows، Mac و Linux.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
-](http://www.it-scoop.com/2010/08/google-patches-11-vulnerabilities-chrome)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
+](https://www.it-scoop.com/2010/08/google-patches-11-vulnerabilities-chrome)
 
 3 ثغرات من مجموع الـ 11 ثغرة التي يرقعها التحديث الجديد وصفت بالحرجة  إحداها تستغل ثغرة في نظام Windows و سبع أخريات وصفت بعالية الخطورة.
 

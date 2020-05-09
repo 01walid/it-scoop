@@ -13,13 +13,13 @@ tags:
 - ipad
 ---
 
-[**Apple تحدد الـ 28 مايو القادم موعدا لإطلاق الـ iPad في 9 دول، و 9 دول أخرى ستحظى به خلال شهر يوليو**](http://www.it-scoop.com/2010/05/ipad-available-nine-more-countries)
+[**Apple تحدد الـ 28 مايو القادم موعدا لإطلاق الـ iPad في 9 دول، و 9 دول أخرى ستحظى به خلال شهر يوليو**](https://www.it-scoop.com/2010/05/ipad-available-nine-more-countries)
 
 
 أعلنت Apple اليوم عن أن الـ 28 من شهر مايو الحالي هو موعد إطلاق جهازها اللوحي iPad في 9 دول غير الولايات المتحدة الأمريكية ،  و سيتم تأخير الإطلاق في 9 دول أخرى إلى غاية شهر يوليو القادم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/apple-ipad.jpg)
-](http://www.it-scoop.com/2010/05/ipad-available-nine-more-countries)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/apple-ipad.jpg)
+](https://www.it-scoop.com/2010/05/ipad-available-nine-more-countries)
 
 الدول المعنية بالإطلاق في الـ 28 من الشهر الحالي هي كل من أستراليا، كندا، فرنسا، ألمانيا، إيطاليا، اليابان ، إسبانيا، سويسرا و المملكة المتحدة.
 

@@ -15,8 +15,8 @@ tags:
 - python
 ---
 
-غريب ما يبحث عنه العمالقة، وغريبة هي، تلك الظاهر المنتشرة في الآونة الأخيرة، وأعني هجرة <del>الأدمغة</del> كبار المبرمجين والشخصيات المعروفة في عالم التقنية من كبرى الشركات إلى شركات أقل منها قيمة أو حتى شركات ناشئة، وآخر من [قام](https://tech.dropbox.com/2012/12/welcome-guido/) بذلك هو **Guido Van Rossum** مبتكر لغة البرمجة **Python**.[![](http://www.it-scoop.com/wp-content/uploads/2012/12/ungood-guido-van-rossum.jpeg)
-](http://www.it-scoop.com/wp-content/uploads/2012/12/ungood-guido-van-rossum.jpeg)
+غريب ما يبحث عنه العمالقة، وغريبة هي، تلك الظاهر المنتشرة في الآونة الأخيرة، وأعني هجرة <del>الأدمغة</del> كبار المبرمجين والشخصيات المعروفة في عالم التقنية من كبرى الشركات إلى شركات أقل منها قيمة أو حتى شركات ناشئة، وآخر من [قام](https://tech.dropbox.com/2012/12/welcome-guido/) بذلك هو **Guido Van Rossum** مبتكر لغة البرمجة **Python**.[![](https://www.it-scoop.com/wp-content/uploads/2012/12/ungood-guido-van-rossum.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2012/12/ungood-guido-van-rossum.jpeg)
 
 بعد ابتكاره لغة Python عام 1991 أصبح Guido أوّل [BDFL](http://en.wikipedia.org/wiki/Benevolent_Dictator_for_Life)، أي "الدكتاتور الخيِّر مدى الحياة" وهو لقب يُمنح لعدد قليل من أعلام مطوري المصادر المفتوحة أمثال مطور نواة Linux، ممن تركوا بصمتهم في هذا العالم، عادة يكون لمؤسس مشروع ما تبقى الكلمة الأخيرة في تسيير المشروع منوطة به (ومن هنا جاء لقب "**دكتاتور**") لكن مجتمع المطورين يثق به ثقة عمياء ويطيعونه ﻷنه **خيّر** بطبعه وقراراته ورؤيته للمشروع سليمة كونه هو من بدأ به، يبقى هذا نافذا **طيلة حياته**.
 

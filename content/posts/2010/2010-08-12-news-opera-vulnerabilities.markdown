@@ -15,7 +15,7 @@ tags:
 - Security
 ---
 
-**[الإعلان عن ثغرات أمنية في متصفح Opera](http://www.it-scoop.com/2010/08/news-opera-vulnerabilities/)**
+**[الإعلان عن ثغرات أمنية في متصفح Opera](https://www.it-scoop.com/2010/08/news-opera-vulnerabilities/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/opera-logo.jpg)
-](http://www.it-scoop.com/2010/08/news-opera-vulnerabilities/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/opera-logo.jpg)
+](https://www.it-scoop.com/2010/08/news-opera-vulnerabilities/)
 
 
 المشاكل المعلن عنها كانت كالتالي:

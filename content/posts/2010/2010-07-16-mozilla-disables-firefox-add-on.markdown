@@ -15,15 +15,15 @@ tags:
 - Mozilla Sniffer
 ---
 
-**[Mozilla توقف إضافتين ضارتين لمتصفح Firefox](http://www.it-scoop.com/2010/07/mozilla-disables-firefox-add-on)**
+**[Mozilla توقف إضافتين ضارتين لمتصفح Firefox](https://www.it-scoop.com/2010/07/mozilla-disables-firefox-add-on)**
 
 
-**[ ](http://www.it-scoop.com/2010/07/mozilla-disables-firefox-add-on)**
+**[ ](https://www.it-scoop.com/2010/07/mozilla-disables-firefox-add-on)**
 
 قامت Mozilla مؤخرا بإيقاف إضافتين لمتصفحها Firefox بسبب الضرر الذي تسببانه للمستخدمين، حيث تعمدان إلى سرقة بياناتهم و تنفيذ بعض الأكواد الخطيرة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/firefox-addons.jpg)
-](http://www.it-scoop.com/2010/07/mozilla-disables-firefox-add-on)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/firefox-addons.jpg)
+](https://www.it-scoop.com/2010/07/mozilla-disables-firefox-add-on)
 
 الإضافتان المعنيتان بالأمر هما كل من Mozilla Sniffer و التي تقوم بحفظ بيانات مختلف النماذج و إرسالها إلى خادم خاص يتولى حفظ البيانات. و قد تم تحميل الإضافة 1800 مرة و  تعرف استعمالا من طرف 300 مستخدم، و هو ما دفع Mozilla إلى إرسال تحذير إلى ضحايا هذه الإضافة لحدثهم على تغيير كلمات السر التي يستعملونها.
 

@@ -21,7 +21,7 @@ tags:
 
 قضت محكمة ولاية Utah الأمريكية من جديد لصالح شركة Novell في القضية التي رفعتها ضدها منذ 7 سنوات SCO Group و التي تطالب فيها بملكيتها لـ Unix.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/novell_logo.gif)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/novell_logo.gif)
 ](it-scoop.com/2010/06/Novell-wins-final-judgment-SCO)
 
 و بينت المحكمة مرة أخرى أن Novell لم تتنازل عن حقوقها الخاصة بـ Unix لما قامت ببيعه لـ SCO  سنة 1995 مثلما تدعيه هذه الأخيرة،

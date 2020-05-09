@@ -18,8 +18,8 @@ tags:
 
 كشفت شركة **Condor** الجزائرية للالكترونيات خلال معرضها في الصالون الدولي لتكنولوجيا المعلومات Med-it، عن أولى نماذجها من **الحواسيب اللوحية** ذوات 10 بوصة/إنش، جزائرية الصنع.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/Condor_Tablet1-300x225.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/Condor_Tablet1.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/Condor_Tablet1-300x225.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/Condor_Tablet1.jpg)
 
 وفي ظل شح المصادر حتى على مستوى الموقع الرسمي للشركة، [نشر موقع mobilealgerie](http://www.mobilealgerie.com/index.php?news=4098) بضع معلومات حول الأمر، لنجد أن من خصائصها:
 

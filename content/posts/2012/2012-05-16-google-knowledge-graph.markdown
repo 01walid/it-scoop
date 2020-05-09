@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/google-semantic-search.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/google-semantic-search.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/google-semantic-search.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/google-semantic-search.jpg)
 
 
 
@@ -42,8 +42,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-disambiguation.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-disambiguation.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-disambiguation.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-disambiguation.jpg)
 
 
 
@@ -58,8 +58,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-marie-curie-1024x460.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-marie-curie.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-marie-curie-1024x460.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/google-knowledge-graph-marie-curie.png)
 
 
 
@@ -84,8 +84,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-taj-mahal-1024x663.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-taj-mahal.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-taj-mahal-1024x663.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-taj-mahal.png)
 
 
 
@@ -95,8 +95,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-matt-groening-1024x586.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-matt-groening.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-matt-groening-1024x586.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/google-Knowledge-Graph-matt-groening.png)
 
 
 

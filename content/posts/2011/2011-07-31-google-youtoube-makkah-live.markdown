@@ -16,13 +16,13 @@ tags:
 - مكة
 ---
 
-[**Google تبثّ الصّلوات من الحرم المكّيّ مباشرة عبر YouTube خلال شهر رمضان**](http://www.it-scoop.com/2011/07/google-youtoube-makkah-live/)
+[**Google تبثّ الصّلوات من الحرم المكّيّ مباشرة عبر YouTube خلال شهر رمضان**](https://www.it-scoop.com/2011/07/google-youtoube-makkah-live/)
 
 
 أعلنت Google [عبر مدوّنتها العربيّة](http://google-arabia.blogspot.com/2011/07/youtube.html) عن توفيرها [لقناة مخصّصة](http://www.youtube.com/MakkahLive) على YouTube لبثّ صلاة التّراويح من الحرم المكّي بالتّعاون مع وزارة الثّقافة والإعلام السّعوديّة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/makkah.jpg)
-](http://www.it-scoop.com/2011/07/google-youtoube-makkah-live/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/makkah.jpg)
+](https://www.it-scoop.com/2011/07/google-youtoube-makkah-live/)
 
 وذكر نجيب جرّار، مدير التسويق للشرق الأوسط وشمال أفريقيا لدى Google
 

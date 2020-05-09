@@ -11,7 +11,7 @@ tags:
 - IBM
 ---
 
-**[IBM تحتل صدارة براءات الاختراع المسجلة خلال عام واحد للسنة الـ18 على التوالي]( http://www.it-scoop.com/2011/01/ibm-2010-patents/)**
+**[IBM تحتل صدارة براءات الاختراع المسجلة خلال عام واحد للسنة الـ18 على التوالي]( https://www.it-scoop.com/2011/01/ibm-2010-patents/)**
 
 
 
@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/IBM.jpeg)
-]( http://www.it-scoop.com/2011/01/ibm-2010-patents/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/IBM.jpeg)
+]( https://www.it-scoop.com/2011/01/ibm-2010-patents/)
 
 
 و إليكم ترتيب الشركات العشر الأولى:

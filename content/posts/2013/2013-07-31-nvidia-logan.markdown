@@ -19,8 +19,8 @@ tags:
 
 
 
- [![NVIDIA-logan](http://www.it-scoop.com/wp-content/uploads/2013/07/NVIDIA-logan.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/NVIDIA-logan.jpg)
+ [![NVIDIA-logan](https://www.it-scoop.com/wp-content/uploads/2013/07/NVIDIA-logan.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/NVIDIA-logan.jpg)
 
 
 

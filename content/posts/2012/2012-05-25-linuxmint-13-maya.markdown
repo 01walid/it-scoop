@@ -20,13 +20,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/LinuxMint-13-Maya.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/LinuxMint-13-Maya.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/LinuxMint-13-Maya.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/LinuxMint-13-Maya.jpg)
 
 
 
 
-توزيعة Linux Mint مبنية على توزيعة Ubuntu [لكن شعبيتها تجاوزت شعبية Ubuntu](http://www.it-scoop.com/2011/11/linux-mint-overtakes-ubuntu/)، حيث أنها توزيعة Linux بكل ما تحتويه خصائص Ubuntu لكنها تأتي مجهزة بـ Codec وتطبيقات مجانية حتى وإن لم تكن مفتوحة المصدر، مما يسهل المهمة أمام القادمين الجدد إلى عالم لينُكس، كما أنها لا توافق على تخلي Ubuntu عن سطح مكتب Gnome وتحولها إلى سطح مكتب Unity ولا عن تخلي Gnome عن البساطة التي يعرفها الإصدار الثاني منه، حيث أن الإصدار الثالث مختلف جذريا عنه.
+توزيعة Linux Mint مبنية على توزيعة Ubuntu [لكن شعبيتها تجاوزت شعبية Ubuntu](https://www.it-scoop.com/2011/11/linux-mint-overtakes-ubuntu/)، حيث أنها توزيعة Linux بكل ما تحتويه خصائص Ubuntu لكنها تأتي مجهزة بـ Codec وتطبيقات مجانية حتى وإن لم تكن مفتوحة المصدر، مما يسهل المهمة أمام القادمين الجدد إلى عالم لينُكس، كما أنها لا توافق على تخلي Ubuntu عن سطح مكتب Gnome وتحولها إلى سطح مكتب Unity ولا عن تخلي Gnome عن البساطة التي يعرفها الإصدار الثاني منه، حيث أن الإصدار الثالث مختلف جذريا عنه.
 
 
 

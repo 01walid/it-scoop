@@ -23,8 +23,8 @@ tags:
 
 
 
-[![facebook-atlas](http://www.it-scoop.com/wp-content/uploads/2013/03/facebook-atlas.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/facebook-atlas.png)
+[![facebook-atlas](https://www.it-scoop.com/wp-content/uploads/2013/03/facebook-atlas.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/facebook-atlas.png)
 
 
 

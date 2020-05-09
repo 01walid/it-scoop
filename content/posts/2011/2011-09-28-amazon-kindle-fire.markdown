@@ -17,7 +17,7 @@ tags:
 - Silk
 ---
 
-[**Amazon Kindle Fire قارئ إلكتروني متطور أم جهاز لوحي متخلف؟ أم هو نوع جديد من الأجهزة الالكترونية؟**](http://www.it-scoop.com/2011/09/amazon-kindle-fire/)
+[**Amazon Kindle Fire قارئ إلكتروني متطور أم جهاز لوحي متخلف؟ أم هو نوع جديد من الأجهزة الالكترونية؟**](https://www.it-scoop.com/2011/09/amazon-kindle-fire/)
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/amazon-kindle-fire-3.jpg)
-](http://www.it-scoop.com/2011/09/amazon-kindle-fire/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/amazon-kindle-fire-3.jpg)
+](https://www.it-scoop.com/2011/09/amazon-kindle-fire/)
 
 
 
@@ -65,7 +65,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/kindle-fire-kindle-touch.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/kindle-fire-kindle-touch.jpg)
 ](www.it-scoop.com/2011/09/amazon-kindle-fire/)
 
 

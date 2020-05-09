@@ -13,13 +13,13 @@ tags:
 - Windows MultiPoint Server 2010
 ---
 
-[**Microsoft تطلق رسميا Windows MultiPoint Server 2010 نظام تشغيل للمدارس**](http://www.it-scoop.com/2010/02/microsoft-%d8%aa%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-windows-multipoint-server-2010-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%84%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3/)
+[**Microsoft تطلق رسميا Windows MultiPoint Server 2010 نظام تشغيل للمدارس**](https://www.it-scoop.com/2010/02/microsoft-%d8%aa%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-windows-multipoint-server-2010-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%84%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3/)
 
 
 أعلنت Microsoft عن آخر إنتاجاتها في مجال أنظمة التشغيل، بنظام تشغيل من نوع خاص موجه بصفة أولى إلى المدارس و مراكز التعليم التي لا تتوفر على تجهيزات كثيرة.
 
 [![](http://www.microsoft.com/windows/multipoint/images/logo-multipoint-server-2010.gif)
-](http://www.it-scoop.com/2010/02/microsoft-%d8%aa%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-windows-multipoint-server-2010-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%84%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3/)
+](https://www.it-scoop.com/2010/02/microsoft-%d8%aa%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-windows-multipoint-server-2010-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d9%84%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3/)
 
 النظام الجديد المسمى Windows MultiPoint Server 2010 سيسمح بربط أكثر من شاشة و لوحة مفاتيح و فأرة بنفس الوحدة المركزية.
 

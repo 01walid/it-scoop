@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/12/The-Human-Instinct.jpg)
-](http://www.it-scoop.com/2018/12/the-human-instinct-book-review/the-human-instinct/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/12/The-Human-Instinct.jpg)
+](https://www.it-scoop.com/2018/12/the-human-instinct-book-review/the-human-instinct/)
 
 
 
@@ -57,7 +57,7 @@ categories:
 
 
 
-إن كنت قرأت[ مقالي السابق حول كتاب ](http://www.it-scoop.com/2018/12/the-tipping-point-book-review/)[The tipping Point](http://www.it-scoop.com/2018/12/the-tipping-point-book-review/) أين أشرت إلى أنني أعدت النّظر في ما يُنشر تحت تصنيف "العلوم الشعبية"، فما لم أذكره في ذلك المقال هو أن الكتاب الذي أنا بصدد الحديث عنه هنا هو ما عزّز لدي تلك القناعة، ليس بخصوص كتب العلوم الشعبية فحسب وإنما في الكثير مما يُنشر من دراسات ذات طابع علمي والتي تهدف إلى إثبات نظريات وآراء يصعب حتى التّحقق منها أو إثبات مدى خطأها falsifiability.
+إن كنت قرأت[ مقالي السابق حول كتاب ](https://www.it-scoop.com/2018/12/the-tipping-point-book-review/)[The tipping Point](https://www.it-scoop.com/2018/12/the-tipping-point-book-review/) أين أشرت إلى أنني أعدت النّظر في ما يُنشر تحت تصنيف "العلوم الشعبية"، فما لم أذكره في ذلك المقال هو أن الكتاب الذي أنا بصدد الحديث عنه هنا هو ما عزّز لدي تلك القناعة، ليس بخصوص كتب العلوم الشعبية فحسب وإنما في الكثير مما يُنشر من دراسات ذات طابع علمي والتي تهدف إلى إثبات نظريات وآراء يصعب حتى التّحقق منها أو إثبات مدى خطأها falsifiability.
 
 
 

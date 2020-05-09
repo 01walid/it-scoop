@@ -16,7 +16,7 @@ tags:
 
 
 
-**[مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الأول)]( http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-1/)**
+**[مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الأول)]( https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-1/)**
 
 
 
@@ -27,7 +27,7 @@ tags:
 
 
 [![](http://it-scoop.com/rsc/bitDefender_250_250.jpg)
-](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-1/)
+](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-1/)
 
 
 يوفر لك برنامج bitdefender internet security 2010 التالي:
@@ -59,7 +59,7 @@ tags:
 
 الخبر الذي يجب أن تكتب تعليقا عليه هو الظاهر في الصورة التالية:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/facebook.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/facebook.png)
 ](http://www.facebook.com/ITscoopMagazine)
 
 يفضل أن تكون متابعا للمجلة التقنية على [حسابهاالمجلة التقنية على Twitter](http://twitter.com/it_scoop_com) و على [صفحتها على Facebook](http://www.facebook.com/ITscoopMagazine) ليتسنى لنا الاتصال بك إن كنت أنت الفائز بالجائزة.

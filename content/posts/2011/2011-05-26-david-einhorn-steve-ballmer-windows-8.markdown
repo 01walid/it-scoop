@@ -18,13 +18,13 @@ tags:
 - Windows 8
 ---
 
-**[Ballmer يعلن عن موعد Windows 8 و Microsoft تتبرأ من إعلانه، و مستثمرون يودون الإطاحة برأسه](http://www.it-scoop.com/2011/05/david-einhorn-steve-ballmer-windows-8)**
+**[Ballmer يعلن عن موعد Windows 8 و Microsoft تتبرأ من إعلانه، و مستثمرون يودون الإطاحة برأسه](https://www.it-scoop.com/2011/05/david-einhorn-steve-ballmer-windows-8)**
 
 
 زل لسان Steve Ballmer المدير الحالي لـ Microsoft خلال مؤتمر Microsoft Developer Forum الذي أقيم منذ يومين في اليابان و [كشف](http://www.computerworld.com/s/article/9216957/Ballmer_Windows_8_is_coming_in_2012) عن موعد صدور نظام Windows 8 و الذي حدده خلال العام القادم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/steve-ballmer.jpg)
-](http://www.it-scoop.com/2011/05/david-einhorn-steve-ballmer-windows-8)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/steve-ballmer.jpg)
+](https://www.it-scoop.com/2011/05/david-einhorn-steve-ballmer-windows-8)
 
 لكن في المقابل صرح أحد متحدثي Microsoft  الرسميين [لموقع infoworld](http://www.infoworld.com/d/microsoft-windows/microsoft-backpedals-ballmers-windows-8-comments-077?source=rss_infoworld_top_stories_) قائلا بأن الشركة تنتظر بفارغ الصبر إطلاق الإصدار القادم من نظام Windows لكنه لم يتم تحديد أي موعد لذلك.
 

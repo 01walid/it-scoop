@@ -15,13 +15,13 @@ tags:
 - RIM
 ---
 
-**[RIM تطلق BlackBerry Torch المجهز بنظام BlackBerry OS 6.0](http://www.it-scoop.com/2010/08/rim-blackberry-torch)**
+**[RIM تطلق BlackBerry Torch المجهز بنظام BlackBerry OS 6.0](https://www.it-scoop.com/2010/08/rim-blackberry-torch)**
 
 
 كشفت Research In Motion أمس عن أحدث هواتفها الذكية التي تحمل اسم BlackBerry Torch و الذي يعتبر أول هاتف يجهز بنظام  BlackBerry OS 6.0.
 
 [![](http://www.att.com/images/Wireless/Promotions/LandingPages/blackberry_torch/ProjectW_ImageGalleryTAB_LG_6_AA000KNH.jpg  )
-](http://www.it-scoop.com/2010/08/rim-blackberry-torch)
+](https://www.it-scoop.com/2010/08/rim-blackberry-torch)
 
 جهاز BlackBerry Torch يملك لوحة مفاتيح كاملة منزلقة، و شاشة 3.2 بوصة ذات دقة 480X360 Pixels  إلى جانب معالج ذو تردد 1GHz و ذاكرة حية تقدر بـ 512 Mb .
 

@@ -13,13 +13,13 @@ tags:
 - Open source
 ---
 
-[**Microsoft تشارك في معرض المصدر المفتوح في باريس و تعلن أنها لم تعد تحاربه**](http://www.it-scoop.com/2011/05/microsoft-open-source/)
+[**Microsoft تشارك في معرض المصدر المفتوح في باريس و تعلن أنها لم تعد تحاربه**](https://www.it-scoop.com/2011/05/microsoft-open-source/)
 
 
 "لم نعد نحارب المصدر المفتوح" . هذا ما قاله Alfonso Castro المسؤول عن استراتيجية التوافقية لدى الفرع الفرنسي لـ Microsoft و ذلك على هامش [مؤتمر المصدر المفتوح و Linux](http://www.solutionslinux.fr/) الذي أقيم في باريس الأسبوع المنصرم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/windows-open-source_.jpg)
-](http://www.it-scoop.com/2011/05/microsoft-open-source/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/windows-open-source_.jpg)
+](https://www.it-scoop.com/2011/05/microsoft-open-source/)
 
 و حسب موقع [01net الفرنسي](http://www.01net.com/www.01net.com/editorial/532777/microsoft-nous-ne-combattons-plus-l-open-source) فإن  Microsoft و التي دأبت على حضور هذا المؤتمر بشكل سنوي تعتبر أحد رعاة نسخة هذا العام من المعرض (راعي ذهبي). و يشير  Castro إلى أن Microsoft أصبحت تتقرب أكثر فأكثر من العناصر الفاعلة في عالم المصدر المفتوح، و يضرب مثالا بمساهمة شركته بـ 20 ألف سطر برمجي في نواة Linux لدهم الـ[ Hyper-V](http://en.wikipedia.org/wiki/Hyper-V).
 

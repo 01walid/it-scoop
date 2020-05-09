@@ -15,13 +15,13 @@ tags:
 - Verizon
 ---
 
-[**Verizon  تؤكد مشاركتها**** Google لإنتاج جهاز لوحي يعمل بنظام Android**](http://www.it-scoop.com/2010/05/verizon-google-android-tablet/ )
+[**Verizon  تؤكد مشاركتها**** Google لإنتاج جهاز لوحي يعمل بنظام Android**](https://www.it-scoop.com/2010/05/verizon-google-android-tablet/ )
 
 
 و يستمر الصراع القائم بين Google و Apple، فبعد أن قرر كل طرف الاصطياد في محمية الآخر، و دخول Apple عالم الإعلان عبر الإنترنت بفضل خدمة iAd بعد أن دخلت Google عالم الهواتف الذكية بنظام Android، هاهي Google تصطاد مرة أخرى في محمية غريمتها،  و تقرر تصنيع جهاز لوحي يعمل بنظام Android بالتعاون مع Verizon.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/google-pad.jpg)
-](http://www.it-scoop.com/2010/05/verizon-google-android-tablet/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/google-pad.jpg)
+](https://www.it-scoop.com/2010/05/verizon-google-android-tablet/ )
 
 التأكيد أتى على لسان المدير العام لـ Verizon و الذي أشار إلى أن العمل قائم على قدم و ساق بالتعاون مع Google لإنتاج جهاز لوحي منافس للـ iPad و لكن على غير المتوقع سيكون  Android هو نظام هذا الجهاز اللوحي و ليس Chrome OS كما أشيع سابقا.
 

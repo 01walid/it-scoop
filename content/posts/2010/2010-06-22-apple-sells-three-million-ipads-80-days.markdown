@@ -13,15 +13,15 @@ tags:
 - ipad
 ---
 
-**[Apple تعلن عن بيع 3 ملايين iPad في 80 يوما فقط](http://www.it-scoop.com/2010/06/Apple-Sells-Three-Million-iPads-80-Days)**
+**[Apple تعلن عن بيع 3 ملايين iPad في 80 يوما فقط](https://www.it-scoop.com/2010/06/Apple-Sells-Three-Million-iPads-80-Days)**
 
 
 أعلنت Apple اليوم عن تجاوز مبيعاتها من الجهاز اللوحي iPad سقف الـ 3 ملايين جهاز و هذا في ظرف 80 يوم فقط.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ipad-apple-3-vues.jpg)
-](http://www.it-scoop.com/2010/06/Apple-Sells-Three-Million-iPads-80-Days)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad-apple-3-vues.jpg)
+](https://www.it-scoop.com/2010/06/Apple-Sells-Three-Million-iPads-80-Days)
 
-يأتي هذا الإعلان 22 يوما فقط بعد [إعلان Apple اجتياز مبيعات الـ iPad حاجز مليوني جهاز](http://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days) و هو ما يعني تمكنها من بيع ما 1.2 إلى 1.3 مليون جهاز iPad كل شهر.
+يأتي هذا الإعلان 22 يوما فقط بعد [إعلان Apple اجتياز مبيعات الـ iPad حاجز مليوني جهاز](https://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days) و هو ما يعني تمكنها من بيع ما 1.2 إلى 1.3 مليون جهاز iPad كل شهر.
 
 كما اغتنمت Apple الفرصة لتشير إلى توفر 11 ألف تطبيق خاص بالجهاز اللوحي بعد أن كانت في حدود 500 تطبيق منذ 22 يوم.
 

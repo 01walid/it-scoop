@@ -205,7 +205,7 @@ tags:
 # 11 .لتبقى على إطلاع على أحدث الأخبار و مقالات الإعلام الاجتماعي
 
 
-و لتبقى على إطلاع على أحدث الأخبار التقنية ما عليك سوى اتباع حساب[ المجلة التقنية](http://www.it-scoop.com) على Twiiter  من [هنا](http://twitter.com/it_scoop_com) ، و ليصلك جديد التدوينات على[ مدونة الإعلام الاجتماعي](http://socialmedia4arab.com) ما عليك سوى متابعة حسابها على Twitter من [هنا](http://twitter.com/sm4arab)
+و لتبقى على إطلاع على أحدث الأخبار التقنية ما عليك سوى اتباع حساب[ المجلة التقنية](https://www.it-scoop.com) على Twiiter  من [هنا](http://twitter.com/it_scoop_com) ، و ليصلك جديد التدوينات على[ مدونة الإعلام الاجتماعي](http://socialmedia4arab.com) ما عليك سوى متابعة حسابها على Twitter من [هنا](http://twitter.com/sm4arab)
 
 
 

@@ -15,7 +15,7 @@ tags:
 - Nokia
 ---
 
-**[Nokia تطلب من السلطات الروسية التدخل لاسترجاع جهاز N8 المتسرب الموجود في حوزة مدون روسي](http://www.it-scoop.com/2010/07/nokia-n8-eldar-murtazin/)**
+**[Nokia تطلب من السلطات الروسية التدخل لاسترجاع جهاز N8 المتسرب الموجود في حوزة مدون روسي](https://www.it-scoop.com/2010/07/nokia-n8-eldar-murtazin/)**
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://www.mobile-review.com/articles/2010/image/birulki-64/12mpx/pic04.jpg)
-](http://www.it-scoop.com/2010/07/nokia-n8-eldar-murtazin/)
+](https://www.it-scoop.com/2010/07/nokia-n8-eldar-murtazin/)
 
 
 تشير تدوينة Nokia التي تطالب فيها السلطات الروسية بالتدخل إلى أنها قد راسلت سابقا المدون المعني بالأمر لاسترجاع الجهاز لكنه رفض القيام بذلك. في حين نشر Murtazin [تغريدة](http://twitter.com/eldarmurtazin/status/17953106441) (انقر [هنا](http://translate.googleusercontent.com/translate_c?hl=en&ie=UTF-8&sl=ru&tl=en&u=http://twitter.com/eldarmurtazin/status/17953106441&prev=_t&rurl=translate.google.com&twu=1&usg=ALkJrhjbdwng4NB2C8IRQsX71NEi3Dj0FQ) لقراءة التغريدة مترجمة إلى الانجليزية) على حسابه على Twitter تفيد بأنه لم يتلقى أي طلب من Nokia** و أن تصريحها بإرسال رسالة إليه عبارة عن تصريح "كاذب".**

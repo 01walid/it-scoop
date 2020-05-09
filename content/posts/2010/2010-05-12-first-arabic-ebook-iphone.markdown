@@ -13,14 +13,14 @@ tags:
 - iPhone
 ---
 
-[**إطلاق أول كتاب عربي مجاني لهواتف الـ iPhone و المعنون "مقولات في النجاح"**](http://www.it-scoop.com/2010/05/First-Arabic-ebook-iPhone)
+[**إطلاق أول كتاب عربي مجاني لهواتف الـ iPhone و المعنون "مقولات في النجاح"**](https://www.it-scoop.com/2010/05/First-Arabic-ebook-iPhone)
 
 
 أطلق الصديق [رءوف شبايك](http://www.shabayek.com/blog) بالتعاون مع [أدهم الشهابي](http://adhamox.com/blog/) أول كتاب له على هواتف الـ iPhone و المعنون "مقولات في النجاح" و بذلك يدشن سباق الكتب العربية المجانية (و غير المجانية) على هواتف iPhone.
 
 
 [![](http://a1.phobos.apple.com/us/r1000/050/Purple/78/70/4d/mzl.rucfgvxd.320x480-75.jpg)
-](http://www.it-scoop.com/2010/05/First-Arabic-ebook-iPhone)
+](https://www.it-scoop.com/2010/05/First-Arabic-ebook-iPhone)
 
 
 الكتاب عبارة عن تطبيق يعرض مقولة مختلفة في النجاح في كل مرة تشغيل، و يوفر إمكانية إرسال هذه المقولة عبرtwitter و الرسائل النصية و facebook، كما يمكن حفظها في مفضلة التطبيق، وتحويلها إلى شاشة خلفية لتكون خلفية النظام فيما بعد أو حتى نسخها لنقلها إلى أي تطبيق آخر.

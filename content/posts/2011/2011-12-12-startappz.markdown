@@ -18,8 +18,8 @@ tags:
 
 
 
-[![N2V تطلق مسابقة Startappz لأفضل أفكار تطبيقات الهواتف الذكية](http://www.it-scoop.com/wp-content/uploads/2011/12/startappz.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/startappz.jpg)
+[![N2V تطلق مسابقة Startappz لأفضل أفكار تطبيقات الهواتف الذكية](https://www.it-scoop.com/wp-content/uploads/2011/12/startappz.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/startappz.jpg)
 
 
 

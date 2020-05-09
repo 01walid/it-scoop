@@ -27,8 +27,8 @@ tags:
 
 
 
-[![Smartphone_OS](http://www.it-scoop.com/wp-content/uploads/2013/12/Smartphone_OS.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/12/Smartphone_OS.jpg)
+[![Smartphone_OS](https://www.it-scoop.com/wp-content/uploads/2013/12/Smartphone_OS.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/12/Smartphone_OS.jpg)
 
 
 
@@ -44,13 +44,13 @@ tags:
 
 
 
-أول الغيث مع تطبيق [QuickOffice](https://play.google.com/store/apps/details?id=com.quickoffice.android) الذي يأتي [مُضمن](http://research.gigaom.com/2013/11/google-quickoffice-ships-with-android-kitkat/)[ا في أندرويد ](http://research.gigaom.com/2013/11/google-quickoffice-ships-with-android-kitkat/)[4.4 ](http://research.gigaom.com/2013/11/google-quickoffice-ships-with-android-kitkat/). يسمح [هذا التطبيق الذي قامت ](http://www.it-scoop.com/2012/06/google-quickoffice-meebo/)[Google بشرائه العام الماضي](http://www.it-scoop.com/2012/06/google-quickoffice-meebo/) بتحرير ملفات حزمة Office المكتبية. قامت Google بتضمين التطبيق في هذا الإصدار بُعيد إعلانها عن توفيره بشكل مجاني على متجر Google Play وبربطه بخدمة Google Drive السحابية [Freeing Quickoffice for everyone](https://plus.google.com/+GoogleDrive/posts/Gz5GpSeCW4x).
+أول الغيث مع تطبيق [QuickOffice](https://play.google.com/store/apps/details?id=com.quickoffice.android) الذي يأتي [مُضمن](http://research.gigaom.com/2013/11/google-quickoffice-ships-with-android-kitkat/)[ا في أندرويد ](http://research.gigaom.com/2013/11/google-quickoffice-ships-with-android-kitkat/)[4.4 ](http://research.gigaom.com/2013/11/google-quickoffice-ships-with-android-kitkat/). يسمح [هذا التطبيق الذي قامت ](https://www.it-scoop.com/2012/06/google-quickoffice-meebo/)[Google بشرائه العام الماضي](https://www.it-scoop.com/2012/06/google-quickoffice-meebo/) بتحرير ملفات حزمة Office المكتبية. قامت Google بتضمين التطبيق في هذا الإصدار بُعيد إعلانها عن توفيره بشكل مجاني على متجر Google Play وبربطه بخدمة Google Drive السحابية [Freeing Quickoffice for everyone](https://plus.google.com/+GoogleDrive/posts/Gz5GpSeCW4x).
 
 
 
 
-[![quickoffice](http://www.it-scoop.com/wp-content/uploads/2013/12/quickoffice.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/12/quickoffice.png)
+[![quickoffice](https://www.it-scoop.com/wp-content/uploads/2013/12/quickoffice.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/12/quickoffice.png)
 
 
 
@@ -76,8 +76,8 @@ tags:
 
 
 
-[![ART](http://www.it-scoop.com/wp-content/uploads/2013/12/ART.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/12/ART.jpg)
+[![ART](https://www.it-scoop.com/wp-content/uploads/2013/12/ART.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/12/ART.jpg)
 
 
 
@@ -109,7 +109,7 @@ tags:
 
 
 
-آخر خاصية في هذه السلسلة هو إطلاق [Portable Native Client](http://blog.chromium.org/2013/11/portable-native-client-pinnacle-of.html) التقنية التي ستسمح للمُطورين بترجمة شفرات C /C++ وتنفيذها مُباشرة داخل المُتصفح مع المُحافظة على مُستوى أدائها كاملا: [Google launches Portable Native Client, lets developers compile their code to run on any hardware and website](http://thenextweb.com/google/2013/11/12/google-launches-portable-native-client-lets-developers-compile-code-run-hardware-site/). مثلما هو عليه الحال مع WebView فإن إطلاق هذه الخاصية لم يكن مُمكنا لو لم يتم استبدال المُتصفح الافتراضي السابق بمُتصفح Chrome. بفضل Portable Native Client سيُصبح بإمكان هواتف أندرويد تنفيذ تطبيقات "ثقيلة" من خلال مُتصفح كروم تماما مثلما يُمكن تنفيذها على الحواسيب الشخصية باستخدام تقنية [Nacl](http://www.it-scoop.com/2013/10/google-mozilla-kill-plugins/) (الأخ الأكبر لخاصية Portable NaCl). ما نتحدث عنه هنا هو خاصية في غاية الأهمية والقوة، لكن من جديد بحكم أنها تقنية يصعب شرحها وتقديمها للُمستخدم البسيط فإن Google لا تُحاول إضاعة الكثير من الوقت في الترويج لها، فليس من الهيّن أن تشرح لمستخدم بسيط مدى أهمية أن يسمح PnaCl بترجمة تطبيق مكتوب بلغة C++ إلى Bytecode للتمكن من تنفيذه على هاتف ذكي سواء كان يعتمد على معمارية ARM، x86 أو MIPS، وهو أمر يُمكن القيام به على مُتصفحات أخرى بفضل واجهة Pepper البرمجية.
+آخر خاصية في هذه السلسلة هو إطلاق [Portable Native Client](http://blog.chromium.org/2013/11/portable-native-client-pinnacle-of.html) التقنية التي ستسمح للمُطورين بترجمة شفرات C /C++ وتنفيذها مُباشرة داخل المُتصفح مع المُحافظة على مُستوى أدائها كاملا: [Google launches Portable Native Client, lets developers compile their code to run on any hardware and website](http://thenextweb.com/google/2013/11/12/google-launches-portable-native-client-lets-developers-compile-code-run-hardware-site/). مثلما هو عليه الحال مع WebView فإن إطلاق هذه الخاصية لم يكن مُمكنا لو لم يتم استبدال المُتصفح الافتراضي السابق بمُتصفح Chrome. بفضل Portable Native Client سيُصبح بإمكان هواتف أندرويد تنفيذ تطبيقات "ثقيلة" من خلال مُتصفح كروم تماما مثلما يُمكن تنفيذها على الحواسيب الشخصية باستخدام تقنية [Nacl](https://www.it-scoop.com/2013/10/google-mozilla-kill-plugins/) (الأخ الأكبر لخاصية Portable NaCl). ما نتحدث عنه هنا هو خاصية في غاية الأهمية والقوة، لكن من جديد بحكم أنها تقنية يصعب شرحها وتقديمها للُمستخدم البسيط فإن Google لا تُحاول إضاعة الكثير من الوقت في الترويج لها، فليس من الهيّن أن تشرح لمستخدم بسيط مدى أهمية أن يسمح PnaCl بترجمة تطبيق مكتوب بلغة C++ إلى Bytecode للتمكن من تنفيذه على هاتف ذكي سواء كان يعتمد على معمارية ARM، x86 أو MIPS، وهو أمر يُمكن القيام به على مُتصفحات أخرى بفضل واجهة Pepper البرمجية.
 
 
 

@@ -15,12 +15,12 @@ tags:
 - Xbox 360
 ---
 
-**[Microsoft Kinect لجهاز Xbox 360 يتعرض للقرصنة](http://www.it-scoop.com/2010/11/microsoft-kinect-xbox-360-hacked)**
+**[Microsoft Kinect لجهاز Xbox 360 يتعرض للقرصنة](https://www.it-scoop.com/2010/11/microsoft-kinect-xbox-360-hacked)**
 
 
 
 
-[حدثناكم سابقاً](http://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/) عن جهاز Kinect وعرضنا بعضاً من مزاياه والآن ننقل إليكم خبر تعرض جهاز Microsoft الجديد الموجّه لهواة الألعاب Microsoft Kinect motion-sensing game system والذي يضاف كـ Add-On على جهاز Xbox 360 – للاختراق والسيطرة عليه من قبل أحد القراصنة يدعى [AlexP](http://nuigroup.com/forums/viewthread/11154/) بعد بضع أيام فقط من إطلاق الجهاز للعموم.
+[حدثناكم سابقاً](https://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/) عن جهاز Kinect وعرضنا بعضاً من مزاياه والآن ننقل إليكم خبر تعرض جهاز Microsoft الجديد الموجّه لهواة الألعاب Microsoft Kinect motion-sensing game system والذي يضاف كـ Add-On على جهاز Xbox 360 – للاختراق والسيطرة عليه من قبل أحد القراصنة يدعى [AlexP](http://nuigroup.com/forums/viewthread/11154/) بعد بضع أيام فقط من إطلاق الجهاز للعموم.
 
 
 الجهاز الذي يستخدم كجهاز استشعار للحركة (motion-sensing system) بشكل يستغني معه المرء عن مقابض التحكم التقليدية لأجهزة الألعاب يبلغ سعره 149 دولار أمريكي، ويكون بمقدورك من خلاله ممارسة ألعابك المفضلة "بنفسك" بشكل تحاول الصورة التالية توضيحه:

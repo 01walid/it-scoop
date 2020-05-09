@@ -13,13 +13,13 @@ tags:
 - vala
 ---
 
-[**صدور التحديث 2.4  لـ MonoDevelop  الـ IDE الخاص بمشروع Mono.**](http://www.it-scoop.com/2010/06/monodevelop-2-4/)
+[**صدور التحديث 2.4  لـ MonoDevelop  الـ IDE الخاص بمشروع Mono.**](https://www.it-scoop.com/2010/06/monodevelop-2-4/)
 
 
 أعلن Miguel de Icaza المسؤول عن مشروع Mono عن إطلاق الإصدار 2.4  من MonoDevelop  الـ IDE الخاص بالمشروع  و المتوافق مع كل من أنظمة Windows، Linux و الـ Max.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/MonoDevelop-Logo.png)
-](http://www.it-scoop.com/2010/06/monodevelop-2-4/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/MonoDevelop-Logo.png)
+](https://www.it-scoop.com/2010/06/monodevelop-2-4/)
 
 الإصدار الجديد و الذي يأتي 6 أشهر بعد الإصدار 2.2، يحمل في طياته العديد من المستجدات، على غرار آلية الإكمال التلقائي للكود،تحسين آلية البحث في الـ IDE، تحسين آلية إدارة الأخطاء إلى جانب تحسين الواجهة الرسومية للـ IDE.
 

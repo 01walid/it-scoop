@@ -14,14 +14,14 @@ tags:
 - redhat
 ---
 
-**[شركة RedHat تضم إليها شركة Makara المتخصصة بتطوير برمجيات وحلول الأنظمة السحابية](http://www.it-scoop.com/2010/12/redhat-makara-paas/)**
+**[شركة RedHat تضم إليها شركة Makara المتخصصة بتطوير برمجيات وحلول الأنظمة السحابية](https://www.it-scoop.com/2010/12/redhat-makara-paas/)**
 
 
 أعلنت شركة RedHat في [بيان صحفي](http://www.redhat.com/about/news/prarchive/2010/makara.html) نشرته أمس أنها ضمت إليها شركة [Makara](http://www.makara.com/) المتخصصة في تطوير وإدارة البرمجيات في الأنظمة السحابية والتالي تم تشكيل اتحاد لتسريع عملية التطوير الخاصة بالأنظمة في السحاب سواء كانت خاصة بشركة معينة أم عامة مثل Amazon EC2
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/MA_hmpg_promo_MARS_1110LL.png)
-]( http://www.it-scoop.com/2010/12/redhat-makara-paas/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/MA_hmpg_promo_MARS_1110LL.png)
+]( https://www.it-scoop.com/2010/12/redhat-makara-paas/ )
 
 
 وقالت شركة RedHat أن تقنيات Makara سوف تعمل على تسريع تطوير حلول RedHat الخاصة باﻷنظمة السحابية (Platform-as-a-Service (PaaS

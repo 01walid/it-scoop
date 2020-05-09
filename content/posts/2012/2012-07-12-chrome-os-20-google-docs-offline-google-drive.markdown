@@ -16,13 +16,13 @@ tags:
 - Google Drive
 ---
 
-أعلنت Google عن إطلاق الإصدار 20 من نظامها السحابي **Chrome OS** والذي يدعم كلا من **[Google Drive](http://www.it-scoop.com/2012/04/google-drive/)** والوضع **Offline** من حزمتها المكتبية **Google Docs**، مما يجعل من هذا النظام والأجهزة التي تعتمد عليه أكثر عملية.
+أعلنت Google عن إطلاق الإصدار 20 من نظامها السحابي **Chrome OS** والذي يدعم كلا من **[Google Drive](https://www.it-scoop.com/2012/04/google-drive/)** والوضع **Offline** من حزمتها المكتبية **Google Docs**، مما يجعل من هذا النظام والأجهزة التي تعتمد عليه أكثر عملية.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/chrome-os.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/chrome-os.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/chrome-os.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/chrome-os.jpg)
 
 
 

@@ -15,7 +15,7 @@ categories:
 
 أقرت شركة Microsoft   استعمالها لشيفرة مفتوحة المصدر منشورة تحت رخصة GPLv2 في أحد برامجها المغلقة.
 
-![win7UsbDVD](http://www.it-scoop.com/wp-content/uploads/2009/11/win7UsbDVD.jpg)
+![win7UsbDVD](https://www.it-scoop.com/wp-content/uploads/2009/11/win7UsbDVD.jpg)
 
 
 كما ذكرنا سابقا [هنا](../../../../../2009/11/microsoft-%d8%aa%d8%b3%d8%ad%d8%a8-windows-7-usbdvd-download-tool-%d9%85%d9%86-%d9%85%d8%aa%d8%a7%d8%ac%d8%b1%d9%87%d8%a7-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86%d8%aa/) فإن Microsoft قامت بسحب برنامج Windows 7 USB/DVD Download Tool  من متاجرها على النت بعد أن بدأت الشكوك تحوم حول استعمال كود مفتوح المصدر فيه خصوصا بعدما نشر Rafael Rivera على [مدونته](http://www.withinwindows.com/2009/11/06/microsoft-lifts-gpl-code-uses-in-microsoft-store-tool/) بأنه قد قام بتحليل البرنامج المعني و تبين له أنه تمت الاستعانة بشيفرة برنامج [ImageMaster](http://imagemaster.codeplex.com/) لبنائه.

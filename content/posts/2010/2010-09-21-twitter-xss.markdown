@@ -15,13 +15,13 @@ tags:
 - XSS
 ---
 
-**[Twitter يتعرض لهجوم XSS يعيد نشر التغريدات بشكل آلي](http://www.it-scoop.com/2010/09/twitter-xss/)**
+**[Twitter يتعرض لهجوم XSS يعيد نشر التغريدات بشكل آلي](https://www.it-scoop.com/2010/09/twitter-xss/)**
 
 
 تعرضت خدمة التغريد المصغر Twitter منتصف اليوم إلى هجوم XSS يستغل ثغرة في نظام تقصير الروابط الجديد الذي تعتمده Twitter، و التي تسمح بنشر شفرة JavaScript تظهر نصا مظللا بالأسود و تقوم بإعادة نشر التغريدة المسبب للمشكل بشكل آلي بمجرد تمرير مؤشر الفأرة عليها.
 
-[caption id="attachment_4971" align="aligncenter" width="532" caption="مثال عن التغريدات المصابة"][![](http://www.it-scoop.com/wp-content/uploads/2010/09/twitter-xss.jpg)
-](http://www.it-scoop.com/2010/09/twitter-xss/)[/caption]
+[caption id="attachment_4971" align="aligncenter" width="532" caption="مثال عن التغريدات المصابة"][![](https://www.it-scoop.com/wp-content/uploads/2010/09/twitter-xss.jpg)
+](https://www.it-scoop.com/2010/09/twitter-xss/)[/caption]
 
 التغريدات المسببة للمشكل كانت مشابهة للتغريدة التالية:
 

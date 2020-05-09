@@ -15,8 +15,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2017/10/The-4-Hour-Workweek.jpg)
-](http://www.it-scoop.com/2017/10/%d9%84%d9%85%d8%ad%d8%a9-%d8%b3%d8%b1%d9%8a%d8%b9%d8%a9-%d8%ad%d9%88%d9%84-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b9%d9%85%d9%84-%d8%a3%d8%b1%d8%a8%d8%b9-%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa-%d9%81/the-4-hour-workweek/)
+[![](https://www.it-scoop.com/wp-content/uploads/2017/10/The-4-Hour-Workweek.jpg)
+](https://www.it-scoop.com/2017/10/%d9%84%d9%85%d8%ad%d8%a9-%d8%b3%d8%b1%d9%8a%d8%b9%d8%a9-%d8%ad%d9%88%d9%84-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b9%d9%85%d9%84-%d8%a3%d8%b1%d8%a8%d8%b9-%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa-%d9%81/the-4-hour-workweek/)
 
 
 

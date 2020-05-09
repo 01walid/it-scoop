@@ -13,14 +13,14 @@ tags:
 - Lufhansa
 ---
 
-**[طيران Lufthansa يوفر اتصال إنترنت عالي السرعة للمسافرين عبر خطوطه]( http://www.it-scoop.com/2010/12/lufhansa-internet-in-flight/)**
+**[طيران Lufthansa يوفر اتصال إنترنت عالي السرعة للمسافرين عبر خطوطه]( https://www.it-scoop.com/2010/12/lufhansa-internet-in-flight/)**
 
 
 أعلنت خطوط الطيران الألمانية Lufthansa يوم أمس في [بيان صحفي](http://presse.lufthansa.com/en/news-releases/singleview/archive/2010/november/30/article/1826.html)، عن توفيرها لاتصال إنترنت فائق السرعة للمسافرين عبر خطوطها المتجهة نحو أمريكا الشمالية.
 
 
 [![](http://konzern.lufthansa.com/uploads/pics/Online-via-Satellite-_03.jpg)
-]( http://www.it-scoop.com/2010/12/lufhansa-internet-in-flight/)
+]( https://www.it-scoop.com/2010/12/lufhansa-internet-in-flight/)
 
 
 

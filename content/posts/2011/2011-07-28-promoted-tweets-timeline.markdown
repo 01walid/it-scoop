@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-[**Twitter تشرع في إظهار التغريدات الإعلانية Promoted Tweets على الـ Timeline**](http://www.it-scoop.com/2011/07/promoted-tweets-timeline/)
+[**Twitter تشرع في إظهار التغريدات الإعلانية Promoted Tweets على الـ Timeline**](https://www.it-scoop.com/2011/07/promoted-tweets-timeline/)
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![promoted tweets jetblue](http://3.bp.blogspot.com/-35yw1Ysytac/TjGKu0EcRSI/AAAAAAAAASI/BlvxcHKS9yw/s1600/promoted_tweets_jetblue.png)
-](http://www.it-scoop.com/2011/07/promoted-tweets-timeline/)
+](https://www.it-scoop.com/2011/07/promoted-tweets-timeline/)
 
 
 

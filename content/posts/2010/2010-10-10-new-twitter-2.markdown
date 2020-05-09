@@ -12,18 +12,18 @@ tags:
 - Twitter
 ---
 
-**[Twitter الجديد متاح حاليا لكل المستخدمين بما فيهم الجدد](http://www.it-scoop.com/2010/10/new-twitter-2/)**
+**[Twitter الجديد متاح حاليا لكل المستخدمين بما فيهم الجدد](https://www.it-scoop.com/2010/10/new-twitter-2/)**
 
 
 
 
-قام موقع Twitter مؤخرا بعمل تحديث للموقع ليصبح استخدامه أسهل وأكثر فعالية ,وبدأ تدريجيا بتفعيل الشكل الجديد لبعض المستخدمين حتى تتم تجربته , تستطيع التعرف على المزيد في الخبر الذي نشرناه سابقا من [هنا](http://www.it-scoop.com/2010/09/new-twitter/).
+قام موقع Twitter مؤخرا بعمل تحديث للموقع ليصبح استخدامه أسهل وأكثر فعالية ,وبدأ تدريجيا بتفعيل الشكل الجديد لبعض المستخدمين حتى تتم تجربته , تستطيع التعرف على المزيد في الخبر الذي نشرناه سابقا من [هنا](https://www.it-scoop.com/2010/09/new-twitter/).
 
 
 
 
-[caption id="attachment_5225" align="aligncenter" width="644" caption="حساب المجلة التقنية بـ Twitter الجديد "][![](http://www.it-scoop.com/wp-content/uploads/2010/10/twitter-it-scoop-1024x448.gif)
-](http://www.it-scoop.com/2010/10/new-twitter-2/)[/caption]
+[caption id="attachment_5225" align="aligncenter" width="644" caption="حساب المجلة التقنية بـ Twitter الجديد "][![](https://www.it-scoop.com/wp-content/uploads/2010/10/twitter-it-scoop-1024x448.gif)
+](https://www.it-scoop.com/2010/10/new-twitter-2/)[/caption]
 
 
 

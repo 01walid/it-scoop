@@ -14,7 +14,7 @@ tags:
 - La Martiniere Groupe
 ---
 
-[**مختارات من أخبار Google خلال هذا الأسبوع**](http://www.it-scoop.com/2011/08/google-news-3/)
+[**مختارات من أخبار Google خلال هذا الأسبوع**](https://www.it-scoop.com/2011/08/google-news-3/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Google-services.jpg)
-](http://www.it-scoop.com/2011/08/google-news-3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Google-services.jpg)
+](https://www.it-scoop.com/2011/08/google-news-3/)
 
 
 
@@ -47,7 +47,7 @@ tags:
 
 
 [![](http://1.bp.blogspot.com/-1kyUJIvP_xU/TlUpabdSAKI/AAAAAAAAIbU/MA4X2E9kuF8/s1600/dead+poets+society.png)
-](http://www.it-scoop.com/2011/08/google-news-3/)<!-- more -->
+](https://www.it-scoop.com/2011/08/google-news-3/)<!-- more -->
 
 
 
@@ -81,4 +81,4 @@ tags:
 	  * سيكون بإمكانك ملء حقل إدخال عنوان الخرائط في Google Maps وكذلك العثور على الاتّجاهات على حاسوبك صوتيًّا بالاعتماد على تقنيّا HTML5 بشكل يشبه بحث Google الصّوتي في الويب، هذا ما أعلنته الشّركة في [مدوّنتها الرّسميّة](http://google-latlong.blogspot.com/2011/08/search-google-maps-out-loud.html). الميزة حتّى الآن مقتصرة على متصفّح Chrome وسكّان الولايات المتّحدة.
 
 [![](http://1.bp.blogspot.com/-wWpPJPH7tzo/TlUtfJUppjI/AAAAAAAAAME/CDc0LP6XoZA/s1600/Mic%2B%25281%2529.png)
-](http://www.it-scoop.com/2011/08/google-news-3/)
+](https://www.it-scoop.com/2011/08/google-news-3/)

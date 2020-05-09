@@ -15,7 +15,7 @@ tags:
 - visionMobile
 ---
 
-[**Android المشروع مفتوح المصدر الأكثر انغلاقا حسب دراسة لـ VisionMobile**](http://www.it-scoop.com/2011/08/android-not-very-open/)
+[**Android المشروع مفتوح المصدر الأكثر انغلاقا حسب دراسة لـ VisionMobile**](https://www.it-scoop.com/2011/08/android-not-very-open/)
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/open-governance-index.png)
-](http://www.it-scoop.com/2011/08/android-not-very-open/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/open-governance-index.png)
+](https://www.it-scoop.com/2011/08/android-not-very-open/)
 
 
 

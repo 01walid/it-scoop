@@ -20,8 +20,8 @@ tags:
 
 
 
-[![parallela](http://www.it-scoop.com/wp-content/uploads/2013/07/parallela.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/parallela.jpg)
+[![parallela](https://www.it-scoop.com/wp-content/uploads/2013/07/parallela.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/parallela.jpg)
 
 
 

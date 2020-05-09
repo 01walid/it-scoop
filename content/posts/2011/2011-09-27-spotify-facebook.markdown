@@ -14,7 +14,7 @@ tags:
 - spotify
 ---
 
-[**Spotify تجبر مستخدميها على استخدام حساباتهم على Facebook للاستفادة من خدمتها الموسيقية**](http://www.it-scoop.com/2011/09/spotify-facebook/)
+[**Spotify تجبر مستخدميها على استخدام حساباتهم على Facebook للاستفادة من خدمتها الموسيقية**](https://www.it-scoop.com/2011/09/spotify-facebook/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/spotify-facebook4.png)
-](http://www.it-scoop.com/2011/09/spotify-facebook/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/spotify-facebook4.png)
+](https://www.it-scoop.com/2011/09/spotify-facebook/)
 
 
 

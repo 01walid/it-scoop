@@ -22,8 +22,8 @@ tags:
 
 
 
-[![BicaVM java virtual machine](http://www.it-scoop.com/wp-content/uploads/2011/11/BicaVM.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/BicaVM.png)
+[![BicaVM java virtual machine](https://www.it-scoop.com/wp-content/uploads/2011/11/BicaVM.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/BicaVM.png)
 
 
 

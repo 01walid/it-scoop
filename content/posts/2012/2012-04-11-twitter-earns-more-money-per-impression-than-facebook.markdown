@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/twitter-money.png)
-](http://www.it-scoop.com/wp-content/uploads/2010/04/twitter-money.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/twitter-money.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/04/twitter-money.png)
 
 
 
@@ -33,8 +33,8 @@ tags:
 
 
 
-[![تويتر تربح أكثر من الإعلانات مُقارنة بفيس بوك، وإعلاناتها أفيد للمُعلنين من باقي الشبكات الاجتماعية](http://www.it-scoop.com/wp-content/uploads/2012/04/twitter-earns-a-lot-more-money-per-impression-than-facebook.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/twitter-earns-a-lot-more-money-per-impression-than-facebook.jpg)
+[![تويتر تربح أكثر من الإعلانات مُقارنة بفيس بوك، وإعلاناتها أفيد للمُعلنين من باقي الشبكات الاجتماعية](https://www.it-scoop.com/wp-content/uploads/2012/04/twitter-earns-a-lot-more-money-per-impression-than-facebook.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/twitter-earns-a-lot-more-money-per-impression-than-facebook.jpg)
 
 
 
@@ -54,8 +54,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/twitter-outperforms-facebook-for-news-sports-and-fooddrink-advertisers-in-terms-of-click-through-rates.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/twitter-outperforms-facebook-for-news-sports-and-fooddrink-advertisers-in-terms-of-click-through-rates.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/twitter-outperforms-facebook-for-news-sports-and-fooddrink-advertisers-in-terms-of-click-through-rates.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/twitter-outperforms-facebook-for-news-sports-and-fooddrink-advertisers-in-terms-of-click-through-rates.jpg)
 
 
 
@@ -65,8 +65,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/more-people-use-twitter-in-the-morning-and-the-evening-than-during-the-day-the-cost-per-follower-to-advertisers-is-inversely-related-to-the-amount-of-traffic-during-the-day.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/more-people-use-twitter-in-the-morning-and-the-evening-than-during-the-day-the-cost-per-follower-to-advertisers-is-inversely-related-to-the-amount-of-traffic-during-the-day.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/more-people-use-twitter-in-the-morning-and-the-evening-than-during-the-day-the-cost-per-follower-to-advertisers-is-inversely-related-to-the-amount-of-traffic-during-the-day.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/more-people-use-twitter-in-the-morning-and-the-evening-than-during-the-day-the-cost-per-follower-to-advertisers-is-inversely-related-to-the-amount-of-traffic-during-the-day.jpg)
 
 
 

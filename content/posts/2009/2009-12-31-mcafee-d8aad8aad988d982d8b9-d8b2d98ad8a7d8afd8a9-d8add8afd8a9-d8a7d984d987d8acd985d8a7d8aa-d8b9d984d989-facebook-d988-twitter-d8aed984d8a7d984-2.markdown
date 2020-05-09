@@ -15,13 +15,13 @@ tags:
 - Twitter
 ---
 
-[**McAfee تتوقع زيادة حدة الهجمات على Facebook و Twitter خلال 2010**](http://www.it-scoop.com/2009/12/mcafee-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-facebook-%d9%88-twitter-%d8%ae%d9%84%d8%a7%d9%84-2/)
+[**McAfee تتوقع زيادة حدة الهجمات على Facebook و Twitter خلال 2010**](https://www.it-scoop.com/2009/12/mcafee-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-facebook-%d9%88-twitter-%d8%ae%d9%84%d8%a7%d9%84-2/)
 
 
 حسب تقرير صدر عن McAfee Labs يخص الأخطار على النت خلال العام القادم، فإن الشبكات الاجتماعية أصبحت إحدى الوجهات المفضلة للمخترقين إلى جانب كل من Adobe Reader و Flash.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/facebook_twitter-300x196.jpg)
-](http://www.it-scoop.com/2009/12/mcafee-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-facebook-%d9%88-twitter-%d8%ae%d9%84%d8%a7%d9%84-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/facebook_twitter-300x196.jpg)
+](https://www.it-scoop.com/2009/12/mcafee-%d8%aa%d8%aa%d9%88%d9%82%d8%b9-%d8%b2%d9%8a%d8%a7%d8%af%d8%a9-%d8%ad%d8%af%d8%a9-%d8%a7%d9%84%d9%87%d8%ac%d9%85%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-facebook-%d9%88-twitter-%d8%ae%d9%84%d8%a7%d9%84-2/)
 
 حسب نفس التقرير، فإن ذلك لا يرجع إلى كون الشبكات الاجتماعية ضعيفة الحماية ، لكنها تدفع ضريبة شهرتها و نجاحها، حيث تتوقع McAfee أن تتزايد أعداد الرسائل المزيفة على Facebook و التي تطلب من مستقبليها تنصيب برامج  تكون عادة ملغمة بمختلف أنواع البرامج الضارة.
 

@@ -12,13 +12,13 @@ tags:
 - VectorWise
 ---
 
-[**Ingres تعتزم إطلاق VectorWise  نظام إدارة قواعد بيانات مفتوح المصدر ****جديد **](http://www.it-scoop.com/2010/01/ingres-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-vectorwise-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
+[**Ingres تعتزم إطلاق VectorWise  نظام إدارة قواعد بيانات مفتوح المصدر ****جديد **](https://www.it-scoop.com/2010/01/ingres-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-vectorwise-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
 
 
 تعتزم Ingres الرائدة في مجال المصادر المفتوحة إطلاق VectorWise نظام إدارة قواعد بيانات مفتوح المصدر جديد و الذي سينشر تحت رخصة GPL.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/vectorwise.png)
-](http://www.it-scoop.com/2010/01/ingres-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-vectorwise-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/vectorwise.png)
+](https://www.it-scoop.com/2010/01/ingres-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-vectorwise-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
 
 حسب Ingres فإن نظام VectorWise مطور و مجهز للعمل على الأجهزة و العتاد الحالي، مما يجعله أسرع بكثير من منافسيه الحاليين.
 
@@ -28,4 +28,4 @@ tags:
 
 كل ما عليك فعله هو التسجيل في هذه الصفحة و الانتظار عله يتم اختيارك ضمن المجربين المحظوظين لخوض مثل هذه التجربة.
 
--   هل تظن أن المشاكل التي تعاني منها MySql حاليا هي التي وفرت المناخ لإطلاق منتوجات منافسة لها  مفتوحة المصدر على غرار كل منVectorWise  و [MariaDB](http://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/) ؟
+-   هل تظن أن المشاكل التي تعاني منها MySql حاليا هي التي وفرت المناخ لإطلاق منتوجات منافسة لها  مفتوحة المصدر على غرار كل منVectorWise  و [MariaDB](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/) ؟

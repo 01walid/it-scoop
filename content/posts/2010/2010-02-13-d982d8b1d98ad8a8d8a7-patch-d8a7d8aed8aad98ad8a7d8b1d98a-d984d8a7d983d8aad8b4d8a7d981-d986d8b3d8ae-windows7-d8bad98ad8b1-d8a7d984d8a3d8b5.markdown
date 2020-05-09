@@ -12,13 +12,13 @@ tags:
 - Windows
 ---
 
-[**قريبا... Patch اختياري لاكتشاف نسخ windows7 غير الأصلية**](http://www.it-scoop.com/2010/02/%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-patch-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a-%d9%84%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%86%d8%b3%d8%ae-windows7-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b5/)
+[**قريبا... Patch اختياري لاكتشاف نسخ windows7 غير الأصلية**](https://www.it-scoop.com/2010/02/%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-patch-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a-%d9%84%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%86%d8%b3%d8%ae-windows7-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b5/)
 
 
 أعلن  Joe Williams على [ مدونة Genuine Windows Blog](http://windowsteamblog.com/blogs/genuinewindows/archive/2010/02/11/windows-activation-technologies-update-for-windows-7.aspx?PageIndex=1) أن Microsoft  ستطلق قريبا Patch يسمح باكتشاف النسخ غير الأصلية من نظام Windows7، و لن يكون تنصيبه إجباريا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/genuine-windows-7.png)
-](http://www.it-scoop.com/2010/02/%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-patch-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a-%d9%84%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%86%d8%b3%d8%ae-windows7-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b5/http://www.it-scoop.com/2010/02/%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-patch-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a-%d9%84%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%86%d8%b3%d8%ae-windows7-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b5/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/genuine-windows-7.png)
+](https://www.it-scoop.com/2010/02/%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-patch-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a-%d9%84%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%86%d8%b3%d8%ae-windows7-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b5/https://www.it-scoop.com/2010/02/%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-patch-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1%d9%8a-%d9%84%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%86%d8%b3%d8%ae-windows7-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d8%a3%d8%b5/)
 
 من شأن الـ Patch و الذي سيرى النور في الأيام القليلة القادمة أن يكتشف ما إن كانت نسخة النظام تستعمل إحدى الـ Hacks السبعين المتوفرة حاليا على الإنترنت و التي تسمح بتشغيل نظام windows7 بطريقة غير قانونية.
 

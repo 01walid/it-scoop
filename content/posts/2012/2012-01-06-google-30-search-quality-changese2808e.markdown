@@ -27,8 +27,8 @@ tags:
 
 
 
-[![صورة تعبيرية عن خوارزميات Google](http://www.it-scoop.com/wp-content/uploads/2012/01/Google-Algorithm.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/Google-Algorithm.png)
+[![صورة تعبيرية عن خوارزميات Google](https://www.it-scoop.com/wp-content/uploads/2012/01/Google-Algorithm.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/Google-Algorithm.png)
 
 
 
@@ -48,8 +48,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/it-scoop_Sitelinks.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/it-scoop_Sitelinks.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/it-scoop_Sitelinks.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/it-scoop_Sitelinks.png)
 
 
 
@@ -104,4 +104,4 @@ old possum: إظهار الصفحات الخاصة بالهواتف الذكية
 
 
 
-للتذكير فإن Google قد أدخلت تحسينات عديدة على محرك بحثها في الأشهر القليلة الماضية، حيث سبق لها وأن أطلقت [تحديث Panda](http://www.it-scoop.com/2010/02/google-%D8%AA%D8%AF%D8%AE%D9%84-%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AD%D8%AB%D9%87%D8%A7-%D8%A7%D9%84%D8%AE/) خلال الأشهر الماضية والذي مس 12% من نتائج بحثها (خاصة تلك المتعلقة بمزارع المحتوى)، تلاه [تحديث آخر](http://www.it-scoop.com/tag/caffeine/) مس 35% من نتائج البحث (خاصة المحتويات الحديثة والمتجددة).
+للتذكير فإن Google قد أدخلت تحسينات عديدة على محرك بحثها في الأشهر القليلة الماضية، حيث سبق لها وأن أطلقت [تحديث Panda](https://www.it-scoop.com/2010/02/google-%D8%AA%D8%AF%D8%AE%D9%84-%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA-%D8%A8%D8%AD%D8%AB%D9%87%D8%A7-%D8%A7%D9%84%D8%AE/) خلال الأشهر الماضية والذي مس 12% من نتائج بحثها (خاصة تلك المتعلقة بمزارع المحتوى)، تلاه [تحديث آخر](https://www.it-scoop.com/tag/caffeine/) مس 35% من نتائج البحث (خاصة المحتويات الحديثة والمتجددة).

@@ -13,7 +13,7 @@ tags:
 - Nielsen
 ---
 
-**[ثلث مالكي الـ iPad لم يقوموا بتحميل أية تطبيقات إضافية عليه !](http://www.it-scoop.com/2010/10/ipad-nielsen)**
+**[ثلث مالكي الـ iPad لم يقوموا بتحميل أية تطبيقات إضافية عليه !](https://www.it-scoop.com/2010/10/ipad-nielsen)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://blog.nielsen.com/nielsenwire/wp-content/uploads/2010/10/ipad-pay-for-content.png )
-](http://www.it-scoop.com/2010/10/ipad-nielsen)
+](https://www.it-scoop.com/2010/10/ipad-nielsen)
 
 
 

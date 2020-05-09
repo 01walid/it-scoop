@@ -20,7 +20,7 @@ tags:
 - NoScript
 ---
 
-**[لا تزوروا موقع جائزة نوبل للسلام، أنظمتكم قد تتعرض للاختراق]( http://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/)**
+**[لا تزوروا موقع جائزة نوبل للسلام، أنظمتكم قد تتعرض للاختراق]( https://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/)**
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
-](http://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
+](https://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/)
 
 
 و حسب [البيان الصحفي](http://norman.com/about_norman/press_center/news_archive/2010/129223/en) الذي نشرته Norman ASA  المتخصصة في الأمن و الحماية  فإن الثغرة موجهة خصيصا للإصدارين 3.5 و 3.6 من متصفح Firefox على أنظمة Windows، و هي من نوع drive by download  و التي تقوم على أساس تحميل برنامج ضار من دون لفت انتباه الضحية و المتمثل في حصان طروادة [Belmoo](http://www.norman.com/security_center/virus_description_archive/129146/).
@@ -42,4 +42,4 @@ tags:
 
 تحديث: أصدرت Mozilla تحديثا لترقيع الثغرة
 
-شكر خاص لـ [Dj](http://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/#comment-3908) لإشارته لذلك
+شكر خاص لـ [Dj](https://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/#comment-3908) لإشارته لذلك

@@ -16,16 +16,16 @@ tags:
 - jailbreak
 ---
 
-**[Apple تعطل خاصية التحقق من كسر حماية هواتف iPhone على الإصدار 4.2 من نظام iOS](http://www.it-scoop.com/2010/12/apple-ios-jailbreak-detection-api/)**
+**[Apple تعطل خاصية التحقق من كسر حماية هواتف iPhone على الإصدار 4.2 من نظام iOS](https://www.it-scoop.com/2010/12/apple-ios-jailbreak-detection-api/)**
 
 
 بعد أن أضافت خاصية لتسهل للمطورين التحقق من أن الهواتف التي تعمل عليها تطبيقاتهم ليست مكسورة الحماية (Jailbreak) [قامت](http://computerworld.co.nz/news.nsf/telecommunications/apple-quietly-drops-ios-jailbreak-detection-api) Apple بتعطيل الدالة المسؤولة عن ذلك في الإصدار 4.2 من نظام iOS دون أن تبدي أية ملاحظات حول الأمر.
 
-[](http://www.it-scoop.com/2010/12/apple-ios-jail…-detection-api/)
+[](https://www.it-scoop.com/2010/12/apple-ios-jail…-detection-api/)
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/jailbroken-iphone.jpg)
-](http://www.it-scoop.com/2010/12/apple-ios-jailbreak-detection-api/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/jailbroken-iphone.jpg)
+](https://www.it-scoop.com/2010/12/apple-ios-jailbreak-detection-api/)
 
 
 

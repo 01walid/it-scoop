@@ -20,8 +20,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/06/what-if.jpg)
-](http://www.it-scoop.com/2018/06/%d8%a5%d8%ac%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%af%d9%82%d9%8a%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%b3%d8%ae%d9%8a%d9%81%d8%a9%d8%8c-%d9%84%d9%85/what-if/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/06/what-if.jpg)
+](https://www.it-scoop.com/2018/06/%d8%a5%d8%ac%d8%a7%d8%a8%d8%a7%d8%aa-%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d8%af%d9%82%d9%8a%d9%82%d8%a9-%d8%b9%d9%84%d9%89-%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%b3%d8%ae%d9%8a%d9%81%d8%a9%d8%8c-%d9%84%d9%85/what-if/)
 
 
 

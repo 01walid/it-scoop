@@ -15,7 +15,7 @@ tags:
 - Twitter
 ---
 
-[**في ظل غياب اللغة العربية، Twitter توفر الهولندية و الإندونيسية بشكل رسمي على موقعها**](http://www.it-scoop.com/2011/08/twitter-dutch-indonesian/)
+[**في ظل غياب اللغة العربية، Twitter توفر الهولندية و الإندونيسية بشكل رسمي على موقعها**](https://www.it-scoop.com/2011/08/twitter-dutch-indonesian/)
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/twitter-translation.jpg)
-](http://www.it-scoop.com/2011/08/twitter-dutch-indonesian/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/twitter-translation.jpg)
+](https://www.it-scoop.com/2011/08/twitter-dutch-indonesian/)
 
 
 

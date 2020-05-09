@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/firefox-os.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/firefox-os.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/firefox-os.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/firefox-os.png)
 
 
 
@@ -43,4 +43,4 @@ tags:
 
 
 
-للتذكير، فإن نظام Firefox OS (نظام Boot To Gecko سابقا) [يعتمد بشكل كبير على تقنيات الويب](http://www.it-scoop.com/2012/02/boot2gecko/)، حيث يعتمد النظام على نواة Linux إلا أن باقي التطبيقات ستكون مكتوبة بتقنيات الويب الحديثة (HTML, JavaScript, CSS)، مما سيُسهل المهمة أمام المطورين الذين لن يُضطروا إلى تعلم تقنيات جديدة، أو تنصيب أدوات خاصة.
+للتذكير، فإن نظام Firefox OS (نظام Boot To Gecko سابقا) [يعتمد بشكل كبير على تقنيات الويب](https://www.it-scoop.com/2012/02/boot2gecko/)، حيث يعتمد النظام على نواة Linux إلا أن باقي التطبيقات ستكون مكتوبة بتقنيات الويب الحديثة (HTML, JavaScript, CSS)، مما سيُسهل المهمة أمام المطورين الذين لن يُضطروا إلى تعلم تقنيات جديدة، أو تنصيب أدوات خاصة.

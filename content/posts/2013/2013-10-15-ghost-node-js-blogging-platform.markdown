@@ -19,8 +19,8 @@ tags:
 
 أطلق **John O'Nolan** -والذي سبق له العمل على أكثر من منصة تدوين شهيرة- **منصة تدوين جديدة** مبنية على **Node.js** سماها  **Ghost**  هدفها إعادة صياغة التدوين وإنعاشه من جديد، وذلك عبر توفير تجربة تدوين أمتع، أكثر بساطة وأكثر إنتاجية.
 
-[![Ghost Blogging platform logo](http://www.it-scoop.com/wp-content/uploads/2013/10/Ghost-Transparent-for-LIGHT-BG.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/10/Ghost-Transparent-for-LIGHT-BG.png)
+[![Ghost Blogging platform logo](https://www.it-scoop.com/wp-content/uploads/2013/10/Ghost-Transparent-for-LIGHT-BG.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/10/Ghost-Transparent-for-LIGHT-BG.png)
 
 قبل بضغة أشهر، لاحظ O’Nolan أن منصات التدوين بدأت تأخذ منحى آخر غير **مجرد** **التدوين**، أو على الأقل ليس بشكل حر بسيط وتلقائي. قد يقول قائل، وما بال Wordpress؟ ما به Tumblr؟ أو ماذا ينقص Blogger؟ يا رجل، ألم تسمع بـ Medium؟
 
@@ -34,7 +34,7 @@ tags:
 
 
 
-[ ](http://www.it-scoop.com/wp-content/uploads/2013/10/Ghost-Transparent-for-LIGHT-BG.png)
+[ ](https://www.it-scoop.com/wp-content/uploads/2013/10/Ghost-Transparent-for-LIGHT-BG.png)
 
 
 من هنا، رأى [John O'Nolan](http://twitter.com/JohnONolan) أن ما هكذا التدوين بدأ، وما هكذا يجب أن يكون.

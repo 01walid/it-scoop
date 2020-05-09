@@ -13,7 +13,7 @@ tags:
 - Ubuntu
 ---
 
-**[إطلاق Ubuntu عشرة عشرة](http://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)**
+**[إطلاق Ubuntu عشرة عشرة](https://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)**
 
 
 
@@ -23,14 +23,14 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/banner2.png)
-](http://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/banner2.png)
+](https://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
 
 
-يأتي هذا الإصدار على صنفيه  Kubuntu و Ubuntu أما (Lubuntu و Xubuntu قريبا) تحت اسم [Maverick Meerkat](http://en.wikipedia.org/wiki/Meerkat) بجمع من التحسينات والتحديثات تجعله مميزا عن الإصدارات السابقة، فبالإضافة إلى آخر إصدارات كل من واجهتي [Gnome](http://www.it-scoop.com/2010/09/gnome-2-32/) و KDE نجده أيضا يوفر آخر إصدارات مستقرة للبرامج المكتبية كمتصفح Firefox، حزمة المكتب المفتوح وبرنامج الرسم الشهير Gimp، كل هذا بالاعتماد على آخر إصدارة من نواة Linux 2.6.35 .
+يأتي هذا الإصدار على صنفيه  Kubuntu و Ubuntu أما (Lubuntu و Xubuntu قريبا) تحت اسم [Maverick Meerkat](http://en.wikipedia.org/wiki/Meerkat) بجمع من التحسينات والتحديثات تجعله مميزا عن الإصدارات السابقة، فبالإضافة إلى آخر إصدارات كل من واجهتي [Gnome](https://www.it-scoop.com/2010/09/gnome-2-32/) و KDE نجده أيضا يوفر آخر إصدارات مستقرة للبرامج المكتبية كمتصفح Firefox، حزمة المكتب المفتوح وبرنامج الرسم الشهير Gimp، كل هذا بالاعتماد على آخر إصدارة من نواة Linux 2.6.35 .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/compteur10.10.png)
-](http://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/compteur10.10.png)
+](https://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
 
 ومن جملة التحسينات نذكر:
 
@@ -44,15 +44,15 @@ tags:
 
 - تعويض الواجهة التقليدية لتوزيعة Ubuntu Netbook Edition بالقائمة الشامة   Globale Menu Bar  بواجهة Unity:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/258264-300x180.jpg)
-](http://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/258264-300x180.jpg)
+](https://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
 
 - تحديثات في الخدمة السحابية Ubuntu One.
 
 - أداة تحكم بالصوت جديدة معدلة ومحسنة وأكثر أناقة:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/258793.png)
-](http://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/258793.png)
+](https://www.it-scoop.com/2010/10/ubuntu-10-10-is-here/)
 
 - يمكن الاطلاع على المزيد من التحسينات والصور من الموقع الرسمي للنظام [من هنا](http://www.ubuntu.com/desktop/features).
 

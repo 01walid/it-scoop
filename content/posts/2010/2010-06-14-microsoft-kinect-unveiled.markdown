@@ -16,7 +16,7 @@ tags:
 - Xbox 360
 ---
 
-**[Microsoft تكشف عن النسخة النهائية من Natal و تحول اسمه إلى Kinect](http://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/)**
+**[Microsoft تكشف عن النسخة النهائية من Natal و تحول اسمه إلى Kinect](https://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
-](http://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
+](https://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/)
 
 
 

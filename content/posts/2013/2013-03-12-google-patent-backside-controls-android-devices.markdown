@@ -20,8 +20,8 @@ tags:
 
 
 
-[![google-backside-patent](http://www.it-scoop.com/wp-content/uploads/2013/03/google-backside-patent.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/google-backside-patent.jpg)
+[![google-backside-patent](https://www.it-scoop.com/wp-content/uploads/2013/03/google-backside-patent.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/google-backside-patent.jpg)
 
 
 

@@ -16,13 +16,13 @@ tags:
 - فيسبوك
 ---
 
-عكس [ما تم الإعلان عنه من قبل](http://www.it-scoop.com/2012/06/facebook-acquires-face-com/) ستقوم **فيس بوك** بإغلاق واجهة **Face.com** البرمجية التي اشترتها مؤخرا، وذلك بعد أن وعد مؤسس الخدمة بأنه سيواصل دعم مجتمع المُطورين الخاص بهم.
+عكس [ما تم الإعلان عنه من قبل](https://www.it-scoop.com/2012/06/facebook-acquires-face-com/) ستقوم **فيس بوك** بإغلاق واجهة **Face.com** البرمجية التي اشترتها مؤخرا، وذلك بعد أن وعد مؤسس الخدمة بأنه سيواصل دعم مجتمع المُطورين الخاص بهم.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/face-com-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/face-com-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/face-com-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/face-com-logo.png)
 
 
 

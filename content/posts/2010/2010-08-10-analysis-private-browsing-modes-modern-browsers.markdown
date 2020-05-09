@@ -20,14 +20,14 @@ tags:
 - Security
 ---
 
-**[دراسة تكشف أن خاصية التصفح الخاص لا تحمي كامل بيانات المستخدم](http://www.it-scoop.com/2010/08/analysis-private-browsing-modes-modern-browsers)**
+**[دراسة تكشف أن خاصية التصفح الخاص لا تحمي كامل بيانات المستخدم](https://www.it-scoop.com/2010/08/analysis-private-browsing-modes-modern-browsers)**
 
 
 نشر باحثون أمنيون من جامعة Stanford  دراسة تهتم بوضع "التصفح الخاص" الذي أصبحت متوفرة على الإصدارات الحديثة من المتصفحات و التي تتيح للمستخدم –على الأقل نظريا- تصفحا بدون ترك أية آثار وراءه و بدون تعريض بياناته الشخصية للخطر.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/firefox-private.jpg)
-](http://www.it-scoop.com/2010/08/analysis-private-browsing-modes-modern-browsers)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/firefox-private.jpg)
+](https://www.it-scoop.com/2010/08/analysis-private-browsing-modes-modern-browsers)
 
 
 الدراسة التي خصت أحدث الإصدارات من كلم من Chrome، Safari، Internet Explorer و Firefox بينت كيف يمكن للوضع الخاص بهذه المتصفحات أن لا يكون "خاصا" تماما، حيث أثبتت وجود بعض التسربات هنا و هناك.

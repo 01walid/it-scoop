@@ -17,14 +17,14 @@ tags:
 - vulnerability
 ---
 
-[**اكتشاف ثغرة جديدة في IIS**](http://www.it-scoop.com/2009/12/iis-%d9%88-%d8%ab%d8%ba%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/)
+[**اكتشاف ثغرة جديدة في IIS**](https://www.it-scoop.com/2009/12/iis-%d9%88-%d8%ab%d8%ba%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/)
 
 
 أعلن الباحث Soroush Dalili عن وجود ثغرة 0day في الطريقة التي يعالج فيها IIS أسماء الملفات التي يتم رفعها إلى الموقع من قبل زائر مثلاً.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/iis_logo.png)
-](http://www.it-scoop.com/2009/12/iis-%d9%88-%d8%ab%d8%ba%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/iis_logo.png)
+](https://www.it-scoop.com/2009/12/iis-%d9%88-%d8%ab%d8%ba%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/)
 
 
 تمكن الثغرة المهاجم من رفع سكربتات ضارة إلى السيرفر مستغلاً الخطأ في معالجة أسماء الملفات.

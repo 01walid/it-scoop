@@ -17,13 +17,13 @@ tags:
 - virus
 ---
 
-**[حسب Acer منتجات Apple عبارة عن "فيروسات متحولة"](http://www.it-scoop.com/2010/09/acer-apple-mutant-viruses/)**
+**[حسب Acer منتجات Apple عبارة عن "فيروسات متحولة"](https://www.it-scoop.com/2010/09/acer-apple-mutant-viruses/)**
 
 
 نقل موقع digitimes عن Stan Shih مؤسس Acer قوله بأن منتجات Apple كالـ iPhone و الـ iPad عبارة عن "فيروسات متحولة"  (mutant viruses) لم يجد مصنعو الحواسيب ترياقا لها بعد، لكن الأمر قادم لا محالة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/iphone-virus.jpg)
-](http://www.it-scoop.com/2010/09/acer-apple-mutant-viruses/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/iphone-virus.jpg)
+](https://www.it-scoop.com/2010/09/acer-apple-mutant-viruses/)
 
 إن كنت من أنصار Apple، رجاء لا تقم من على كرسيك أو ترمي بجهازك من النافذة، اصبر قليلا... فما قاله Shih لا يقصد به الانتقاص من كرامة Apple و إنما أراد شرح طريقة انتشار منتجاتها و صعوبة مسايرتها على المدى القريب.
 

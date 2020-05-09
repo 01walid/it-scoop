@@ -13,7 +13,7 @@ tags:
 - Google Recipes
 ---
 
-**[Google تطلق خاصية Google Recipes للبحث عن وصفات الأكل على محرك بحثها](http://www.it-scoop.com/2011/02/google-recipes/)**
+**[Google تطلق خاصية Google Recipes للبحث عن وصفات الأكل على محرك بحثها](https://www.it-scoop.com/2011/02/google-recipes/)**
 
 
 كنت أعتقد سابقا أن واحدا على الأقل من متخذي القرار في Google لا بد أن يكون من هواة الأكل و ذلك بسبب تسمية إصدارات Android بأسماء الحلويات، و بدأ الأمر يتضح أكثر فأكثر خاصة بعد [إضافة](http://googleblog.blogspot.com/2011/02/slice-and-dice-your-recipe-search.html) Google لمرشح البحث عن وصفات الأكل فقط إلى محرك بحثها.
@@ -21,7 +21,7 @@ tags:
 
 
 [![](http://www.google.com/landing/recipes/screen.png)
-](http://www.it-scoop.com/2011/02/google-recipes/)
+](https://www.it-scoop.com/2011/02/google-recipes/)
 
 خدمة [Google Recipe](http://www.google.com/landing/recipes/)s الجديدة تمكن من الوصول بشكل سريع إلى وصفات الأكل التي تستعمل مكونات محددة، و يمكن أيضا اختيار الوقت اللازم لتحضيرها، إضافة إلى اختيار القيمة الغذائية للوجبة (السعرات الحرارية).
 

@@ -14,7 +14,7 @@ tags:
 - Priority Inbox
 ---
 
-**[Google تضيف خاصية Priority Inbox لـ Gmail لتمييز الرسائل الأكثر أهمية]( http://www.it-scoop.com/2010/08/google-gmail-priority-inbox/)**
+**[Google تضيف خاصية Priority Inbox لـ Gmail لتمييز الرسائل الأكثر أهمية]( https://www.it-scoop.com/2010/08/google-gmail-priority-inbox/)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![](http://4.bp.blogspot.com/_JE4qNpFW6Yk/THxYa8Dm-kI/AAAAAAAAAsY/rtemh6ninwY/s500/priority_inbox_quick_guide.png )
-]( http://www.it-scoop.com/2010/08/google-gmail-priority-inbox/)
+]( https://www.it-scoop.com/2010/08/google-gmail-priority-inbox/)
 
 
 

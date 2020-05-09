@@ -20,8 +20,8 @@ tags:
 
 
 
-[![Amazon GoodReads](http://www.it-scoop.com/wp-content/uploads/2013/03/amazon-goodreads.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/amazon-goodreads.png)
+[![Amazon GoodReads](https://www.it-scoop.com/wp-content/uploads/2013/03/amazon-goodreads.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/amazon-goodreads.png)
 
 
 
@@ -41,7 +41,7 @@ tags:
 
 
 
-ماذا عن منافسي Amazon؟ أول منافس يخطر على البال هو Apple والتي تبيع بدورها كتبا على متجر iTunes، إلا أن شركة التفاحة المقضومة لا تملك أي جانب اجتماعي لخدماتها، وأحدث تجربة لها في هذا المجال كان من خلال شبكة [Ping](http://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours/) والتي باءت بالفشل. بعبارة أخرى، إن كان الجانب الاجتماعي يلعب دورا كبيرا في شراء كتاب دون غيره وشرائه لدى بائع من دون سواء، فالكفة أصبحت مرجحة بشكل واضح لحساب Amazon، خاصة وأن Amazon سبق لها وأن اشترت خدمة Shelfari والتي تقدم خدمات تحوم حول مبدأ قراءة الكتب وإضافتها إلى روفوف سنة 2008.
+ماذا عن منافسي Amazon؟ أول منافس يخطر على البال هو Apple والتي تبيع بدورها كتبا على متجر iTunes، إلا أن شركة التفاحة المقضومة لا تملك أي جانب اجتماعي لخدماتها، وأحدث تجربة لها في هذا المجال كان من خلال شبكة [Ping](https://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours/) والتي باءت بالفشل. بعبارة أخرى، إن كان الجانب الاجتماعي يلعب دورا كبيرا في شراء كتاب دون غيره وشرائه لدى بائع من دون سواء، فالكفة أصبحت مرجحة بشكل واضح لحساب Amazon، خاصة وأن Amazon سبق لها وأن اشترت خدمة Shelfari والتي تقدم خدمات تحوم حول مبدأ قراءة الكتب وإضافتها إلى روفوف سنة 2008.
 
 
 

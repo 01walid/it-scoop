@@ -14,13 +14,13 @@ tags:
 - VoIP
 ---
 
-[**Google تقترب من شراء شركة GIPS النرويجية المتخصصة في تقنيات الـ VoIP**](http://www.it-scoop.com/2010/05/google-to-acquire-gips/)
+[**Google تقترب من شراء شركة GIPS النرويجية المتخصصة في تقنيات الـ VoIP**](https://www.it-scoop.com/2010/05/google-to-acquire-gips/)
 
 
 أعلنت كل من Google  و الشركة النرويجية GIPS المتخصصة في تقنيات الـ VoIP  اليوم في بيان صحفي مشترك لهما، عن تقديم الأولى للثانية عرض شراء للحصول على كامل تقنياتها مقابل 68.2 مليون دولار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/GIPS-logo.jpg)
-](http://www.it-scoop.com/2010/05/google-to-acquire-gips/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/GIPS-logo.jpg)
+](https://www.it-scoop.com/2010/05/google-to-acquire-gips/)
 
 تطور GIPS جملة من الحلول الخاصة بالـ VoIP إلى جانب حلول تخص تنقية الاتصالات من هذا النوع من المشاكل التي تصادفها على غرار  الشوائب و صدى الصوت و أصوات الخلفية.
 

@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-7.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-7.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-7.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-7.png)
 
 
 

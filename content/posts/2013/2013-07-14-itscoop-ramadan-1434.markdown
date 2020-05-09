@@ -20,8 +20,8 @@ tags:
 
 
 
-[![itscoop-contest](http://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
+[![itscoop-contest](https://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
 
 
 
@@ -189,6 +189,6 @@ tags:
 
 [حساب المجلة التقنية على Google+](https://plus.google.com/111062057767038678683)
 
-[رابط خلاصات RSS](http://www.it-scoop.com/feed)
+[رابط خلاصات RSS](https://www.it-scoop.com/feed)
 
 

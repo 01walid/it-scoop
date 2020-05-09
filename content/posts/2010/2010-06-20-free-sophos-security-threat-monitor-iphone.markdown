@@ -15,13 +15,13 @@ tags:
 - sophos
 ---
 
-[**Sophos تطلق برنامجاً خاصاً بـ iPhone لمتابعة آخر المخاطر الأمنية**](http://www.it-scoop.com/2010/06/free-sophos-security-threat-monitor-iphone)
+[**Sophos تطلق برنامجاً خاصاً بـ iPhone لمتابعة آخر المخاطر الأمنية**](https://www.it-scoop.com/2010/06/free-sophos-security-threat-monitor-iphone)
 
 
 قامت شركة Sophos بإطلاق تطبيق لـ iPhone مصمم ليسمح للمستخدمين بالبقاء على إطلاع على آخر المخاطر، الأخبار والمعلومات حول البرمجيات الخبيثة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/3iphone-3gs-hack-282x300.jpg)
-](http://www.it-scoop.com/2010/06/free-sophos-security-threat-monitor-iphone)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/3iphone-3gs-hack-282x300.jpg)
+](https://www.it-scoop.com/2010/06/free-sophos-security-threat-monitor-iphone)
 
 يقوم التطبيق بتوفير نظرة على الجديد والقديم من مخاطر الحاسب الأمنية، ويتم تحديثه كل ساعة من خلال شبكة SophosLabs العالمية التي تضمن الكثير من الباحثين والمحللين.
 

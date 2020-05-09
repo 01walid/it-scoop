@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/skype-windows-phone-e1330372969183.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/skype-windows-phone.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/skype-windows-phone-e1330372969183.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/skype-windows-phone.jpg)
 
 
 

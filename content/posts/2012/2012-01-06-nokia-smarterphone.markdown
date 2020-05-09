@@ -20,8 +20,8 @@ tags:
 
 
 
-[![شعار شركة Smarterphone التي قامت Nokia بشرائها](http://www.it-scoop.com/wp-content/uploads/2012/01/Smarterphone.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/Smarterphone.png)
+[![شعار شركة Smarterphone التي قامت Nokia بشرائها](https://www.it-scoop.com/wp-content/uploads/2012/01/Smarterphone.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/Smarterphone.png)
 
 
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-يأتي ذلك بُعيد الأنباء التي تداولت أمس عن [إمكانية بيع Nokia لقسمها الخاص بالهواتف الذكية لـ Microsoft](http://www.it-scoop.com/2012/01/microsoft-nokia-smartphone-division-unit/) وتركيزها على الهواتف العادية فقط Feature Phones وهو ما قد يعطي المصداقية لهذا الخبر (لماذا لم يتم الإعلان من قبل عن عملية البيع، وتُركت "نائمة" لحوالي شهرين؟).
+يأتي ذلك بُعيد الأنباء التي تداولت أمس عن [إمكانية بيع Nokia لقسمها الخاص بالهواتف الذكية لـ Microsoft](https://www.it-scoop.com/2012/01/microsoft-nokia-smartphone-division-unit/) وتركيزها على الهواتف العادية فقط Feature Phones وهو ما قد يعطي المصداقية لهذا الخبر (لماذا لم يتم الإعلان من قبل عن عملية البيع، وتُركت "نائمة" لحوالي شهرين؟).
 
 
 

@@ -14,7 +14,7 @@ tags:
 
 أعلنت Microsoft عن قائمة التصحيحات الستة التي ستصدرها غدا الثلاثاء.
 
-![XP_patch](http://www.it-scoop.com/wp-content/uploads/2009/11/XP_patch.jpg)
+![XP_patch](https://www.it-scoop.com/wp-content/uploads/2009/11/XP_patch.jpg)
 
 
 من ضمن هذه التصحيحات الستة ، أربع تخص أنظمة Windows  التالية: XP,Vista, Windows 2000 و Windows Server . ثلاث منها توصف بالحرجة "Critical".

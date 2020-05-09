@@ -11,13 +11,13 @@ tags:
 - php6
 ---
 
-[**Rasmus Lerdorf يعلن عن توقف تطوير PHP 6 بسبب مشاكل مع ترميز الـ Unicode**](http://www.it-scoop.com/2010/03/rasmus-lerdorf-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%88%D9%82%D9%81-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-php-6-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D9%85%D8%B9-%D8%AA%D8%B1)
+[**Rasmus Lerdorf يعلن عن توقف تطوير PHP 6 بسبب مشاكل مع ترميز الـ Unicode**](https://www.it-scoop.com/2010/03/rasmus-lerdorf-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%88%D9%82%D9%81-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-php-6-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D9%85%D8%B9-%D8%AA%D8%B1)
 
 
 في رسالة كتبها منذ أيام على الموقع الرسمي لـ PHP، أعلن Rasmus Lerdorf الأب الروحي للـ PHP عن توقف تطوير PHP6 و ذلك بسبب المشاكل و التعقيدات الناتجة عن  دعم الـ UTF-16.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/php-logo-300x192.png)
-](http://www.it-scoop.com/2010/03/rasmus-lerdorf-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%88%D9%82%D9%81-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-php-6-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D9%85%D8%B9-%D8%AA%D8%B1)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/php-logo-300x192.png)
+](https://www.it-scoop.com/2010/03/rasmus-lerdorf-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%AA%D9%88%D9%82%D9%81-%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-php-6-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%85%D8%B4%D8%A7%D9%83%D9%84-%D9%85%D8%B9-%D8%AA%D8%B1)
 
 يشير Rasmus Lerdorf إلى أن دعم الـ Unicode سبب مشاكل عديدة، و جعل من مهمة التطوير أكثر تعقيدا، إضافة إلى مشاكل في دعم الإصدارات السابقة.
 

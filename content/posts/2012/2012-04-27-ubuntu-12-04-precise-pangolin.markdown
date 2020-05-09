@@ -19,12 +19,12 @@ tags:
 
 [أطلقت](http://www.canonical.com/content/ubuntu-server-1204-lts-certified-available-and-ready-hyperscale-world) شركة Canonical الراعية لتوزيعة Ubuntu (أشهر توزيعة نظام تشغيل Linux)، النسخة 12.04 من نظامها، والذي يحمل الاسم الكودي لاحدى الحيوانات المهددة بالانقراض -كعادتها-، وجاء الدور هذه المرة باسم : Precise Pangolin، أما Pangolin فهو حيوان [أم قرفة](http://ar.wikipedia.org/wiki/%D8%A3%D9%85_%D9%82%D8%B1%D9%81%D8%A9_%28%D8%AD%D9%8A%D9%88%D8%A7%D9%86%29)، أما Precise فحسب مجهود شخصي، فإن معناه يُحمل على أنه: المحدد بدقة، أو بشكل حاد، أو المعروف بوضوح، وبالتالي فإنه يمكن القول بأن اسم هذه الإصدارة هو "أم قرفة الدقيقـ(ة)".
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/ubuntu1stpicrek2d-e1335526443124.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/ubuntu1stpicrek2d.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/ubuntu1stpicrek2d-e1335526443124.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/ubuntu1stpicrek2d.jpg)
 
 
 [
-](http://www.it-scoop.com/wp-content/uploads/2012/04/ubuntu1stpicrek2d.jpg)ما يميز هذه النسخة، هو أنها ذات دعم طويل الأمد، Long Term Support) LTS) ، بل وأُطيل في نَفَسه من 3 سنوات إلى 5 سنوات هذه المرة.
+](https://www.it-scoop.com/wp-content/uploads/2012/04/ubuntu1stpicrek2d.jpg)ما يميز هذه النسخة، هو أنها ذات دعم طويل الأمد، Long Term Support) LTS) ، بل وأُطيل في نَفَسه من 3 سنوات إلى 5 سنوات هذه المرة.
 كما جاءت هذه التوزيعة بعدد لا بأس به من التحسينات، الإضافات والإصلاحات، حيث أصبحت الواجهة الجديدة Unity أكثر استقرارًا وسلاسة وبدعم جيّد للغة العربية، مع التركيز على التقليل من استهلاك الطاقة للحواسيب المحمولة.
 
 

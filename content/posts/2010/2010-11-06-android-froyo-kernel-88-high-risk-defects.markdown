@@ -15,7 +15,7 @@ tags:
 - Vulnerabilites
 ---
 
-**[شركة أمنية تعلن اكتشافها لـ 88 ثغرة في نواة نظام Android Froyo](http://www.it-scoop.com/2010/11/android-froyo-kernel-88-high-risk-defects)**
+**[شركة أمنية تعلن اكتشافها لـ 88 ثغرة في نواة نظام Android Froyo](https://www.it-scoop.com/2010/11/android-froyo-kernel-88-high-risk-defects)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/Android-vulnerabilites.jpg)
-](http://www.it-scoop.com/2010/11/android-froyo-kernel-88-high-risk-defects)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Android-vulnerabilites.jpg)
+](https://www.it-scoop.com/2010/11/android-froyo-kernel-88-high-risk-defects)
 
 
 كما أشارت Coverity Scan  في [هذه الدراسة](http://softwareintegrity.coverity.com/2011ScanAndroidReg.html) و التي عنونتها بـ « 2010 Coverity Scan Open Source Integrity Report » إلى أنها اكتشفت ما لا يقل عن 359  علة (Bug) في شفرة نواة  Android Froyo الحاملة للرقم 2.6.32، ربعها يمكن تصنيفه في خانة "الحرج".

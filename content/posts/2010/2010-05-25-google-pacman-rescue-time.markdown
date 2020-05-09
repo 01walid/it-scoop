@@ -15,13 +15,13 @@ tags:
 - Rescue Time
 ---
 
-[**هل ستقاضي الشركات Google بسبب لعبة Pacman؟**](http://www.it-scoop.com/2010/05/google-pacman-rescue-time/)
+[**هل ستقاضي الشركات Google بسبب لعبة Pacman؟**](https://www.it-scoop.com/2010/05/google-pacman-rescue-time/)
 
 
 نشرت شركة Rescue Time دراسة إحصائية تشير فيها إلى أن احتفال Google بمرور 30 سنة على إطلاق لعبة Pacman الشهيرة الجمعة الماضية قد تسبب في خسائر قدرت بـ 120 مليون دولار في الولايات المتحدة لوحدها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/google-pacman.jpg)
-](http://www.it-scoop.com/2010/05/Google-Pacman-Rescue-Time)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/google-pacman.jpg)
+](https://www.it-scoop.com/2010/05/Google-Pacman-Rescue-Time)
 
 حسب هذه الدراسة و التي ضيعت Rescue Time بعضا من وقتها لتحسب الوقت الذي ضيعه الموظفون في الشركات و ذلك اعتمادا على إحصائياتها الخاصة، فإن مجمل ما تم تضييعه في لعبة Pacman يوم الجمعة الماضي لوحده قُدر بـ 4819352  ساعة. كما سمحت هذه اللعبة لـ Google أن ترفع من متوسط الوقت الذي يقضيه كل زائر على موقعها من أربع دقائق و نصف إلى خمسة دقائق كاملة، و هي الإحصاءات التي لم يتم الكشف عن الطريقة العلمية المتبعة للوصول إليها.
 

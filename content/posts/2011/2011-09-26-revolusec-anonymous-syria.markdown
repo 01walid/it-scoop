@@ -14,7 +14,7 @@ tags:
 - RevoluSec
 ---
 
-[**كتيبة RevoluSec التابعة لتنظيم Anonymous تخترق جملة من المواقع الإلكترونية التابعة للنظام السوري**](http://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
+[**كتيبة RevoluSec التابعة لتنظيم Anonymous تخترق جملة من المواقع الإلكترونية التابعة للنظام السوري**](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/anonymous-logo-1.jpg)
-](http://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/anonymous-logo-1.jpg)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
 
 
 
@@ -63,11 +63,11 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-074420100-1316925286.png)
-](http://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](http://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-019864200-1316925774.png)
-](http://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](http://www.it-scoop.com/wp-content/uploads/2011/09/9-26-2011-8-44-17-AM.png)
-](http://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](http://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-042922500-1317014573.gif)
-](http://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-074420100-1316925286.png)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](https://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-019864200-1316925774.png)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](https://www.it-scoop.com/wp-content/uploads/2011/09/9-26-2011-8-44-17-AM.png)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](https://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-042922500-1317014573.gif)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
 
 
 

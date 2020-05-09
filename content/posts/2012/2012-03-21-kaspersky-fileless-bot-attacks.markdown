@@ -19,8 +19,8 @@ tags:
 
 
 
-[caption id="attachment_10351" align="aligncenter" width="641" caption="The code on the main page of RIA.ru that is used to download additional content from AdFox.ru"][![](http://www.it-scoop.com/wp-content/uploads/2012/03/688.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/688.png)[/caption]
+[caption id="attachment_10351" align="aligncenter" width="641" caption="The code on the main page of RIA.ru that is used to download additional content from AdFox.ru"][![](https://www.it-scoop.com/wp-content/uploads/2012/03/688.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/688.png)[/caption]
 
 
  مصدر الإصابة الذي لاحظته Kaspersky كان الإعلانات المحقونة من شركة إعلانية روسية مشهورة AdFox.ru والتي تقوم مواقع روسية كثيرة بالتعامل معها لإظهار إعلانات موجهة على صفحاتها.
@@ -38,8 +38,8 @@ tags:
 
 
 
-[caption id="attachment_10352" align="aligncenter" width="610" caption="The contents of an infected and a clean JS script"][![](http://www.it-scoop.com/wp-content/uploads/2012/03/689.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/689.png)[/caption]
+[caption id="attachment_10352" align="aligncenter" width="610" caption="The contents of an infected and a clean JS script"][![](https://www.it-scoop.com/wp-content/uploads/2012/03/689.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/689.png)[/caption]
 
 
 بعد تحليل ملف JAR الذي يتم تحميله من خلال أحد تلك المواقع، تبين أنه يقوم باستغلال الثغرة ذات المعرف CVE-2011-3544 والتي يقوم مجرمو الانترنت باستغلالها منذ نوفمبر الماضي في عام 2011، الثغرة التي تستهدف كلا من نظامي Mac OS و Windows. وتجدر الإشارة إلى أن هذه الثغرة تعد من أكثر الثغرات شهرة واستخداماً في الحزم الفيروسية الخبيثة التي يتم شراؤها واستخدامها عبر الانترنت.
@@ -73,8 +73,8 @@ tags:
 
 
 
-[caption id="attachment_10353" align="aligncenter" width="573" caption="الجزء المشار إليه في الصورة بلون مظلل هو المقطع الضار الذي تم حقنه في فضاء عناوين javaw.exe"][![](http://www.it-scoop.com/wp-content/uploads/2012/03/691.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/691.png)[/caption]
+[caption id="attachment_10353" align="aligncenter" width="573" caption="الجزء المشار إليه في الصورة بلون مظلل هو المقطع الضار الذي تم حقنه في فضاء عناوين javaw.exe"][![](https://www.it-scoop.com/wp-content/uploads/2012/03/691.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/691.png)[/caption]
 
 
 

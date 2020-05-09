@@ -18,11 +18,11 @@ tags:
 - WebKit
 ---
 
-أثار قرار فريق **Chromium** البارحة تعجبا وسط المجتمع التقني، إذ أعلنوا انتقالهم إلى محرك عرض خاص جديد لمتصفحهم، منشق عن **WebKit**، يحمل اسم **Blink**، بحجج منطقية مقنعة. بين مستبشر ومتشائم، آخرون ساخرون، من Opera يستهزئون، حيث لم تلبث إلا حين برهة لتستمتع وسط جمع WebKit الغفير التي انضمت إليه مؤخرا، لترد هي الأخرى، أني مع أهل Chromium وجماعته، وعلى خطاه أسير، مع [عين غامزة](http://en.wikipedia.org/wiki/Blink) وأخرى [دامعة](http://www.it-scoop.com/2013/02/opera-moves-to-webkit/).
+أثار قرار فريق **Chromium** البارحة تعجبا وسط المجتمع التقني، إذ أعلنوا انتقالهم إلى محرك عرض خاص جديد لمتصفحهم، منشق عن **WebKit**، يحمل اسم **Blink**، بحجج منطقية مقنعة. بين مستبشر ومتشائم، آخرون ساخرون، من Opera يستهزئون، حيث لم تلبث إلا حين برهة لتستمتع وسط جمع WebKit الغفير التي انضمت إليه مؤخرا، لترد هي الأخرى، أني مع أهل Chromium وجماعته، وعلى خطاه أسير، مع [عين غامزة](http://en.wikipedia.org/wiki/Blink) وأخرى [دامعة](https://www.it-scoop.com/2013/02/opera-moves-to-webkit/).
 
 
-[![chromium](http://www.it-scoop.com/wp-content/uploads/2013/04/chromium.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/chromium.jpg)
+[![chromium](https://www.it-scoop.com/wp-content/uploads/2013/04/chromium.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/chromium.jpg)
 
 
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-تميز المحرك بخفته، قوته، ميزاته ودعمه للمعايير القياسية. مع مرور الزمن ازدادت حصته والتطبيقات المبنية عليه أو له، لدرجة تخوف بعضهم من أن يصبح هو المعيار والباقون شواذ، بما فيهم المعيار نفسه، أو أن يتحول الأمر إلى [monoculture](http://en.wikipedia.org/wiki/Monoculture_%28computer_science%29). خاصة بعد[ انضمام Opera له مؤخرا](http://www.it-scoop.com/2013/02/opera-moves-to-webkit/).
+تميز المحرك بخفته، قوته، ميزاته ودعمه للمعايير القياسية. مع مرور الزمن ازدادت حصته والتطبيقات المبنية عليه أو له، لدرجة تخوف بعضهم من أن يصبح هو المعيار والباقون شواذ، بما فيهم المعيار نفسه، أو أن يتحول الأمر إلى [monoculture](http://en.wikipedia.org/wiki/Monoculture_%28computer_science%29). خاصة بعد[ انضمام Opera له مؤخرا](https://www.it-scoop.com/2013/02/opera-moves-to-webkit/).
 
 
 

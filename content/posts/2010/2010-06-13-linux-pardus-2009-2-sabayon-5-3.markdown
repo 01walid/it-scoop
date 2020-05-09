@@ -13,7 +13,7 @@ tags:
 - Sabayon
 ---
 
-**[إطلاق كلا من توزيعتي Sabayon 5.3  و Pardus 2009.2](http://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)**
+**[إطلاق كلا من توزيعتي Sabayon 5.3  و Pardus 2009.2](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)**
 
 
 
@@ -26,9 +26,9 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/pardus.jpg)
-](http://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3) [![](http://www.it-scoop.com/wp-content/uploads/2010/06/sabayon-logo-only_small.png)
-](http://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/pardus.jpg)
+](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3) [![](https://www.it-scoop.com/wp-content/uploads/2010/06/sabayon-logo-only_small.png)
+](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)
 
 
 
@@ -41,6 +41,6 @@ tags:
 و فيما يخص  Sabayon 5.3 و التي تبنى اعتمادا على توزيعة Gentoo  فإنها تأتي مجهزة بنواة Linux 2.6.34 و سطحي المكتب GNOME 2.28 و KDE SC 4.4.3 و تستعمل نظام إدارة الملفات Ext4 كنظام قياسي. كما تمتاز بسرعة تنصيبها و إقلاعها.
 
 [![](http://www.sabayon.org/images/screenshots/Sabayon%20Linux%204.1%20KDE/gscreen5.png  )
-](http://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)
+](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)
 
 يمكن تحميل الإصدار 5.3 من Sabayon من [هنا](http://www.sabayonlinux.org/mod/mirrors/)، و الإصدار 2009.2 من Pardus 2009.2 من [هنا](http://www.pardus.org.tr/eng/download/)

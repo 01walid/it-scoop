@@ -14,7 +14,7 @@ tags:
 ---
 
 [**إطلاق  Gentoo Linux 11.0**
-](http://www.it-scoop.com/2011/03/gentoo-linux-11-0/ )
+](https://www.it-scoop.com/2011/03/gentoo-linux-11-0/ )
 
 
 [أعلن](http://www.gentoo.org/news/20110308-livedvd.xml) فريق Gentoo عن إطلاق الإصدار 11 من  Gentoo Linux   بأحدث الحزم مع تنويع في أسطح المكتب .
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/gentoo-Linux.png)
-](http://www.it-scoop.com/2011/03/gentoo-linux-11-0/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/gentoo-Linux.png)
+](https://www.it-scoop.com/2011/03/gentoo-linux-11-0/ )
 
 
 بعض من مزايا هذا الإصدار :

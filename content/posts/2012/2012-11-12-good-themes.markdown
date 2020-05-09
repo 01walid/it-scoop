@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/11/good-themes-1024x576.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/11/good-themes.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/11/good-themes-1024x576.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/11/good-themes.png)
 
 
 

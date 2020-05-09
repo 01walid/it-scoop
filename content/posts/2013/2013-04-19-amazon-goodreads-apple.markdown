@@ -16,13 +16,13 @@ tags:
 - جود ريدز
 ---
 
-الكل سمع عن قصة شراء **[Amazon للشبكة الاجتماعية الخاصة بمدمني ومستهلكي الكتب GoodReads](http://www.it-scoop.com/2013/03/amazon-goodreads/)** ، كما سبق وأن أعلمناكم فإن هناك جانب في قضية الشراء هذه تتعلق بالمنافسة الموجودة ما بين **Amazon** و**Apple**، وهو الأمر الذي أكدته صحيفة Wall Street Journal في مقال لها والتي كشفت بأنه تم إيقاف محادثات ما بين الشبكة الاجتاعية وشركة التفاحة المقضومة والتي دامت لعدة أشهر بسبب عملية الشراء هذه.
+الكل سمع عن قصة شراء **[Amazon للشبكة الاجتماعية الخاصة بمدمني ومستهلكي الكتب GoodReads](https://www.it-scoop.com/2013/03/amazon-goodreads/)** ، كما سبق وأن أعلمناكم فإن هناك جانب في قضية الشراء هذه تتعلق بالمنافسة الموجودة ما بين **Amazon** و**Apple**، وهو الأمر الذي أكدته صحيفة Wall Street Journal في مقال لها والتي كشفت بأنه تم إيقاف محادثات ما بين الشبكة الاجتاعية وشركة التفاحة المقضومة والتي دامت لعدة أشهر بسبب عملية الشراء هذه.
 
 
 
 
-[![goodreads-amazoned](http://www.it-scoop.com/wp-content/uploads/2013/04/goodreads-amazoned.jpeg)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/goodreads-amazoned.jpeg)
+[![goodreads-amazoned](https://www.it-scoop.com/wp-content/uploads/2013/04/goodreads-amazoned.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/goodreads-amazoned.jpeg)
 
 
 

@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[أنباء عن شراء Google لخدمة Fflick مقابل 10 ملايين دولار](http://www.it-scoop.com/2011/01/google-to-acquire-fflick/)**
+**[أنباء عن شراء Google لخدمة Fflick مقابل 10 ملايين دولار](https://www.it-scoop.com/2011/01/google-to-acquire-fflick/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://tctechcrunch.files.wordpress.com/2010/08/fflicklogo-1.png)
-](http://www.it-scoop.com/2011/01/google-to-acquire-fflick/)
+](https://www.it-scoop.com/2011/01/google-to-acquire-fflick/)
 
 
 و يقوم مبدأ عمل [Fflick](http://fflick.com/) على تقديم توصيات/تقييمات للأفلام و يعتمد بالأساس على التقييمات التي كتبها الأشخاص الذين يتتبعهم كل عضو على Twitter، حيث تقوم الخدمة بتحليل التغريدات و استخراج أسماء الأفلام منها و من ثم استخلاص الآراء السلبية أو الإيجابية لكل مغرد و عرضها للمستخدم.

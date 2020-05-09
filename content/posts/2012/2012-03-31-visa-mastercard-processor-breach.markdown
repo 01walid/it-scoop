@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/Visa-MasterCard.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Visa-MasterCard.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/Visa-MasterCard.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Visa-MasterCard.jpg)
 
 
 

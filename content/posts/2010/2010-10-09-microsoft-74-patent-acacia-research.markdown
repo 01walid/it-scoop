@@ -17,12 +17,12 @@ tags:
 - Windows Phone 7
 ---
 
-**[Microsoft تشتري 74 رخصة استغلال براءات اختراع لتجنب أية ملاحقات قانونية محتملة](http://www.it-scoop.com/2010/10/microsoft-74-patent-acacia-research)**
+**[Microsoft تشتري 74 رخصة استغلال براءات اختراع لتجنب أية ملاحقات قانونية محتملة](https://www.it-scoop.com/2010/10/microsoft-74-patent-acacia-research)**
 
 
 
 
-في خطوة استباقية لأية دعاوى قضائية قد تُرفع ضدها ، سارعت Microsoft إلى [شراء](http://online.wsj.com/article/SB10001424052748704696304575538373166065054.html) حقوق استغلال 74 براءة اختراع و هذا أيام قليلة فقط قبيل [الإطلاق الرسمي](http://www.it-scoop.com/2010/10/windows-phone-7-october-11/) لـ Windows Phone 7 المبرمج لـ 11 أكتوبر القادم.
+في خطوة استباقية لأية دعاوى قضائية قد تُرفع ضدها ، سارعت Microsoft إلى [شراء](http://online.wsj.com/article/SB10001424052748704696304575538373166065054.html) حقوق استغلال 74 براءة اختراع و هذا أيام قليلة فقط قبيل [الإطلاق الرسمي](https://www.it-scoop.com/2010/10/windows-phone-7-october-11/) لـ Windows Phone 7 المبرمج لـ 11 أكتوبر القادم.
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Acacia-Microsoft.gif)
-](http://www.it-scoop.com/2010/10/microsoft-74-patent-acacia-research)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Acacia-Microsoft.gif)
+](https://www.it-scoop.com/2010/10/microsoft-74-patent-acacia-research)
 
 
 براءات الاختراع المعنية بالأمر تخص Access أحد فروع شركة  Acacia Research و التي سبقت لها و أن رفعت [337](http://www.businessweek.com/technology/content/feb2010/tc2010021_504247.htm) دعوى قضائية ضد كبار شركات الهواتف الذكية على مر الـ 18 سنة الماضية.

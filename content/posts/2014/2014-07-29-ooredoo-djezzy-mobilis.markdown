@@ -21,8 +21,8 @@ tags:
 
 
 
-[![ooredoo-mobilis-djezzy](http://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-mobilis-djezzy-300x250.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-mobilis-djezzy.png)
+[![ooredoo-mobilis-djezzy](https://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-mobilis-djezzy-300x250.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-mobilis-djezzy.png)
 
 
 
@@ -47,8 +47,8 @@ tags:
 
 
 
-[![ooredoo-cle-3g](http://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-cle-3g-288x300.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-cle-3g.png)
+[![ooredoo-cle-3g](https://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-cle-3g-288x300.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/07/ooredoo-cle-3g.png)
 
 
 
@@ -78,8 +78,8 @@ tags:
 
 
 
-[![djezzy-3g](http://www.it-scoop.com/wp-content/uploads/2014/07/djezzy-3g.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/07/djezzy-3g.jpg)
+[![djezzy-3g](https://www.it-scoop.com/wp-content/uploads/2014/07/djezzy-3g.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/07/djezzy-3g.jpg)
 
 
 

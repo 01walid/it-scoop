@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous.png)
 
 
 
@@ -51,10 +51,10 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous_2.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous_2.jpg)[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-03.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-03.jpg) [![](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-04.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-04.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous_2.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous_2.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-03.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-03.jpg) [![](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-04.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Alfanous-04.jpg)
 
 
 

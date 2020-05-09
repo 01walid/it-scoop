@@ -13,13 +13,13 @@ tags:
 ---
 
 [**موقع عالم حواء يشتري موقع عالم الترفيه**
-](http://www.it-scoop.com/2011/06/hawaaworld-entertainment-world-pr)
+](https://www.it-scoop.com/2011/06/hawaaworld-entertainment-world-pr)
 
 
 وصلنا البيان الصحفي التالي الذي يعلن عن شراء [موقع عالم حواء](http://forum.hawaaworld.com/) لموقع [عالم الترفيه](http://www.tt5.com/). و إليكم نصه:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/HawaaWorld.png)
-](http://www.it-scoop.com/2011/06/hawaaworld-entertainment-world-pr/)<!-- more -->
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/HawaaWorld.png)
+](https://www.it-scoop.com/2011/06/hawaaworld-entertainment-world-pr/)<!-- more -->
 
 
 

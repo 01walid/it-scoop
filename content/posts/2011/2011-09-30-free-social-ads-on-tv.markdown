@@ -14,7 +14,7 @@ tags:
 - youtube
 ---
 
-[**Twitter تحصل على دعاية أكبر من كبريات الشركات على القنوات الأمريكية دون أن تدفع مقابل ذلك**](http://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
+[**Twitter تحصل على دعاية أكبر من كبريات الشركات على القنوات الأمريكية دون أن تدفع مقابل ذلك**](https://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/TwitterTV.png)
-](http://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/TwitterTV.png)
+](https://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
 
 
 
@@ -35,8 +35,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/1.png)
-](http://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/1.png)
+](https://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
 
 
 

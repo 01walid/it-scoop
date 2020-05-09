@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2019/02/Poor-economics.jpg)
-](http://www.it-scoop.com/2019/02/poor-economics-book-review/poor-economics/)
+[![](https://www.it-scoop.com/wp-content/uploads/2019/02/Poor-economics.jpg)
+](https://www.it-scoop.com/2019/02/poor-economics-book-review/poor-economics/)
 
 
 

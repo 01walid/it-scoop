@@ -30,9 +30,9 @@ tags:
 #  Amazon و566 مليار شيء (Object) مخزن على خدمة التخزين السحابيS3
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/amazon-web-services-S3.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/10/amazon-web-services-S3.png)[
-](http://www.it-scoop.com/wp-content/uploads/2011/10/amazon-web-services-S3.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/amazon-web-services-S3.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/10/amazon-web-services-S3.png)[
+](https://www.it-scoop.com/wp-content/uploads/2011/10/amazon-web-services-S3.png)
 
 
 يبدو أن **Amazon** تريد إمتاعنا بعرض لقوة خدماتها السحابية وخطتها الشهيرة **S3**، فقد أعلنت في وقت سابق هذا الأسبوع أن عدد ما خزن في خوادم هذه الخدمة قد [بلغ رقم 566 مليارا](http://thenextweb.com/apps/2011/10/19/amazon-announces-566-billion-objects-stored-on-s3-service/)، رقم كبير بكل المعايير يبين أن عملاق التسوق الأمريكي ثبّت أذرعه التي مدها لمجالات أخرى غير تلك التي اشتهر بها، فمنذ دخوله مجال التخزين السحابي ورقم أعماله وعدد تخزيناته في ارتفاع مستمر. هذا الإعلان يعتبر دليلا على ثقة المستخدمين في خدمته ودعوة قوية لكل من لم يستعمل الخدمة بعد. لكن هذا لا ينسينا أن خدمته قد واجهت انقطاعا وتوقفا كبيرا منذ مدة آخذة معها مواقع كاملة مثل موقع [http://hootsuite.com](http://hootsuite.com/) الذي يعتمد بشكل كلي على خدمة  S3. شأنه شأن مواقع مثل  Dropbox و Yelp (الذي يخزن آراء 18 مليون عميل في خوادم Amazon)، إلى جانب وكالة الفضاء الأمريكية NASA.
@@ -54,8 +54,8 @@ tags:
 # Siri على هواتفAndroid
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/iris-android-app-300x146.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/10/iris-android-app.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/iris-android-app-300x146.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/10/iris-android-app.jpg)
 
 
 الكل سمع ببرنامج **Siri** الذي جهز أحدث هواتف iPhone والذي هو عبارة عن مرشد ومساعد صوتي لمستخدم الهاتف. حسنا ملاك  iPhone  لن يستمتعوا لوحدهم بهذه التقنية، حيث تم إطلاق الإصدار Alpha من **Iris** المماثل له على نظام Android. العجيب في الأمر أن **Iris** لم [يستغرق من مطوره سوى 8 ساعات لكتابته](http://www.phonesreview.co.uk/2011/10/22/iphone-4s-siri-stop-reverse-for-android-iris/).

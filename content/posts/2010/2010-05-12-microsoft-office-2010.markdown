@@ -14,13 +14,13 @@ tags:
 - Office 2010
 ---
 
-[**Microsoft  تطلق Office 2010 للشركات**](http://www.it-scoop.com/2010/05/microsoft-office-2010/)
+[**Microsoft  تطلق Office 2010 للشركات**](https://www.it-scoop.com/2010/05/microsoft-office-2010/)
 
 
 أطلقت Microsoft اليوم حزمتها المكتبية Office 2010  الموجهة للشركات في مختلف أنحاء العالم، فيما ينبغي للأفراد الانتظار إلى غاية الـ 15 من شهر يونيو القادم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/office2010-logo.jpg)
-](http://www.it-scoop.com/2010/05/microsoft-office-2010/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/office2010-logo.jpg)
+](https://www.it-scoop.com/2010/05/microsoft-office-2010/)
 
 الإصدار 2010  من حزمة Office هي الأولى التي تأتي على ثلاث أشكال مختلفة، حيث أنه و بالإضافة إلى الشكل الكلاسيكي للحزمة و المتمثل في تطبيقات سطح المكتب، نجد كلا من إصدار على هيئة تطبيق ويب (Office Web Apps) و تطبيق على الهواتف الذكية، و التي ستكون متوافقة مع أنظمة Windows Mobile 6.5 و Windows Phone 7 إضافة إلى Symbian.
 

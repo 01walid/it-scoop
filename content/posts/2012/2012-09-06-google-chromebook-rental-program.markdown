@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/Google-Chromebook.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/Google-Chromebook.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/Google-Chromebook.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/Google-Chromebook.jpg)
 
 
 
@@ -37,4 +37,4 @@ tags:
 
 
 
-للتذكير فقد سبق لـ Google أن [أطلقت الإصدار 20 من نظام Chrome OS](http://www.it-scoop.com/2012/07/chrome-os-20-google-docs-offline-google-drive/) منذ أقل من شهرين ي يدعم كلا من Google Drive والوضع Offline من حزمتها المكتبية Google Docs.
+للتذكير فقد سبق لـ Google أن [أطلقت الإصدار 20 من نظام Chrome OS](https://www.it-scoop.com/2012/07/chrome-os-20-google-docs-offline-google-drive/) منذ أقل من شهرين ي يدعم كلا من Google Drive والوضع Offline من حزمتها المكتبية Google Docs.

@@ -13,7 +13,7 @@ tags:
 ---
 
 **[و يتواصل الإبداع الصيني: قرص صلب خارجي ....ميكانيكي
-](http://www.it-scoop.com/2011/04/fake-chinese-hard-disk)**
+](https://www.it-scoop.com/2011/04/fake-chinese-hard-disk)**
 
 
 حتى اللحظة لا يختلف اثنان أن الصين بلد ذو إمكانيات اقتصادية ضخمة و جميعنا نحفظ عن ظهر قلب ذلك التوصيف الذي لم يمل أساتذتنا تكراره طوال مراحل التعليم "الصين العملاق النائم" . كما نتفق أيضا أن الصين نقطة سوداء في العالم فيما يخص تقليد المنتجات من أبسطها إلى أكثرها تعقيدا و دقة ،تقليدا سيئا، و هذا ينعكس دون شك سلبا على علامة الشركات الضحية كما يكبدها خسائر ضخمة.
@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/12ba6e7c0ec8.jpg)
-](http://www.it-scoop.com/2011/04/fake-chinese-hard-disk)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/12ba6e7c0ec8.jpg)
+](https://www.it-scoop.com/2011/04/fake-chinese-hard-disk)
 
 
 [القصة التالية](http://www.forum.minolta-club.ru/showthread.php?t=42449) من روسيا حيث تقدم عميل لمركز "raskazal " لصيانة العتاد بقرص صلب ( Samsung Hard Drive) أو هذا على الأقل ما توحي به الصورة الموضحة أعلاه.
@@ -32,8 +32,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/654f43d71508.jpg)
-](http://www.it-scoop.com/2011/04/fake-chinese-hard-disk)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/654f43d71508.jpg)
+](https://www.it-scoop.com/2011/04/fake-chinese-hard-disk)
 
 
 أعتقدأن الصورة تغني عن كل تعليق يبقى فقط أن أقر أن هذا الجزء يكشف ذكاء الصانع القطع المعدنية علاوة على تثبيت سواقة   usb  فإنها تلعب دورا هاما في إضفاء وزن مضاعف حتى لا تفضح العملية فمن غير المعقول شراء قرص صلب بوزن 30 غرام مثلا ؟

@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/pacemaker-hack.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/pacemaker-hack.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/pacemaker-hack.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/pacemaker-hack.jpg)
 
 
 

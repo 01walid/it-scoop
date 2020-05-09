@@ -14,7 +14,7 @@ tags:
 - facebook
 ---
 
-[**مجموعة من Anonymous  تؤكد من جديد نيّتها تعطيل Facebook في الخامس من نوفمبر القادم**](http://www.it-scoop.com/2011/08/anonymous-facebook-3/)
+[**مجموعة من Anonymous  تؤكد من جديد نيّتها تعطيل Facebook في الخامس من نوفمبر القادم**](https://www.it-scoop.com/2011/08/anonymous-facebook-3/)
 
 
 حدّثت مجموعة من منظّمة Anonymous المعروفة بنشاطات الاختراق الكبيرة الّتي تنفّذها ، حدّثت الحساب الخاصّ بعمليّة Facebook (على [Facebook](https://www.facebook.com/pages/Anonymous-Op-FaceBook/167415519984690) و[Twitter](https://twitter.com/#%21/OpFacebook))، أو ما يسمّونه #Op Face.Book منذ عدّة ساعات [بالمنشور التّالي](https://www.facebook.com/permalink.php?story_fbid=206467949412780&id=167415519984690):
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Anonymous-OpFace.Book_.jpg)
-](http://www.it-scoop.com/2011/08/anonymous-facebook-3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Anonymous-OpFace.Book_.jpg)
+](https://www.it-scoop.com/2011/08/anonymous-facebook-3/)
 
 
 
@@ -41,4 +41,4 @@ tags:
 3. كيف أساعدكم؟ اطلب من الرّاغبين الانضمام لهذه الصّفحة ليجّهزوا أنفسهم ليوم الخامس من نوفمبر.** تذكر... تذكر الخامس من نوفمبر!**</blockquote>
 
 
-يعتبر هذا تأكيدًا [لوعدهم السّابق](http://www.it-scoop.com/tag/2011/08/anonymous-facebook/) فيما مضى من هذا الشّهر، وإن كانت المنظّمة قد [نفت صلتها جزئيًّا بعمليّة تدمير Facebook](http://www.it-scoop.com/2011/08/anonymous-facebook-2/). لكن لاحظ... المنظّمة قالت: "[نحن لا نقتل](https://twitter.com/#%21/anonops/status/101152229087657984)"، والمجموعة أعلاه أيضًا أكّدت أنّها لن "تدمّر" Facebook! هل هذا يعني أنّهم متّفقون في المبدأ؟
+يعتبر هذا تأكيدًا [لوعدهم السّابق](https://www.it-scoop.com/tag/2011/08/anonymous-facebook/) فيما مضى من هذا الشّهر، وإن كانت المنظّمة قد [نفت صلتها جزئيًّا بعمليّة تدمير Facebook](https://www.it-scoop.com/2011/08/anonymous-facebook-2/). لكن لاحظ... المنظّمة قالت: "[نحن لا نقتل](https://twitter.com/#%21/anonops/status/101152229087657984)"، والمجموعة أعلاه أيضًا أكّدت أنّها لن "تدمّر" Facebook! هل هذا يعني أنّهم متّفقون في المبدأ؟

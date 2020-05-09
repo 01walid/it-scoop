@@ -17,13 +17,13 @@ tags:
 - فيسبوك
 ---
 
-تتوالى المشاكل والأزمات التي تواجهها **فيس بوك** منذ أن وطأت أقدامها أرض Nasdaq فبعد ["فضيحة" النقرات الآلية على الإعلانات](http://www.it-scoop.com/2012/08/limited-run-facebook-ad-clicks-bots/) على الشبكة، أعلن 3 موظفون سامون استقالتهم من مناصبهم، مما أدى بسعر سهم الشبكة إلى النزول لأول مرة تحت حاجز **20 دولارا**.
+تتوالى المشاكل والأزمات التي تواجهها **فيس بوك** منذ أن وطأت أقدامها أرض Nasdaq فبعد ["فضيحة" النقرات الآلية على الإعلانات](https://www.it-scoop.com/2012/08/limited-run-facebook-ad-clicks-bots/) على الشبكة، أعلن 3 موظفون سامون استقالتهم من مناصبهم، مما أدى بسعر سهم الشبكة إلى النزول لأول مرة تحت حاجز **20 دولارا**.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/facebook-19.98.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/facebook-19.98.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/facebook-19.98.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/facebook-19.98.png)
 
 
 
@@ -48,7 +48,7 @@ tags:
 
 
 
-تجدر الإشارة إلى أنه رغم الزيادة التي عرفتها أعداد مستخدمي فيس بوك والتي تجاوزت 955 مليون مستخدم، إلا أن الشركة [سجلت خسائر](http://www.it-scoop.com/2012/07/facebook-posts-loss-in-first-quarterly-earnings-report/) خلال الربع الثاني من العام الجاري قُدرت بنحو 157 مليون دولار. كما أن مسلسل خروج الموظفين لديها بدأ منتصف شهر يونيو الماضي [بخروج Bret Taylor](http://www.it-scoop.com/2012/06/facebook-cto-bret-taylor-leaving/) الذي يشغل منصب chief technology officer.
+تجدر الإشارة إلى أنه رغم الزيادة التي عرفتها أعداد مستخدمي فيس بوك والتي تجاوزت 955 مليون مستخدم، إلا أن الشركة [سجلت خسائر](https://www.it-scoop.com/2012/07/facebook-posts-loss-in-first-quarterly-earnings-report/) خلال الربع الثاني من العام الجاري قُدرت بنحو 157 مليون دولار. كما أن مسلسل خروج الموظفين لديها بدأ منتصف شهر يونيو الماضي [بخروج Bret Taylor](https://www.it-scoop.com/2012/06/facebook-cto-bret-taylor-leaving/) الذي يشغل منصب chief technology officer.
 
 
 

@@ -19,8 +19,8 @@ tags:
 
 
 
-[![iphone-5C](http://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5C.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5C.jpg)
+[![iphone-5C](https://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5C.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5C.jpg)
 
 
 

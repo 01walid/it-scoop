@@ -12,7 +12,7 @@ tags:
 - Whats up Startups
 ---
 
-[**Whats up Startups: الأجندة التي تبقي رواد الأعمال على إطلاع بالأحداث التي تهمهم**]( http://www.it-scoop.com/2011/03/whats-up-startups/)
+[**Whats up Startups: الأجندة التي تبقي رواد الأعمال على إطلاع بالأحداث التي تهمهم**]( https://www.it-scoop.com/2011/03/whats-up-startups/)
 
 
 
@@ -21,7 +21,7 @@ tags:
 
 
 [![](http://www.whatsupstartups.com/images/startup-logo.gif )
-](http://www.it-scoop.com/2011/03/whats-up-startups/)
+](https://www.it-scoop.com/2011/03/whats-up-startups/)
 
 أيا كان المكان الذي تتواجد فيه، في المشرق أو في المغرب الكبير، في أوروبا أو في أمريكا، يكفي أن تضيف هذه الأجندة إلى أجندتك الخاصة و ستبقى على إطلاع كامل بما حدث سابقا، ما يحدث حاليا، و ما سيحدث لاحقا في مجال ريادة الأعمال.
 

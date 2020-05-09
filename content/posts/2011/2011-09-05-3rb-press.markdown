@@ -14,7 +14,7 @@ tags:
 - ووردبرس
 ---
 
-[**إطلاق نسخة مطورة من عرّبريس تتيح تعريب قوالب Wordprss بنصوصها**](http://www.it-scoop.com/2011/09/3rb-press/)
+[**إطلاق نسخة مطورة من عرّبريس تتيح تعريب قوالب Wordprss بنصوصها**](https://www.it-scoop.com/2011/09/3rb-press/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/3rb-press.png)
-](http://www.it-scoop.com/2011/09/3rb-press/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/3rb-press.png)
+](https://www.it-scoop.com/2011/09/3rb-press/)
 
 
 

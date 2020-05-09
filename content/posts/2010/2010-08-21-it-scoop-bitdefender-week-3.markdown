@@ -16,7 +16,7 @@ tags:
 
 
 
-**[مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الثالث)](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)**
+**[مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الثالث)](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)**
 
 
 
@@ -28,7 +28,7 @@ tags:
 
 
 [![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
-](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)
+](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)
 
 
 
@@ -55,8 +55,8 @@ tags:
 
 الخبر الذي يجب أن تكتب تعليقا عليه هو الظاهر في الصورة التالية:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/bitDefender-week3.png)
-](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/bitDefender-week3.png)
+](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)
 
 
 يفضل أن تكون متابعا للمجلة التقنية على [حسابهاالمجلة التقنية على Twitter](http://twitter.com/it_scoop_com) و على [صفحتها على Facebook](http://www.facebook.com/ITscoopMagazine) ليتسنى لنا الاتصال بك إن كنت أنت الفائز بالجائزة.

@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/11/google-voice-search-iOS.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/11/google-voice-search-iOS.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/11/google-voice-search-iOS.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/11/google-voice-search-iOS.jpg)
 
 
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-يُمكن للتطبيق أيضا الإجابة على أسئلة تتعدى مجال المساعدة الشخصية كالمعلومات العامة وذلك بالاعتماد على تقنية [Knowledge Graph](http://www.it-scoop.com/2012/05/google-knowledge-graph/) الخاصة بـ Google.
+يُمكن للتطبيق أيضا الإجابة على أسئلة تتعدى مجال المساعدة الشخصية كالمعلومات العامة وذلك بالاعتماد على تقنية [Knowledge Graph](https://www.it-scoop.com/2012/05/google-knowledge-graph/) الخاصة بـ Google.
 
 
 

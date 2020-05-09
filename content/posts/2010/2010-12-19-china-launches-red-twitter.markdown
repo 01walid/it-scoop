@@ -18,7 +18,7 @@ tags:
 - Twitter-like
 ---
 
-[الصين تطلق Red Twitter !](http://www.it-scoop.com/2010/12/china-launches-red-twitter/)
+[الصين تطلق Red Twitter !](https://www.it-scoop.com/2010/12/china-launches-red-twitter/)
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/s-TWITTER-large.jpg)
-](http://www.it-scoop.com/2010/12/china-launches-red-twitter/)ومن أمثلة بعض الاقتباسات التي تم عرضها على الصفحة الرئيسية:
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/s-TWITTER-large.jpg)
+](https://www.it-scoop.com/2010/12/china-launches-red-twitter/)ومن أمثلة بعض الاقتباسات التي تم عرضها على الصفحة الرئيسية:
 
 
 

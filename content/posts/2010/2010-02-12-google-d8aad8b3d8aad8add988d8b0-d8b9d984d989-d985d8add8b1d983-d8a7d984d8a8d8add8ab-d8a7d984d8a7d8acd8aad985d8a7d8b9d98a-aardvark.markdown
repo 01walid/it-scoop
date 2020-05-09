@@ -13,13 +13,13 @@ tags:
 - Google
 ---
 
-[**Google  تستحوذ على محرك البحث الاجتماعي  Aardvark**](http://www.it-scoop.com/2010/02/google-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d9%85%d8%ad%d8%b1%d9%83-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-aardvark/)
+[**Google  تستحوذ على محرك البحث الاجتماعي  Aardvark**](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d9%85%d8%ad%d8%b1%d9%83-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-aardvark/)
 
 
 بعد أيام فقط على إعلانها خدمة Buzz و التي تود أن تنافس بها أكبر الشبكات الاجتماعية على غرار Facebook و Twitter، أعلنت Google شراءها لمحرك البحث الاجتماعي [Aardvark](http://vark.com/).
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/Aardvark.png)
-](http://www.it-scoop.com/2010/02/google-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d9%85%d8%ad%d8%b1%d9%83-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-aardvark/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/Aardvark.png)
+](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%b3%d8%aa%d8%ad%d9%88%d8%b0-%d8%b9%d9%84%d9%89-%d9%85%d8%ad%d8%b1%d9%83-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a-aardvark/)
 
 Aardvark محرك البحث الاجتماعي الذي تم إنشاؤه من طرف موظفين سابقين لدى Google ، يوفر خدمة تسمح للمشتركين بإيجاد أجوبة لأسئلتهم عند المشتركين الآخرين، دون الحاجة إلى توجيههم إلى محركات البحث، أو المواقع المتخصصة.
 

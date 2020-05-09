@@ -12,13 +12,13 @@ tags:
 - Java
 ---
 
-[**لغة  C تتربع على عرش لغات البرمجة من جديد، و الـ Java تتأخر**](http://www.it-scoop.com/2010/04/%d9%84%d8%ba%d8%a9-c-%d8%aa%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af/)
+[**لغة  C تتربع على عرش لغات البرمجة من جديد، و الـ Java تتأخر**](https://www.it-scoop.com/2010/04/%d9%84%d8%ba%d8%a9-c-%d8%aa%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af/)
 
 
 نشرت TIOBE Software ترتيبها الشهري لأكثر لغات البرمجة استعمالا، حيث حلت لغة C الأولى بعد أن غابت عن هذه المرتبة منذ أربعة سنوات و التي كانت الـ Java هي المسيطرة عليها.
 
 [![](http://www.tiobe.com/content/paperinfo/tpci/images/tpci_trends.png)
-](http://www.it-scoop.com/2010/04/%d9%84%d8%ba%d8%a9-c-%d8%aa%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af/http://www.it-scoop.com/2010/04/%d9%84%d8%ba%d8%a9-c-%d8%aa%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af/)
+](https://www.it-scoop.com/2010/04/%d9%84%d8%ba%d8%a9-c-%d8%aa%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af/https://www.it-scoop.com/2010/04/%d9%84%d8%ba%d8%a9-c-%d8%aa%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af/)
 
 حسب التحليل المصاحب لهذا الترتيب، فإن لغة C تحافظ على نفس نسبة استعمالها و التي تتراوح بين 15% إلى 20% منذ زهاء العقد، لكن احتلالها المرتبة الأولى راجع بالأساس إلى تراجع شعبية لغة Java.
 

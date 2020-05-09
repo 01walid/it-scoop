@@ -13,13 +13,13 @@ tags:
 - WordPress
 ---
 
-[**الإصدار RC1 لـ Wordpress 3.0 متوفر للتحميل**](http://www.it-scoop.com/2010/05/wordpress-3-rc/)
+[**الإصدار RC1 لـ Wordpress 3.0 متوفر للتحميل**](https://www.it-scoop.com/2010/05/wordpress-3-rc/)
 
 
 تم إطلاق الإصدار  RC1 لنظام إدارة المحتوى و المدونات Wordpress 3.0 و التي تبشر بقرب وصول الإصدار النهائي لنفس الإصدار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
-](http://www.it-scoop.com/2010/05/wordpress-3-rc/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
+](https://www.it-scoop.com/2010/05/wordpress-3-rc/)
 
 الإصدار RC يأتي ليصحح جميع الثغرات و الأخطاء المكتشفة في الإصدار التجريبي السابق، و  لبأتي ببعضٍ من الإضافات الجديدة على غرار تحسينات  تم إدخالها على الـ Menus ،إلى جانب جملة من التغييرات التي تمس واجهة نظام إدارة المحتوى بشكل أكبر.
 

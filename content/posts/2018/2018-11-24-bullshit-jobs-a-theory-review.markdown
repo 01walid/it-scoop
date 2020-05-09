@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/11/bullshit-jobs.jpg)
-](http://www.it-scoop.com/2018/11/bullshit-jobs-a-theory-review/bullshit-jobs/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/11/bullshit-jobs.jpg)
+](https://www.it-scoop.com/2018/11/bullshit-jobs-a-theory-review/bullshit-jobs/)
 
 
 

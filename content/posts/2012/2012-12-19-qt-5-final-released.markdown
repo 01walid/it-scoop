@@ -22,7 +22,7 @@ tags:
 
 أطلقت اليوم شركة **Digia** المالكة لحقوق منصة **Qt**، النسخة الخامسة والتي طال انتظارها **Qt5**. والحقيقة ما تحمله هذه الإصدارة الراشدة من جديد لا يمكن حصره في مقال واحد، لكن سنحاول أن نعرض عليكم أهم ما جاءت به هذه النسخة.
 
-![images](http://www.it-scoop.com/wp-content/uploads/2012/12/images.jpeg)
+![images](https://www.it-scoop.com/wp-content/uploads/2012/12/images.jpeg)
 
 
 [

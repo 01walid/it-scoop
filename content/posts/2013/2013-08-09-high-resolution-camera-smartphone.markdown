@@ -23,8 +23,8 @@ tags:
 
 
 
-[![samsung-s4-zoom-nokia-lumia-1020](http://www.it-scoop.com/wp-content/uploads/2013/08/samsung-s4-zoom-nokia-lumia-1020.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/samsung-s4-zoom-nokia-lumia-1020.jpg)
+[![samsung-s4-zoom-nokia-lumia-1020](https://www.it-scoop.com/wp-content/uploads/2013/08/samsung-s4-zoom-nokia-lumia-1020.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/samsung-s4-zoom-nokia-lumia-1020.jpg)
 
 
 
@@ -34,7 +34,7 @@ tags:
 
 
 
-وكما سبق وأن حدثناكم، فإن الشبكات الاجتماعية قد [غيرت مفهوم التقاط الصور وحولتها من أدوات لحفظ الذكريات إلى وسائل للتخاطب والتواصل الاجتماعي](http://www.it-scoop.com/2013/07/photography-new-communication-medium/) فإن نفس الشبكات الاجتماعية قد جعلت عملية التقاط الصور عالية الجودة تفقد معناها، حيث أنها لم تقم بتغيير مفهومه كما فعلت مع مفهوم التقاط الصور، بل ألغت الحاجة إليها بشكل كبير، وإليكم تفصيل ذلك.
+وكما سبق وأن حدثناكم، فإن الشبكات الاجتماعية قد [غيرت مفهوم التقاط الصور وحولتها من أدوات لحفظ الذكريات إلى وسائل للتخاطب والتواصل الاجتماعي](https://www.it-scoop.com/2013/07/photography-new-communication-medium/) فإن نفس الشبكات الاجتماعية قد جعلت عملية التقاط الصور عالية الجودة تفقد معناها، حيث أنها لم تقم بتغيير مفهومه كما فعلت مع مفهوم التقاط الصور، بل ألغت الحاجة إليها بشكل كبير، وإليكم تفصيل ذلك.
 
 
 

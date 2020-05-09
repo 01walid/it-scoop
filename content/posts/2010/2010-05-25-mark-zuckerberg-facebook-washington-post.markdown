@@ -14,13 +14,13 @@ tags:
 - washington post
 ---
 
-[**Mark Zuckerberg يعتذر عن الأخطاء المتعلقة بخروقات الخصوصية المرتكبة على Facebook**](http://www.it-scoop.com/2010/05/mark-zuckerberg-facebook-washington-post)
+[**Mark Zuckerberg يعتذر عن الأخطاء المتعلقة بخروقات الخصوصية المرتكبة على Facebook**](https://www.it-scoop.com/2010/05/mark-zuckerberg-facebook-washington-post)
 
 
 نشر Mark Zuckerberg على صفحات جريدة الـ washington post   اعتذارا عن السياسة التي انتهجتها شبكته الاجتماعية Facebook و المتعلقة بعدم احترام و خروقات متعلقة بخصوصية منتسبي الشبكة، إضافة إلى تعقيد آلية حماية البيانات الشخصية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/facebook_conf.jpg)
-](http://www.it-scoop.com/2010/05/mark-zuckerberg-facebook-washington-post)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/facebook_conf.jpg)
+](https://www.it-scoop.com/2010/05/mark-zuckerberg-facebook-washington-post)
 
 حيث صرح قائلا : "أعلم أننا اقترفنا جملة من الأخطاء، لكن أملي كان في أن نحسِّن من نوعية الخدمة التي نقدمها، و أود أن يعلم مشتركو الشبكة أن نوايانا كانت حسنة، و أننا سنتعامل مع ردود الفعل التي تصلنا".
 

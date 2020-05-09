@@ -12,13 +12,13 @@ tags:
 - skype
 ---
 
-**[Skype تؤجل موعد دخولها إلى البورصة](http://www.it-scoop.com/2011/01/skype-ipo-second-half-2011/)**
+**[Skype تؤجل موعد دخولها إلى البورصة](https://www.it-scoop.com/2011/01/skype-ipo-second-half-2011/)**
 
 
 أشارت الـ Wall Street Journal إلى أن Skype قد قررت تأجيل دخولها إلى البورصة إلى ما بعد النصف الأول من العام الجاري، و ذلك حتى يتأقلم مديرها التنفيذي الجديد مع منصبه الجديد.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/skype-logo.jpg)
-](http://www.it-scoop.com/2011/01/skype-ipo-second-half-2011/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/skype-logo.jpg)
+](https://www.it-scoop.com/2011/01/skype-ipo-second-half-2011/)
 
 و حسب [الجريدة](http://online.wsj.com/article/SB10001424052748703293204576106132286203062.html) التي تعتمد على مصادر مطلعة على الموضوع، فإن Tony Bates الـ CEO الجديد لـ Skype  - الذي تولى منصبه مؤخرا قادما من Cisco شهر أكتوبر الماضي- يحتاج إلى وقت إضافي للتأقلم مع إدارة الشركة مما يسمح له بتحضيرها لدخول أفضل للبورصة.
 

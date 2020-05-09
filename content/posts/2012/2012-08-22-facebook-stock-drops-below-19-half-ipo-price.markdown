@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/facebook.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/facebook.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/facebook.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/facebook.jpg)
 
 
 

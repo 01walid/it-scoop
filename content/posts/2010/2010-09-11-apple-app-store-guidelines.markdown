@@ -17,13 +17,13 @@ tags:
 - iPhone
 ---
 
-**[Apple تتراجع عن منع الـ SDK التي لا تخصها لتطوير تطبيقات الـ iPhone](http://www.it-scoop.com/2010/09/apple-app-store-guidelines/)**
+**[Apple تتراجع عن منع الـ SDK التي لا تخصها لتطوير تطبيقات الـ iPhone](https://www.it-scoop.com/2010/09/apple-app-store-guidelines/)**
 
 
 في خطوة غير متوقعة و لا منتظرة، قامت Apple بكسر القيود التي فرضتها سابقا و المتعلقة بمنع استعمال أي SDK غير الذي توفره بنفسها لكتابة تطبيقات لنظام iOS  على هواتف iPhone و أجهزة iPad. كما كشفت تفاصيل عملية قبول/رفض التطبيقات على متجرها App Store.
 
 [![](http://developer.apple.com/appstore/images/app-store-review-hero.jpg)
-](http://www.it-scoop.com/2010/09/apple-app-store-guidelines/)
+](https://www.it-scoop.com/2010/09/apple-app-store-guidelines/)
 
 و في [البيان الصحفي](http://www.apple.com/pr/library/2010/09/09statement.html) الذي نشرته لتعلن عن هذه التغييرات وضحت Apple أنها استجابت لطلبات المطورين  و قامت بإعادة النظر في القوانين 3.3.1 ، 3.3.2 و 3.3.9، و رفعت كل القيود التي تخص أدواة التطوير المستعملة في كتابة تطبيقات iOS و هذا شريطة أن لا يقوم البرنامج بتحميل أي شفرة خارجي، مما سيوفر للمطورين مرونة أكبر لطالما طالبوا بها، و هذا دون الإخلال بمعايير الأمن و الحماية.
 

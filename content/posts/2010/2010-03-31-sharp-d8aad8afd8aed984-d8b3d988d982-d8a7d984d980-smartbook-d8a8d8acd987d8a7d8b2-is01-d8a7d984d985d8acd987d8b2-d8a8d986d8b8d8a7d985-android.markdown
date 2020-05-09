@@ -13,13 +13,13 @@ tags:
 - Smartbook
 ---
 
-[**Sharp تدخل سوق الـ SmartBook بجهاز IS01 المجهز بنظام Android**](http://www.it-scoop.com/2010/03/sharp-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%80-smartbook-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2-is01-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b2-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-android/)
+[**Sharp تدخل سوق الـ SmartBook بجهاز IS01 المجهز بنظام Android**](https://www.it-scoop.com/2010/03/sharp-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%80-smartbook-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2-is01-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b2-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-android/)
 
 
 يستعد المصنع الياباني Sharp تسجيل دخوله إلى عالم الـ SmarBook ، الأجهزة الهجينة و التي تحمل مواصفات كل من الـ SmartPhones و الـ NetBooks بفضل جهاز جديد مجهز بالإصدار 1.6 من نظام Android.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/is01-sharp.jpg)
-](http://www.it-scoop.com/2010/03/sharp-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%80-smartbook-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2-is01-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b2-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-android/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/is01-sharp.jpg)
+](https://www.it-scoop.com/2010/03/sharp-%d8%aa%d8%af%d8%ae%d9%84-%d8%b3%d9%88%d9%82-%d8%a7%d9%84%d9%80-smartbook-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2-is01-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b2-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-android/)
 
 الجهاز الجديد و الذي أطلق عليه اسم IS01 يمتاز بكل من شاشته ذات الـ 5  بوصات، بلوحة مفاتيحه الكاملة و بالكاميرا الرقمية ذات دقة 5 MegaPixels.
 

@@ -15,7 +15,7 @@ tags:
 - Windows Vista SP1
 ---
 
-[**الـ Patch Tuesday لشهر يوليو سيرقع ثغرة خطيرة في Windows 7 و يعلن عن نهاية دعم الـ SP1 الخاص بـ Vista**](http://www.it-scoop.com/2011/07/patch-tuesday-july-2011/)
+[**الـ Patch Tuesday لشهر يوليو سيرقع ثغرة خطيرة في Windows 7 و يعلن عن نهاية دعم الـ SP1 الخاص بـ Vista**](https://www.it-scoop.com/2011/07/patch-tuesday-july-2011/)
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/microsoft-patch-tuesday.jpg)
-](http://www.it-scoop.com/2011/07/patch-tuesday-july-2011/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/microsoft-patch-tuesday.jpg)
+](https://www.it-scoop.com/2011/07/patch-tuesday-july-2011/)
 
 
 

@@ -15,13 +15,13 @@ tags:
 - SDK
 ---
 
-**[الإصدار النهائي من الـ SDK الخاص بـ Android 3.0 Honeycomb متوفر للتحميل](http://www.it-scoop.com/2011/02/android-3-0-sdk/)**
+**[الإصدار النهائي من الـ SDK الخاص بـ Android 3.0 Honeycomb متوفر للتحميل](https://www.it-scoop.com/2011/02/android-3-0-sdk/)**
 
 
 [أطلقت ](http://android-developers.blogspot.com/2011/02/final-android-30-platform-and-updated.html)Google الإصدار النهائي من الـSDK  الخاص بـ Android 3.0 المسمى Honeycomb ( المخصص للأجهزة اللوحية ) ، المتضمن  للـ API النهائية (Level 11) ، و تفتح بذلك الأبواب لكتابة تطبيقات للأجهزة اللوحية و نشرها على الـ Android market.
 
 [![](http://4.bp.blogspot.com/-9Ez2y71RLWY/TVmisYUffnI/AAAAAAAAABs/iN2LC8JQTNw/s400/android-bumblebee-holo.png )
-](http://www.it-scoop.com/2011/02/android-3-0-sdk/)
+](https://www.it-scoop.com/2011/02/android-3-0-sdk/)
 
 و يتضمن هذا الـ SDK  تحديثا لإضافة الـ ADT   لبيئة التطوير المتكاملة  Eclipse ، و الذي يقدم تحسينات تخص الـ UI Builder الخاص ببناء واجهات المستخدم الرسومية ، إضافة إلى دمج Traceview لتسهيل التحليل من  الـ ADT ، إلى جانب أدوات لاستخدام محرك الرسوميات Renderscript .
 

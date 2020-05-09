@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Dick-Costolo-twitter-ceo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Dick-Costolo-twitter-ceo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Dick-Costolo-twitter-ceo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Dick-Costolo-twitter-ceo.jpg)
 
 
 
@@ -53,4 +53,4 @@ tags:
 
 
 
-كما اغتنم المدير التنفيذي لتويتر [هذا الحوار](http://www.latimes.com/business/technology/la-fi-tn-twitter-ceo-comments-20120710,0,7322827.story) ليؤكد من جديد بأن مستخدمي تويتر قد غيروا طريقة استخدامهم للشبكة، حيث يُشير بأن أغلب المُستخدمين باتوا يستخدمون الوسائل الرسمية للاستفادة من تويتر، ويقصد بذلك التطبيقات الرسمية للخدمة على الهواتف، نسخة الويب الخاصة بها، إضافة إلى [تطبيق TweetDeck الذي سبق للشركة شراءه العام الماضي](http://www.it-scoop.com/2011/05/twitter-tweetdeck/)، بدل التطبيقات التي تطورها شركات وأطراف أُخرى.
+كما اغتنم المدير التنفيذي لتويتر [هذا الحوار](http://www.latimes.com/business/technology/la-fi-tn-twitter-ceo-comments-20120710,0,7322827.story) ليؤكد من جديد بأن مستخدمي تويتر قد غيروا طريقة استخدامهم للشبكة، حيث يُشير بأن أغلب المُستخدمين باتوا يستخدمون الوسائل الرسمية للاستفادة من تويتر، ويقصد بذلك التطبيقات الرسمية للخدمة على الهواتف، نسخة الويب الخاصة بها، إضافة إلى [تطبيق TweetDeck الذي سبق للشركة شراءه العام الماضي](https://www.it-scoop.com/2011/05/twitter-tweetdeck/)، بدل التطبيقات التي تطورها شركات وأطراف أُخرى.

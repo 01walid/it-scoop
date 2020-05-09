@@ -15,7 +15,7 @@ categories:
 
 أطلقت شركة JetBrains الإصدار التاسع من الـ IDE الخاص بلغة الـ Java و المسمى IntelliJ.
 
-![intellij_logo](http://www.it-scoop.com/wp-content/uploads/2009/12/intellij_logo.png)
+![intellij_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/intellij_logo.png)
 
 
 تأتي هذه الإصدارة بالعديد من الخصائص الجديدة على غرار كل من الدعم التام لـ Java EE 6 دعم الـ PHP و الـ Android  إضافة إلى Google App Engine.

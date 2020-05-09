@@ -15,7 +15,7 @@ tags:
 - Security Essentials
 ---
 
-**[Microsoft تطلق الإصدار التجريبي لـ Security Essentials](http://www.it-scoop.com/2010/07/microsoft-Security-Essentials-2-beta)**
+**[Microsoft تطلق الإصدار التجريبي لـ Security Essentials](https://www.it-scoop.com/2010/07/microsoft-Security-Essentials-2-beta)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/Microsoft-Security-Essentials.jpg)
-](http://www.it-scoop.com/2010/07/microsoft-Security-Essentials-2-beta)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Microsoft-Security-Essentials.jpg)
+](https://www.it-scoop.com/2010/07/microsoft-Security-Essentials-2-beta)
 
 
 يأتي هذا الإصدار مزوداً بنسخة محسّنة من المحرك الخاص بمكافحة البرمجيات الخبيثة ووفقاً لمدونة على موقع Microsoft الرسمي فإن المحرك الجديد "أذكى" في اكتشاف وإزالة المخاطر الأمنية ويقدم أداءً أفضل من النسخة السابقة، كما أن البرنامج يتفاعل بصورة مباشرة مع الجدار الناري Windows Firewall ويعطي المستخدمين خيار إيقاف أو تشغيل الجدار الناري مباشرةً.

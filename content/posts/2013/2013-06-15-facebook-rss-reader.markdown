@@ -20,8 +20,8 @@ tags:
 
 
 
-[![facebook-rss](http://www.it-scoop.com/wp-content/uploads/2013/06/facebook-rss.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/facebook-rss.jpg)
+[![facebook-rss](https://www.it-scoop.com/wp-content/uploads/2013/06/facebook-rss.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/facebook-rss.jpg)
 
 
 
@@ -36,8 +36,8 @@ tags:
 
 
 
-[![mysterious_facebook_invite_big-data](http://www.it-scoop.com/wp-content/uploads/2013/06/mysterious_facebook_invite_big-data.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/mysterious_facebook_invite_big-data.jpg)
+[![mysterious_facebook_invite_big-data](https://www.it-scoop.com/wp-content/uploads/2013/06/mysterious_facebook_invite_big-data.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/mysterious_facebook_invite_big-data.jpg)
 
 
 

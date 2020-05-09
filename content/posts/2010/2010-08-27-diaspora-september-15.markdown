@@ -13,7 +13,7 @@ tags:
 - facebook
 ---
 
-**[إطلاق Diaspora  الشبكة الاجتماعية الحرة و مفتوحة المصدر في الـ 15 من سبتمبر القادم](http://www.it-scoop.com/2010/08/diaspora-september-15/)**
+**[إطلاق Diaspora  الشبكة الاجتماعية الحرة و مفتوحة المصدر في الـ 15 من سبتمبر القادم](https://www.it-scoop.com/2010/08/diaspora-september-15/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/diaspora-logo.png)
-](http://www.it-scoop.com/2010/08/diaspora-september-15/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/diaspora-logo.png)
+](https://www.it-scoop.com/2010/08/diaspora-september-15/)
 
 
 يعود إطلاق مشروع Diaspora   إلى منتصف شهر مايو الماضي أثناء الحملة الشرسة التي تعرض لها Facebook و الاتهامات التي وجهت له بعدم احترام خصوصية أعضائه، ما دفع بأربع طلاب أمريكيين إلى تبني فكرة مشروع شبكة اجتماعية حرة و مفتوحة المصدر تكون لحماية خصوصية أعضائها اهتمام كبير فيها.

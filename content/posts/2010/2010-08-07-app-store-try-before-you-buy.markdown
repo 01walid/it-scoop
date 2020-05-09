@@ -20,7 +20,7 @@ tags:
 
 
 
-**[Try before you buy:  قسم جديد على الـ AppStore لتجربة التطبيقات قبل شرائها](http://www.it-scoop.com/2010/08/app-store-try-before-you-buy)**
+**[Try before you buy:  قسم جديد على الـ AppStore لتجربة التطبيقات قبل شرائها](https://www.it-scoop.com/2010/08/app-store-try-before-you-buy)**
 
 
 
@@ -36,8 +36,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/AppStore-tryFeforeYouBuy.jpg)
-](http://www.it-scoop.com/2010/08/app-store-try-before-you-buy)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/AppStore-tryFeforeYouBuy.jpg)
+](https://www.it-scoop.com/2010/08/app-store-try-before-you-buy)
 
 
 

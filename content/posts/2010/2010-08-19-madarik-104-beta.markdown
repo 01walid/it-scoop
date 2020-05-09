@@ -11,7 +11,7 @@ tags:
 - cms
 ---
 
-**[إطلاق الإصدار التجريبي 1.04  من نظام إدارة المحتوى المسمى "مجلة مدارك"](http://www.it-scoop.com/2010/08/madarik-104-beta/)**
+**[إطلاق الإصدار التجريبي 1.04  من نظام إدارة المحتوى المسمى "مجلة مدارك"](https://www.it-scoop.com/2010/08/madarik-104-beta/)**
 
 
 
@@ -22,7 +22,7 @@ tags:
 
 
 [![](http://cms.urorbit.com/template/ashtoot2/img/logo.png)
-](http://www.it-scoop.com/2010/08/madarik-104-beta/)
+](https://www.it-scoop.com/2010/08/madarik-104-beta/)
 
 
 مجلة مدارك عبارة عن نظام إدارة محتوى مكتوب بأيادي مسلمة تمكنك من إنشاء موقع متعدد الصفحات في وقت قياسي.

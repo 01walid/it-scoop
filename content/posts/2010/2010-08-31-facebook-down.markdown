@@ -11,7 +11,7 @@ tags:
 - facebook
 ---
 
-**[Facebook يتوقف لبعض الوقت... ثم يعود من جديد](http://www.it-scoop.com/2010/08/facebook-down/)**
+**[Facebook يتوقف لبعض الوقت... ثم يعود من جديد](https://www.it-scoop.com/2010/08/facebook-down/)**
 
 
 
@@ -19,8 +19,8 @@ tags:
 قد يكون الأمر مألوفا لمستخدمي Twitter و الذي اشتهر بتوقفاته المتكررة، لكن الأمر ليس من "شيم" Facebook، فمنذ عدة ساعات لاحظ الكثير من مستخدميه بطأه بشكل كبير، قبل أن يصبح "خارج مجال التغطية" نهائيا،ثم عاد من جديد قبل قليل.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/facebook-down.jpg)
-](http://www.it-scoop.com/2010/08/facebook-down/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/facebook-down.jpg)
+](https://www.it-scoop.com/2010/08/facebook-down/)
 
 تناقلت العديد من المواقع الإخبارية الخبر، كما شهد Twitter العديد من التعليقات التي تتحدث عن الأمر.
 

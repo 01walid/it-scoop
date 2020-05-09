@@ -12,13 +12,13 @@ tags:
 - skype
 ---
 
-[**إطلاق الإصدار Beta لـ Skype 5.0 و الذي يتيح عقد مؤتمرات الفيديو لخمسة أشخاص في آن واحد**](http://www.it-scoop.com/2010/05/skype-5-0-windows/)
+[**إطلاق الإصدار Beta لـ Skype 5.0 و الذي يتيح عقد مؤتمرات الفيديو لخمسة أشخاص في آن واحد**](https://www.it-scoop.com/2010/05/skype-5-0-windows/)
 
 
 أطلقت Skype  الإصدار Beta لـ Skype 5.0   لأنظمة Windows و الذي يأتي بخاصية جديدة تتيح عقد مؤتمرات الفيديو لخمسة أشخاص في آن واحد.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/skype-logo.jpg)
-](http://www.it-scoop.com/2010/05/skype-5-0-windows/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/skype-logo.jpg)
+](https://www.it-scoop.com/2010/05/skype-5-0-windows/)
 
 خاصية عقد المؤتمرات لعدة أشخاص مجانية في هذا الإصدار التجريبي، و من المتوقع بقاؤها كذلك لبعض الوقت بعد إطلاق النسخة النهائية من البرنامج، غير أنه من المرجح تحويلها إلى خدمة تجارية فيما بعد
 

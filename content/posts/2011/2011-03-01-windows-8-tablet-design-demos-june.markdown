@@ -15,7 +15,7 @@ tags:
 - Windows 8
 ---
 
-[**هل ستكشف Microsoft عن أولى إصدارات Windows 8 للأجهزة اللوحية شهر يونيو القادم ؟**](http://www.it-scoop.com/2011/03/windows-8-tabl…ign-demos-june/)
+[**هل ستكشف Microsoft عن أولى إصدارات Windows 8 للأجهزة اللوحية شهر يونيو القادم ؟**](https://www.it-scoop.com/2011/03/windows-8-tabl…ign-demos-june/)
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://static2.businessinsider.com/image/4b4643b40000000000319f0c/steve-ballmer.jpg )
-](http://www.it-scoop.com/2011/03/windows-8-tabl…ign-demos-june/)
+](https://www.it-scoop.com/2011/03/windows-8-tabl…ign-demos-june/)
 
 
 

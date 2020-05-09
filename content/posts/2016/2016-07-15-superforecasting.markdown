@@ -16,8 +16,8 @@ categories:
 
 
 
-[![Superforecasting](http://www.it-scoop.com/wp-content/uploads/2016/07/Superforecasting.jpg)
-](http://www.it-scoop.com/2016/07/superforecasting/superforecasting/)
+[![Superforecasting](https://www.it-scoop.com/wp-content/uploads/2016/07/Superforecasting.jpg)
+](https://www.it-scoop.com/2016/07/superforecasting/superforecasting/)
 
 
 

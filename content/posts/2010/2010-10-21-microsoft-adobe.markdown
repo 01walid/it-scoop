@@ -13,7 +13,7 @@ tags:
 - Microsoft
 ---
 
-**[Adobe تنفي إشاعات شرائها من طرف Microsoft]( http://www.it-scoop.com/2010/10/microsoft-adobe/)**
+**[Adobe تنفي إشاعات شرائها من طرف Microsoft]( https://www.it-scoop.com/2010/10/microsoft-adobe/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Microsoft-Adobe.jpg)
-]( http://www.it-scoop.com/2010/10/microsoft-adobe/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Microsoft-Adobe.jpg)
+]( https://www.it-scoop.com/2010/10/microsoft-adobe/)
 
 
 و في حوار خص به Fox Business Network  [نقلته](http://digitaldaily.allthingsd.com/20101019/adobe-chief-pours-cold-water-on-microsoft-merger-talk/) مدونة AllThingsD التابعة للـ Wall Street Journal أشار Narayen إلى أن شركة Adobe  لا تزال ترى أن لها مستقبلا زاهرا كشركة مستقلة.

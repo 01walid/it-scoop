@@ -15,7 +15,7 @@ tags:
 - Linux
 ---
 
-**[إطلاق الشكل الجديد لموقع Fedora Project](http://www.it-scoop.com/2010/10/fedora-project/)**
+**[إطلاق الشكل الجديد لموقع Fedora Project](https://www.it-scoop.com/2010/10/fedora-project/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/fedoraLogo-300x91.jpg)
-](http://www.it-scoop.com/2010/10/fedora-project/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/fedoraLogo-300x91.jpg)
+](https://www.it-scoop.com/2010/10/fedora-project/)
 
 
 

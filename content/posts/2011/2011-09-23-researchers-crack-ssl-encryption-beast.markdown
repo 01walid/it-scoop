@@ -16,7 +16,7 @@ tags:
 - TLS
 ---
 
-[**باحثان أمنيان يكتشفان ثغرة في بروتوكول SSL المسؤول عن حماية ملايين المواقع التي تستعمل HTTPS**](http://www.it-scoop.com/2011/09/researchers-crack-ssl-encryption-beast/)
+[**باحثان أمنيان يكتشفان ثغرة في بروتوكول SSL المسؤول عن حماية ملايين المواقع التي تستعمل HTTPS**](https://www.it-scoop.com/2011/09/researchers-crack-ssl-encryption-beast/)
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/ssl2.png)
-](http://www.it-scoop.com/2011/09/researchers-crack-ssl-encryption-beast/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/ssl2.png)
+](https://www.it-scoop.com/2011/09/researchers-crack-ssl-encryption-beast/)
 
 
 

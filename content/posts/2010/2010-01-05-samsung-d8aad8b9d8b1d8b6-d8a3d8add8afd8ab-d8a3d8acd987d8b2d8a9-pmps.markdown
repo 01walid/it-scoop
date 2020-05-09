@@ -14,12 +14,12 @@ tags:
 - Samsung
 ---
 
-[**Samsung تعرض أحدث أجهزة PMPs **](http://www.it-scoop.com/2010/01/samsung-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a3%d8%ad%d8%af%d8%ab-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-pmps/)
+[**Samsung تعرض أحدث أجهزة PMPs **](https://www.it-scoop.com/2010/01/samsung-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a3%d8%ad%d8%af%d8%ab-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-pmps/)
 
 
 أزاحت شركة Samsung الستار عن اثنين من أحدث أجهزة الوسائط المتعددة PMPs التي سيتم عرضها في جناح الشركة خلال مؤتمر ces2010.
 [![h](http://images.techtree.com/ttimages/story/108497_samsung-400.jpg)
-](http://www.it-scoop.com/2010/01/samsung-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a3%d8%ad%d8%af%d8%ab-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-pmps/)
+](https://www.it-scoop.com/2010/01/samsung-%d8%aa%d8%b9%d8%b1%d8%b6-%d8%a3%d8%ad%d8%af%d8%ab-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-pmps/)
 
 
 

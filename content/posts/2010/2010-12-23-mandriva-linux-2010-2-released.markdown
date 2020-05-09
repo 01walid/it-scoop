@@ -14,7 +14,7 @@ tags:
 - Mandriva Linux 2010.2
 ---
 
-**[صدور Mandriva Linux 2010.2](http://www.it-scoop.com/2010/12/mandriva-linux-2010-2-released/)**
+**[صدور Mandriva Linux 2010.2](https://www.it-scoop.com/2010/12/mandriva-linux-2010-2-released/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 أعلن اليوم فريق توزيعة Mandriva الفرنسية في [مدونتها](http://blog.mandriva.com/2010/12/23/mandriva-2010-2-is-out) عن إطلاق الإصدارة الثانية 2 لهذا العام 2010.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo-300x75.jpg)
-](http://www.it-scoop.com/2010/12/mandriva-linux-2010-2-released/)لم تحمل هذه النسخة الكثير من التغييرات عن النسخة السابقة وبالتالي يمكن اعتبارها تحديثا للنسخة السابقة وليس نسخة رئيسية.
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo-300x75.jpg)
+](https://www.it-scoop.com/2010/12/mandriva-linux-2010-2-released/)لم تحمل هذه النسخة الكثير من التغييرات عن النسخة السابقة وبالتالي يمكن اعتبارها تحديثا للنسخة السابقة وليس نسخة رئيسية.
 
 تم الاعتماد على نفس نسخة النواة التي كانت في الإصدارة السابقة وهي 2.6.33 Linux kernel ,واﻷمر نفسه بالنسبة لسطحي المكتب GNOME 2.30.1 و KDE 4.4.3 .
 

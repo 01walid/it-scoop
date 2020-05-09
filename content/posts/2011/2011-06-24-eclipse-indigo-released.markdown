@@ -16,14 +16,14 @@ tags:
 - Maven
 ---
 
-**[و للمبرمجين كسوف خاص بهم: إطلاق الإصدار Indigo من بيئة التطوير Eclipse](http://www.it-scoop.com/2011/06/eclipse-indigo-released/ )**
+**[و للمبرمجين كسوف خاص بهم: إطلاق الإصدار Indigo من بيئة التطوير Eclipse](https://www.it-scoop.com/2011/06/eclipse-indigo-released/ )**
 
 
 منذ حوالي أسبوع كان موعد الكثيرين مع خسوف نادر الحدوث، أحقا هو كذلك ؟ (لا أنت لست في موقع عالم الإبداع :p ) ، لكن عندنا نحن معاشر المبرمجين من مرتشفي قهوة Java و غيرهم ، يطل علينا كسوف من نوع آخر قد يعاود الظهور أكثر من مرة في العام الواحد، هل حزرت؟ حسنا سأساعدك بعض الشيء، يقال له بالانجليزية Eclipse، قد طلّ منذ ليال تحت الاسم<del> الفلكي</del> البرمجي Indigo.
 
 
 [![](http://aniszczyk.org/wp-content/uploads/2011/05/indigo-300x157.png)
-](http://www.it-scoop.com/2011/06/eclipse-indigo-released/ )
+](https://www.it-scoop.com/2011/06/eclipse-indigo-released/ )
 
 
 

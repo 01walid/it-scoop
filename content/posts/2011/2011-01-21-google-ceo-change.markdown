@@ -15,14 +15,14 @@ tags:
 - Sergey Brin
 ---
 
-[**Eric Schmidt يتنحى عن رئاسة Google دون أن يرحل عنها و Larry Page يخلفه**](http://www.it-scoop.com/2011/01/google-ceo-change/)
+[**Eric Schmidt يتنحى عن رئاسة Google دون أن يرحل عنها و Larry Page يخلفه**](https://www.it-scoop.com/2011/01/google-ceo-change/)
 
 
 أعلن Eric Schmidt المدير العام الحالي لـ Google على [مدونة](http://googleblog.blogspot.com/2011/01/update-from-chairman.html) الشركة الرسمية عن تنحيه عن رئاسة Google ابتداء من الـ 4 من أبريل القادم تاركا مكانه للمؤسس الشريك لمحرك البحث Larry Page.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/eric_schmidt.jpg)
-](http://www.it-scoop.com/2011/01/google-ceo-change/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/eric_schmidt.jpg)
+](https://www.it-scoop.com/2011/01/google-ceo-change/)
 
 
 و يأتي هذا القرار بعد 10 سنوات قضاها Schmidt في منصبه الحالي، حيث استطاع أن يحول Google من مجرد شركة ناشئة Stratup إلى شركة كبيرة متشعبة التخصصات و المنتجات. ولقد افتتح Schmidt  تدوينته بقوله:

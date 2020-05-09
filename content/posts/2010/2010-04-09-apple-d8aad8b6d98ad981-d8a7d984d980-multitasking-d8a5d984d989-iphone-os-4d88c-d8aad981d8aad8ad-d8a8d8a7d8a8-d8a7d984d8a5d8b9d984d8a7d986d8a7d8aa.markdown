@@ -15,13 +15,13 @@ tags:
 - multitasking
 ---
 
-[**Apple تضيف الـ Multitasking  إلى iPhone OS 4، تفتح باب الإعلانات في تطبيقات الـ iPhone و تغلقه في وجه الـ Dotnet، Java و Flash CS5**](http://www.it-scoop.com/2010/04/apple-%d8%aa%d8%b6%d9%8a%d9%81-%d8%a7%d9%84%d9%80-multitasking-%d8%a5%d9%84%d9%89-iphone-os-4%d8%8c-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa/)
+[**Apple تضيف الـ Multitasking  إلى iPhone OS 4، تفتح باب الإعلانات في تطبيقات الـ iPhone و تغلقه في وجه الـ Dotnet، Java و Flash CS5**](https://www.it-scoop.com/2010/04/apple-%d8%aa%d8%b6%d9%8a%d9%81-%d8%a7%d9%84%d9%80-multitasking-%d8%a5%d9%84%d9%89-iphone-os-4%d8%8c-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa/)
 
 
 كما كان متوقعا فقد أعلنت Apple تفعيلها لخاصية الـ Multitasking في الإصدار الرابع من نظام تشغيل iPhone 0S و الذي بفضله سيتمكن مستخدمو الـ iPhone من استعمال أكثر من تطبيق في آن واحد.
 
 [![](http://images.apple.com/iphone/images/iphone-os-preview-hero20100407.png)
-](http://www.it-scoop.com/2010/04/apple-%d8%aa%d8%b6%d9%8a%d9%81-%d8%a7%d9%84%d9%80-multitasking-%d8%a5%d9%84%d9%89-iphone-os-4%d8%8c-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa/)
+](https://www.it-scoop.com/2010/04/apple-%d8%aa%d8%b6%d9%8a%d9%81-%d8%a7%d9%84%d9%80-multitasking-%d8%a5%d9%84%d9%89-iphone-os-4%d8%8c-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86%d8%a7%d8%aa/)
 
 تشير Apple إلى أن الإصدار الرابع من iPhone OS يأتي بأكثر من 1000 إضافة جديدة على غرار كل من نظام لإدارة المجلدات و إصدار جديد للتطبيق Mail و تضمين الـ iBooks و التي ستسمح لمستخدمي هاتف شركة التفاحة بقراءة كتبهم على هواتفهم.
 

@@ -15,7 +15,7 @@ tags:
 - Security
 ---
 
-**[Microsoft سترقع الثغرة المكتشفة من قبل أحد موظفي Google في الـ Patch Tuesday الخاص بهذا الشهر](http://www.it-scoop.com/2010/07/Microsoft-Patch-tuesday-July-2010)**
+**[Microsoft سترقع الثغرة المكتشفة من قبل أحد موظفي Google في الـ Patch Tuesday الخاص بهذا الشهر](https://www.it-scoop.com/2010/07/Microsoft-Patch-tuesday-July-2010)**
 
 
 
@@ -23,10 +23,10 @@ tags:
 
 كشفت Microsoft عن محتوى الـ Patch Tuesday لشهر يوليو الجاري و الذي يحتوي فقط على أربعة نشرات تخص 13 ثغرة أمنية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
-](http://www.it-scoop.com/2010/07/Microsoft-Patch-tuesday-July-2010)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
+](https://www.it-scoop.com/2010/07/Microsoft-Patch-tuesday-July-2010)
 
-سيكون [للثغرة التي اكتشفها Travis Ormandy](http://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw/) الباحث العامل لدى Google   نصيب من هذا الـ Patch Tuesday، فقد قررت Microsoft نشر ترقيع لها، وهي الثغرة التي أسالت الكثير من الحبر مؤخرا.
+سيكون [للثغرة التي اكتشفها Travis Ormandy](https://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw/) الباحث العامل لدى Google   نصيب من هذا الـ Patch Tuesday، فقد قررت Microsoft نشر ترقيع لها، وهي الثغرة التي أسالت الكثير من الحبر مؤخرا.
 
 لو ألقينا نظرة سريعة على محتوى الـ Patch Teusday  لوجدناه يحتوي على 3 نشرات أمنية وصفت بالـ Critical و نشرة أمنية وصفت بالـ Important. و تخص هذه النشرات كلا من أنظمة Windows XP، Seven  ، Windows Server 2008 R2 و Windows Server 2003 . إضافة إلى حزمة Office من الإصدار XP SP3 إلى غاية 2007 SP2.
 

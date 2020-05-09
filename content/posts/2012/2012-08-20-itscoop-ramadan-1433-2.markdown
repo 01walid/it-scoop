@@ -18,7 +18,7 @@ tags:
 قمنا منذ قليل بإجراء السحب على مسابقة رمضان على المجلة التقنية والتي أسفرت عن النتائج التالية.
 
 
-![](http://www.it-scoop.com/wp-content/uploads/2012/07/bitdefender_itscoop.png)
+![](https://www.it-scoop.com/wp-content/uploads/2012/07/bitdefender_itscoop.png)
 
 
 

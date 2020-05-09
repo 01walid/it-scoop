@@ -15,7 +15,7 @@ tags:
 - Twitter
 ---
 
-[**مؤسس TwitPic يطلق heello شبيه Twitter بُعيد تعميم Twitter لخاصية رفع الصور على موقعها**](http://www.it-scoop.com/2011/08/heello/)
+[**مؤسس TwitPic يطلق heello شبيه Twitter بُعيد تعميم Twitter لخاصية رفع الصور على موقعها**](https://www.it-scoop.com/2011/08/heello/)
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Heello.jpg)
-](http://www.it-scoop.com/2011/08/heello/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Heello.jpg)
+](https://www.it-scoop.com/2011/08/heello/)
 
 
 

@@ -20,7 +20,7 @@ tags:
 - دريم جرو
 ---
 
-[**دراسة تعتمد على إحصائيات Alexa تشير إلى تراجع عدد زيارات Google+ خلال الشهر الماضي**](http://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
+[**دراسة تعتمد على إحصائيات Alexa تشير إلى تراجع عدد زيارات Google+ خلال الشهر الماضي**](https://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/google-plus-is-failing-data.png)
-](http://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/google-plus-is-failing-data.png)
+](https://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
 
 
 
@@ -51,8 +51,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/google-plus-is-not-failing.png)
-](http://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/google-plus-is-not-failing.png)
+](https://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
 
 
 

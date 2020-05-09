@@ -15,13 +15,13 @@ tags:
 - uTouch
 ---
 
-**[Canonical تعلن عن تضمين خاصية الـ multitouch في الإصدار القادم من Ubuntu](http://www.it-scoop.com/2010/08/utouch-ubuntu-multitouch/)**
+**[Canonical تعلن عن تضمين خاصية الـ multitouch في الإصدار القادم من Ubuntu](https://www.it-scoop.com/2010/08/utouch-ubuntu-multitouch/)**
 
 
 هل سنشاهد قريبا أجهزة لوحية مجهزة بنظام Ubuntu؟  هذا ما ستكشف عنه الشهور القادمة، حيث أعلنت Canonical الشركة الراعية لتوزيعة Ubuntu عن إضافة خاصية اللمس المتعدد multitouch إلى الإصدار القادم من Ubuntu 10.10 و التي تحمل الاسم Maverick Meekat.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/multitouch.jpg)
-](http://www.it-scoop.com/2010/08/utouch-ubuntu-multitouch/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/multitouch.jpg)
+](https://www.it-scoop.com/2010/08/utouch-ubuntu-multitouch/)
 
 الإضافة التي تعول عليها Canonical و التي أسمتها uTouch 1.0 عبارة عن محرك و API  للتعرف على الحركات مكتوبة بلغة C  و منشورة تحتي رخصتي GPL v3 و LGPL v3.
 

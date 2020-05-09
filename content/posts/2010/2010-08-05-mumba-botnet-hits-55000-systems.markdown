@@ -14,7 +14,7 @@ tags:
 - Security
 ---
 
-**[Mumba botnet يصيب 55 ألف جهاز و يسرق 60 Gb من البيانات](http://www.it-scoop.com/2010/08/Mumba-botnet-hits-55000-systems)**
+**[Mumba botnet يصيب 55 ألف جهاز و يسرق 60 Gb من البيانات](https://www.it-scoop.com/2010/08/Mumba-botnet-hits-55000-systems)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/botnet.png)
-](http://www.it-scoop.com/2010/08/Mumba-botnet-hits-55000-systems)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/botnet.png)
+](https://www.it-scoop.com/2010/08/Mumba-botnet-hits-55000-systems)
 
 
 الـ botnet التي أطلقت عليها AVG اسم "Mumba" أصابت أنظمة الحاسب الشخصي في بريطانيا، الولايات المتحدة الأمريكية، ألمانيا واسبانيا وفقاً للتقرير الذي نشرته AVG يوم الاثنين الماضي. تضمنت البيانات المسروقة حسابات بنكية، بيانات بطاقات ائتمانية وبيانات تسجيل خاصة بالشبكات الاجتماعية.

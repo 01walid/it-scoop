@@ -19,7 +19,7 @@ tags:
 ثلاثة وأربعون مليون وسبعمائة واثنان وستون ألف وثلاثمائة وواحد وعشرون دولارًا وثلاثة وعشرون سنت، طويل؟ ... حسنا إليك هذا أفضل: 321.10 762 43 دولار، تريد رقما أسهل: حوالي **ربع مليار** دولا،  فقط؟ - لا، ضرب ستة (06)، لما هذا العدد؟ - هو المبلغ المرتقب دفعه لشركة Microsoft من طرف **الحكومة المصرية** من أجل شراء تراخيص للأجهزة الحكومية.
 
 
-![no-microsoft-prorams-in egypt](http://www.it-scoop.com/wp-content/uploads/2012/12/no-microsoft-prorams-in-egypt.jpg)
+![no-microsoft-prorams-in egypt](https://www.it-scoop.com/wp-content/uploads/2012/12/no-microsoft-prorams-in-egypt.jpg)
 
 
 

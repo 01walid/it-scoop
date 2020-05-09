@@ -13,13 +13,13 @@ tags:
 - Samsung
 ---
 
-[**Samsung تنشر الإصدار Beta للـ SDK الخاص  بنظام Bada**](http://www.it-scoop.com/2010/05/samsung-bada-sdk/ )
+[**Samsung تنشر الإصدار Beta للـ SDK الخاص  بنظام Bada**](https://www.it-scoop.com/2010/05/samsung-bada-sdk/ )
 
 
 نشر المصنع الكوري الجنوبي Samsung الإصدار Beta لحزمة تطوير (SDK) نظام التشغيل Bada مفتوح المصدر، و الذي تعول عليه الشركة كثيرا.
 
 [![](http://dpimg.ospos.net/en_US/developer/apis/images/common/layout/bada_index201002.jpg)
-](http://www.it-scoop.com/2010/05/samsung-bada-sdk/ )
+](https://www.it-scoop.com/2010/05/samsung-bada-sdk/ )
 
 نظام Bada و الذي تم الإعلان عنه لأول مرة في ديسمبر من العام الماضي، سيكون النظام الذي سيجهز هاتف Samsung القادم و المسمى Wave.
 

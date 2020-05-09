@@ -22,8 +22,8 @@ tags:
 
 
 
-[![heartbleed](http://www.it-scoop.com/wp-content/uploads/2014/04/heartbleed.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/04/heartbleed.png)
+[![heartbleed](https://www.it-scoop.com/wp-content/uploads/2014/04/heartbleed.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/04/heartbleed.png)
 
 
 

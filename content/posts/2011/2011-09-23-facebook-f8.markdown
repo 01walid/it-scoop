@@ -17,13 +17,13 @@ tags:
 - spotify
 ---
 
-**[مختصر مؤتمر F8 الخاص بـ Facebook ، نحو نظام تشغيل إجتماعي؟](http://www.it-scoop.com/2011/09/facebook-f8/)**
+**[مختصر مؤتمر F8 الخاص بـ Facebook ، نحو نظام تشغيل إجتماعي؟](https://www.it-scoop.com/2011/09/facebook-f8/)**
 
 
 عقد Facebook مؤتمره السنوي F8 البارحة في San Francisco، وقد جاء بكثير من التحديثات "الجذرية" (إن صحت تسميتها كذلك)،  ما جعل البعض يؤول التغييرات الحاصلة أو المتوقع إلى نية التوجه إلى نظام تشغيل اجتماعي مثلما تشير إليه دراسة حديثة أعدتها [ABI Research](http://www.mactech.com/2011/09/22/abi-research-facebook-needs-its-own-operating-system)،، سنحاول عمل F5 لما حدث البارحة، ونلخص أهم ما جاء فيه.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/facebook-f8.png)
-](http://www.it-scoop.com/2011/09/facebook-f8/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/facebook-f8.png)
+](https://www.it-scoop.com/2011/09/facebook-f8/)
 
 **Facebook... قاب قوسين أو أدنى من حاجز 800 مليون مسجل
 **

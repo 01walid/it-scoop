@@ -14,14 +14,14 @@ tags:
 ---
 
 [**الجمعة 13... الموافق ليوم توقف كل من Blogger، Youtube و Twitter**
-](http://www.it-scoop.com/2011/05/friday-13-twitter-blogger-youtube-down)
+](https://www.it-scoop.com/2011/05/friday-13-twitter-blogger-youtube-down)
 
 
 لاحظ العديد من المستخدمين حول العالم يوم أمس الجمعة  توقفا مفاجئا لأشهر مواقع الخدمات التي تقدمها Google و المتمثلة في خدمة التدوين Blogger و موقع مشاركة ملفات الفيديو Youtube، فيما شهد Twitter بدوره اضطرابا على مستوى خاصية تسجيل الدخول و ذلك حوالي الساعة الواحدة بتوقيت غرينتش
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/down-youtube-blogger-twitter.png)
-](http://www.it-scoop.com/2011/05/friday-13-twitter-blogger-youtube-down/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/down-youtube-blogger-twitter.png)
+](https://www.it-scoop.com/2011/05/friday-13-twitter-blogger-youtube-down/)
 
 
 في حين أن توقف Twitter و تحول عصفورها إلى حوت  يعتبر بشكل أو بآخر "لا حدث" نظرا لتكرره المستمر ، إلا أن هذا التوقف ليس من شيم Google و خصوصا خدمة Blogger التي يشهد لها بجودتها، و اكتفى القائمون على الخدمة  [بإعلان عودتها](http://buzz.blogger.com/2011/05/blogger-is-back.html) .

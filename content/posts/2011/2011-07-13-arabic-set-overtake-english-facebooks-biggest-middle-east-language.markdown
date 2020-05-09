@@ -11,13 +11,13 @@ tags:
 - facebook
 ---
 
-[**العربية ستصبح اللغة الأكثر شعبية في البلدان العربية على الـ Facebook**](http://www.it-scoop.com/2011/07/arabic-set-overtake-english-facebooks-biggest-middle-east-language)
+[**العربية ستصبح اللغة الأكثر شعبية في البلدان العربية على الـ Facebook**](https://www.it-scoop.com/2011/07/arabic-set-overtake-english-facebooks-biggest-middle-east-language)
 
 
 ارتفع عدد مستخدمي الـ Facebook في العالم العربي بنسب مثيرة للانتباه ، مما جعل اللغة العربية مؤهلة لتصبح اللغة الأكثر شعبية على الشبكة الاجتماعية، مهددة بذلك اللغة الإنجليزية مثلما تشير إليه [صحيفة Jerusalem Post  الإسرائيلية](http://www.jpost.com/MiddleEast/Article.aspx?id=228458&R=R3) ، رغم أنه لم يتم إطلاق الواجهة العربية للموقع إلا سنة 2009 . و قد ارتفع عدد مستخدمي الواجهة العربية للـ Facebook في هذه البلدان إلى 10 ملايين في غضون سنتين فقط.
 
 [![أعمدة بيانية](http://www.spotonpr.com/wp-content/uploads/2011/06/ArabicChart_8Jun111.png)
-](http://www.it-scoop.com/2011/07/arabic-set-overtake-english-facebooks-biggest-middle-east-language)
+](https://www.it-scoop.com/2011/07/arabic-set-overtake-english-facebooks-biggest-middle-east-language)
 
 و [أشارت ](http://www.spotonpr.com/facebook-arabic-uprising/)وكالة سبوت الشرق الأوسط للعلاقات العامة أن عدد مستخدمي الواجهة العربية للموقع نما بنسبة 175 ٪ في السنة و شهدت الجزائر أكبر ارتفاع بلغ نسبة 423 ٪ سنويا.
 هذا و يمثل الـ 10 ملايين مستخدم للواجهة العربية حوالي 35 ٪ من مستخدمي الموقع في المنطقة و الذي ارتفع بنسبة 24% في شهر مايو 2010

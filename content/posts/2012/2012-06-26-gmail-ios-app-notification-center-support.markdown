@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app.jpg)
 
 
 
@@ -32,8 +32,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app-notification-center.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app-notification-center.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app-notification-center.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/gmail-ios-app-notification-center.jpg)
 
 
 
@@ -48,8 +48,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/gmail-app-ios-alternate-sender-addresses.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/gmail-app-ios-alternate-sender-addresses.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/gmail-app-ios-alternate-sender-addresses.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/gmail-app-ios-alternate-sender-addresses.png)
 
 
 

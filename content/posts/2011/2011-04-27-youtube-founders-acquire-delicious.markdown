@@ -16,13 +16,13 @@ tags:
 - youtube
 ---
 
-[**Yahoo تبيع Delicious لمؤسسي Youtube**](http://www.it-scoop.com/2011/04/youtube-founders-acquire-delicious)
+[**Yahoo تبيع Delicious لمؤسسي Youtube**](https://www.it-scoop.com/2011/04/youtube-founders-acquire-delicious)
 
 
 و أخيرا تمكنت Yahoo من التخلص من بيع خدمة Delicious لكل من  Chad Hurley و Steve Chen  مؤسسي شبكة Youtube و هو الأمر الكفيل بإعادة الأمل لرواد هذه الخدمة في مواصلة تطويرها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/delicious-logo.jpg)
-](http://www.it-scoop.com/2011/04/youtube-founders-acquire-delicious)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/delicious-logo.jpg)
+](https://www.it-scoop.com/2011/04/youtube-founders-acquire-delicious)
 
 و تشير [مدونة Delicious](http://blog.delicious.com/) الرسمية إلى أن الموقع سيواصل نشاطه إلى غاية شهر يوليو القادم موعد إنهاء معاملات البيع الجارية، و هو الموعد الذي سيتم فيه أيضا تحويل بيانات الموقع إلى المالكين الجدد. و لم يتم الكشف بعد عن الجانب المالي للصفقة.
 

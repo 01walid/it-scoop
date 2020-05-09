@@ -13,7 +13,7 @@ tags:
 - GP2X
 ---
 
-**[GP2X Caanoo سيضرب بقوة في إصداره الجديد أغسطس المقبل]( http://www.it-scoop.com/2010/07/gamepark-gp2x-caanoo/)**
+**[GP2X Caanoo سيضرب بقوة في إصداره الجديد أغسطس المقبل]( https://www.it-scoop.com/2010/07/gamepark-gp2x-caanoo/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://www.blogcdn.com/www.engadget.com/media/2010/07/7-11-10-caanoo600.jpg)
-]( http://www.it-scoop.com/2010/07/gamepark-gp2x-caanoo/)
+]( https://www.it-scoop.com/2010/07/gamepark-gp2x-caanoo/)
 
 
 

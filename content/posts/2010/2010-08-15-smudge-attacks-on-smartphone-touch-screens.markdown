@@ -16,7 +16,7 @@ tags:
 - SmartPhone
 ---
 
-**[دراسة أمنية تكشف عن إمكانية اكتشاف كلمات سر الهواتف الذكية من آثار الأصابع المتروكة على شاشاتها](http://www.it-scoop.com/2010/08/smudge-attacks-on-smartphone-touch-screens)**
+**[دراسة أمنية تكشف عن إمكانية اكتشاف كلمات سر الهواتف الذكية من آثار الأصابع المتروكة على شاشاتها](https://www.it-scoop.com/2010/08/smudge-attacks-on-smartphone-touch-screens)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/android-password.jpg)
-](http://www.it-scoop.com/2010/08/smudge-attacks-on-smartphone-touch-screens)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/android-password.jpg)
+](https://www.it-scoop.com/2010/08/smudge-attacks-on-smartphone-touch-screens)
 
 
 الدراسة الأمنية و التي اقتصرت على جهازي HTC G1 و Nexus One المجهزين بنظام  Android  و على كلمة سر واحدة، حيث أنه قبل الإصدار 2.2  من نظام Android المسمى Froyo كانت حماية الهاتف تقتصر على الرسم بالأصابع شكلا معينا على شاشة الهاتف، و بما أن المناطق الأكثر استعمالا من الشاشة هي الأقل نظافة بسبب ما تتركه ترسبات اليدين عليها، حيث أن نسبة معرفة كلمة السر (أو رسم السر إن صح القول) وصلت إلى غاية 92% و هذا في ظروف مثالية، لكن هذه النسبة تنزل إلى 37% إذا لم تتوفر كامل شروط استرجاع كلمة السر.

@@ -16,13 +16,13 @@ tags:
 - Visual studio 2010
 ---
 
-[**Visual Studio 2010 و NET Framework 4 يبصران النور اليوم، و يبشران بالإصدار الرابع من Silverlight**](http://www.it-scoop.com/2010/04/microsoft-launches-visual-studio-2010/)
+[**Visual Studio 2010 و NET Framework 4 يبصران النور اليوم، و يبشران بالإصدار الرابع من Silverlight**](https://www.it-scoop.com/2010/04/microsoft-launches-visual-studio-2010/)
 
 
 أطلقت Microsoft اليوم الإصدار 2010  من بيئة التطوير الغنية عن كل تعريف Visual Studio مرفقا بالإصدار الرابع من إطار العمل .NET Framework 4.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Visual-studio-2010.png)
-](http://www.it-scoop.com/2010/04/microsoft-launches-visual-studio-2010/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Visual-studio-2010.png)
+](https://www.it-scoop.com/2010/04/microsoft-launches-visual-studio-2010/)
 
 الإصدار الحالي من Visual Studio 2010 يعتمد بالأساس على الـ (Windows Presentation Foundation)  WPF ، كما يدعم تقنية الـ multitouch الخاصة بنظام Windows 7 إضافة إلى دعمه لـ Windows Azure لاستفادة من خدمات الـ cloud computing الخاصة بـ Microsoft.
 

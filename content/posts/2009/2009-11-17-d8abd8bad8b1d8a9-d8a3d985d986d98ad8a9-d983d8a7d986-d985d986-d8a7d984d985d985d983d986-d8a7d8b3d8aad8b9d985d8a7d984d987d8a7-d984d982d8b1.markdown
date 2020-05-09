@@ -23,7 +23,7 @@ tags:
 
 الأسبوع الماضي، قام باحث في  أمن المعلومات يدعى  Anil Kurmus بنشر ما يصطلح عليه بـ proof of concept  ليثبت خطورة الثغرة إذا قام باستخراج الرقم السري  لحساب Twitter و ذلك بتطبيق هجمة من نوع Man-in-the-Middle (MITM)  التي تستغل هذه الثغرة.
 
-![twitter_logo](http://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo.jpg)
+![twitter_logo](https://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo.jpg)
 
 
 حسب نفس الباحث، بما أن الكثيرين يستعملون برامج إضافية لتحديث حساباتهم على Twitter فإنه يكفي لاختراق حساب Twitter  اعتراض الطلبات المرسلة من طرف هذه البرامج إلى الـ API الخاصة بـ Twitter  ، هذه الطلبات التي تحوي كلها  الرقم السري للمستخدم.

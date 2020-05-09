@@ -12,15 +12,15 @@ tags:
 - ipad
 ---
 
-[**Apple تعلن عن بيعها مليون وحدة iPad خلال 28 يوما فقط**](http://www.it-scoop.com/2010/05/Apple-Sells-Million-iPad-28-Days)
+[**Apple تعلن عن بيعها مليون وحدة iPad خلال 28 يوما فقط**](https://www.it-scoop.com/2010/05/Apple-Sells-Million-iPad-28-Days)
 
 
 ‎
 
 مليون وحدة، هذا هو الرقم الذي أعلنت Apple أنها استطاعت بيعه من جهازها اللوحي iPad و هذا منذ بداية تسويق الجهاز إلى غاية يوم الجمعة الماضي ، مما يعني أن Apple استطاعت بيع مليون وحدة iPad خلال 28 يوما فقط و هذه المدة أقل بكثير من نصف المدة (74 يوم) التي احتاجتها لبيع نفس الكمية من الإصدار الأول من هاتف iPhone.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/steve-jobs-ipad.jpg)
-](http://www.it-scoop.com/2010/05/Apple-Sells-Million-iPad-28-Days)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/steve-jobs-ipad.jpg)
+](https://www.it-scoop.com/2010/05/Apple-Sells-Million-iPad-28-Days)
 
 يأتي هذا الإعلان بُعَيد نهاية الأسبوع التي أطلقت فيها Apple نسخة 3G من iPad و الذي لم تكشف بعد عن الكمية التي قامت ببيعها.
 

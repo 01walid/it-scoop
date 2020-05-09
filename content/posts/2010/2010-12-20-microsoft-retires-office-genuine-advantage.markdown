@@ -14,7 +14,7 @@ tags:
 - Office Genuine Advantage
 ---
 
-**[Microsoft توقف برنامج Office Genuine Advantage بشكل سرّي](http://www.it-scoop.com/2010/12/microsoft-retires-office-genuine-advantage)**
+**[Microsoft توقف برنامج Office Genuine Advantage بشكل سرّي](https://www.it-scoop.com/2010/12/microsoft-retires-office-genuine-advantage)**
 
 
 قامت Microsoft يوم الخميس الماضي وبشكل غير معلن عنه بإيقاف برنامجها OGA (اختصاراً لـ Office Genuine Advantage) الخاص بحزمة Office والذي يجبر المستخدم على المرور عبر اختبار للتحقق من شرعية نسخة Office التي يستخدمها قبل السماح له بتحميل إضافات/أدوات خاصة بحزمة Office، كشكل من أشكال مكافحة قرصنة حزمة Office.
@@ -22,8 +22,8 @@ tags:
 جميعنا نتذكر نافذة شبيه بهذه الصورة
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/eb_office2007_genuine_1.png)
-](http://www.it-scoop.com/2010/12/microsoft-retires-office-genuine-advantage)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/eb_office2007_genuine_1.png)
+](https://www.it-scoop.com/2010/12/microsoft-retires-office-genuine-advantage)
 
 
 والتي تظهر لنا بأنه سيتم تنفيذ اختبار شرعية النسخة قبل السماح بمتابعة العملية المطلوبة.

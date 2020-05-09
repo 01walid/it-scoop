@@ -21,7 +21,7 @@ tags:
 أعلنت اليوم كلا من Sony و Ecrisson -[عبر خلال بيان صحفي](http://www.marketwire.com/press-release/ericsson-sony-to-acquire-ericssons-share-of-sony-ericsson-stkm-eric-1578330.htm)- شراء الأولى لحصة الثانية من شركة  Sony Ericsson، وذلك بعد أزيد من أسبوعين عن أولى الأخبار/الإشاعات حول قرب عملية الشراء (اقرأ الخبر السابق أدناه). وستدفع Sony لقاء ذلك 1.47 مليار دولار.
 
 
-[**Sony تقترب من شراء النصف الثاني من Sony-Ericsson وRIM قد تكون من نصيب Vodafone**](http://www.it-scoop.com/2011/10/sony-sonyericsson-rim-vodafone/)
+[**Sony تقترب من شراء النصف الثاني من Sony-Ericsson وRIM قد تكون من نصيب Vodafone**](https://www.it-scoop.com/2011/10/sony-sonyericsson-rim-vodafone/)
 
 
 
@@ -31,8 +31,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/sony-ericsson-logo-300x225.jpg)
-](http://www.it-scoop.com/2011/10/sony-sonyericsson-rim-vodafone/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/sony-ericsson-logo-300x225.jpg)
+](https://www.it-scoop.com/2011/10/sony-sonyericsson-rim-vodafone/)
 
 
 
@@ -69,5 +69,5 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/RIM.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/10/RIM.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/RIM.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/10/RIM.png)

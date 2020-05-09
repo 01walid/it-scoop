@@ -13,13 +13,13 @@ tags:
 - Google
 ---
 
-[**Google  تضم إليها شركة BumpTop صاحبة سطح المكتب ثلاثي الأبعاد**](http://www.it-scoop.com/2010/05/google-buys-bumptop/)
+[**Google  تضم إليها شركة BumpTop صاحبة سطح المكتب ثلاثي الأبعاد**](https://www.it-scoop.com/2010/05/google-buys-bumptop/)
 
 
 انضمت مؤخرا الشركة الكندية BumpTop إلى قائمة الشركات التي التحقت بركب Google، حيث أعلنت على صفحة موقعها الرئيسية، شراءها من طرف Google و التي أصبح تبدي اهتماما متزايدا بالـ 3D.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/bumptop-logo.jpg)
-](http://www.it-scoop.com/2010/05/google-buys-bumptop/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/bumptop-logo.jpg)
+](https://www.it-scoop.com/2010/05/google-buys-bumptop/)
 
 شركة BumpTop  و التي تم إنشاؤها سنة 2007 توفر تطبيقا يسمح لمستعملي Windows و Mac تحويل أسطح مكاتبهم إلى ثلاثية الأبعاد تتيح التعامل معها بواسطة تقنية الـ Multitouch.
 

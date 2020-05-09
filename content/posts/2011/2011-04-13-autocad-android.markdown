@@ -13,11 +13,11 @@ tags:
 - Autocad
 ---
 
-**[AutoCAD  قريبا... على أنظمة Android](http://www.it-scoop.com/2011/04/autocad-android/)**
+**[AutoCAD  قريبا... على أنظمة Android](https://www.it-scoop.com/2011/04/autocad-android/)**
 
 
-أفادت مدونة All Things Digital التابعة للـ Wall Street Journal أن Autodesk [تنوي](http://newenterprise.allthingsd.com/20110412/exclusive-autodesk-brings-autocad-to-android-phones-and-tablets/) إطلاق نسخة من برنامجها للرسم الهندسي AutoCAD لأنظمة Android قبل نهاية الشهر الجاري.[![](http://www.it-scoop.com/wp-content/uploads/2011/04/autocad-droid.jpg)
-](http://www.it-scoop.com/2011/04/autocad-android/)
+أفادت مدونة All Things Digital التابعة للـ Wall Street Journal أن Autodesk [تنوي](http://newenterprise.allthingsd.com/20110412/exclusive-autodesk-brings-autocad-to-android-phones-and-tablets/) إطلاق نسخة من برنامجها للرسم الهندسي AutoCAD لأنظمة Android قبل نهاية الشهر الجاري.[![](https://www.it-scoop.com/wp-content/uploads/2011/04/autocad-droid.jpg)
+](https://www.it-scoop.com/2011/04/autocad-android/)
 
 
 

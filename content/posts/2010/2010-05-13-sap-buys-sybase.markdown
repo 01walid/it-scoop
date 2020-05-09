@@ -12,13 +12,13 @@ tags:
 - Sybase
 ---
 
-[**شركة SAP  الألمانية تضم إليها Sybase الرابعة عالميا في مجال قواعد البيانات**](http://www.it-scoop.com/2010/05/sap-buys-sybase/)
+[**شركة SAP  الألمانية تضم إليها Sybase الرابعة عالميا في مجال قواعد البيانات**](https://www.it-scoop.com/2010/05/sap-buys-sybase/)
 
 
 أعلنت شركة SAP الألمانية الرائدة في مجال الـ ERP و المصنفة الأولى أوروبيا في مجال البرمجيات عن شرائها لشركة Syabase صاحبة نظام إدارة قواعد البيانات الذي يحمل نفس الاسم و المصنفة الرابعة عالميا في مجال قواعد البيانات و التي تأتي بعد كل من Oracle، DB2 و SQL Server.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/SAP-Sybase.png)
-](http://www.it-scoop.com/wp-content/uploads/2010/05/SAP-Sybase.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/SAP-Sybase.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/05/SAP-Sybase.png)
 
 تقدر عملية الشراء هذه بـ 5.8 مليار دولار و التي تمثل زيادة قدرها 44% من مجموع متوسط أسهم Sybase  خلال الأشهر الثلاثة الأخيرة.
 

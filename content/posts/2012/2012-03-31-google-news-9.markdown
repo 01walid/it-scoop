@@ -23,8 +23,8 @@ tags:
 كعادة Google فإن أخبارها تتوالى ولا تتشابه، وجلستنا معها هذه المرة مليئة بأخبار مختلفة ومتنوعة، تشمل محرك البحث، لغتها البرمجية Go ومنتجات مختلفة كنظام Android، خدمة Google Maps و طبقتها الاجتماعية Google+.
 
 
-## [![](http://www.it-scoop.com/wp-content/uploads/2011/09/google-favicon.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/09/google-favicon.png)
+## [![](https://www.it-scoop.com/wp-content/uploads/2011/09/google-favicon.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/09/google-favicon.png)
 
 
 
@@ -54,8 +54,8 @@ tags:
 <!-- more -->
 
 
-## [![](http://www.it-scoop.com/wp-content/uploads/2012/03/Google-drive.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Google-drive.jpg)
+## [![](https://www.it-scoop.com/wp-content/uploads/2012/03/Google-drive.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Google-drive.jpg)
 
 
 
@@ -114,7 +114,7 @@ tags:
 ### إطلاق الإصدار رقم 1.0 من لغة البرمجة Go مع حزمة تطوير برامج جديدة
 
 
-[Go](http://www.it-scoop.com/2009/11/google-%d8%aa%d8%b7%d9%84%d9%82-go-%d9%84%d8%ba%d8%a9-%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/) لغة برمجيّة صممّتها Google وأعلنت عنها في أواخر 2009، وهي واحدة من اللّغات الّتي تستخدمها الشّركة داخليًّا في بعض
+[Go](https://www.it-scoop.com/2009/11/google-%d8%aa%d8%b7%d9%84%d9%82-go-%d9%84%d8%ba%d8%a9-%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/) لغة برمجيّة صممّتها Google وأعلنت عنها في أواخر 2009، وهي واحدة من اللّغات الّتي تستخدمها الشّركة داخليًّا في بعض
 منتجاتها. الجديد الآن هو إصدار النسّخة رقم 1.0 من لغة Go مع حزمة تطوير برامج (SDK) وتوزيعات نهائيّة متوفّرة لأنظمة Linux وMac OS X وWindows وFreeBSD. تركّز هذه النّسخة على الاستقرار وتوطيد معايير للإصدارات اللاحقة:
 
 

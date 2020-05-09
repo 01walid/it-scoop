@@ -16,14 +16,14 @@ tags:
 - Twitter
 ---
 
-**[Google تساند الشعب المصري بإطلاق خدمة speak2tweet للتغريد على Twitter عبر الرسائل صوتية](http://www.it-scoop.com/2011/02/google-speak2tweet/ )**
+**[Google تساند الشعب المصري بإطلاق خدمة speak2tweet للتغريد على Twitter عبر الرسائل صوتية](https://www.it-scoop.com/2011/02/google-speak2tweet/ )**
 
 
 في خطوة لكسر الحصار "الرقمي" المفروض حاليا على الشعب المصري، [قررت](http://googleblog.blogspot.com/2011/01/some-weekend-work-that-will-hopefully.html) Google أن تسانده بطريقتها الخاصة و ذلك بتوفير خدمة جديدة تمكنهم من التغريد على Twitter عبر الرسائل الصوتية.
 
 
 [![](http://a2.twimg.com/profile_images/1231046460/EgyptTwitter_avatarv2.png )
-](http://www.it-scoop.com/2011/02/google-speak2tweet/)
+](https://www.it-scoop.com/2011/02/google-speak2tweet/)
 
 
 و تضع Google (بالتعاون مع Twitter ) تحت تصرف المصريين 3 أرقام دولية يكفي الاتصال بها وترك رسالة صوتية لتظهر على حساب الخدمة الخاص  [twitter.com/speak2tweet](http://twitter.com/speak2tweet)و يتعلق الأمر بـ:

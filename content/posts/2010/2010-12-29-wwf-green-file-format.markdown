@@ -12,12 +12,12 @@ tags:
 - WWF
 ---
 
-**[WWF تطلق نوعا جديدا من ملفات PDF غير القابلة للطباعة للحفاظ على الطبيعة](http://www.it-scoop.com/2010/12/wwf-green-file-format/)**
+**[WWF تطلق نوعا جديدا من ملفات PDF غير القابلة للطباعة للحفاظ على الطبيعة](https://www.it-scoop.com/2010/12/wwf-green-file-format/)**
 
 
 أطلقت منظمة World Wide Fundation for Nature المعروفة اختصارا بـ WWF حملة جديد للمحافظة على البيئة، ليس من خلال محاربة الأجهزة التي تستهلك طاقة كبيرة، أو مقاضاة الشركات التي تستعمل مواد سامة في تصنيع أجهزتها، و إنما عبر التقليل من استعمال الورق في الطباعة خاصة تلك الملفات التي يمكن قراءتها على الشاشات مباشرة دون الحاجة إلى طبعها (و التي عادة ما تطبع لتقرأ مرة واحد فقط).
 
-[caption id="" align="aligncenter" width="209" caption="http://www.it-scoop.com/2010/12/wwf-green-file-format/"]![](http://www.saveaswwf.com/typo3conf/ext/go_content/res/wwf-splash-icon.png )
+[caption id="" align="aligncenter" width="209" caption="https://www.it-scoop.com/2010/12/wwf-green-file-format/"]![](http://www.saveaswwf.com/typo3conf/ext/go_content/res/wwf-splash-icon.png )
 [/caption]
 
 و للوصول إلى هذا الهدف، [أطلقت](http://www.saveaswwf.com/en/what-is-it.html) المنظمة نسقا يحمل نفس اسمها WWF و الذي يتمثل في نسق PDF معدل حيث يصبح من غير الممكن طباعته، و يبقى نسق WWF متوافقا مع نسق PDF، حيث يمكن استعراضه في عبر برامج قراءة ملفات PDF الكلاسيكية.

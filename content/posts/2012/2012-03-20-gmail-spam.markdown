@@ -15,13 +15,13 @@ tags:
 - spam
 ---
 
-تواصل google تقديم خدمات وتحسينات متعددة على بريد gmail في سبيل إرضاء المستخدم، وجعل خدمة البريد أكثر مرونة، فبعد [خاصية priority inbox](http://www.it-scoop.com/2010/08/google-gmail-priority-inbox/) التي قدمتها قبل سنتين لتمييز الرسائل الأكثر أهمية، [وخدمة استرجاع العناوين المحذوفة، وتمكين المستخدمين من الدخول إلى بريدك](http://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation/)، وغيرها من الخدمات، [أعلنت Google على مدونة Gmail الرسمية ](http://gmailblog.blogspot.com/2012/03/learn-why-message-ended-up-in-your-spam.html)، عن توفير خدمة جديدة تمكن المستخدمين من معرفة سبب نقل الرسائل إلى مجلد spam .
+تواصل google تقديم خدمات وتحسينات متعددة على بريد gmail في سبيل إرضاء المستخدم، وجعل خدمة البريد أكثر مرونة، فبعد [خاصية priority inbox](https://www.it-scoop.com/2010/08/google-gmail-priority-inbox/) التي قدمتها قبل سنتين لتمييز الرسائل الأكثر أهمية، [وخدمة استرجاع العناوين المحذوفة، وتمكين المستخدمين من الدخول إلى بريدك](https://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation/)، وغيرها من الخدمات، [أعلنت Google على مدونة Gmail الرسمية ](http://gmailblog.blogspot.com/2012/03/learn-why-message-ended-up-in-your-spam.html)، عن توفير خدمة جديدة تمكن المستخدمين من معرفة سبب نقل الرسائل إلى مجلد spam .
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/spam-gmail.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/spam-gmail.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/spam-gmail.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/spam-gmail.png)
 
 
 

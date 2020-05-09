@@ -17,8 +17,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/12/twitter-egg.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/twitter-egg.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/12/twitter-egg.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/twitter-egg.png)
 
 
 

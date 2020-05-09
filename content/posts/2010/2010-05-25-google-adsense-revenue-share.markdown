@@ -14,13 +14,13 @@ tags:
 - Google
 ---
 
-[**Google تعلن عن نسب عوائد إعلانات AdSense التي يحصل عليها المعلنون**](http://www.it-scoop.com/2010/05/google-adsense-revenue-share/)
+[**Google تعلن عن نسب عوائد إعلانات AdSense التي يحصل عليها المعلنون**](https://www.it-scoop.com/2010/05/google-adsense-revenue-share/)
 
 
 نشرت Google أمس نسب عوائد الإعلانات التي يحصل عليها المعلنون المشتركون في برنامجها AdSense و المتراوحة بين 51% و 68%.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/google-adsense-logo-350_0-300x123.gif)
-](http://www.it-scoop.com/2010/05/google-adsense-revenue-share/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/google-adsense-logo-350_0-300x123.gif)
+](https://www.it-scoop.com/2010/05/google-adsense-revenue-share/)
 
 يضم برنامج AdSense كلا من AdSense for content و الذي يحصل مستعملوه على 68% من عوائد إعلانات Google، و AdSense for search و الذي يحصل مستعملوه على 51% من عوائد إعلانات Google، حيث يعتمد النوع الأول من الإعلانات على محتوى الصفحة لإظهار إعلانات متوافقة معه، في حين يعتمد الثاني على الكلمات المفتاحية المستعملة في عمليات البحث.
 

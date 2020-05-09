@@ -14,7 +14,7 @@ tags:
 - iPhone
 ---
 
-**[إطلاق موقع appaat المتخصص في التطبيقات العربية للـ iPhone و الـ Android](http://www.it-scoop.com/2010/10/appaat-iphone-android/)**
+**[إطلاق موقع appaat المتخصص في التطبيقات العربية للـ iPhone و الـ Android](https://www.it-scoop.com/2010/10/appaat-iphone-android/)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![](http://www.appaat.com/wp-content/uploads/2010/10/Appaat_Gift_Box_small.jpg)
-](http://www.it-scoop.com/2010/10/appaat-iphone-android/)
+](https://www.it-scoop.com/2010/10/appaat-iphone-android/)
 
 
 

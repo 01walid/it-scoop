@@ -15,14 +15,14 @@ tags:
 - Web
 ---
 
-[**GO أكثر اللغات البرمجة ازديادا في الشعبية لعام 2009**](http://www.it-scoop.com/2010/01/go-%d8%a3%d9%83%d8%ab%d8%b1-%d8%a7%d9%84%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a7%d8%b2%d8%af%d9%8a%d8%a7%d8%af%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a/)
+[**GO أكثر اللغات البرمجة ازديادا في الشعبية لعام 2009**](https://www.it-scoop.com/2010/01/go-%d8%a3%d9%83%d8%ab%d8%b1-%d8%a7%d9%84%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a7%d8%b2%d8%af%d9%8a%d8%a7%d8%af%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a/)
 
 
 استناداً لجدول قائمة TIOBE البرمجية, فقد حازت لغة GO الجديدة من google على لقب أكثر اللغات البرمجة ازديادا في الشعبية لعام 2009.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/GoGoogle.png)
-](http://www.it-scoop.com/2010/01/go-%d8%a3%d9%83%d8%ab%d8%b1-%d8%a7%d9%84%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a7%d8%b2%d8%af%d9%8a%d8%a7%d8%af%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/GoGoogle.png)
+](https://www.it-scoop.com/2010/01/go-%d8%a3%d9%83%d8%ab%d8%b1-%d8%a7%d9%84%d9%84%d8%ba%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d8%a7%d8%b2%d8%af%d9%8a%d8%a7%d8%af%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a/)
 
 
 ويذكر موقع [TIOBE](http://www.tiobe.com/index.php/content/company/Home.html) أن لغة [GO](http://golang.org) البرمجية من google شهدت نمواً و ارتفاعاً في شعبيتها مقارنة بأي لغة أخرى للعام  2009، علماً أن هذه اللغة توافرت في وقت متأخر من العام الماضي فقط.

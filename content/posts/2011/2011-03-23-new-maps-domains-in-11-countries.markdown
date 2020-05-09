@@ -13,14 +13,14 @@ tags:
 - map
 ---
 
-[**Google تشغل نطاقات خرائط  Google Maps في 11 دولة عربية**](http://www.it-scoop.com/2011/03/new-maps-domains-in-11-countries)
+[**Google تشغل نطاقات خرائط  Google Maps في 11 دولة عربية**](https://www.it-scoop.com/2011/03/new-maps-domains-in-11-countries)
 
 
 أعلنت Google يوم أمس على [مدونتها الرسمية](http://google-arabia.blogspot.com/2011/03/new-maps-domains-in-11-countries-in.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleArabiaBlog+%28Google+Arabia+Blog%29&utm_content=Google+Reader) عن تشغيل نطاقات خرائط Google في 11 دولة عربية، و يتعلق الأمر بـ : الجزائر , ليبيا , مصر , لبنان , الأردن , الكويت , البحرين , قطر , الإمارات , عمان , السعودية
 
 
 [![](https://lh3.googleusercontent.com/CyGF-MhwUT0aZTG4t_PvauA1bQ139ye5-flUDbnP38dpQycRrrxmgJR9QFiCW7S__swcViH4z0JcmDApSXibpd_m7LlOMhe_SKl7YKInq6yvZiAIk4Q)
-](http://www.it-scoop.com/2011/03/new-maps-domains-in-11-countries)
+](https://www.it-scoop.com/2011/03/new-maps-domains-in-11-countries)
 
 
 و سيصبح الدخول إلى خرائط Google أكثر سهولة من خلال نطاق البحث المحلي .. إضافة إلى توفر الخرائط بالانجليزية و الفرنسية في بضع البلدان إلى جانب اللغة العربية.

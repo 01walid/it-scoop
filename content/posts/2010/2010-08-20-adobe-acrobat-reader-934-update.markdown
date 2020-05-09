@@ -15,7 +15,7 @@ tags:
 - Security
 ---
 
-**[Adobe تطرح ترقيعا مستعجلا لـ Acrobat و Reader](http://www.it-scoop.com/2010/08/adobe-acrobat-reader-934-update)**
+**[Adobe تطرح ترقيعا مستعجلا لـ Acrobat و Reader](https://www.it-scoop.com/2010/08/adobe-acrobat-reader-934-update)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
-](http://www.it-scoop.com/2010/08/adobe-acrobat-reader-934-update)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+](https://www.it-scoop.com/2010/08/adobe-acrobat-reader-934-update)
 
 
 الثغرة تخص الإصدار 9.3.3 من كلا البرنامجين و الإصدارات الأقدم لهما، حيث تمكن لدى استغلالها من انهيار التطبيقين و التحكم عن بعد في النظام.

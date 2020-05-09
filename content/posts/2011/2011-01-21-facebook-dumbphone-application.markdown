@@ -16,13 +16,13 @@ tags:
 - Tunisiana
 ---
 
-[**Facebook تطلق تطبيقا جديدا متوافقا مع 2500 نوعا من الهواتف العادية (Feature Phones****)**](http://www.it-scoop.com/2011/01/facebook-dumbphone-application/)
+[**Facebook تطلق تطبيقا جديدا متوافقا مع 2500 نوعا من الهواتف العادية (Feature Phones****)**](https://www.it-scoop.com/2011/01/facebook-dumbphone-application/)
 
 
 بعد تطبيقاتها للهواتف الذكية التي لاقت و لا زالت تلاقي إقبالا و نجاحا كبيرين، أطلقت Facebook [تطبيقا جديدا](http://blog.facebook.com/blog.php?post=483824142130) للهواتف العادية (غير الذكية) أو ما يطلق عليها بـ Feature Phonesو المتوافقة مع ما يقرب 2500 نوعا.
 
 [![](http://photos-h.ak.fbcdn.net/hphotos-ak-ash1/hs800.ash1/169019_10150138502961729_20531316728_7734100_3069418_a.jpg)
-](http://www.it-scoop.com/2011/01/facebook-dumbphone-application/)
+](https://www.it-scoop.com/2011/01/facebook-dumbphone-application/)
 
 و تأتي هذه الخطوة لإبقاء مشتركي Facebook -خاصة في البلدان النامية و التي لا تكون فيها الـ SmartPhones في متناول الجميع – على اتصال دائم بحساباتهم.
 

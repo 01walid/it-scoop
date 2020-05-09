@@ -13,7 +13,7 @@ tags:
 - Hot Potato
 ---
 
-**[Facebook تعلن شراءها للخدمة الاجتماعية Hot Potato](http://www.it-scoop.com/2010/08/facebook-hot-potato/)**
+**[Facebook تعلن شراءها للخدمة الاجتماعية Hot Potato](https://www.it-scoop.com/2010/08/facebook-hot-potato/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://hotpotato.com/static/images/layout/header/logo.png)
-](http://www.it-scoop.com/2010/08/facebook-hot-potato/)
+](https://www.it-scoop.com/2010/08/facebook-hot-potato/)
 
 
 Hot Potato تقدم خدمة اجتماعية تسمح لأعضائها بتشارك أماكن تواجدهم، إضافة إلى تشارك مختلف الأنشطة و الفعاليات التي يقومون بها، حيث لا يكتفي الأعضاء بتحديد "أنا في المكان الفلاني" بل يضيفون إليها "و أشاهد الفيلم الفلاني" أو "أقوم بكذا و كذا". كما تتم إضافتهم إلى مجموعات الأشخاص الذين يقومون بأشياء مماثلة.

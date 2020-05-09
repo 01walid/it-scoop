@@ -18,8 +18,8 @@ tags:
 
 
 
-[![Facebook-Gmail](http://www.it-scoop.com/wp-content/uploads/2013/08/Facebook-Gmail.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/Facebook-Gmail.png)
+[![Facebook-Gmail](https://www.it-scoop.com/wp-content/uploads/2013/08/Facebook-Gmail.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/Facebook-Gmail.png)
 
 
 

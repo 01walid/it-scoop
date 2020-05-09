@@ -15,7 +15,7 @@ tags:
 - Trojan.Downloader.RUJ
 ---
 
-[**برمجية خبيثة تنتحل صفحة Office 2010 Beta**](http://www.it-scoop.com/2010/05/office-2010-beta-trojan/)
+[**برمجية خبيثة تنتحل صفحة Office 2010 Beta**](https://www.it-scoop.com/2010/05/office-2010-beta-trojan/)
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://www.malwarecity.com/images/814/office%202010%20email.png)
-](http://www.it-scoop.com/2010/05/office-2010-beta-trojan/)
+](https://www.it-scoop.com/2010/05/office-2010-beta-trojan/)
 
 
 

@@ -29,8 +29,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/chrome-password-generation.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/chrome-password-generation.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/chrome-password-generation.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/chrome-password-generation.png)
 
 
 

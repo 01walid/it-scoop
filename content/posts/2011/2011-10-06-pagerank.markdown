@@ -14,18 +14,18 @@ tags:
 - PageRank
 ---
 
-[**تحديث طفيف في آلية حساب PageRank تتسبب في توقف كل الإضافات والأدوات الخاصة به**](http://www.it-scoop.com/2011/10/pagerank/)
+[**تحديث طفيف في آلية حساب PageRank تتسبب في توقف كل الإضافات والأدوات الخاصة به**](https://www.it-scoop.com/2011/10/pagerank/)
 
 
 
 
-إن كنت تظن أن Google رغبت في [إبداء حزنها على رحيل Steve Jobs](http://www.it-scoop.com/2011/10/apple-steve-jobs-passed-away/) بتنكيس علم PageRank فأعلم أن خيالك فعلا واسع :p .حيث اكتفت Google بإضافة رابط للأمر على صفحتها الرئيسية... إذاً  فما هو سبب توقف أدوات قياس PageRank اليوم؟
+إن كنت تظن أن Google رغبت في [إبداء حزنها على رحيل Steve Jobs](https://www.it-scoop.com/2011/10/apple-steve-jobs-passed-away/) بتنكيس علم PageRank فأعلم أن خيالك فعلا واسع :p .حيث اكتفت Google بإضافة رابط للأمر على صفحتها الرئيسية... إذاً  فما هو سبب توقف أدوات قياس PageRank اليوم؟
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/google-pagerank.jpg)
-](http://www.it-scoop.com/2011/10/pagerank/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/google-pagerank.jpg)
+](https://www.it-scoop.com/2011/10/pagerank/)
 
 
 

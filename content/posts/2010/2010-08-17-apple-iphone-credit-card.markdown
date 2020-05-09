@@ -15,7 +15,7 @@ tags:
 - NFC
 ---
 
-**[هل ستحول Apple جهاز الـ iPhone إلى بطاقة ائتمانية ؟](http://www.it-scoop.com/2010/08/apple-iphone-credit-card)**
+**[هل ستحول Apple جهاز الـ iPhone إلى بطاقة ائتمانية ؟](https://www.it-scoop.com/2010/08/apple-iphone-credit-card)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/iphone-visa.png)
-](http://www.it-scoop.com/2010/08/apple-iphone-credit-card)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/iphone-visa.png)
+](https://www.it-scoop.com/2010/08/apple-iphone-credit-card)
 
 
 
@@ -36,6 +36,6 @@ tags:
 
 تشير الـ New York Times إلى أن توظيف Benjamin Vigier يؤكد توجه Apple إلى مجال الدفع عبر الـ iPhone، حيث سبق لها و أن وظفت أكثر من مختص في هذا المجال، كما أنها تحصلت على[ براءة اختراع خلال شهر أبريل الماضي تخص إمكانية الدفع من خلال الـ iPhone مباشرة](http://www.wipo.int/pctdb/en/ia.jsp?IA=US2009053441&REF=RSS&DISPLAY=STATUS) و ذلك بتجميع بيانات المستخدم البنكية في الهاتف.
 
-تجدر الإشارة إلى أنه قد سبق لشركة Mophie  أن قامت [بتطوير وصلة للـ iPhone](http://www.it-scoop.com/2010/01/%d8%a7%d9%84%d9%80-iphone-%d9%8a%d8%b5%d8%a8%d8%ad-%d9%82%d8%a7%d8%b1%d8%a6-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d8%a6%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d8%a9/) تمكنه من قراءة البطاقات الائتمانية وإنجاز العمليات المالية من خلاله.
+تجدر الإشارة إلى أنه قد سبق لشركة Mophie  أن قامت [بتطوير وصلة للـ iPhone](https://www.it-scoop.com/2010/01/%d8%a7%d9%84%d9%80-iphone-%d9%8a%d8%b5%d8%a8%d8%ad-%d9%82%d8%a7%d8%b1%d8%a6-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d8%a6%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d8%a9/) تمكنه من قراءة البطاقات الائتمانية وإنجاز العمليات المالية من خلاله.
 
 يمكن قراءة الخبر على جريدة الـ New York Times من [هنا](http://bits.blogs.nytimes.com/2010/08/16/apple-hires-mobile-payment-expert/)

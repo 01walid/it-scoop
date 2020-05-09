@@ -13,7 +13,7 @@ tags:
 - Angry Birds
 ---
 
-[**لعبة Angry Birds متوفرة الآن على 7 Windows Phone**](http://www.it-scoop.com/2011/06/angry-birds-windows-phone-7/ )
+[**لعبة Angry Birds متوفرة الآن على 7 Windows Phone**](https://www.it-scoop.com/2011/06/angry-birds-windows-phone-7/ )
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![Angry Birds](https://lh3.googleusercontent.com/-vjg0iRCV9Mo/Tgu9l-vEniI/AAAAAAAAAVc/XwL5cox-igk/Angry%252520Birds.png)
-](http://www.it-scoop.com/2011/06/angry-birds-windows-phone-7/ )
+](https://www.it-scoop.com/2011/06/angry-birds-windows-phone-7/ )
 
 
 ستحتاج إلى برنامج Zune لتحميلها [من هنا](http://social.zune.net/External/LaunchZuneProtocol.aspx?pathuri=navigate%3FphoneAppID%3De4571a02-0b87-e011-986b-78e7d1fa76f8) كما تتوفر نسخة تجريبية مجانية في حال ما إذا وقعت منك حافضتك المالية الالكترونية .

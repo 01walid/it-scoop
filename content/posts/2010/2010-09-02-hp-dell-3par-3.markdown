@@ -13,7 +13,7 @@ tags:
 - HP
 ---
 
-**[[3PAR]: و تضع الحرب أوزارها، HP تزايد من جديد و Dell تتراجع و تحصل على تعويض]( http://www.it-scoop.com/2010/09/hp-dell-3par-3/)**
+**[[3PAR]: و تضع الحرب أوزارها، HP تزايد من جديد و Dell تتراجع و تحصل على تعويض]( https://www.it-scoop.com/2010/09/hp-dell-3par-3/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/3PAR.png)
-]( http://www.it-scoop.com/2010/09/hp-dell-3par-3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/3PAR.png)
+]( https://www.it-scoop.com/2010/09/hp-dell-3par-3/)
 
 
 كان من المقرر أن ترفع Dell القيمة المالية التي ستعرضها إلى 32 دولار للسهم الواحد، لكن و قبل أن تقدم عرضا رسميا سارعت HP إلى تقديم 33 دولار للسهم الواحد مما يرفع قيمة الصفقة إلى 2.4 مليار دولار.

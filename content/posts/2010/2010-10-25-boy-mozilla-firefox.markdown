@@ -15,7 +15,7 @@ tags:
 - Mozilla
 ---
 
-**[الأطفال أيضا يمكنهم اكتشاف ثغرات أمنية و الحصول على مكافآت نظيرها]( http://www.it-scoop.com/2010/10/boy-mozilla-firefox/ )**
+**[الأطفال أيضا يمكنهم اكتشاف ثغرات أمنية و الحصول على مكافآت نظيرها]( https://www.it-scoop.com/2010/10/boy-mozilla-firefox/ )**
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://extras.mnginteractive.com/live/media/site568/2010/1022/20101022__alexmiller~1_GALLERY.JPG )
-](http://www.it-scoop.com/2010/10/boy-mozilla-firefox/)
+](https://www.it-scoop.com/2010/10/boy-mozilla-firefox/)
 
 
 و حسب ما [كشفته](http://www.mercurynews.com/ci_16401891) صحيفة San Jose Mercury News الأمريكية، لم يكلف  الأمرُ الصبيَ Alex Miller سوى العمل لمدة ساعة و نصف يوميا لمدة عشرة أيام متتالية ليكتشف الثغرة (يعني 200 دولار للساعة :)).

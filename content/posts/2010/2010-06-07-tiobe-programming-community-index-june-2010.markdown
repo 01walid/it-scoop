@@ -15,13 +15,13 @@ tags:
 - Tiobe
 ---
 
-[**ترتيب TIOBE للغات البرمجة: Java تستعيد عرشها، Objective-C يدخل نادي الكبار و Go يخرج من الـ TOP 20**](http://www.it-scoop.com/2010/06/TIOBE-Programming-Community-Index-June-2010)
+[**ترتيب TIOBE للغات البرمجة: Java تستعيد عرشها، Objective-C يدخل نادي الكبار و Go يخرج من الـ TOP 20**](https://www.it-scoop.com/2010/06/TIOBE-Programming-Community-Index-June-2010)
 
 
 نشرت TIOBE  الترتيب الدوري لأكثر لغات البرمجة شعبية عبر العالم، حيث عرفت لغات البرمجة لشهر يونيو تغيرات ، بعضها كان متوقعا، و بعضها لم يكن كذلك.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/TIOBE-June2010.png)
-](http://www.it-scoop.com/2010/06/TIOBE-Programming-Community-Index-June-2010)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/TIOBE-June2010.png)
+](https://www.it-scoop.com/2010/06/TIOBE-Programming-Community-Index-June-2010)
 
 من بين التغييرات التي طرأت على الترتيب نجد استعادة الـ Java لعرشها الضائع و الذي تربعت عليه لغة C لبعض الوقت، في حين نجد أن الـ Objective-C قد دخل و لأول مرة نادي الكبار، حيث حل تاسعا. أما المفاجئة الكبرى فهي من دون شك خروج لغة برمجة Go الخاصة بـ Google من الـ Top20 حيث حلت في المرتبة الـ 21.
 

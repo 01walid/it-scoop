@@ -16,13 +16,13 @@ tags:
 - نكسوس كيو
 ---
 
-إضافة إلى جهاز [Google Nexus 7](http://www.it-scoop.com/2012/06/google-nexus-7/) الذي كشفته عنه خلال مؤتمر I/O، كشفت **Google** عن جهاز آخر غريب الشكل، يحمل اسم **Google Nexus Q** من شأنه أن ينافس Apple TV إضافة إلى تكامله مع باقي منتجات Google.
+إضافة إلى جهاز [Google Nexus 7](https://www.it-scoop.com/2012/06/google-nexus-7/) الذي كشفته عنه خلال مؤتمر I/O، كشفت **Google** عن جهاز آخر غريب الشكل، يحمل اسم **Google Nexus Q** من شأنه أن ينافس Apple TV إضافة إلى تكامله مع باقي منتجات Google.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q.jpg)
 
 
 
@@ -32,8 +32,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q-2.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q-2.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q-2.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-nexus-q-2.jpg)
 
 
 

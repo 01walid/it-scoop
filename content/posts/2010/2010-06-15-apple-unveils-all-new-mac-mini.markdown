@@ -13,13 +13,13 @@ tags:
 - Mac mini
 ---
 
-**[Mac mini الجديد: أجمل، أنحف و... أغلى](http://www.it-scoop.com/2010/06/apple-unveils-all-new-mac-mini/)**
+**[Mac mini الجديد: أجمل، أنحف و... أغلى](https://www.it-scoop.com/2010/06/apple-unveils-all-new-mac-mini/)**
 
 
 كشفت Apple عن الـ Mac mini الجديد و الذي يأتي بتصميم أجمل، بسمك أنحف و –بطبيعة الحال- بثمن أغلى.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Mac-mini.png)
-](http://www.it-scoop.com/2010/06/apple-unveils-all-new-mac-mini/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Mac-mini.png)
+](https://www.it-scoop.com/2010/06/apple-unveils-all-new-mac-mini/)
 
 من مميزات النسخة الجديدة من Mac mini نجد كلا من:
 

@@ -16,13 +16,13 @@ tags:
 - Mozilla
 ---
 
-[**Mozilla تود التخلص من Firefox 3.5  بإجبار مستخدميه على التحديث التلقائي إلى الإصدار 3.6**](http://www.it-scoop.com/2011/05/firefox-3-5-automatic-upgrade-3-6)
+[**Mozilla تود التخلص من Firefox 3.5  بإجبار مستخدميه على التحديث التلقائي إلى الإصدار 3.6**](https://www.it-scoop.com/2011/05/firefox-3-5-automatic-upgrade-3-6)
 
 
 تعتزم Mozilla ابتداء من شهر يوليو القادم [الشروع](https://wiki.mozilla.org/Releases/3.5_EOL) في حملة تحديث "إجباري" للإصدار 3.5 من متصفح Firefox نظرا لوصوله إلى نهاية مرحلة دعمه، و ذلك لكل مستخدم وافق على خيار التحديث التلقائي للمتصفح.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/Firefox36.jpg)
-](http://www.it-scoop.com/2011/05/firefox-3-5-automatic-upgrade-3-6)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/Firefox36.jpg)
+](https://www.it-scoop.com/2011/05/firefox-3-5-automatic-upgrade-3-6)
 
 و لقد دأبت Mozilla على طلب إذن مستخدمي متصفحها قبل تحديثه، لكن الأمر مختلف هذه المرة حيث أن الفرع 3.5 من Firefox قد تلقى آخر تحديث أمني له قبل أسابيع و المتمثل في الإصدار[ 3.5.19](../2011/04/firefox-4-0-1/) ، كما أن المؤسسة تفضل فقدان بعض المستخدمين الذين سينزعجون من هذه العملية بدل ترك ملايين المستخدمين من دون حماية حسبما [أشار](http://groups.google.com/group/mozilla.dev.planning/browse_thread/thread/6e4b5bc15e7bbc1a?pli=1) إليه Christian Legnitto مدير إصدارات Firefox.
 

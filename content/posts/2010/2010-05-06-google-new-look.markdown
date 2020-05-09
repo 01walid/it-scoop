@@ -12,13 +12,13 @@ tags:
 - Google
 ---
 
-[**Google تدخل تغييرات على واجهة محرك بحثها**](http://www.it-scoop.com/2010/05/google-new-look/ )
+[**Google تدخل تغييرات على واجهة محرك بحثها**](https://www.it-scoop.com/2010/05/google-new-look/ )
 
 
 أعلنت Google أمس عن تغييرات جديدة تخص واجهة محرك البحث، و التي من شأنها أن تجعل من عملية البحث على الإنترنت عَمَلية و أكثر سهولة.
 
 [![](http://4.bp.blogspot.com/_7ZYqYi4xigk/S-GUMa6L1fI/AAAAAAAAGAo/7o5LlcHtSGE/s1600/Everything+-+Wind+Power.jpg)
-](http://www.it-scoop.com/2010/05/google-new-look/ )
+](https://www.it-scoop.com/2010/05/google-new-look/ )
 
 أهم ما جاء في هذه التغييرات هو استحداث قائمة جانبية تمكن الباحث من التنقل بين مختلف أنواع النتائج. و نرى في الفيديو المرفقة مع إعلان Google  كيف يمكن الانتقال بكل سلاسة ما بين نتائج البحث في الأخبار أو في الصور، أو في كل أنواع المحتويات الممكنة و التي يمكن لـ Google البحث من خلالها.
 

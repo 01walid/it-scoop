@@ -13,7 +13,7 @@ tags:
 - UI-ART
 ---
 
-**[قريبا: نظارات تخبرك كل ما تود معرفته عن الأشخاص الذين تلتقي بهم](http://www.it-scoop.com/2011/01/high-tech-glasses-conduct-internet-searches-on-sight)**
+**[قريبا: نظارات تخبرك كل ما تود معرفته عن الأشخاص الذين تلتقي بهم](https://www.it-scoop.com/2011/01/high-tech-glasses-conduct-internet-searches-on-sight)**
 
 
 
@@ -22,7 +22,7 @@ tags:
 
 
 [![](http://mide.tkk.fi/en/attach/UI-ART/screenshot-2009-10-16b.orig.png )
-](http://www.it-scoop.com/2011/01/high-tech-glasses-conduct-internet-searches-on-sight)
+](https://www.it-scoop.com/2011/01/high-tech-glasses-conduct-internet-searches-on-sight)
 
 هذه النظارات (التي لم تجهز بعد بشكل كامل) هي نتاج عمل [طلبة](http://mide.tkk.fi/en/UI-ART) في جامعة Aalto الفنلندية حديثة النشأة (نشأت العام الماضي فقط)، و الذين قاموا بتصنيع نظارات لا تقوم فقط بالتعرف على الأوجه، و إنما تطلق بحثا عن الشخص و تخبرك عن اسمه، حسابه على Twitter، عدد أصدقائه على Facebook، و حتى قهوته المفضلة.
 

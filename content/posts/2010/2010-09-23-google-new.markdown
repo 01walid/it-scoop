@@ -13,7 +13,7 @@ tags:
 - Google new
 ---
 
-**[Google تطلق Google New لمتابعة أخبار جميع مدونات Google في مكان واحد]( http://www.it-scoop.com/2010/09/google-new/)**
+**[Google تطلق Google New لمتابعة أخبار جميع مدونات Google في مكان واحد]( https://www.it-scoop.com/2010/09/google-new/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/google-new.png)
-]( http://www.it-scoop.com/2010/09/google-new/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/google-new.png)
+]( https://www.it-scoop.com/2010/09/google-new/)
 
 
 تطور Google العديد و العديد من الخدمات، منها ما نسمع عنه بشكل متواصل، و منه من لا يهم إلا فئة معينة، و عادة ما يجب على المهتم زيارة مدونات Google المتخصصة بشكل دوري أو متابعتها عبر خلاصات RSS ليبقى على إطلاع دائم بما يحدث.

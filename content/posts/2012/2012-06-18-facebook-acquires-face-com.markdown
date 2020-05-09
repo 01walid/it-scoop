@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/Facebook-Buys-Face.com_.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/Facebook-Buys-Face.com_.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/Facebook-Buys-Face.com_.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/Facebook-Buys-Face.com_.jpg)
 
 
 

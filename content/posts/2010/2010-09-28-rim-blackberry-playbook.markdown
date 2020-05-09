@@ -15,14 +15,14 @@ tags:
 - RIM
 ---
 
-[**RIM تكشف عن PlayBook الجهاز اللوحي الموجه للشركات**](http://www.it-scoop.com/2010/09/rim-blackberry-playbook/ )
+[**RIM تكشف عن PlayBook الجهاز اللوحي الموجه للشركات**](https://www.it-scoop.com/2010/09/rim-blackberry-playbook/ )
 
 
 كشفا RIM الشركة المصنعة لهواتف BlackBerry عن جهازها اللوحي الخاص بها و الذي أطلقت عليه اسم PlayBook  و الذي كان يُشار إليه سابقا باسم BlackPad.
 
-[[![](http://www.it-scoop.com/wp-content/uploads/2010/09/rim-playbook-1024x634.jpg)
-](http://www.it-scoop.com/2010/09/rim-blackberry-playbook/ )
-](http://www.it-scoop.com/wp-content/uploads/2010/09/rim-playbook.jpg)
+[[![](https://www.it-scoop.com/wp-content/uploads/2010/09/rim-playbook-1024x634.jpg)
+](https://www.it-scoop.com/2010/09/rim-blackberry-playbook/ )
+](https://www.it-scoop.com/wp-content/uploads/2010/09/rim-playbook.jpg)
 
 الجهاز الجديد يأتي بمواصفات جيدة: معالج ARM Cortex-A9 بتردد 1 Ghz، و ذاكرة 1 Gb، إضافة إلى سعتي تخزين 16  و 32 Gb. أما الشاشة فهي ذات 7 بوصات.
 

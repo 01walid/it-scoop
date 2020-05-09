@@ -14,7 +14,7 @@ tags:
 - Yahoo
 ---
 
-**[Yahoo تؤكد امتلاكها لبراءات اختراع مستعملة في Google Instant](http://www.it-scoop.com/2010/09/yahoo-google-instant/)**
+**[Yahoo تؤكد امتلاكها لبراءات اختراع مستعملة في Google Instant](https://www.it-scoop.com/2010/09/yahoo-google-instant/)**
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/google-yahoo-logos.jpg)
-](http://www.it-scoop.com/2010/09/yahoo-google-instant/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/google-yahoo-logos.jpg)
+](https://www.it-scoop.com/2010/09/yahoo-google-instant/)
 
 
 و يؤكد Seth  في هذا [الحوار](http://www.theregister.co.uk/2010/09/20/yahoo_owns_several_patents_on_google_instant/) أن Yahoo  طورت سنة 2005 عبر فرعها AlltheWeb  محرك البحث الذي اشترته سنة 2004  هذه التقنية دون أن تقوم بنقلها إلى موقع Yahoo الرئيسي، لكن ذلك لم يمنعها من أن تحصل على 5 براءات اختراع تخص التقنية.

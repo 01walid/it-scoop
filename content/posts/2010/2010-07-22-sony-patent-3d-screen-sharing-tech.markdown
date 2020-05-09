@@ -14,7 +14,7 @@ tags:
 - sony
 ---
 
-**[Sony  تحصل على براءة اختراع شاشة تعرض أكثر من محتوى في آن واحد](http://www.it-scoop.com/2010/07/sony-patent-3d-screen-sharing-tech/)**
+**[Sony  تحصل على براءة اختراع شاشة تعرض أكثر من محتوى في آن واحد](https://www.it-scoop.com/2010/07/sony-patent-3d-screen-sharing-tech/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/sony-patent-3d.jpg)
-](http://www.it-scoop.com/2010/07/Sony-patent-3D-screen-sharing-tech‎)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/sony-patent-3d.jpg)
+](https://www.it-scoop.com/2010/07/Sony-patent-3D-screen-sharing-tech‎)
 
 
 التقنية تعتمد على آخر ما تم التوصل إليه في عالم الـ 3D، حيث سيتم الاعتماد على نظارات خاصة تسمح للفرد مشاهدة محتوى مختلف حسب زاوية جلوسه من الشاشة. مما يسمح  مثلا لثلاثة أشخاص مشاهدة برنامج تلفزيوني، استعمال إحدى منصات الألعاب، و مشاهدة محتوى بعض الأقراص في آن واحد.

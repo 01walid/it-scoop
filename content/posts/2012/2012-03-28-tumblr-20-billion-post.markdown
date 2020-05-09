@@ -17,8 +17,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo-300x71.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo-300x71.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo.png)
 
 
 

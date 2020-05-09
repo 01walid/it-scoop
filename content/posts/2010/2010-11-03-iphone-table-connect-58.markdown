@@ -14,7 +14,7 @@ tags:
 - Table Connect
 ---
 
-**[طاولة Table Connect لاستعراض الـ iPhone على طاولة ذات 58 بوصة، حقيقة أم مجرد إعلان زائف؟](http://www.it-scoop.com/2010/11/iphone-table-connect-58/)**
+**[طاولة Table Connect لاستعراض الـ iPhone على طاولة ذات 58 بوصة، حقيقة أم مجرد إعلان زائف؟](https://www.it-scoop.com/2010/11/iphone-table-connect-58/)**
 
 
 

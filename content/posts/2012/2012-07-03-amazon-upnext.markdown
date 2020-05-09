@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/upnext.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/upnext.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/upnext.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/upnext.jpg)
 
 
 

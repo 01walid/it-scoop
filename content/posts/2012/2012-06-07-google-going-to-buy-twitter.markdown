@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-twitter.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-twitter.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-twitter.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-twitter.jpg)
 
 
 

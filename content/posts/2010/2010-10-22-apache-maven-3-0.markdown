@@ -15,14 +15,14 @@ tags:
 - Maven
 ---
 
-**[Apache تطلق الإصدار الثالث من أداة الـ Build الشهيرة Maven]( http://www.it-scoop.com/2010/10/apache-maven-3-0/)**
+**[Apache تطلق الإصدار الثالث من أداة الـ Build الشهيرة Maven]( https://www.it-scoop.com/2010/10/apache-maven-3-0/)**
 
 
 إن لم تكن مطورا، و لم تكن الـ Java إحدى لغاتك المفضلة فأخشى أن يكون الخبر مبهما بعض الشيء بالنسبة لك، فقد كشفت مؤسسة Apache عن الإصدار الثالث من أداة الـ Build الشهيرة Maven و التي تأتي بميزات جديدة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/maven-logo.png)
-](http://www.it-scoop.com/2010/10/apache-maven-3-0/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/maven-logo.png)
+](https://www.it-scoop.com/2010/10/apache-maven-3-0/)
 
 
 أهم ما جاء في هذا الإصدار هو دعمه للمعالجات متعددة الأنوية، مما سيساهم في تقليص زمن بناء التطبيقات من 10 إلى 40% . إضافة إلى Maven Shell و التي تسمح بتنفيذ أوامر عبر سطر الأوامر.

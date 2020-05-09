@@ -22,8 +22,8 @@ tags:
 
 
 
-[![مثال عن كيفية تنفيذ الثغرة والتحكم في الرابط الذي يظهر في شريط العناوين](http://www.it-scoop.com/wp-content/uploads/2012/03/Major-Security-ios-5-safari-phishing.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Major-Security-ios-5-safari-phishing.png)
+[![مثال عن كيفية تنفيذ الثغرة والتحكم في الرابط الذي يظهر في شريط العناوين](https://www.it-scoop.com/wp-content/uploads/2012/03/Major-Security-ios-5-safari-phishing.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Major-Security-ios-5-safari-phishing.png)
 
 
 

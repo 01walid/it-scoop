@@ -18,7 +18,7 @@ tags:
 - SSMA
 ---
 
-**[Microsoft تطرح MySQL Migration tool v1.0](http://www.it-scoop.com/2010/08/mysql-migration-tool-v1/)**
+**[Microsoft تطرح MySQL Migration tool v1.0](https://www.it-scoop.com/2010/08/mysql-migration-tool-v1/)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/SqlServerMySQL.png)
-](http://www.it-scoop.com/2010/08/mysql-migration-tool-v1/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/SqlServerMySQL.png)
+](https://www.it-scoop.com/2010/08/mysql-migration-tool-v1/)
 
 
 تعد أداة MySQL Migration جزءاً من حزمة أدوات SQL Server Migration Assistant أو ما يعرف بـ SSMA.

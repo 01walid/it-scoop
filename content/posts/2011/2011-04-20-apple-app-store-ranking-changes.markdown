@@ -13,13 +13,13 @@ tags:
 - AppStore
 ---
 
-[**Apple تدخل تغييرات على خوارزمية ترتيب التطبيقات على الـ AppStore**](http://www.it-scoop.com/2011/04/apple-app-store-ranking-changes)
+[**Apple تدخل تغييرات على خوارزمية ترتيب التطبيقات على الـ AppStore**](https://www.it-scoop.com/2011/04/apple-app-store-ranking-changes)
 
 
 أشار موقع [Inside Mobile Apps](http://www.insidemobileapps.com/2011/04/18/apple-app-store-ranking-changes/) أن Apple قد تكون أجرت تغييرات معتبرة على خوارزميتها لترتيب التطبيقات الظاهرة على الـ AppStore دون أن تعلن عن ذلك رسميا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/top-free-apps-appstore.png)
-](http://www.it-scoop.com/2011/04/apple-app-store-ranking-changes)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/top-free-apps-appstore.png)
+](https://www.it-scoop.com/2011/04/apple-app-store-ranking-changes)
 
 و حسب هذا الموقع فإن العدد الإجمالي لتحميل التطبيق لم يعد مهما بشكل كبير مثلما كان عليه الأمر سابقا، حيث أنه و بالرغم من أن خوارزمية Apple لا تزال غير معروفة على وجه التحديد، إلا أن هذا العدد كان يعلب دورا كبيرا في الترتيب السابق، و هو الترتيب الذي تغير بعد أن تم الأخذ بالحسبان عدة معطيات أخرى، كمدة الاستعمال الفعلية للتطبيق.
 

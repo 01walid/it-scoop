@@ -17,13 +17,13 @@ tags:
 - The Document Foundation
 ---
 
-[**وداعا OpenOffice، أهلا بـ LibreOffice**](http://www.it-scoop.com/2010/09/the-document-foundation-libreoffice)
+[**وداعا OpenOffice، أهلا بـ LibreOffice**](https://www.it-scoop.com/2010/09/the-document-foundation-libreoffice)
 
 
 بعد أن قتلت OpenSolaris، و لوحت بتغييرات قد تمست Java بعد أن هاجمت Google، بدأ مجتمع المصادر الحرة يفقد الثقة أكثر فأكثر في Oracle و التي أصبحت العدو رقم واحد لهم، و أحدث فصول هذا العداء هو قرار مجتمع OpenOffice.org إنشاء Fork جديد للمشروع.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/LO_StartCenter_Small.png)
-](http://www.it-scoop.com/2010/09/the-document-foundation-libreoffice)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/LO_StartCenter_Small.png)
+](https://www.it-scoop.com/2010/09/the-document-foundation-libreoffice)
 
 المجتمع "الجديد" سيحمل اسم The Document Foundation و سيتم اتخاذ LibreOffice كاسم للحزمة المكتبية، و لقد حصلت هذه "الحملة" على مباركة كل من Free Software Foundation و مؤسسة Gnome إلى جانب شركة Canonical الراعية لتوزيعة Ubuntu.
 

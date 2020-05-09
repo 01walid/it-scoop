@@ -23,7 +23,7 @@ tags:
 
 أحد أهم أسباب هذا العدد الكبير في هذه المدة القصيرة هو سهولة تطوير إضافات لـ Chrome.
 
-![extensionschrome](http://www.it-scoop.com/wp-content/uploads/2009/12/extensionschrome-300x176.jpg)
+![extensionschrome](https://www.it-scoop.com/wp-content/uploads/2009/12/extensionschrome-300x176.jpg)
 
 
 حسب Erik Kay المهندس لدى Google فإنه يمكن عمل إضافة للمتصفح Chrome خلال ظرف قياسي قد لا يتجاوز خمسة دقائق  (و هذا ما فعله هو بنفسه)، إن أنه يمكن بناء إضافات للمتصفح على هيئة صفحات ويب فقط.

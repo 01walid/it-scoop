@@ -15,7 +15,7 @@ tags:
 - Tomcat
 ---
 
-**[إطلاق الإصدار Beta للجيل السابع من Tomcat](http://www.it-scoop.com/2010/07/Tomcat-7-beta-released)**
+**[إطلاق الإصدار Beta للجيل السابع من Tomcat](https://www.it-scoop.com/2010/07/Tomcat-7-beta-released)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/Logo-Apache-Tomcat.png)
-](http://www.it-scoop.com/2010/07/Tomcat-7-beta-released)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Logo-Apache-Tomcat.png)
+](https://www.it-scoop.com/2010/07/Tomcat-7-beta-released)
 
 
 أهم  ما جاء به هذا الإصدار هو دعم كل من Java Servlet 3.0 ،JavaServer Pages 2.2 و Expression Language 2.2. كما تم تحسين من أداء وسيلة اكتشاف مشاكل الذاكرة memory leaks

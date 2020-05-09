@@ -21,8 +21,8 @@ tags:
 
 أطلق فريق مشروع [**الفانوس**](http://www.alfanous.org/)، بحر هذا الأسبوع، نسخة جديدة من الموقع هي ثمرة أشهر من العمل، تحمل في طياتها العديد من المزايا،  من قابلية ترجمة الواجهة لكل لغات المعمورة والبحث في مختلف ترجمات القرآن، مزايا إضافية مفيدة للباحث وتساعده في الوصول إلى نتائج بحث آكثر دقة وشمولية. سنحاول في ما يلي عرض جديد هذه الإصدارة. لكن قبل ذلك، ما هو **مشروع الفانوس**؟
 
-[![الفانوس](http://www.it-scoop.com/wp-content/uploads/2013/06/alfanous-300x131.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/alfanous.png)
+[![الفانوس](https://www.it-scoop.com/wp-content/uploads/2013/06/alfanous-300x131.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/alfanous.png)
 
 هو **محرك بحث قرآني متقدم** وشامل تم تصميمه على نحو متكامل للقيام بعمليات البحث البسيطة أو المتقدمة في القرآن الكريم. يستخدم الفانوس طريقة معاصرة ومتقنة لاستخراج معلومات عالية الأهمية، تمكّن من إجراء عملية بحث سريعة وفعالة ومستقرة. كما يهدف إلى تنفيذ ميزات إضافية مثل تمييز الكلمات المنقب عنها وتوفير الاقتراحات وغيرها لزيادة تحسين جودة النتائج. الفانوس **يفهم طبيعة اللغة العربية**، ويقدم بالتالي فعالية متميزة في معالجتها، مما يتيح التخلص من العديد من مواضع الغموض.
 
@@ -43,15 +43,15 @@ tags:
 
 	  * البحث في ترجمات القرآن المختلقة: فقد أصبح يوفر الآن البحث في ترجمات معاني القرآن إلى مختلف اللغات العالمية وهذا يساعد كثيرا المستخدمين  في البحث عن آي القرآن للذين  لا يجيدون اللغة العربية أو يجدون صعوبة في اختيار الكلمات.
 
-[![translation-search](http://www.it-scoop.com/wp-content/uploads/2013/06/translation-search.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/translation-search.png)
+[![translation-search](https://www.it-scoop.com/wp-content/uploads/2013/06/translation-search.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/translation-search.png)
 
 
 
 	  * تحكم في حجم النتائج، وهذا يتيح للمستخدم فرصة الموازنة بين الحصول على  معلومات أكثر أو الحصول على سرعة بحث أكبر مع عرض أبسط. من أشكال العرض الممكنة: الحد العادي، الحد الأدنى، الحد الأقصى، العرض اللغوي، العرض الإحصائي، عرض التلاوة.
 
-[![results-view](http://www.it-scoop.com/wp-content/uploads/2013/06/results-view.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/results-view.png)
+[![results-view](https://www.it-scoop.com/wp-content/uploads/2013/06/results-view.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/results-view.png)
 
 
 
@@ -64,12 +64,12 @@ tags:
 
 أمثلة:
 
-[![suggestions](http://www.it-scoop.com/wp-content/uploads/2013/06/suggestions.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/suggestions.png)
+[![suggestions](https://www.it-scoop.com/wp-content/uploads/2013/06/suggestions.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/suggestions.png)
 
 
-[![derivations](http://www.it-scoop.com/wp-content/uploads/2013/06/derivations.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/derivations.png)
+[![derivations](https://www.it-scoop.com/wp-content/uploads/2013/06/derivations.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/derivations.png)
 
 
 **من المزيا الأخرى العامة:**

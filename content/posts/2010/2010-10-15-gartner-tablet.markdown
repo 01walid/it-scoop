@@ -16,14 +16,14 @@ tags:
 - tablet
 ---
 
-[**Gartner تنشر توقعات جد إيجابية لسوق الأجهزة اللوحية خلال السنوات القادمة**](http://www.it-scoop.com/2010/10/gartner-tablet/ )
+[**Gartner تنشر توقعات جد إيجابية لسوق الأجهزة اللوحية خلال السنوات القادمة**](https://www.it-scoop.com/2010/10/gartner-tablet/ )
 
 
 نشر مكتب الدراسات Gartner [توقعاته ](http://www.gartner.com/it/page.jsp?id=1452614)لسوق الأجهزة اللوحية، أقل ما يقال عنها أنها إيجابية، حيث يتوقع أن تتضاعف مبيعات الأجهزة اللوحية بنسبة 181% خلال السنة القادمة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ipad-apple-3-vues.jpg)
-](http://www.it-scoop.com/2010/10/gartner-tablet/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad-apple-3-vues.jpg)
+](https://www.it-scoop.com/2010/10/gartner-tablet/ )
 
 
 و حسب Gartner فإن مبيعات الأجهزة اللوحية سيكون على النحو التالي:

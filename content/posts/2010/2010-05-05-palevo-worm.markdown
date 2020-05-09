@@ -14,14 +14,14 @@ tags:
 - Worm
 ---
 
-[**BitDefender  تحذر من عودة Palevo worm بشكل جديد**](http://www.it-scoop.com/2010/05/palevo-worm/)
+[**BitDefender  تحذر من عودة Palevo worm بشكل جديد**](https://www.it-scoop.com/2010/05/palevo-worm/)
 
 
 حذرت شركة BitDefender إحدى عمالقة برامج مكافحة البرمجيات الخبيثة، أن آخر نسل من سلالة دودة Palevo بدأت في الانتشار بشكل كثيف عبر رسائل spam تستهدف خدمات المراسلة الفورية Instant Messaging.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/malware.jpg)
-](http://www.it-scoop.com/2010/05/palevo-worm/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/malware.jpg)
+](https://www.it-scoop.com/2010/05/palevo-worm/)
 
 
 تحاول هذه الرسائل غير المرغوب فيها إقناع المستخدمين بالنقر على رابط مضمن ضمن الرسالة إلى جانب صورة ابتسامة عريضة، والذي يفضي بهم إلى صورة أو إلى معرض صور.

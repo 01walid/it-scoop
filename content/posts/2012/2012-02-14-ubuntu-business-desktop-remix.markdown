@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu.png)
-](http://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu.png)
 
 
 

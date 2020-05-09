@@ -15,13 +15,13 @@ tags:
 - oracle
 ---
 
-[**Oracle تفي بوعدها و تطلق الإصدار 5.5 من MySql أسرع بكثير من الإصدارات السابقة**](http://www.it-scoop.com/2010/12/mysql-5-5/)
+[**Oracle تفي بوعدها و تطلق الإصدار 5.5 من MySql أسرع بكثير من الإصدارات السابقة**](https://www.it-scoop.com/2010/12/mysql-5-5/)
 
 
 خبر ترقب صدوره الكثيرون، و شكك في حدوثه الكثيرون أيضا، لكن Oracle أوفت بوعدها و [أطلقت](http://www.oracle.com/us/corporate/press/195726) الإصدار 5.5 من نظام إدارة قواعد البيانات مفتوح المصدر الأكثر استعمالا في العالم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/MySql-logo.jpg)
-](http://www.it-scoop.com/2010/12/mysql-5-5/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/MySql-logo.jpg)
+](https://www.it-scoop.com/2010/12/mysql-5-5/)
 
 يتميز هذا الإصدار بأدائه العالي مقارنة بالإصدار السابق، خاصة على نظام Windows حيث تم مضاعفة سرعة عمليات القراءة فقط Read Only بـ 5.38 مرة، و بـ 5 مرات لعمليات القراءة و الكتابة Read/Write.
 

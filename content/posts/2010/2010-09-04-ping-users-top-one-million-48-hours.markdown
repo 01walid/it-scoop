@@ -15,7 +15,7 @@ tags:
 - Ping
 ---
 
-**[تجاوز عدد مشتركي شبكة Ping الاجتماعية الخاصة بـ Apple حاجز مليون مشترك خلال يومين فقط](http://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours)**
+**[تجاوز عدد مشتركي شبكة Ping الاجتماعية الخاصة بـ Apple حاجز مليون مشترك خلال يومين فقط](https://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/itunes10-250.png)
-](http://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/itunes10-250.png)
+](https://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours)
 
 
 أتى الإعلان على لسان Eddy Cue نائب رئيس خدمات الإنترنت لدى شركة التفاحة المقضومة، و لقد أفردت [تدوينة](http://www.mac4ever.com/news/57150/apple_annonce_1_million_de_ping_en_48_heures/) لهذا الحدث، كما جاء فيها أن ثلث من حملوا الإصدار العاشر من iTunes قد التحقوا بشبكة Ping.

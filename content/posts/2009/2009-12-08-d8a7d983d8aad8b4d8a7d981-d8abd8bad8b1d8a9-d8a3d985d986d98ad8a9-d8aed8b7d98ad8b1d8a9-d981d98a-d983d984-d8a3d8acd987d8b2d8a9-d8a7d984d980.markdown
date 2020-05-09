@@ -20,7 +20,7 @@ tags:
 
 أعلن الباحث في الأمن Nicolas Seriot خلال مؤتمر عقد في العاصمة السويسرية جنيف عن اكتشافه لثغرة أمنية خطيرة تخص كل أجهزة الـ iPhones بما في ذلك الأجهزة التي لا تزال حمايتها غير مكسورة.
 
-![iphone-broken](http://www.it-scoop.com/wp-content/uploads/2009/12/iphone-broken-300x300.jpg)
+![iphone-broken](https://www.it-scoop.com/wp-content/uploads/2009/12/iphone-broken-300x300.jpg)
 
 
 ظهرت في الأسابيع الأخيرة عدة فيروسات تخص أجهزة الـ iPhone لكن كانت كلها تعتمد على ثغرة موجودة فقط على الأجهزة مكسورة الحماية.

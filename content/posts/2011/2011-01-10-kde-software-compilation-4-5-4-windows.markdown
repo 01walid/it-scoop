@@ -14,13 +14,13 @@ tags:
 - Windows
 ---
 
-**[الإصدار 4.5.4 من KDE Software Compilation  لأنظمة Windows متوفر للتحميل](http://www.it-scoop.com/2011/01/kde-software-compilation-4-5-4-windows)**
+**[الإصدار 4.5.4 من KDE Software Compilation  لأنظمة Windows متوفر للتحميل](https://www.it-scoop.com/2011/01/kde-software-compilation-4-5-4-windows)**
 
 
 [أطلق](http://windows.kde.org/news.php#itemKDESoftwareCompilation454forWindowsavailable) فريق عمل سطح المكتب الشهير KDE الإصدار 4.5.4 من KDE Software Compilation  الموجه لأنظمة Windows و التي ستمكن مستخدمي هذا النظام من استخدام التطبيقات الشهيرة الخاصة ببيئة KDE.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/KDE_logo.jpg)
-](http://www.it-scoop.com/2011/01/kde-software-compilation-4-5-4-windows)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/KDE_logo.jpg)
+](https://www.it-scoop.com/2011/01/kde-software-compilation-4-5-4-windows)
 
 ليس المقصود هنا هو تمكن مستخدمي Windows من استخدام الواجهة الرسومية الخاصة بـ KDE و إنما التمكن من تنصيب التطبيقات الأساسية له كقارئ الملفات الصوتية Amarok ، متصفح الإنترنت Konqueror ، مدير الصور Digikam و حتى الحزمة المكتبية Koffice و غيرها من التطبيقات.
 

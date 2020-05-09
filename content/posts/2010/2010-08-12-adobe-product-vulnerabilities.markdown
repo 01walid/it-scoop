@@ -21,7 +21,7 @@ tags:
 - Vulerability
 ---
 
-**[الإعلان عن عدة ثغرات عالية الخطورة في بعض منتجات Adobe](http://www.it-scoop.com/2010/08/adobe-product-vulnerabilities)**
+**[الإعلان عن عدة ثغرات عالية الخطورة في بعض منتجات Adobe](https://www.it-scoop.com/2010/08/adobe-product-vulnerabilities)**
 
 
 
@@ -42,8 +42,8 @@ Adobe Flex 4.x
 تسمح للمهاجم بالتحكم الكامل بالنظام عن بعد أو تنفيذ هجمات click-jacking.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
-](http://www.it-scoop.com/2010/08/adobe-product-vulnerabilities)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+](https://www.it-scoop.com/2010/08/adobe-product-vulnerabilities)
 
 
 فيما يلي قائمة بالثغرات المعلن عنها:

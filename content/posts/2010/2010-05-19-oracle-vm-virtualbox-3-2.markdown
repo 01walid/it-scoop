@@ -13,13 +13,13 @@ tags:
 - VirtualBox
 ---
 
-[**Oracle تطلق الإصدار 3.2 لـ Oracle VM VirtualBox**](http://www.it-scoop.com/2010/05/oracle-vm-virtualbox-3-2/)
+[**Oracle تطلق الإصدار 3.2 لـ Oracle VM VirtualBox**](https://www.it-scoop.com/2010/05/oracle-vm-virtualbox-3-2/)
 
 
 أطلقت Oracle الإصدار 3.2 من برنامج Oracle VM VirtualBox  المجاني (في حالة الاستعمال الشخصي فقط) و الذي يتيح تنصيب أنظمة وهمية على كل من أنظمة Windows، Mac OS X، Linux و OpenSolaris.
 
 [![](http://www.virtualbox.org/graphics/vbox_logo2_gradient.png)
-](http://www.it-scoop.com/2010/05/oracle-vm-virtualbox-3-2/)
+](https://www.it-scoop.com/2010/05/oracle-vm-virtualbox-3-2/)
 
 هذا الإصدار و الذي يعتبر الأول تحت عباءة Oracle منذ شرائها لـ Sun يأتي بالعديد من المستجدات، و التي على رأسها تغيير تسمية البرنامج من VirtualBox إلى Oracle VM VirtualBox إضافة إلى السماح بتنصيب أنظمية Mac OS X وهمية لكن شريطة أن يكون العتاد المستعمل من تصنيع Apple، و هذا احتراما لشروط Apple و التي لا تسمح بتنصيب أنظمتها إلا على عتادها.
 

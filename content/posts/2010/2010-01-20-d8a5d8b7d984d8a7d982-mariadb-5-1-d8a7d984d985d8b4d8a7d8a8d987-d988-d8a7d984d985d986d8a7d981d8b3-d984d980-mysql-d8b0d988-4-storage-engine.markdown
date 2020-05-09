@@ -15,13 +15,13 @@ tags:
 - sun
 ---
 
-[**إطلاق MariaDB 5.1 المشابه و المنافس لـ MySql ذو 4 storage engine**](http://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/)
+[**إطلاق MariaDB 5.1 المشابه و المنافس لـ MySql ذو 4 storage engine**](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/)
 
 
 أعلن  Michael Widenius مطور MySql و مؤسس MySql AB  و الذي ترك الشركة بعد عملية شرائها من طرف Sun، أعلن عن إطلاقه للإصدار RC ثابت من MariaDB 5.1 المستنسخة من MySql و المتوافقة مع Mysql.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/mariadb.png)
-](http://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/mariadb.png)
+](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/)
 
 MariaDB عبارة عن Fork من نظام إدارة قواعد البيانات  MySql مفتوح المصدر و متوافق كلية معه لكنه يفوقه في العديد من النواحي على غرار استعماله لأربعة storage engine  حيث أنه يأتي مضمنا بـ XtraDB و الذي يعوض InnoDB التي قامت Oracle بشرائها، إضافة إلى كل من PBXT، FederatedX و Maria و التي تعوض MyISAM الخاصة بـ Mysql.
 

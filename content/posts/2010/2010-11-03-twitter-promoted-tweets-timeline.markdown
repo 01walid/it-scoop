@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[Twitter تقرر إضافة التغريدات الإعلانية مباشرة على الـ timeline](http://www.it-scoop.com/2010/11/twitter-promoted-tweets-timeline)**
+**[Twitter تقرر إضافة التغريدات الإعلانية مباشرة على الـ timeline](https://www.it-scoop.com/2010/11/twitter-promoted-tweets-timeline)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://socialmedia4arab.com/wp-content/uploads/2010/09/Promoted-Tweets.jpg)
-](http://www.it-scoop.com/2010/11/twitter-promoted-tweets-timeline)
+](https://www.it-scoop.com/2010/11/twitter-promoted-tweets-timeline)
 
 
 حاليا الأمر لا يزال في إطار تجريبي و لا يتم تجربته سوى على مستخدمي [HootSuite ](http://www.hootsuite.com/)، و حسب Twitter فإن التغريدات الإعلانية لا تظهر لدى جميع المستخدمين، و لا تظهر كلها جملة واحدة في مكان واحد، بل سيتم إظهار التغريدات حسب اهتمامات كل مستخدم، و هي الاهتمامات التي ستستخلص  من الحسابات التي يتبعها كل مغرد.

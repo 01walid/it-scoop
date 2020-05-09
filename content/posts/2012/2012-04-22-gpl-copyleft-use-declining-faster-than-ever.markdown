@@ -16,8 +16,8 @@ tags:
 
 في دراسة قام بها محللون لرُخص البيانات، أظهرت أنه ليس فقط هناك تراجع للرخصة **GPL** وعائلتها وأخواتها من الـ **Copyleft**، بل حتى معدّل التخلي عن هذا الترخيص  في تسارع مستمر.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/86379833_54c69048c3-300x225.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/86379833_54c69048c3.jpg)كان هذا خلاصة ما وصل إليه [تحليل Matthew Aslett](http://blogs.the451group.com/opensource/2011/12/15/on-the-continuing-decline-of-the-gpl/)، لآخر [بيانات Black Duck Software](http://osrc.blackducksoftware.com/data/licenses/)، والتي تشير أن رخص LGP ،GPL و AGPL لا تزال المهيمنة على تراخيص المشاريع الحرّة والمفتوحة المصدر، إلا أنها في تراجع مستمر من حيث حجم الاستعمال.
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/86379833_54c69048c3-300x225.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/86379833_54c69048c3.jpg)كان هذا خلاصة ما وصل إليه [تحليل Matthew Aslett](http://blogs.the451group.com/opensource/2011/12/15/on-the-continuing-decline-of-the-gpl/)، لآخر [بيانات Black Duck Software](http://osrc.blackducksoftware.com/data/licenses/)، والتي تشير أن رخص LGP ،GPL و AGPL لا تزال المهيمنة على تراخيص المشاريع الحرّة والمفتوحة المصدر، إلا أنها في تراجع مستمر من حيث حجم الاستعمال.
 
 
 <blockquote>عائلة رخص GPL تستحوذ على حوالي 57% من إجمالي البرامج المفتوحة، مقارنة بنسبة 61% في شهر يونيو الفارط.
@@ -33,8 +33,8 @@ tags:
 وحسب الرسم البياني الذي أشار إليه Aslett (أنظر أسفله) فإنه يتّضح جليا أن النتيجة التي خلص إليها منطقية، وأن توجه المطورين قد صُرف مؤخرا لاستعمال رخص سمحَةٍ بشكل أكثر، أمثال رخص MIT ،Apache(ASL) ،BSD وMs-PL وأخرى أقل فيروسية من رخصة GPL الفيروسية (أي التي تتعدى شروطها إلى الشفرة المصدرية التي بُنيت اعتمادا على شفرة مصدرية برخصة GPL)
 
 
-[![رسم بياني لسير التخلي عن استعمال رخص GPL](http://www.it-scoop.com/wp-content/uploads/2012/04/gplusage.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/gplusage.png)
+[![رسم بياني لسير التخلي عن استعمال رخص GPL](https://www.it-scoop.com/wp-content/uploads/2012/04/gplusage.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/gplusage.png)
 
 
 السؤال الذي يطرح نفسه الآن هو: "لماذا هذا التغير؟؟".

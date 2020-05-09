@@ -12,7 +12,7 @@ tags:
 - Storwize
 ---
 
-**[IBM تشتري شركة Storwize المتخصصة في ضغط الملفات في الزمن الحقيقي](http://www.it-scoop.com/2010/07/ibm-acquires-storwize/)**
+**[IBM تشتري شركة Storwize المتخصصة في ضغط الملفات في الزمن الحقيقي](https://www.it-scoop.com/2010/07/ibm-acquires-storwize/)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://www.storwize.com/images_storwize/common/logo.jpg  )
-](http://www.it-scoop.com/2010/07/ibm-acquires-storwize/)
+](https://www.it-scoop.com/2010/07/ibm-acquires-storwize/)
 
 
 ما يميز التقنية التي تطورها Storwize هو عدم الاقتصار على ضغط  الملفات المراد أرشفتها فحسب بل أيضاً الملفات قيد الاستعمال و هذا دون التأثير على الأداء، مما يسمح للشركات استعمال مساحات أقل لتخزين البيانات المستعملة.

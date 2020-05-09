@@ -15,7 +15,7 @@ tags:
 - Security
 ---
 
-[ ]( http://www.it-scoop.com/2010/07/adobe-reader-sandbox/)**[Adobe تعتزم إضافة حماية الـ Sandbox للإصدار القادم من برنامج Reader]( http://www.it-scoop.com/2010/07/adobe-reader-sandbox/)**
+[ ]( https://www.it-scoop.com/2010/07/adobe-reader-sandbox/)**[Adobe تعتزم إضافة حماية الـ Sandbox للإصدار القادم من برنامج Reader]( https://www.it-scoop.com/2010/07/adobe-reader-sandbox/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
-](http://www.it-scoop.com/2010/07/adobe-reader-sandbox/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+](https://www.it-scoop.com/2010/07/adobe-reader-sandbox/)
 
 
 ها هي اليوم Adobe تعلن أنها قريباً ستقوم باستثمار تقنية sandbox في برنامج Adobe Reader مما سيضيف طبقة أخرى من الحماية في وجه المخاطر الكثيرة التي تستهدف مستعرض ملفات PDF الشهير.

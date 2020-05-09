@@ -12,7 +12,7 @@ tags:
 - Google
 ---
 
-**[النسخة النهائية الثامنة من Google Chrome متاحة الآن]( http://www.it-scoop.com/2010/12/google-chrome-8/)**
+**[النسخة النهائية الثامنة من Google Chrome متاحة الآن]( https://www.it-scoop.com/2010/12/google-chrome-8/)**
 
 
 
@@ -20,8 +20,8 @@ tags:
 أطلقت شركة Google البارحة النسخة النهائية رقم 8 من متصفح الانترنت Google Chrome .
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/chrome.jpg)
-]( http://www.it-scoop.com/2010/12/google-chrome-8/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/chrome.jpg)
+]( https://www.it-scoop.com/2010/12/google-chrome-8/)
 
 
 مميزات هذه الإصدارة :

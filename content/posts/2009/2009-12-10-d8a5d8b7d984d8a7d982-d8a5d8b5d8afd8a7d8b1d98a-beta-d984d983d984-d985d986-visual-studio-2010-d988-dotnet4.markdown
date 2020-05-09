@@ -20,7 +20,7 @@ tags:
 
 قامت شركة Microsoft بإطلاق إصداري Beta لكل من Visual studio 2010 و Dotnet4
 
-![microsoft visual studio 2010](http://www.it-scoop.com/wp-content/uploads/2009/12/microsoft-visual-studio-20101-300x225.jpg)
+![microsoft visual studio 2010](https://www.it-scoop.com/wp-content/uploads/2009/12/microsoft-visual-studio-20101-300x225.jpg)
 
 
 يأتي هذان الإصداران بالعديد من المميزات الجديدة على غرار كل من:

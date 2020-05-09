@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/microsoft.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/microsoft.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/microsoft.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/microsoft.jpg)
 
 
 

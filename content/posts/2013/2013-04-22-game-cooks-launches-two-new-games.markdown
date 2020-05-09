@@ -20,8 +20,8 @@ tags:
 
 
 
-[![game-cooks](http://www.it-scoop.com/wp-content/uploads/2013/04/game-cooks.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/game-cooks.jpg)
+[![game-cooks](https://www.it-scoop.com/wp-content/uploads/2013/04/game-cooks.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/game-cooks.jpg)
 
 
 
@@ -31,8 +31,8 @@ tags:
 
 
 
-[![N.E.R.D.S](http://www.it-scoop.com/wp-content/uploads/2013/04/N.E.R.D.S.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/N.E.R.D.S.jpg)
+[![N.E.R.D.S](https://www.it-scoop.com/wp-content/uploads/2013/04/N.E.R.D.S.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/N.E.R.D.S.jpg)
 
 
 
@@ -42,8 +42,8 @@ tags:
 
 
 
-[![Captain Oil](http://www.it-scoop.com/wp-content/uploads/2013/04/Captain-Oil.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/Captain-Oil.png)
+[![Captain Oil](https://www.it-scoop.com/wp-content/uploads/2013/04/Captain-Oil.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/Captain-Oil.png)
 
 
 

@@ -14,7 +14,7 @@ tags:
 - Total Security 2012
 ---
 
-[**Bitdefender  تطلق الإصدار النهائي لـ Total Security 2012**](http://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
+[**Bitdefender  تطلق الإصدار النهائي لـ Total Security 2012**](https://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/Bitdefender-Total-Security-2012.png)
-](http://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/Bitdefender-Total-Security-2012.png)
+](https://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
 
 
 
@@ -45,8 +45,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2011/07/Bitdefender-Logo.png)
-](http://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
+ [![](https://www.it-scoop.com/wp-content/uploads/2011/07/Bitdefender-Logo.png)
+](https://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
 
 
 

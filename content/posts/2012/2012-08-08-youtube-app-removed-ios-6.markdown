@@ -22,13 +22,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/iOS-YouTube-app.jpeg)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/iOS-YouTube-app.jpeg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/iOS-YouTube-app.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/iOS-YouTube-app.jpeg)
 
 
 
 
-في حين اكتفت Apple [بالإشارة](http://www.theverge.com/2012/8/6/3223775/apple-youtube-ios6) إلى أن العقد الذي يربطها بـ Google لتوفير تطبيق Youtube على نظامها قد وصل إلى نهايته، اختلفت تحليلات المواقع التقنية للوضع، فمنهم من يرى بأن هدف Apple من وراء هذه الخطوة هو التخلص من هيمنة تطبيقات Google على نظامها، خاصة بعد أن [تخلصت من Google Maps](http://www.it-scoop.com/2012/03/apple-google-maps-openstreetmap/) ثم أتبعت ذلك بإعلانها عن توفير تطبيق محلي خاص بها بالخرائط في الإصدار6 من النظام، هناك من يرى بأن الأمر يخدم Google أكثر مما يفيد Apple.
+في حين اكتفت Apple [بالإشارة](http://www.theverge.com/2012/8/6/3223775/apple-youtube-ios6) إلى أن العقد الذي يربطها بـ Google لتوفير تطبيق Youtube على نظامها قد وصل إلى نهايته، اختلفت تحليلات المواقع التقنية للوضع، فمنهم من يرى بأن هدف Apple من وراء هذه الخطوة هو التخلص من هيمنة تطبيقات Google على نظامها، خاصة بعد أن [تخلصت من Google Maps](https://www.it-scoop.com/2012/03/apple-google-maps-openstreetmap/) ثم أتبعت ذلك بإعلانها عن توفير تطبيق محلي خاص بها بالخرائط في الإصدار6 من النظام، هناك من يرى بأن الأمر يخدم Google أكثر مما يفيد Apple.
 
 
 

@@ -13,13 +13,13 @@ tags:
 - PS3
 ---
 
-[**Linux يعود من جديد على أجهزة PS3، بفضل مجهودات Hacker**](http://www.it-scoop.com/2010/04/linux-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ps3%d8%8c-%d8%a8%d9%81%d8%b6%d9%84-%d9%85%d8%ac%d9%87%d9%88%d8%af%d8%a7%d8%aa-hac/)
+[**Linux يعود من جديد على أجهزة PS3، بفضل مجهودات Hacker**](https://www.it-scoop.com/2010/04/linux-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ps3%d8%8c-%d8%a8%d9%81%d8%b6%d9%84-%d9%85%d8%ac%d9%87%d9%88%d8%af%d8%a7%d8%aa-hac/)
 
 
 أعلن الـ Hacker المسمى  Geohot عن توصله لطريقة تمكنه من تنصيب نظام تشغيل آخر على منصات PS3 بعد أن منعت Sony ذلك في آخر تحديث للـ firmware الخاص للمنصة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/linux_on_ps3.jpg)
-](http://www.it-scoop.com/2010/04/linux-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ps3%d8%8c-%d8%a8%d9%81%d8%b6%d9%84-%d9%85%d8%ac%d9%87%d9%88%d8%af%d8%a7%d8%aa-hac/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/linux_on_ps3.jpg)
+](https://www.it-scoop.com/2010/04/linux-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%b9%d9%84%d9%89-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ps3%d8%8c-%d8%a8%d9%81%d8%b6%d9%84-%d9%85%d8%ac%d9%87%d9%88%d8%af%d8%a7%d8%aa-hac/)
 
 توضع الفيديو التي نشرها Geohot على Youtube تمكنه من تنصيب نظام  Linux على جهاز SP3 و يوضح على مدونته أن فكرة الحل تكمن في استعمال ملف  PUP  يخص الإصدار 3.15 .
 

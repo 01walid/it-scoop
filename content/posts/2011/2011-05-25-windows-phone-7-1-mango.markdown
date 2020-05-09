@@ -16,13 +16,13 @@ tags:
 - Windows Phone 7.1
 ---
 
-[**Microsoft تكشف عن windows Phone 7.1  Mango  و توفر الإصدار التجريبي من أدوات التطوير الخاصة به**](http://www.it-scoop.com/2011/05/windows-phone-7-1-mango/)
+[**Microsoft تكشف عن windows Phone 7.1  Mango  و توفر الإصدار التجريبي من أدوات التطوير الخاصة به**](https://www.it-scoop.com/2011/05/windows-phone-7-1-mango/)
 
 
 [كشفت](http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2011/05/24/microsoft-officially-unveils-mango-hundreds-of-improvements-on-the-way.aspx) Microsoft النقاب عن الإصدار 7.1 (و ليس 7.5 كما هو متداول على الكثير من المواقع التقنية) من نظامها الموجه للهواتف الذكية Windows Phone و المسمى بـ Mango  و الذي يقدم ما لا يقل عن 500 إضافة جديدة.
 
 [![](http://www.microsoft.com/presspass/presskits/windowsphone/images/052411/integratedMessaging_web.jpg)
-](http://www.it-scoop.com/2011/05/windows-phone-7-1-mango/)
+](https://www.it-scoop.com/2011/05/windows-phone-7-1-mango/)
 
 
 

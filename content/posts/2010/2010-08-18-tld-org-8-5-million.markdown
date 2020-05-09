@@ -12,13 +12,13 @@ tags:
 - TLD
 ---
 
-[**تجاوز عدد مواقع .org حاجز 8,5 مليون موقع**](http://www.it-scoop.com/2010/08/tld-org-8-5-million/ )
+[**تجاوز عدد مواقع .org حاجز 8,5 مليون موقع**](https://www.it-scoop.com/2010/08/tld-org-8-5-million/ )
 
 
 نشرت الـ Public Interest Registry الهيئة المسؤولة عن إدارة المواقع ذات اللاحقة .org تقريرها النصف سنوي و الذي يشير إلى تجاوز عدد المواقع التي تستعمل لاحقة .org حاجز الـ 8.5 مليون موقع.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/pir-org.png)
-](http://www.it-scoop.com/2010/08/tld-org-8-5-million/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/pir-org.png)
+](https://www.it-scoop.com/2010/08/tld-org-8-5-million/ )
 
 حسب هذا التقرير فإن عدد مواقع .org شهد زيادة قدرت بـ  7,6% خلال النصف الأول من العام الجاري و هو ما يمثل ضعف الزيادة التي عرفها الـ .org خلال نفس الفترة من العام الماضي.
 

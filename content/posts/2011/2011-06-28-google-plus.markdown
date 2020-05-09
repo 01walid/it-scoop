@@ -13,13 +13,13 @@ tags:
 - Google plus
 ---
 
-[**Google تكشف عن طبقتها الاجتماعية Google+**](http://www.it-scoop.com/2011/06/google-plus/)
+[**Google تكشف عن طبقتها الاجتماعية Google+**](https://www.it-scoop.com/2011/06/google-plus/)
 
 
 [كشفت ](http://googleblog.blogspot.com/2011/06/introducing-google-project-real-life.html)Google اليوم عن شبكتها/طبقتها الاجتماعية Google+ و التي تعتبر منافسا مباشرا لـ Facebook نظرا لما تقدمه من خصائص اجتماعية بنكهة "جوجلية" لمستخدمي خدماتها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/GooglePlus.png)
-](http://www.it-scoop.com/2011/06/google-plus/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/GooglePlus.png)
+](https://www.it-scoop.com/2011/06/google-plus/)
 
 بداية لا أظن أنه يمكن اعتبار Google+ شبكة اجتماعية مستقلة بذاتها كونها أقرب ما تكون إلى طبقة إضافية لـ Google و مختلف خدماتها، حتى التسمية Google+ توحي بأن الأمر أشبه ما يكون بإضافة أو بنسخة جديدة من Google.
 
@@ -35,8 +35,8 @@ http://www.youtube.com/watch?v=xwnJ5Bl4kLI&feature=player_embedded
 # Circles :
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/GooglePlus-Circles.jpg)
-](http://www.it-scoop.com/2011/06/google-plus/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/GooglePlus-Circles.jpg)
+](https://www.it-scoop.com/2011/06/google-plus/)
 
 مبدأ دوائر Google  بسيط و هو نفس مبدأ المجموعات، لكن الاختلاف يكمن في إمكانية تشارك ما تريد مع من تريد فقط، بعبارة أخرى كل مستخدم له القدرة على تجميع أصدقائه ضمن دوائر Circles حسب مجالات اهتمامهم، و بالتالي يمكنه أن يتشارك مع كل مجموعة محتويات حسب مجال اهتمامها فقط، فلا يعقل مثلا أن تتشارك نفس المعلومات مع أفراد العائلة و مع زملاء العمل أو مع الأصدقاء.
 

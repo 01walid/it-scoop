@@ -21,13 +21,13 @@ tags:
 
 
 
-[![ويكيبيديا تتخلى بدورها عن Google Maps لصالح OpenStreetMap](http://www.it-scoop.com/wp-content/uploads/2012/04/wikipedia-OpenStreetMap.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/wikipedia-OpenStreetMap.png)
+[![ويكيبيديا تتخلى بدورها عن Google Maps لصالح OpenStreetMap](https://www.it-scoop.com/wp-content/uploads/2012/04/wikipedia-OpenStreetMap.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/wikipedia-OpenStreetMap.png)
 
 
 
 
-يأتي ذلك بعد أن أقدمت العديد من الشركات والخدمات المؤثرة بالقيام بنفس الخطوة، حيث سبق وأن أعلنتها [Foursqaure](http://www.it-scoop.com/2012/03/foursquare-openstreetmap/) صراحة بأن التسعيرات التي باتت مُطبقة على التطبيقات التي تستعمل خدمة Google Maps هي التي دفعتها إلى التخلي عنها والبحث عن بديل، ووقع اختيارها على Mapbox التي تعتمد على OpenStreetMap، رغم أنها أقحمت حجة "دعم الشركات الناشئة الأخرى" كسبب لقيامها بالأمر، ثم أتبعتها Apple التي "خلّصت" تطبيقها [iPhoto](http://www.it-scoop.com/2012/03/apple-google-maps-openstreetmap/) من Google Maps وتحولت هي أيضا إلى OpenStreetMap لكن دون أن تعلن عن الأمر.
+يأتي ذلك بعد أن أقدمت العديد من الشركات والخدمات المؤثرة بالقيام بنفس الخطوة، حيث سبق وأن أعلنتها [Foursqaure](https://www.it-scoop.com/2012/03/foursquare-openstreetmap/) صراحة بأن التسعيرات التي باتت مُطبقة على التطبيقات التي تستعمل خدمة Google Maps هي التي دفعتها إلى التخلي عنها والبحث عن بديل، ووقع اختيارها على Mapbox التي تعتمد على OpenStreetMap، رغم أنها أقحمت حجة "دعم الشركات الناشئة الأخرى" كسبب لقيامها بالأمر، ثم أتبعتها Apple التي "خلّصت" تطبيقها [iPhoto](https://www.it-scoop.com/2012/03/apple-google-maps-openstreetmap/) من Google Maps وتحولت هي أيضا إلى OpenStreetMap لكن دون أن تعلن عن الأمر.
 
 
 

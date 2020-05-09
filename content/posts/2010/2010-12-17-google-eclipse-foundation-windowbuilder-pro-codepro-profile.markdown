@@ -20,7 +20,7 @@ tags:
 - WindowBuilder Pro
 ---
 
-**[Google تهدي مؤسسة Eclipse Foundation تطبيقين بقيمة 5 ملايين دولار](http://www.it-scoop.com/2010/12/google-eclipse-foundation-windowbuilder-pro-codepro-profile)**
+**[Google تهدي مؤسسة Eclipse Foundation تطبيقين بقيمة 5 ملايين دولار](https://www.it-scoop.com/2010/12/google-eclipse-foundation-windowbuilder-pro-codepro-profile)**
 
 
 

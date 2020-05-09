@@ -17,8 +17,8 @@ tags:
 
 
 
-[![شعار goodreads](http://www.it-scoop.com/wp-content/uploads/2012/04/goodreads.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/goodreads.jpg)
+[![شعار goodreads](https://www.it-scoop.com/wp-content/uploads/2012/04/goodreads.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/goodreads.jpg)
 
 
 
@@ -99,8 +99,8 @@ tags:
 
 
 
-[caption id="attachment_10585" align="aligncenter" width="640" caption="لاحظ التباين في الآراء حول نفس الكتاب"][![](http://www.it-scoop.com/wp-content/uploads/2012/04/goodreads-Comments.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/goodreads-Comments.png)[/caption]
+[caption id="attachment_10585" align="aligncenter" width="640" caption="لاحظ التباين في الآراء حول نفس الكتاب"][![](https://www.it-scoop.com/wp-content/uploads/2012/04/goodreads-Comments.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/goodreads-Comments.png)[/caption]
 
 
 

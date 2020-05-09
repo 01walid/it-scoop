@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/worm-win32-flame.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/worm-win32-flame.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/worm-win32-flame.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/worm-win32-flame.jpg)
 
 
 

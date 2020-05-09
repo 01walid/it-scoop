@@ -15,7 +15,7 @@ tags:
 - Mac OS X
 ---
 
-**[Apple تعلن عن مؤتمر في الـ 20 من أكتوبر الجاري يحمل الشعار Back to the Mac](http://www.it-scoop.com/2010/10/apple-back-to-the-mac/)**
+**[Apple تعلن عن مؤتمر في الـ 20 من أكتوبر الجاري يحمل الشعار Back to the Mac](https://www.it-scoop.com/2010/10/apple-back-to-the-mac/)**
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://www.blogcdn.com/www.engadget.com/media/2010/10/mainimage.jpg )
-](http://www.it-scoop.com/2010/10/apple-back-to-the-mac/)
+](https://www.it-scoop.com/2010/10/apple-back-to-the-mac/)
 
 
 

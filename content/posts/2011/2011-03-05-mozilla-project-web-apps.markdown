@@ -14,7 +14,7 @@ tags:
 ---
 
 [**Mozilla  تعلن عن أولى مراحل Project Web Apps**
-](http://www.it-scoop.com/2011/03/mozilla-project-web-apps/)
+](https://www.it-scoop.com/2011/03/mozilla-project-web-apps/)
 
 
 [كشفت](http://mozillalabs.com/blog/2011/03/first-developer-release-of-web-apps-project/) Mozilla عن أولى مراحل (milestone release)  مشروعها Web Apps Project  و الذي  يحتوي على  واجهة برمجة التطبيقات API مستقرة و التوثيق الخاص بها.
@@ -22,7 +22,7 @@ tags:
 
 
 [![](https://apps.mozillalabs.com/i/header.png)
-](http://www.it-scoop.com/2011/03/mozilla-project-web-apps/)
+](https://www.it-scoop.com/2011/03/mozilla-project-web-apps/)
 
 Web Apps عبارة عن  تطبيقات تعمل على أي جهاز مباشرة من خلال المتصفح (تتطلب تنصيب  إضافة Web App extension) و يمكن استعاملها على Firefox و Chrome، و تفتح Mozilla بذلك الأبواب أمام المطورين [لنشر تطبيقاتهم](https://developer.mozilla.org/en/OpenWebApps) للمستخدمين ، أو إنشاء [متاجر تطبيقات](https://developer.mozilla.org/en/OpenWebApps/Creating_a_store) خاصة.
 

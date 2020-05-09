@@ -12,13 +12,13 @@ tags:
 - Vodafon
 ---
 
-**[Vodafon تؤكد أن الحكومة المصرية تجبرها على إرسال رسائل SMS موالية لمبارك]( http://www.it-scoop.com/2011/02/vodafon-egypt-sms/)**
+**[Vodafon تؤكد أن الحكومة المصرية تجبرها على إرسال رسائل SMS موالية لمبارك]( https://www.it-scoop.com/2011/02/vodafon-egypt-sms/)**
 
 
 [أفادت](http://ara.reuters.com/article/topNews/idARACAE71218520110203) وكالة  Reuters للأنباء أن شركة الاتصالات Vodafon تؤكد أن الحكومة المصرية تجبرها هي و باقي شبكات الاتصال الأخرى على إرسال رسائل نصية موالية لمبارك.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/vodafone-egypt.png)
-](http://www.it-scoop.com/2011/02/vodafon-egypt-sms/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/vodafone-egypt.png)
+](https://www.it-scoop.com/2011/02/vodafon-egypt-sms/)
 
 و تشير Vodafon أن المشكل الأساسي يتمثل في إرسال رسائل SMS لا تحمل أي توقيع و تظهر لدى استقبالها و كأنها مرسلة مباشرة من قبل شركة الاتصالات، و هو أمر غير مقبول حسبما تشير إليه الشركة الأم.
 

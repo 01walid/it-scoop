@@ -15,14 +15,14 @@ tags:
 - Call of Duty
 ---
 
-**[Call of Duty: Black Ops تحقق مليار دولار من مداخيل المبيعات و تحتل صدارة الألعاب الأكثر قرصنة](http://www.it-scoop.com/2010/12/call-of-duty-black-ops-1-billion-most-pirated-game-2010)**
+**[Call of Duty: Black Ops تحقق مليار دولار من مداخيل المبيعات و تحتل صدارة الألعاب الأكثر قرصنة](https://www.it-scoop.com/2010/12/call-of-duty-black-ops-1-billion-most-pirated-game-2010)**
 
 
 كما لم يكن متوقعا [حققت ](http://www.physorg.com/news/2010-12-duty-black-ops-sales-billion.html)النسخة الأخيرة من سلسلة لعبة نداء الواجب الموسومة بـ Call of Duty: Black Ops رقم مبيعات خياليا أعلنته       Activision الشركة الموزعة للعبة
 
 
 [![](http://filaty.com/l/fo4r)
-](http://www.it-scoop.com/2010/12/call-of-duty-black-ops-1-billion-most-pirated-game-2010)
+](https://www.it-scoop.com/2010/12/call-of-duty-black-ops-1-billion-most-pirated-game-2010)
 
 
 في تصريح لأحد الموظفين
@@ -40,7 +40,7 @@ tags:
 
 
 [![](http://filaty.com/l/fo4p)
-](http://www.it-scoop.com/2010/12/call-of-duty-black-ops-1-billion-most-pirated-game-2010)
+](https://www.it-scoop.com/2010/12/call-of-duty-black-ops-1-billion-most-pirated-game-2010)
 وهذا و قد شهدت أشهر لعبة لسنة 2010 مشكلات تقنية عديدة مع الاتصال في حال اختيار اللعب عبر الإنترنت تم التبليغ عنها بسبب التزاحم . و قد صرح ممثل الشركة الموزعة قائلا
 
 

@@ -12,12 +12,12 @@ tags:
 - المجلة التقنية
 ---
 
-الفاتح من شهر نوفمبر، يوم عزيز على قلبي، فمن ناحية هو تاريخ انطلاق [الثورة الجزائرية المجيدة سنة 1954](http://ar.wikipedia.org/wiki/%D8%AB%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9)، ومن ناحية أخرى هو تاريخ [ميلاد المجلة التقنية](http://www.it-scoop.com/2009/11/%d8%a7%d9%84%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad%d9%8a%d8%a9/) والتي أكملت اليوم عامها الثالث، وتستقبل عامها الرابع بعزيمة وجد.
+الفاتح من شهر نوفمبر، يوم عزيز على قلبي، فمن ناحية هو تاريخ انطلاق [الثورة الجزائرية المجيدة سنة 1954](http://ar.wikipedia.org/wiki/%D8%AB%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9)، ومن ناحية أخرى هو تاريخ [ميلاد المجلة التقنية](https://www.it-scoop.com/2009/11/%d8%a7%d9%84%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad%d9%8a%d8%a9/) والتي أكملت اليوم عامها الثالث، وتستقبل عامها الرابع بعزيمة وجد.
 
 
 
 
-![](http://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
+![](https://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
 
 
 
@@ -28,7 +28,7 @@ tags:
 
 
 
-كما حصلت المجلة التقنية على جائزة أفضل موقع تقني بالجزائر في مسابقة [Algeria Web Awards](http://www.it-scoop.com/2012/04/it-scoop-algeria-web-awards/).
+كما حصلت المجلة التقنية على جائزة أفضل موقع تقني بالجزائر في مسابقة [Algeria Web Awards](https://www.it-scoop.com/2012/04/it-scoop-algeria-web-awards/).
 
 
 

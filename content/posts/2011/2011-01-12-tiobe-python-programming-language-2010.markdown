@@ -13,14 +13,14 @@ tags:
 - Tiobe
 ---
 
-**[Python لغة برمجة سنة 2010 حسب ترتيب TIOBE للغات البرمجة الأكثر شعبية](http://www.it-scoop.com/2011/01/tiobe-python-programming-language-2010)**
+**[Python لغة برمجة سنة 2010 حسب ترتيب TIOBE للغات البرمجة الأكثر شعبية](https://www.it-scoop.com/2011/01/tiobe-python-programming-language-2010)**
 
 
 نشرت TIOBE تقريرها الشهري للغات البرمجة الأكثر شعبية لشهر يناير و الذي تواصل فيه لغة Java محافظتها على صدارتها، فيما حلت كل من لغة C و لغة C++ ثانيا و ثالثا.
 
 
 [![](http://www.tiobe.com/content/paperinfo/tpci/images/tpci_trends.png)
-](http://www.it-scoop.com/2011/01/tiobe-python-programming-language-2010)
+](https://www.it-scoop.com/2011/01/tiobe-python-programming-language-2010)
 
 
 أما فيما يخص لقب "لغة عام 2010"، فلقد حصلت عليه Python بعدما كانت كل الأنظار متجهة نحو objective-C  حيث ازدادت حصة هذه الأخيرة خلال عام بنسبة 1.63% في حين تجاوزتها Python بتسجيلها زيادة قدرت بـ 1.81%.

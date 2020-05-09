@@ -10,7 +10,7 @@ categories:
 - Web
 ---
 
-[المواقع السورية الحكومية تحت رحمة المخترقين](http://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
+[المواقع السورية الحكومية تحت رحمة المخترقين](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 
 وصلتنا أكثر من رسالة تفيد بأن المواقع الحكومية السورية سقطت /تسقط خلال هذه الأيام الواحدة تلو الأخرى على أيدي المخترقين، و الذين تبين الرسائل المتروكة على هذه المواقع أنهم سوريون أيضا.
@@ -19,8 +19,8 @@ categories:
 
 و فيما يلي بعض الصور:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/ddosed.png)
-](http://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/ddosed.png)
+](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 سقوط جماعي للمواقع التالية (المسكنة على نفس الخادم) :
 
@@ -34,15 +34,15 @@ categories:
 	  * btc.gov.sy
 	  * gcea.gov.sy
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/GFTO.png)
-](http://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/GFTO.png)
+](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 صورة تبين سقوط موقع gfto.gov.sy
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/ShameTV.jpg)
-](http://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/ShameTV.jpg)
+](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 صورة تبين اختراق موقع http://shamtv.net/
 

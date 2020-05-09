@@ -15,7 +15,7 @@ tags:
 - youtube
 ---
 
-[ثغرة جديدة في youtube تتيح تغيير عناوين الفيديو]( http://www.it-scoop.com/2010/09/youtube-hack/)
+[ثغرة جديدة في youtube تتيح تغيير عناوين الفيديو]( https://www.it-scoop.com/2010/09/youtube-hack/)
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![HKTB](http://filaty.com/i/1009/16623/YEX.JPG)
-]( http://www.it-scoop.com/2010/09/youtube-hack/)
+]( https://www.it-scoop.com/2010/09/youtube-hack/)
 
 
 الخبر انتشر منذ حوالي نصف ساعة من الآن "الثانية بتوقيت غرينيتش" حيث قام قرصان يعتقد أنه[ برازيلي](http://www.youtube.com/DudeTubeHacker) باستهداف حسابات المشاهير على الموقع و تغيير عناوين الفيديوهات و من بين المستهدفين المغني JustinBieber الذي سارع القائمون على القناة الخاصة به إلى تدارك الوضع و تصحيح الموقف و لم يقتصر الاستهداف على المغني المذكور .

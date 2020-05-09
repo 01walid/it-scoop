@@ -23,8 +23,8 @@ tags:
 
 
 
-[![hadoop windows](http://www.it-scoop.com/wp-content/uploads/2011/11/hadoop-windows.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/hadoop-windows.jpg)
+[![hadoop windows](https://www.it-scoop.com/wp-content/uploads/2011/11/hadoop-windows.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/hadoop-windows.jpg)
 
 
 

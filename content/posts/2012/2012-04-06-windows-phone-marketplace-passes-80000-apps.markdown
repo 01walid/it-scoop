@@ -24,8 +24,8 @@ tags:
 
 
 
-[![Windows Phone MarketPlace: تجاوز عدد التطبيقات حاجز 80000 وقبول 340 تطبيقا جديدًا كل يوم](http://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012.jpg)
+[![Windows Phone MarketPlace: تجاوز عدد التطبيقات حاجز 80000 وقبول 340 تطبيقا جديدًا كل يوم](https://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012.jpg)
 
 
 
@@ -72,8 +72,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012-categories.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012-categories.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012-categories.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/windows-phone-marketplace-march-2012-categories.jpg)
 
 
 

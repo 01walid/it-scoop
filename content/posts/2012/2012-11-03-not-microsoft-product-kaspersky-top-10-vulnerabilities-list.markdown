@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/11/Microsoft-Sign.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/11/Microsoft-Sign.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/11/Microsoft-Sign.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/11/Microsoft-Sign.jpg)
 
 
 

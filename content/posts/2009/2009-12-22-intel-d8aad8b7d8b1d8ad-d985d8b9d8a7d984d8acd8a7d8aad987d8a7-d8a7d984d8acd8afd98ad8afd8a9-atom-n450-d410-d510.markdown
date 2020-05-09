@@ -16,14 +16,14 @@ tags:
 - N450
 ---
 
-[**Intel تطرح معالجاتها الجديدة Atom N450, D410, D510**](http://www.it-scoop.com/2009/12/intel-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-atom-n450-d410-d510/)
+[**Intel تطرح معالجاتها الجديدة Atom N450, D410, D510**](https://www.it-scoop.com/2009/12/intel-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-atom-n450-d410-d510/)
 
 
 أطلقت شركة Intel, كبرى شركات تصنيع الرقاقات في العالم، معالج الجيل القادم الجديد Atom، والذي تدعي بأنه سيطيل من عمر البطاريات الخاصة بالحواسب المحمولة ويعد بأداء أفضل في الحواسب منخفضة السعر.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo-300x278.jpg)
-](http://www.it-scoop.com/2009/12/intel-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-atom-n450-d410-d510/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo-300x278.jpg)
+](https://www.it-scoop.com/2009/12/intel-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7%d8%aa%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-atom-n450-d410-d510/)
 
 
 وفقاً لشركة Intel، فإن الرقاقة وحيدة النواة الجديدة، المسماة Atom N450 أصغر بحوالي 60% من معالجات Atom الحالية وستتطلب مصروف طاقة أقل بحوالي 20%. تستهلك الرقاقة الجديدة حوالي 5.5 واط.

@@ -22,13 +22,13 @@ tags:
 
 
 
-[**MySpace تتخلص من 150 موظفا، و أنباء عن قرب بيعها مقابل 30 مليون دولار فقط**](http://www.it-scoop.com/2011/06/myspace-lay-off-150-employees-sold-30-million)
+[**MySpace تتخلص من 150 موظفا، و أنباء عن قرب بيعها مقابل 30 مليون دولار فقط**](https://www.it-scoop.com/2011/06/myspace-lay-off-150-employees-sold-30-million)
 
 
 بعد أن تخلصت من نصف موظفيها شهر يناير الفارط، [كشفت](http://techcrunch.com/2011/06/27/myspace-expected-to-lay-off-at-least-150-employees-on-wednesday/) مدونة TechCrunch أن MySpace بصدد التخلص من 150 موظفا آخرين يوم الخميس القادم من مجموع 400 موظفا لا يزالون يعملون لديها و ذلك تحضيرا لبيعها قبل نهاية هذا الشهر. في حين يتوجب على 150 آخرين تحضير أنفسهم لحملة "تطهير" أخرى.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/myspace-logo.png)
-](http://www.it-scoop.com/2011/06/myspace-lay-off-150-employees-sold-30-million)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/myspace-logo.png)
+](https://www.it-scoop.com/2011/06/myspace-lay-off-150-employees-sold-30-million)
 
 و تسارع news corp المالكة لـ MySpace خطواتها لإتمام عملية بيع الشبكة الاجتماعية قبل نهاية هذا الشهر موعد نهاية السنة الاقتصادية لـ MySpace. و بعد أن كان ثمن 100 مليون دولار يتداول منذ أيام، [أكدت](http://allthingsd.com/20110628/myspace-sale-process-drags-on-with-an-end-of-week-deal-goal/?p=91261?mod=tweet) مدونة All Things D أن السعر سيكون بخسا و سيتراوح ما بين 20 إلى 30 مليون دولار فقط.
 

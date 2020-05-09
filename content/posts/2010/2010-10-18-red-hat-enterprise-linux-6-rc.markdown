@@ -14,7 +14,7 @@ tags:
 - Red Hat Enterprise Linux
 ---
 
-**[النسخة المرشحة قبل النهائية من نظام Red Hat Enterprise Linux 6 متاحة الآن للاختبار](http://www.it-scoop.com/2010/10/red-hat-enterprise-linux-6-rc/)**
+**[النسخة المرشحة قبل النهائية من نظام Red Hat Enterprise Linux 6 متاحة الآن للاختبار](https://www.it-scoop.com/2010/10/red-hat-enterprise-linux-6-rc/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/red_hat_logo_big.jpg)
-](http://www.it-scoop.com/2010/10/red-hat-enterprise-linux-6-rc/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/red_hat_logo_big.jpg)
+](https://www.it-scoop.com/2010/10/red-hat-enterprise-linux-6-rc/)
 يذكر ان الاصدارة التجريبية الأولى صدرت قبل حوالي 4 أشهر ,وقد قالت الشركة بأن اللإصدارة السادسة النهائية ستكون متاحة قبل نهاية هذا العام.
 
 

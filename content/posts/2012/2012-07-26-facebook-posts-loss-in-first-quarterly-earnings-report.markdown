@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/facebook-mark-zuckerberg.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/facebook-mark-zuckerberg.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/facebook-mark-zuckerberg.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/facebook-mark-zuckerberg.jpg)
 
 
 

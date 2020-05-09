@@ -14,13 +14,13 @@ tags:
 - Mozilla
 ---
 
-[**و أخيرا  صدر Firefox 3.6**](http://www.it-scoop.com/2010/01/%d9%88-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d8%b5%d8%af%d8%b1-firefox-3-6/)
+[**و أخيرا  صدر Firefox 3.6**](https://www.it-scoop.com/2010/01/%d9%88-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d8%b5%d8%af%d8%b1-firefox-3-6/)
 
 
 أطلقت Mozilla الإصدار النهائي من أحدث إصدار للمتصفح Firefox 3.6 و الذي طال انتظاره طويلا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/Firefox.jpg)
-](http://www.it-scoop.com/2010/01/%d9%88-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d8%b5%d8%af%d8%b1-firefox-3-6/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/Firefox.jpg)
+](https://www.it-scoop.com/2010/01/%d9%88-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d8%b5%d8%af%d8%b1-firefox-3-6/)
 
 عرف Firefox 3.6 العديد من الإصدارات التجريبية و العديد من التأجيلات، لكن يفترض أن يكون أسرع من الإصدار 3.5 و به العديد من الميزات الجديدة و التي نذكركم بأهمها:
 

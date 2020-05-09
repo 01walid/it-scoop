@@ -23,7 +23,7 @@ tags:
 
 
 
-![شعار بتديفندر سايف بوكس](http://www.it-scoop.com/wp-content/uploads/2012/04/bitdefender-safebox-e1333560800690.png)
+![شعار بتديفندر سايف بوكس](https://www.it-scoop.com/wp-content/uploads/2012/04/bitdefender-safebox-e1333560800690.png)
 
 
 

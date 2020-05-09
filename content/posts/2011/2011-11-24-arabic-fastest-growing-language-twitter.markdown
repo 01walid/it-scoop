@@ -16,8 +16,8 @@ tags:
 
 
 
-[![Twitter Top Languages October 2011 semiocast](http://www.it-scoop.com/wp-content/uploads/2011/11/Twitter-Top-Languages-October-2011-semiocast.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/Twitter-Top-Languages-October-2011-semiocast.png)
+[![Twitter Top Languages October 2011 semiocast](https://www.it-scoop.com/wp-content/uploads/2011/11/Twitter-Top-Languages-October-2011-semiocast.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/Twitter-Top-Languages-October-2011-semiocast.png)
 
 
 
@@ -42,8 +42,8 @@ tags:
 
 
 
-[![انتشار تويتر في المنطقة العربية بالإضافة إلى إيران وإسرائيل وتركيا](http://www.it-scoop.com/wp-content/uploads/2011/11/twitter-arab-world-Jan-Mars-2011.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/twitter-arab-world-Jan-Mars-2011.png)
+[![انتشار تويتر في المنطقة العربية بالإضافة إلى إيران وإسرائيل وتركيا](https://www.it-scoop.com/wp-content/uploads/2011/11/twitter-arab-world-Jan-Mars-2011.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/twitter-arab-world-Jan-Mars-2011.png)
 
 
 

@@ -11,7 +11,7 @@ tags:
 - Google
 ---
 
-**[سنة حلوة يا Google](http://www.it-scoop.com/2010/09/google-12th-bday/)**
+**[سنة حلوة يا Google](https://www.it-scoop.com/2010/09/google-12th-bday/)**
 
 
 
@@ -19,8 +19,8 @@ tags:
 نعم، إنه عيد ميلاد [Google](http://ar.wikipedia.org/wiki/%D8%AC%D9%88%D8%AC%D9%84) الثاني عشر، والتي تأسست في 21 من أيلول / سبتمبر 1998 كشركة خاصة لعدد قليل من الأشخاص، هاهي اليوم تحتفل بعيد ميلادها الثاني عشر بحجم Google الذي نعرفه اليوم.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/googbday10-hp-1-300x180.jpg)
-](http://www.it-scoop.com/2010/09/google-12th-bday/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/googbday10-hp-1-300x180.jpg)
+](https://www.it-scoop.com/2010/09/google-12th-bday/)
 
 ماذا؟، تقولون تأسست في 21 من أيلول / سبتمبر وهي تحتفل في السابع والعشرين؟، نعم أبت الشركة هذه السنة ولسبب ما إلا الاحتفال في هذا اليوم، ومرات أخرى تحتفل في السابع من أيلول / سبتمبر أو في يوم آخر من أيام أيلول / سبتمبر، والبعض يشير أن يوم الاحتفال حسب الحدث الذي مر عليه Google، فمرة تحتفل بيوم تسجيل نطاق Google.com ومرة بيوم بدأ Larry Page العمل على Google وهكذا دواليك، فأرادت أن تختلف حتى في عيد ميلادها :).
 

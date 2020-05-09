@@ -13,7 +13,7 @@ tags:
 
 أعلنت شركة  Microsoft أن الـ SDK  الخاص بطاولتها المسماة [Surface](http://www.microsoft.com/surface/) أصبح في متناول مشتركي   MSDN
 
-![microsoft-surface](http://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-surface.jpg)
+![microsoft-surface](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-surface.jpg)
 
 
 لم يسبق لـ Microsoft توزيع سوى 1000 نسخة من الـ SDK  للمبرمجين الحاضرين  في Professional Developers Conference  السنة الماضية.

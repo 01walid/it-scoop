@@ -15,8 +15,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/07/Why-we-sleep.jpg)
-](http://www.it-scoop.com/2018/07/why-we-sleep-review/why-we-sleep/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/07/Why-we-sleep.jpg)
+](https://www.it-scoop.com/2018/07/why-we-sleep-review/why-we-sleep/)
 
 
 

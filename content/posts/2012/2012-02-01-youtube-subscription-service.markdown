@@ -20,8 +20,8 @@ tags:
 
 
 
-[![صورة سالار كامانجار المدير التنفيذي ليوتيوب خلال مؤتمر ديف إنتو ميديا (صورة من التقاط موقع ويرد)](http://www.it-scoop.com/wp-content/uploads/2012/02/Salar-Kamangar-youtube-ceo-Dive-IntoMedia-wired-picture.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Salar-Kamangar-youtube-ceo-Dive-IntoMedia-wired-picture.jpg)
+[![صورة سالار كامانجار المدير التنفيذي ليوتيوب خلال مؤتمر ديف إنتو ميديا (صورة من التقاط موقع ويرد)](https://www.it-scoop.com/wp-content/uploads/2012/02/Salar-Kamangar-youtube-ceo-Dive-IntoMedia-wired-picture.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Salar-Kamangar-youtube-ceo-Dive-IntoMedia-wired-picture.jpg)
 
 
 

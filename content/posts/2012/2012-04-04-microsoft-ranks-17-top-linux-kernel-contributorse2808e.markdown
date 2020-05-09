@@ -28,8 +28,8 @@ tags:
 
 
 
-[![صدّق أو لا تُصدّق، Microsoft تحجز مكانا في قائمة أكثر 20 مُساهما في تطوير نواة Linux](http://www.it-scoop.com/wp-content/uploads/2012/04/linux-microsoft.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/linux-microsoft.jpg)
+[![صدّق أو لا تُصدّق، Microsoft تحجز مكانا في قائمة أكثر 20 مُساهما في تطوير نواة Linux](https://www.it-scoop.com/wp-content/uploads/2012/04/linux-microsoft.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/linux-microsoft.jpg)
 
 
 

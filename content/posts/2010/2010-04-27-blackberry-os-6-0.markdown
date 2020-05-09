@@ -13,13 +13,13 @@ tags:
 - RIM
 ---
 
-[**RIM تكشف النقاب عن Blackberry OS 6.0، و تعلن عن إطلاقه في الربع الثالث من العام الحالي**](http://www.it-scoop.com/2010/04/blackberry-os-6-0/)
+[**RIM تكشف النقاب عن Blackberry OS 6.0، و تعلن عن إطلاقه في الربع الثالث من العام الحالي**](https://www.it-scoop.com/2010/04/blackberry-os-6-0/)
 
 
 كشفت RIM الكندية المصنعة لهواتف BlackBerry  عن الإصدار 6.0  من نظام  تشغيل Blackberry OS و الذي من المقرر إطلاقه خلال الربع الثالث من العام  الحالي.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/blackberry_os60.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/04/blackberry_os60.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/blackberry_os60.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/04/blackberry_os60.jpg)
 
 سيتم تدعيم الإصدار القادم من Blackberry OS بمتصفح جديد مبني على محرك Webkit و الذي يتم استعماله حاليا على كل من الـ Android و أجهزة الـ iPhone.
 

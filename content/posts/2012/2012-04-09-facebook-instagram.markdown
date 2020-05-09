@@ -21,8 +21,8 @@ tags:
 
 
 
-[![فيس بوك تُعلن عن شرائها لخدمة Instagram مُقابل مليار دولار](http://www.it-scoop.com/wp-content/uploads/2012/04/Facebook-instagram.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/Facebook-instagram.png)
+[![فيس بوك تُعلن عن شرائها لخدمة Instagram مُقابل مليار دولار](https://www.it-scoop.com/wp-content/uploads/2012/04/Facebook-instagram.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/Facebook-instagram.png)
 
 
 

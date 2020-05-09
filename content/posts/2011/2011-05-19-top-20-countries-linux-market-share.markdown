@@ -13,13 +13,13 @@ tags:
 ---
 
 [**Pingdom تنشر ترتيبا للدول  الأكثر استعمالا لأنظمة Linux**
-](http://www.it-scoop.com/2011/05/top-20-countries-linux-market-share)
+](https://www.it-scoop.com/2011/05/top-20-countries-linux-market-share)
 
 
 كلنا يعلم أن نظام Linux يستحوذ على الحصة الكبرى في العالم بالنسبة لمخدمات الويب والحواسيب العملاقة ,في المقابل الأمر أبعد ما يكون عن ذلك فيما يخص الحواسيب المكتبية، لكن ما هي الدول التي يسجل فيها نظام Linux حضورا قويا ؟ هذا ما أراد موقع [pingdom.com](http://royal.pingdom.com/2011/05/12/the-top-20-strongholds-for-desktop-linux/) الإجابة عنه بالاعتماد على بيانات موقع الإحصائيات  الشهير [Startcounter](http://gs.statcounter.com/)
 
 [![](http://royal.pingdom.com/wp-content/uploads/2011/05/110512-top-20-linux-countries1.png )
-](http://www.it-scoop.com/2011/05/top-20-countries-linux-market-share)
+](https://www.it-scoop.com/2011/05/top-20-countries-linux-market-share)
 
 بالنسبة للدول تأتي كوبا في المقدمة بأعلى نسبة مستخدمين مقدرة بـ 6.33 %, تليها فنزويلا بنسبة 3.70 % ,ثم الأوروغواي بنسبة 3.20 % . و لا تظهر الدول المتقدمة إلا ابتداء من المرتبة العاشرة و التي احتلتها فنلندا بنسبة 2.31 % .
 

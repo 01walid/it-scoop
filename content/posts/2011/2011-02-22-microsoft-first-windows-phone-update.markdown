@@ -13,7 +13,7 @@ tags:
 - Windows Phone 7
 ---
 
-**[Microsoft تطلق تحديثا أوليا لـ Windows Phone 7 تمهيدا لتحديث أهم](http://www.it-scoop.com/2011/02/microsoft-first-windows-phone-update)**
+**[Microsoft تطلق تحديثا أوليا لـ Windows Phone 7 تمهيدا لتحديث أهم](https://www.it-scoop.com/2011/02/microsoft-first-windows-phone-update)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://windowsteamblog.com/cfs-file.ashx/__key/CommunityServer-Components-SiteFiles/windows_2D00_phone_2D00_logo_2D00_305x46_2D00_trans.png)
-](http://www.it-scoop.com/2011/02/microsoft-first-windows-phone-update)
+](https://www.it-scoop.com/2011/02/microsoft-first-windows-phone-update)
 
 
 و يحتوي هذا التحديث تحسينا لآلية التحديث نفسها :D مما سيسهل من مهمة تنصيب التحديثات القادمة :) ، و على رأسها التحديث الأهم القادم خلال شهر مارس و الذي سيكون من ضمن محتوياته خاصية النسخ و اللصق، تحسينا لأداء النظام و تحسينا لآلية الانتقال ما بين التطبيقات.

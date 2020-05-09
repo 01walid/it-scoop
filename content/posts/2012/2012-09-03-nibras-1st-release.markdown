@@ -15,8 +15,8 @@ tags:
 
 أطلق طه زروقي الإصدارة 1.0 من برنامج "**نبراس**"،  ****وهو دليل مصطلحات تقنية فرنسي-عربي موجه إلى طلبة السنة الأولى للشعب التقنية بالجامعة (جامعات المغرب العربي عموما)، ويحتوي على  أهم المصطلحات والمفردات التي قد يصادفها الطالب*ب في البرنامج الدراسي خلال هذه السنة المهمة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/nibras.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/nibras.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/nibras.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/nibras.png)
 
 
 <blockquote>

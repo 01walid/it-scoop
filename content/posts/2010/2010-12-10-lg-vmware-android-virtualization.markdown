@@ -15,7 +15,7 @@ tags:
 - VMware
 ---
 
-**[vmWare تعمل على توفير أنظمة Android وهمية على هواتف LG الذكية](http://www.it-scoop.com/2010/12/lg-vmware-android-virtualization)**
+**[vmWare تعمل على توفير أنظمة Android وهمية على هواتف LG الذكية](https://www.it-scoop.com/2010/12/lg-vmware-android-virtualization)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/lg-vmware.jpg)
-](http://www.it-scoop.com/2010/12/lg-vmware-android-virtualization)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/lg-vmware.jpg)
+](https://www.it-scoop.com/2010/12/lg-vmware-android-virtualization)
 
 
 نعم، أنظمة وهمية (Virual machine)  على هاتف ذكي، حيث يصبح بإمكان مستخدمي هواتف LG التي تعمل على أنظمة Android العمل على نظامين منفصلين تماما في آن واحد، مثلا (مثلما هو موضح في الفيديو المرفقة أسفله) لاستعمال نفس الهاتف للاستعمال الشخصي، و للاستعمال المهني . فمثلا يمكن فصل أرقام الاتصال و جعل الأرقام المهنية في نظام و الأرقام الشخصية في نظام آخر.

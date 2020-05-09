@@ -17,8 +17,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/TRAFFIC-AND-Market-data-report-Ericsson.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/TRAFFIC-AND-Market-data-report-Ericsson.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/TRAFFIC-AND-Market-data-report-Ericsson.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/TRAFFIC-AND-Market-data-report-Ericsson.png)
 
 
 

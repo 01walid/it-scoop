@@ -34,8 +34,8 @@ tags:
 
 
 
-[![global_smartphone_share](http://www.it-scoop.com/wp-content/uploads/2014/01/global_smartphone_share.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/global_smartphone_share.jpg)
+[![global_smartphone_share](https://www.it-scoop.com/wp-content/uploads/2014/01/global_smartphone_share.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/global_smartphone_share.jpg)
 
 
 
@@ -76,8 +76,8 @@ tags:
 
 
 
-[![smartphone_os_share](http://www.it-scoop.com/wp-content/uploads/2014/01/smartphone_os_share.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/smartphone_os_share.jpg)
+[![smartphone_os_share](https://www.it-scoop.com/wp-content/uploads/2014/01/smartphone_os_share.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/smartphone_os_share.jpg)
 
 
 
@@ -113,8 +113,8 @@ tags:
 
 
 
-[![kitkat-adoption](http://www.it-scoop.com/wp-content/uploads/2014/01/kitkat-adoption.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/kitkat-adoption.png)
+[![kitkat-adoption](https://www.it-scoop.com/wp-content/uploads/2014/01/kitkat-adoption.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/kitkat-adoption.png)
 
 
 
@@ -161,8 +161,8 @@ Tencent التي فضلت [الاستثمار](http://www.techinasia.com/tencent
 
 
 
-[![baidu_rom](http://www.it-scoop.com/wp-content/uploads/2014/01/baidu_rom.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/baidu_rom.jpg)
+[![baidu_rom](https://www.it-scoop.com/wp-content/uploads/2014/01/baidu_rom.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/baidu_rom.jpg)
 
 
 
@@ -187,7 +187,7 @@ Tencent التي فضلت [الاستثمار](http://www.techinasia.com/tencent
  	  * 
 
 
-إطلاق إصدار جديد من Webview وPortable Native Client، للمزيد حول الأمر اقرأ المقال التالي: [خواص غير مُعلن عنها في الإصدار ](http://www.it-scoop.com/2013/12/android-kitkat-revolution/)[4.4 من نظام ](http://www.it-scoop.com/2013/12/android-kitkat-revolution/)[Android تُمهّد لثورة في عالم الأجهزة المحمولة](http://www.it-scoop.com/2013/12/android-kitkat-revolution/)
+إطلاق إصدار جديد من Webview وPortable Native Client، للمزيد حول الأمر اقرأ المقال التالي: [خواص غير مُعلن عنها في الإصدار ](https://www.it-scoop.com/2013/12/android-kitkat-revolution/)[4.4 من نظام ](https://www.it-scoop.com/2013/12/android-kitkat-revolution/)[Android تُمهّد لثورة في عالم الأجهزة المحمولة](https://www.it-scoop.com/2013/12/android-kitkat-revolution/)
 
 
 
@@ -201,7 +201,7 @@ Tencent التي فضلت [الاستثمار](http://www.techinasia.com/tencent
 
 
 
-خلاصة القول: Google بصدد تحويل مُتصفح Chrome إلى بيئة لتنفيذ التطبيقات الخفيفة (للمزيد حول الأمر اقرأ المقال:[Google تُحول مُتصفحها إلى بيئة لتنفيذ التطبيقات بفضل تطبيقات ](http://www.it-scoop.com/2013/11/google-chrome-apps/)[Chrome Apps](http://www.it-scoop.com/2013/11/google-chrome-apps/))، وبناء على ذلك لن يكون المُطورون في حاجة إلى تضييع الكثير من الوقت لضمان التنفيذ الحسن لتطبيقاتهم على بيئات مُختلفة، حيث يكفي أن يقوموا بتطوير خدمات أو مُحتويات تكون على هيئة تطبيقات أصيلة Native applications يتم تنفيذها داخل المُتصفح، وهو ما سيُوفر عليهم الكثير من الجهد والوقت. مبدأ تطبيقات الهواتف الغنية أو ما يُعرف بـ **Rich Mobile Application** ليس بالجديد، لكن المُنافسة الصينية الشرسة ستدفع بـ Google إلى مُضاعفة جهودها لتنفيذ تصور لم تقدر Adobe على جعله حقيقة (من خلال تطبيق AIR على نظام أندرويد).
+خلاصة القول: Google بصدد تحويل مُتصفح Chrome إلى بيئة لتنفيذ التطبيقات الخفيفة (للمزيد حول الأمر اقرأ المقال:[Google تُحول مُتصفحها إلى بيئة لتنفيذ التطبيقات بفضل تطبيقات ](https://www.it-scoop.com/2013/11/google-chrome-apps/)[Chrome Apps](https://www.it-scoop.com/2013/11/google-chrome-apps/))، وبناء على ذلك لن يكون المُطورون في حاجة إلى تضييع الكثير من الوقت لضمان التنفيذ الحسن لتطبيقاتهم على بيئات مُختلفة، حيث يكفي أن يقوموا بتطوير خدمات أو مُحتويات تكون على هيئة تطبيقات أصيلة Native applications يتم تنفيذها داخل المُتصفح، وهو ما سيُوفر عليهم الكثير من الجهد والوقت. مبدأ تطبيقات الهواتف الغنية أو ما يُعرف بـ **Rich Mobile Application** ليس بالجديد، لكن المُنافسة الصينية الشرسة ستدفع بـ Google إلى مُضاعفة جهودها لتنفيذ تصور لم تقدر Adobe على جعله حقيقة (من خلال تطبيق AIR على نظام أندرويد).
 
 
 

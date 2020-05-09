@@ -14,7 +14,7 @@ tags:
 - Security
 ---
 
-[**Patch Tuesday لشهر أغسطس سيرقع 22 ثغرة أمنية، ومتصفح IE9 يسجل حضوره من جديد**](http://www.it-scoop.com/2011/08/patch-tuesday-august-2011/)
+[**Patch Tuesday لشهر أغسطس سيرقع 22 ثغرة أمنية، ومتصفح IE9 يسجل حضوره من جديد**](https://www.it-scoop.com/2011/08/patch-tuesday-august-2011/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
-](http://www.it-scoop.com/2011/08/patch-tuesday-august-2011/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
+](https://www.it-scoop.com/2011/08/patch-tuesday-august-2011/)
 
 
 

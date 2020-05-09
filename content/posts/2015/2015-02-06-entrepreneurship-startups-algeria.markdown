@@ -25,8 +25,8 @@ tags:
 
 
 
-[![startup-sign](http://www.it-scoop.com/wp-content/uploads/2015/02/startup-sign.png)
-](http://www.it-scoop.com/wp-content/uploads/2015/02/startup-sign.png)
+[![startup-sign](https://www.it-scoop.com/wp-content/uploads/2015/02/startup-sign.png)
+](https://www.it-scoop.com/wp-content/uploads/2015/02/startup-sign.png)
 
 
 

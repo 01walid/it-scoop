@@ -16,8 +16,8 @@ tags:
 
 
 
-[![مشكل في خدمة FeedBurner تتسبب في تصفير جميع عدادات المتتبعين](http://www.it-scoop.com/wp-content/uploads/2011/12/feedburner.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/feedburner.jpg)
+[![مشكل في خدمة FeedBurner تتسبب في تصفير جميع عدادات المتتبعين](https://www.it-scoop.com/wp-content/uploads/2011/12/feedburner.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/feedburner.jpg)
 
 
 

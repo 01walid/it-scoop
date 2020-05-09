@@ -19,8 +19,8 @@ tags:
 
 
 
-[![تخفيضات RIM لجميع أجهزة PlayBook إلى 299 دولار](http://www.it-scoop.com/wp-content/uploads/2012/01/playbook-299-sale-300x231.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/playbook-299-sale.png)
+[![تخفيضات RIM لجميع أجهزة PlayBook إلى 299 دولار](https://www.it-scoop.com/wp-content/uploads/2012/01/playbook-299-sale-300x231.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/playbook-299-sale.png)
 
 
 
@@ -40,7 +40,7 @@ tags:
 
 
 
-للتذكير فإن RIM تعاني صعوبات جمة خلال الأشهر القليلة الماضية حيث [نزل سعر سهمها إلى أدنى مستوياته خلال 7 سنوات بداية شهر نوفمبر الماضي](http://www.it-scoop.com/2011/11/rim-stock-falls-below-book-value/)، كما أن [نتائجها المالية للربع الثالث من العام الماضي](http://www.rim.com/investors/documents/pdf/pressrelease/2012/Q3_press_release.pdf) سجلت تراجعا حادا في فوائدها إلى 265 مليون دولار، أي ما يمثل تراجعا بنسبة 71% مقارنة بنتائج نفس الفترة من العام الذي يسبقه. وقد راجت [أخبار](http://www.it-scoop.com/2011/12/who-will-eat-rim/) عن رغبة كل من Microsoft و Nokia في شرائها، وذلك بعد أن فقد جهاز PlayBook بعضا من هيبته بعد [اكتشاف ثغرة أمنية فيه](http://www.it-scoop.com/2011/12/playbook-dingleberry/) تمكن المخترقين من التحكم فيه عن بعد.
+للتذكير فإن RIM تعاني صعوبات جمة خلال الأشهر القليلة الماضية حيث [نزل سعر سهمها إلى أدنى مستوياته خلال 7 سنوات بداية شهر نوفمبر الماضي](https://www.it-scoop.com/2011/11/rim-stock-falls-below-book-value/)، كما أن [نتائجها المالية للربع الثالث من العام الماضي](http://www.rim.com/investors/documents/pdf/pressrelease/2012/Q3_press_release.pdf) سجلت تراجعا حادا في فوائدها إلى 265 مليون دولار، أي ما يمثل تراجعا بنسبة 71% مقارنة بنتائج نفس الفترة من العام الذي يسبقه. وقد راجت [أخبار](https://www.it-scoop.com/2011/12/who-will-eat-rim/) عن رغبة كل من Microsoft و Nokia في شرائها، وذلك بعد أن فقد جهاز PlayBook بعضا من هيبته بعد [اكتشاف ثغرة أمنية فيه](https://www.it-scoop.com/2011/12/playbook-dingleberry/) تمكن المخترقين من التحكم فيه عن بعد.
 
 
 

@@ -16,7 +16,7 @@ tags:
 - timeline
 ---
 
-[**Bitdefender تحذر من مخاطر تهدد حماية المستخدم وخصوصيته على  Facebook ما بعد مؤتمر F8**](http://www.it-scoop.com/2011/10/bitdefender-facebook-security-privacy-f8/)
+[**Bitdefender تحذر من مخاطر تهدد حماية المستخدم وخصوصيته على  Facebook ما بعد مؤتمر F8**](https://www.it-scoop.com/2011/10/bitdefender-facebook-security-privacy-f8/)
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/facebook-scam.jpg)
-](http://www.it-scoop.com/2011/10/bitdefender-facebook-security-privacy-f8/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/facebook-scam.jpg)
+](https://www.it-scoop.com/2011/10/bitdefender-facebook-security-privacy-f8/)
 
 
 

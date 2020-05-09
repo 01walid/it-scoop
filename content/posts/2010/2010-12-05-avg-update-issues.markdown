@@ -12,7 +12,7 @@ tags:
 - AVG
 ---
 
-**[AVG ينضم إلى الركب، و يصدر بدوره تحديثا يعطب نظام Windows 7](http://www.it-scoop.com/2010/12/avg-update-issues/)**
+**[AVG ينضم إلى الركب، و يصدر بدوره تحديثا يعطب نظام Windows 7](https://www.it-scoop.com/2010/12/avg-update-issues/)**
 
 
 
@@ -22,10 +22,10 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/avg-logo.gif)
-](http://www.it-scoop.com/2010/12/avg-update-issues/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/avg-logo.gif)
+](https://www.it-scoop.com/2010/12/avg-update-issues/)
 
 
 و الحل الوحيد المقترح حاليا لهذا المشكل هو حذف بعض ملفات الخاصة بالتطبيق، أما و إن كنت قد أعدت تشغيل نظامك، فما عليك إلى أن تضرب كفا بكف :p ثم تتوكل على الله و تقوم بإعادة استعادة النظام من جديد.
 
-ليست هذه المرة الأولى التي يتسبب فيها تحديث مضاد فيروسات لمشاكل في النظام فقد سبق و أن [فعلتها](http://www.it-scoop.com/2010/03/bitdefender-epic-fail-2010/) BitDefender، و قبلها Avast
+ليست هذه المرة الأولى التي يتسبب فيها تحديث مضاد فيروسات لمشاكل في النظام فقد سبق و أن [فعلتها](https://www.it-scoop.com/2010/03/bitdefender-epic-fail-2010/) BitDefender، و قبلها Avast

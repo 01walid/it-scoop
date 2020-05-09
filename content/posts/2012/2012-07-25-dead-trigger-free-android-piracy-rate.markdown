@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/android-piracy.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/android-piracy.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/android-piracy.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/android-piracy.png)
 
 
 

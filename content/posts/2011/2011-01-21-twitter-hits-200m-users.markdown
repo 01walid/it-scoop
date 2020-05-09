@@ -12,13 +12,13 @@ tags:
 - Twitter
 ---
 
-[**Twitter تعلن عن قرب تجاوز عدد مشتركيها حاجز 200 مليون**](http://www.it-scoop.com/2011/01/twitter-hits-200m-users/)
+[**Twitter تعلن عن قرب تجاوز عدد مشتركيها حاجز 200 مليون**](https://www.it-scoop.com/2011/01/twitter-hits-200m-users/)
 
 
 صرحت Twitter لـ Forbes أن عدد مشتركيها شارف على الوصول إلى200 مليون بداية هذا العام، في حين وصل عدد التغريدات اليومية إلى 110 مليون تغريدة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/twitter.png)
-](http://www.it-scoop.com/2011/01/twitter-hits-200m-users/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/twitter.png)
+](https://www.it-scoop.com/2011/01/twitter-hits-200m-users/)
 و تؤكد هذه [التصريحات](http://blogs.forbes.com/oliverchiang/2011/01/19/twitter-hits-nearly-200m-users-110m-tweets-per-day-focuses-on-global-expansion/) النمو المتواصل لـ Twitter و زيادة الاهتمام به حيث أن عدد مستخدميه لم يكن يتجاوز 145 مليون عضو بداية شهر سبتمبر الماضي  في حين كان معدل التغريدات اليومي منتصف شهر ديسمبر الماضي في حدود 95 مليون تغريدة.
 
 و في سعيها لضم مشتركين إضافيين قررت Twitter إطلاق نسخة كورية من الموقع و هذا تجاوبا مع الاهتمام المتزايد من مستخدمي اللغة الكورية حيث عرف التغريدات المكتوبة بهذه اللغة زيادة قدرت بـ 3400% خلال العام الماضي.

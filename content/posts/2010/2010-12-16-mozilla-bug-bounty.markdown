@@ -15,17 +15,17 @@ tags:
 - vulnerability
 ---
 
-**[Mozilla تمنح جوائز مالية مقابل اكتشاف الثغرات في تطبيقات الويب الخاصة بها](http://www.it-scoop.com/2010/12/mozilla-bug-bounty/)**
+**[Mozilla تمنح جوائز مالية مقابل اكتشاف الثغرات في تطبيقات الويب الخاصة بها](https://www.it-scoop.com/2010/12/mozilla-bug-bounty/)**
 
 
 في سعيها المتواصل لجعل منتجاتها أكثر أمانا، لحقت مؤسسة Mozilla بـ Google [بإعلانها](http://www.mozilla.org/security/bug-bounty.html) عن جوائز مقابل التبليغ عن ثغرات في تطبيقات الويب الخاصة بها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
-](http://www.it-scoop.com/2010/12/mozilla-bug-bounty/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+](https://www.it-scoop.com/2010/12/mozilla-bug-bounty/)
 
 تتراوح الجوائز بين 500$ للتبليغ عن الثغرات الخطيرة إلى 3,000 $ بالنسبة للثغرات الحرجة للغاية إضافة لقميص Mozilla T-shirt .
 
-[](http://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+[](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
 
 وأما المواقع التي تشملها الجوائز فهي :bugzilla.mozilla.org  , addons.mozilla.org , services.addons.mozilla.org
 

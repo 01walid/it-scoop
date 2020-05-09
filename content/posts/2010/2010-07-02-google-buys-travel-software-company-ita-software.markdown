@@ -13,13 +13,13 @@ tags:
 - ITA Software
 ---
 
-[**Google تشتري ITA  software المتخصصة في خدمات الأسفار عبر الإنترنت**](http://www.it-scoop.com/2010/07/Google-buys-travel-software-company-ITA-software)
+[**Google تشتري ITA  software المتخصصة في خدمات الأسفار عبر الإنترنت**](https://www.it-scoop.com/2010/07/Google-buys-travel-software-company-ITA-software)
 
 
 أعلنت Google على مدونتها الخاصة التوصل إلى اتفاق لشراء شركة  ITA software  المتخصصة في الأسفار و بيانات الرحلات و الأسعار عبر الإنترنت في صفقة قدرت قيمتها بـ 700 مليون دولار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/ita-software.jpg)
-](http://www.it-scoop.com/2010/07/Google-buys-travel-software-company-ITA-software)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/ita-software.jpg)
+](https://www.it-scoop.com/2010/07/Google-buys-travel-software-company-ITA-software)
 
 تقدم ITA  خدمات تساعد المستخدمين في اختيار أفضل خطط السفر و الأسعار، حيث –حسب ما أشارت إليه Google- فإن مهمة البحث عن الرحلة المناسبة بالسعر المناسب ليس بالأمر الهين.
 

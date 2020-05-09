@@ -14,13 +14,13 @@ tags:
 - spam
 ---
 
-[**Facebook يرفع دعاوى قضائية ضد الـ Spammers**](http://www.it-scoop.com/2009/12/facebook-sued-spammers/)
+[**Facebook يرفع دعاوى قضائية ضد الـ Spammers**](https://www.it-scoop.com/2009/12/facebook-sued-spammers/)
 
 
 قام موقع facebook برفع دعوى قضائية ضد 3 أشخاص بتهمة استخدام تقنيات phishing للوصول إلى حسابات المستخدمين ضمن الموقع و استخدامها لإرسال رسائل spam.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/facebook-logo-300x112.jpg)
-](http://www.it-scoop.com/2009/12/facebook-sued-spammers/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/facebook-logo-300x112.jpg)
+](https://www.it-scoop.com/2009/12/facebook-sued-spammers/)
 
 تم طرح هذه القضية في المحكمة الفيدرالية في ولاية كاليفورنيا ضد كل من المتهمين  Jeremi Fisherو philip Porembski  وRyan Shimeall و الشركات المساهمة معهم  والذين اتهموا بالقيام بأربع حملات على الأقل لإرسال رسائل Spam في السنتين الماضيتين و التي شكلت ثلاث أرباع رسائل Spam في الموقع حيث ظهرت في الحملة الأخيرة رسالة مزيفة تعرض مقطع فيديو يطلب من المستخدمين الانضمام إلى حملة "كاذبة " لـ Google  تدعي أنه يمكن للمستخدمين جني الأموال من خلالها.
 

@@ -20,8 +20,8 @@ tags:
 
 
 
-[![% من مطوري BlackBerry تجاوزت أرباحهم 100 ألف دولار](http://www.it-scoop.com/wp-content/uploads/2012/02/Rim-DevCon-13-percent-blackberry-apps-make-over-100000.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Rim-DevCon-13-percent-blackberry-apps-make-over-100000.jpg) [جاء](http://www.pocketgamer.biz/r/PG.Biz/RIM+news/news.asp?c=37610) على لسان Heins Thorsten المدير التنفيذي الجديد:
+[![% من مطوري BlackBerry تجاوزت أرباحهم 100 ألف دولار](https://www.it-scoop.com/wp-content/uploads/2012/02/Rim-DevCon-13-percent-blackberry-apps-make-over-100000.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Rim-DevCon-13-percent-blackberry-apps-make-over-100000.jpg) [جاء](http://www.pocketgamer.biz/r/PG.Biz/RIM+news/news.asp?c=37610) على لسان Heins Thorsten المدير التنفيذي الجديد:
 
 
 

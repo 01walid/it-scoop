@@ -20,13 +20,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
 
 
 
 
-بداية وبعد أن نشر Kim Dotcom [هذه التغريدة](https://twitter.com/KimDotcom/statuses/234802132166000642) اعتقد الجميع بأن الأمر يتعلق بخدمة [Megabox](http://www.it-scoop.com/2012/01/megaupload-shutdown/) والذي كان من شأنها أن يحدث ثورة في عالم الموسيقى وبذلك بتوفيرها بشكل يجعل الفنانين المنتجين لها هم المستفيدين الكبار من مبيعاتها، وهو ما قد يكون السبب الرئيسي في إيقاف الموقع ومؤسسه بداية السنة الجارية.
+بداية وبعد أن نشر Kim Dotcom [هذه التغريدة](https://twitter.com/KimDotcom/statuses/234802132166000642) اعتقد الجميع بأن الأمر يتعلق بخدمة [Megabox](https://www.it-scoop.com/2012/01/megaupload-shutdown/) والذي كان من شأنها أن يحدث ثورة في عالم الموسيقى وبذلك بتوفيرها بشكل يجعل الفنانين المنتجين لها هم المستفيدين الكبار من مبيعاتها، وهو ما قد يكون السبب الرئيسي في إيقاف الموقع ومؤسسه بداية السنة الجارية.
 
 
 
@@ -56,4 +56,4 @@ tags:
 اقرأ أيضا:
 
 
-[ما هو السبب الحقيقي وراء إيقاف MegaUpload ؟](http://www.it-scoop.com/2012/01/megaupload-shutdown/)
+[ما هو السبب الحقيقي وراء إيقاف MegaUpload ؟](https://www.it-scoop.com/2012/01/megaupload-shutdown/)

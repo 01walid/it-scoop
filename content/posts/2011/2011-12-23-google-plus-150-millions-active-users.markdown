@@ -19,8 +19,8 @@ tags:
 
 
 
-[![مقارنة ما بين عدد المستخدمين النشطين للشبكات الاجتماعية الرئيسية](http://www.it-scoop.com/wp-content/uploads/2011/12/Social-Networks-stat-active-users.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/Social-Networks-stat-active-users.jpg)
+[![مقارنة ما بين عدد المستخدمين النشطين للشبكات الاجتماعية الرئيسية](https://www.it-scoop.com/wp-content/uploads/2011/12/Social-Networks-stat-active-users.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/Social-Networks-stat-active-users.jpg)
 
 
 

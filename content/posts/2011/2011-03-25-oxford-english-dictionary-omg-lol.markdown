@@ -15,7 +15,7 @@ tags:
 - Oxford English Dictionary
 ---
 
-[**LOL و OMG يدخلان قاموس اللغة الانجليزية :p**](http://www.it-scoop.com/2011/03/oxford-english-dictionary-omg-lol/)
+[**LOL و OMG يدخلان قاموس اللغة الانجليزية :p**](https://www.it-scoop.com/2011/03/oxford-english-dictionary-omg-lol/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 صدق أو لا تصدق، فإن بحثت في قاموس Oxford English Dictionary للغة الانجليزية عن بعض المصطلحات و الاختصارات "الغريبة" كـ OMG و LOL فسيعطيك القاموس شرحا لهما، حيث تمت إضافة العديد من هذه الاختصارات إلى القاموس في تحديث شهر مارس الجاري.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/funny-Keyboard.jpg)
-](http://www.it-scoop.com/2011/03/oxford-english-dictionary-omg-lol/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/funny-Keyboard.jpg)
+](https://www.it-scoop.com/2011/03/oxford-english-dictionary-omg-lol/)
 
 هذا ما [أعلن عنه](http://www.oed.com/public/latest/latest-update/#new) موقع القاموس، و تشمل القائمة زيادة على OMG التي تعني Oh my God و LOL التي تعني laughing out loud، اختصارات أخرى تستعمل عادة في التخاطب الالكتروني عبر تطبيقات الدردشة أو عبر رسائل الـ SMS كـ FYI (المقصود بها for your information) و BFF (المقصود بها best friends forever) و IMHO  (التي تعني in my humble opinion).
 

@@ -15,14 +15,14 @@ tags:
 - Security
 ---
 
-[**Microsoft تحذر من Fake-antivirus  شبيه ببرنامجها Microsoft Security Essentials**](http://www.it-scoop.com/2010/03/microsoft-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-fake-antivirus-%d8%b4%d8%a8%d9%8a%d9%87-%d8%a8%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%87%d8%a7-microsoft-security-essentials/)
+[**Microsoft تحذر من Fake-antivirus  شبيه ببرنامجها Microsoft Security Essentials**](https://www.it-scoop.com/2010/03/microsoft-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-fake-antivirus-%d8%b4%d8%a8%d9%8a%d9%87-%d8%a8%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%87%d8%a7-microsoft-security-essentials/)
 
 
 قامت Microsoft بعمل نشرة تحذيرية من مكافح فيروسات مزيف Fake-antivirus   شبيه ببرنامجها Microsoft Security Essentials و الذي يقوم بتنصيب برامج ضارة على أجهزة الضحايا.
 
 
 [**![](http://www.microsoft.com/security/portal/blog-images/fakeinit_activate_dialog.png)
-**](http://www.it-scoop.com/2010/03/microsoft-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-fake-antivirus-%d8%b4%d8%a8%d9%8a%d9%87-%d8%a8%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%87%d8%a7-microsoft-security-essentials/)
+**](https://www.it-scoop.com/2010/03/microsoft-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-fake-antivirus-%d8%b4%d8%a8%d9%8a%d9%87-%d8%a8%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac%d9%87%d8%a7-microsoft-security-essentials/)
 
 
 حسب Microsoft فإن الـ Fake-antivirus يقوم بتنصيب الـ Trojan المسمى Win32/Fakeinit و الذي يظهر رسالة مفادها أن الجهاز مصاب و أنه يتوجب عليه شراء الإصدار الكامل من البرنامج لتنظيف الجهاز.

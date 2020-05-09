@@ -29,7 +29,7 @@ tags:
 
 
 
-**[هدية لقراء المجلة التقنية: استضافة و اسم نطاق لمدة سنة](http://www.it-scoop.com/2011/03/it-scoop-gift/)**
+**[هدية لقراء المجلة التقنية: استضافة و اسم نطاق لمدة سنة](https://www.it-scoop.com/2011/03/it-scoop-gift/)**
 
 
 كما تعلمون فقد فازت المجلة التقنية في مسابقة أرابسيك كأفضل مدونة إخبارية حسب اختيار الجمهور، و من ضمن ما حصلت عليه -كجائزة- استضافة و اسم نطاق لمدة سنة.
@@ -41,8 +41,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/domain_name.jpg)
-](http://www.it-scoop.com/2011/03/it-scoop-gift/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/domain_name.jpg)
+](https://www.it-scoop.com/2011/03/it-scoop-gift/)
 
 
 

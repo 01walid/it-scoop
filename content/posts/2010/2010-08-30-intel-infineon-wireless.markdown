@@ -12,7 +12,7 @@ tags:
 - Intel
 ---
 
-**[Intel تشتري فرع الـ wireless  الخاص بـ Infineon](http://www.it-scoop.com/2010/08/intel-infineon-wireless/)**
+**[Intel تشتري فرع الـ wireless  الخاص بـ Infineon](https://www.it-scoop.com/2010/08/intel-infineon-wireless/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Intel-Infineon.jpg)
-](http://www.it-scoop.com/2010/08/intel-infineon-wireless/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Intel-Infineon.jpg)
+](https://www.it-scoop.com/2010/08/intel-infineon-wireless/)
 
 
 

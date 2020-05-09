@@ -15,7 +15,7 @@ tags:
 - iPhone4
 ---
 
-**[مشكل آخر يضاف إلى قائمة مشاكل iPhone 4: سماعة الـ Bluetooth](http://www.it-scoop.com/2010/07/iphone-4-bluetooth-issues/ )**
+**[مشكل آخر يضاف إلى قائمة مشاكل iPhone 4: سماعة الـ Bluetooth](https://www.it-scoop.com/2010/07/iphone-4-bluetooth-issues/ )**
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://i.zdnet.com/blogs/jawbone-icon-table-300.jpg)
-](http://www.it-scoop.com/2010/07/iphone-4-bluetooth-issues/ )
+](https://www.it-scoop.com/2010/07/iphone-4-bluetooth-issues/ )
 
 
 يقول Jason D. O'Grady أحد المدونين على موقع ZDNet بأنه لاحظ أن سماعة الرأس التي يتم من خلالها إجراء مكالمات هاتفية بدون حمل الهاتف في اليد طوال الوقت والتي تعمل من خلال شبكة Bluetooth المقترنة بين السماعة والهاتف، تعمل بشكل سئ جداً مع iPhone 4.

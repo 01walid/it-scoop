@@ -19,13 +19,13 @@ tags:
 إثارة التشويق على الموقع الرسمي لـ **Ubuntu** أصبح عادة لدى **Canonical**. فيبدو أنها تفضل استغلال هذا العنصر مع قوة الويب عوض إقامة المؤتمرات الفاخرة في الترويج لمنتجاتها، فكل ما تحتاج إليه هو عد تنازلي أنيق مع تلميحة أو لغز يثير فضولك.
 
 
-[![ubuntu-new-countdown](http://www.it-scoop.com/wp-content/uploads/2013/07/ubuntu-new-countdown.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/ubuntu-new-countdown.jpg)
+[![ubuntu-new-countdown](https://www.it-scoop.com/wp-content/uploads/2013/07/ubuntu-new-countdown.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/ubuntu-new-countdown.jpg)
 
 
 
 
-العد التنازلي هذه المرة وعلى غرار [Ubuntu touch](http://www.it-scoop.com/2013/01/ubuntu-phone-os/) و [Ubuntu for tablet](http://www.it-scoop.com/tag/ubuntu-for-phones/) جاء بالأيام وليس بالساعات، طبعا بدأت التحاليل تظهر على الويب، منها المنطقي ومنها الساخر، ومنها ... خارج مجال التغطية.
+العد التنازلي هذه المرة وعلى غرار [Ubuntu touch](https://www.it-scoop.com/2013/01/ubuntu-phone-os/) و [Ubuntu for tablet](https://www.it-scoop.com/tag/ubuntu-for-phones/) جاء بالأيام وليس بالساعات، طبعا بدأت التحاليل تظهر على الويب، منها المنطقي ومنها الساخر، ومنها ... خارج مجال التغطية.
 
 بالنظر إلى التلميحة، فإن هناك 3 كلمات مهمة، **الخط** الذي **يلتقي** فيه **سطحان**. وبالتالي فإن هناك من يفسرها على أنها سطح معصم يدك حين يلتقي بالسطح السفلي للساعة، وبالتالي فإن Canonical تلمح إلى ساعة ذكية SmartWatch؟ وهناك من يقول أنه يجب علينا النظر إلى أشكال الهواتف الذكية والحواسيب اللوحية، فهي مسطحة، فربما قد وجدت Canonical أخيرا مصنّعا رسميا لنظامها؟ آخرون ممن بهم هوس Microsoft يقولون ربما هي قابلية تثبيت نظام Ubuntu touch على لوحي Surface.
 
@@ -39,8 +39,8 @@ tags:
 <blockquote>In any geometric solid that is composed of flat surfaces (faces), an edge is a line segment where two such surfaces meet.</blockquote>
 
 
-[![cubeparts](http://www.it-scoop.com/wp-content/uploads/2013/07/cubeparts.gif)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/cubeparts.gif)
+[![cubeparts](https://www.it-scoop.com/wp-content/uploads/2013/07/cubeparts.gif)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/cubeparts.gif)
 
 
 
@@ -55,8 +55,8 @@ tags:
 وكبرهان آخر طريف هذا ما يوجد على شفرة الصفحة:
 
 
-[![html-source-code](http://www.it-scoop.com/wp-content/uploads/2013/07/html-source-code.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/html-source-code.jpg)أنظر أيضا في الشفرة (سطر 151) إلى itemtype يشير إلى [هذا](http://schema.org/Product)، أي أنه **منتوج** وتعريفه: أي شيء متاح للبيع. وهذا قد يعني أن Cannonical وجدت مصنعا لمنتوجها.
+[![html-source-code](https://www.it-scoop.com/wp-content/uploads/2013/07/html-source-code.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/html-source-code.jpg)أنظر أيضا في الشفرة (سطر 151) إلى itemtype يشير إلى [هذا](http://schema.org/Product)، أي أنه **منتوج** وتعريفه: أي شيء متاح للبيع. وهذا قد يعني أن Cannonical وجدت مصنعا لمنتوجها.
 
 
 حسنا أطلنا الحديث لنخلص إلى أمرين شبه مؤكدين: الأمر يخص Ubuntu Edge وهو منتوج للبيع من طرف مصنع رسمي.

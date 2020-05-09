@@ -17,7 +17,7 @@ tags:
 - Windows Mobile 6.5
 ---
 
-[**Microsoft تطلق Windows Embedded Handheld نظام آخر للهواتف الذكية**](http://www.it-scoop.com/2010/06/Microsoft-unveils-Windows-Embedded-Handheld‎)
+[**Microsoft تطلق Windows Embedded Handheld نظام آخر للهواتف الذكية**](https://www.it-scoop.com/2010/06/Microsoft-unveils-Windows-Embedded-Handheld‎)
 
 
 
@@ -25,7 +25,7 @@ tags:
 اغتنمت Microsoft الحدث الخاص بهاتف Motorola ES400 لتعلن على لسان مديرها العام Steve Ballmer عن نظام جديد للهواتف الموجه للشركات و المسمى Windows Embedded Handheld.
 
 [![](http://www.microsoft.com/presspass/images/features/2010/06-17MobileStrat_lg.jpg)
-](http://www.it-scoop.com/2010/06/Microsoft-unveils-Windows-Embedded-Handheld‎)
+](https://www.it-scoop.com/2010/06/Microsoft-unveils-Windows-Embedded-Handheld‎)
 
 حاليا ، في حوزة Microsoft نظامان مشابهان: Windows Phone 7 الخاص بالهواتف الذكية، و Embedded Compact 7 الذي يعتبر نسخة من نظام Windows 7 الموجه للاستعمال كـ Embedded system في مختلف الأجهزة الحديثة.
 

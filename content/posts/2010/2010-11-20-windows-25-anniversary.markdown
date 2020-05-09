@@ -12,7 +12,7 @@ tags:
 - Windows
 ---
 
-**[أبصر النور في مثل هذا اليوم... قبل ربع قرن... نظام Windows](http://www.it-scoop.com/2010/11/windows-25-anniversary/)**
+**[أبصر النور في مثل هذا اليوم... قبل ربع قرن... نظام Windows](https://www.it-scoop.com/2010/11/windows-25-anniversary/)**
 
 
 
@@ -23,13 +23,13 @@ tags:
 
 
 [![](http://upload.wikimedia.org/wikipedia/en/4/4e/Windows1.0.png)
-](http://www.it-scoop.com/2010/11/windows-25-anniversary/)
+](https://www.it-scoop.com/2010/11/windows-25-anniversary/)
 
 
 ثم توالت بعدها الإصدارات 1.02 في مايو 1986، 1.03 في أغسطس من نفس العام، و خدم الفرع 1.X الإصدار 1.05 في أبريل من 1987.
 
 و لحقتها بعدها الإصدارات : 3.11، Windows 95،  98، ME، 2000 فـ XP و Vista و أخيرا نظام Seven.
 
-يسيطر نظام Windows  حاليا على سوق أنظمة التشغيل الموجهة للحواسيب الشخصية حيث أنه لا يزال [يحظى بـ 91% من حجم السوق العالمي](http://www.it-scoop.com/2010/09/net-applications-ios-passes-linux/)
+يسيطر نظام Windows  حاليا على سوق أنظمة التشغيل الموجهة للحواسيب الشخصية حيث أنه لا يزال [يحظى بـ 91% من حجم السوق العالمي](https://www.it-scoop.com/2010/09/net-applications-ios-passes-linux/)
 
 في رأيك، أي إصدار  من أنظمة Windows يعتبر الأنجح ؟ و أيها يعتبر الأسوأ ؟

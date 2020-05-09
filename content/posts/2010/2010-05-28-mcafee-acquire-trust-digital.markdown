@@ -14,13 +14,13 @@ tags:
 - Trust Digital
 ---
 
-[**McAfee تشتري شركة Trust Digital المتخصصة في حماية الهواتف**](http://www.it-scoop.com/2010/05/mcafee-acquire-trust-digital/)
+[**McAfee تشتري شركة Trust Digital المتخصصة في حماية الهواتف**](https://www.it-scoop.com/2010/05/mcafee-acquire-trust-digital/)
 
 
 أعلنت شركة McAfee أنها ستشتري شركة Trust Digital المتخصصة في مجال حماية الهواتف و هذا في صفقة لم يتم الإعلان بعد عن قيمتها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/Trust_Digital_Logo.gif)
-](http://www.it-scoop.com/2010/05/mcafee-acquire-trust-digital/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Trust_Digital_Logo.gif)
+](https://www.it-scoop.com/2010/05/mcafee-acquire-trust-digital/)
 
 تتخصص Trust Digital في حلول حماية الهواتف  داخل الشركات و خاصة التي تقوم بربط أجهزة موظفيها مع أنظمتها الداخلية،  وهذا لمختلف أنظمة تشغيل الهواتف  كـ Windows Mobile، WebOS، Android و نظام iPhone OS.
 

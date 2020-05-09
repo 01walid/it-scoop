@@ -11,7 +11,7 @@ tags:
 - Jolicloud
 ---
 
-**[إطلاق الإصدار 1.0  من نظام Jolicloud  لأجهزة الـ Netbook الأسبوع القادم](http://www.it-scoop.com/2010/07/jolicloud-1-0-coming-next-week)**
+**[إطلاق الإصدار 1.0  من نظام Jolicloud  لأجهزة الـ Netbook الأسبوع القادم](https://www.it-scoop.com/2010/07/jolicloud-1-0-coming-next-week)**
 
 
 
@@ -22,7 +22,7 @@ tags:
 
 
 [![](http://www.jolicloud.com/blog/wp-content/uploads/2010/07/jolicloud-launcher.png  )
-](http://www.it-scoop.com/2010/07/jolicloud-1-0-coming-next-week)
+](https://www.it-scoop.com/2010/07/jolicloud-1-0-coming-next-week)
 
 
 الإصدار الجديد و الذي عرف إعادة كتابة له بالـ HTML5 شهد بعض الترقيعات المكتشفة منذ إطلاق الإصدار Beta من النظام و الذي حمل الاسم Robby.

@@ -16,13 +16,13 @@ tags:
 - Nokia
 ---
 
-[**Nokia و Intel تدمجان نظامي  Maemo و Mobilin لإنتاج نظام Meego  المجاني و مفتوح المصدر**](http://www.it-scoop.com/2010/02/nokia-%d9%88-intel-%d8%aa%d8%af%d9%85%d8%ac%d8%a7%d9%86-%d9%86%d8%b8%d8%a7%d9%85%d9%8a-maemo-%d9%88-mobilin-%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%86%d8%b8%d8%a7%d9%85-meego-%d8%a7%d9%84%d9%85/)
+[**Nokia و Intel تدمجان نظامي  Maemo و Mobilin لإنتاج نظام Meego  المجاني و مفتوح المصدر**](https://www.it-scoop.com/2010/02/nokia-%d9%88-intel-%d8%aa%d8%af%d9%85%d8%ac%d8%a7%d9%86-%d9%86%d8%b8%d8%a7%d9%85%d9%8a-maemo-%d9%88-mobilin-%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%86%d8%b8%d8%a7%d9%85-meego-%d8%a7%d9%84%d9%85/)
 
 
 كما أن كثرة أنظمة تشغيل الهواتف الذكية تقتل أنظمة التشغيل، فإن قلتها باتحادها تقويها أكثر فأكثر، و هذا ما انتهجته كل من Nokia و Intel بإعلانهما دمج نظاميهما Maemo المنتج من طرف الأولى و Mobilin المنتج من طرف الثاني لإنتاج نظام موحد تحت اسم Meego.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/intel_nokia_collaboration.jpg)
-](http://www.it-scoop.com/2010/02/nokia-%d9%88-intel-%d8%aa%d8%af%d9%85%d8%ac%d8%a7%d9%86-%d9%86%d8%b8%d8%a7%d9%85%d9%8a-maemo-%d9%88-mobilin-%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%86%d8%b8%d8%a7%d9%85-meego-%d8%a7%d9%84%d9%85/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/intel_nokia_collaboration.jpg)
+](https://www.it-scoop.com/2010/02/nokia-%d9%88-intel-%d8%aa%d8%af%d9%85%d8%ac%d8%a7%d9%86-%d9%86%d8%b8%d8%a7%d9%85%d9%8a-maemo-%d9%88-mobilin-%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac-%d9%86%d8%b8%d8%a7%d9%85-meego-%d8%a7%d9%84%d9%85/)
 
 النظام الجديد و الذي سيكون مجانيا و مفتوح المصدر، لن يكون موجها للهواتف فقط كما كان عليه الحال مع Meamo أو للـ Netbooks فقط كما كان عليه الحال مع Mobilin و إنما يتعداها إلى كل من الأجهزة اللوحية، و الـ SmartBooks و الـ PocketPCs و حتى أجهزة الحاسوب المدمجة مع السيارات الحديثة.
 

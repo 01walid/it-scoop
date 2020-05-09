@@ -15,13 +15,13 @@ tags:
 - Yahoo
 ---
 
-بعد أن [طالبت](http://www.it-scoop.com/2012/02/facebooks-yahoo-patent-problem-2/) بدفع أموال نظير استغلال براءات اختراعها، أقدمت شركة  Yahoo يوم أمس على رفع دعوى قضائية في محكمة كاليفورنيا ضد نظريتها Facebook متهمة إياها بالاعتداء على بعض براءات الاختراع الخاصة بـها، في خطوة تبدو منطقية خاصة وأن الأولى تُعاني من مشاكل عدة، والثانية تُحضر للدخول إلى البورصة.
+بعد أن [طالبت](https://www.it-scoop.com/2012/02/facebooks-yahoo-patent-problem-2/) بدفع أموال نظير استغلال براءات اختراعها، أقدمت شركة  Yahoo يوم أمس على رفع دعوى قضائية في محكمة كاليفورنيا ضد نظريتها Facebook متهمة إياها بالاعتداء على بعض براءات الاختراع الخاصة بـها، في خطوة تبدو منطقية خاصة وأن الأولى تُعاني من مشاكل عدة، والثانية تُحضر للدخول إلى البورصة.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/facebook-yahoo.jpeg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/facebook-yahoo.jpeg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/facebook-yahoo.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/facebook-yahoo.jpeg)
 
 
 

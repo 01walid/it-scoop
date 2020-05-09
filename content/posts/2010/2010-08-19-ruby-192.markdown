@@ -11,7 +11,7 @@ tags:
 - Ruby
 ---
 
-**[الإصدار 1.9.2  من لغة البرمجة Ruby يبصر النور]( http://www.it-scoop.com/2010/08/ruby-192/ )**
+**[الإصدار 1.9.2  من لغة البرمجة Ruby يبصر النور]( https://www.it-scoop.com/2010/08/ruby-192/ )**
 
 
 
@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/ruby-logo.png)
-]( http://www.it-scoop.com/2010/08/ruby-192/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/ruby-logo.png)
+]( https://www.it-scoop.com/2010/08/ruby-192/ )
 
 
 أهم ما جاء به هذا الإصدار نجد إضافة العديد من الدوال الجديدة، API جديدة للـ Sockets تدعم الـ IPv6، صنف جديد لإنتاج الأرقام العشوائية إلى جانب إعادة كتابة للصنف Time حيث تم تصحيح علة سنة 2038 .

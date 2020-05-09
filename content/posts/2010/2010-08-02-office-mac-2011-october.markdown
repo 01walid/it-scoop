@@ -15,7 +15,7 @@ tags:
 - Office 2011
 ---
 
-**[Microsoft  تقرر إطلاق Office 2011 خلال شهر أكتوبر القادم](http://www.it-scoop.com/2010/08/office-mac-2011-october)**
+**[Microsoft  تقرر إطلاق Office 2011 خلال شهر أكتوبر القادم](https://www.it-scoop.com/2010/08/office-mac-2011-october)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/OfficeMac-logo.png)
-](http://www.it-scoop.com/2010/08/office-mac-2011-october)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/OfficeMac-logo.png)
+](https://www.it-scoop.com/2010/08/office-mac-2011-october)
 
 
 ستصدر الحزمة المكتبية في إصدارتين: Home and Student و Home and Business و اللتان تحتويان على كل من تطبيقات Word ،PowerPoint Excel و Messenger. و تختلف Home and Business عن  Home and Student باحتوائها على تطبيق Outlook و الذي يسجل أول دخول له في الحزمة.

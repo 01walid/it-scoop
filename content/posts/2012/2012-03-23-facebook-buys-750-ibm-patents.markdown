@@ -16,13 +16,13 @@ tags:
 - فيس بوك
 ---
 
-يبدو أن [مُقاضاة Yahoo لها](http://www.it-scoop.com/2012/03/facebooks-yahoo-patent-problem-3/) قد أسال لها العرق البارد، حيث أشار [موقع  Bloomberg](http://www.bloomberg.com/news/2012-03-22/facebook-is-said-to-buy-750-ibm-patents-to-boost-defenses.html) إلى قيام فيس بوك بشراء 750 براءة اختراع من عند IBM، والتي تشمل عدة مجالات مختلفة.
+يبدو أن [مُقاضاة Yahoo لها](https://www.it-scoop.com/2012/03/facebooks-yahoo-patent-problem-3/) قد أسال لها العرق البارد، حيث أشار [موقع  Bloomberg](http://www.bloomberg.com/news/2012-03-22/facebook-is-said-to-buy-750-ibm-patents-to-boost-defenses.html) إلى قيام فيس بوك بشراء 750 براءة اختراع من عند IBM، والتي تشمل عدة مجالات مختلفة.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/facebook.jpeg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/facebook.jpeg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/facebook.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/facebook.jpeg)
 
 
 
@@ -42,7 +42,7 @@ tags:
 
 
 
-شراء براءات الاختراع أصبحت ضرورة مُلحة للكثير من الشركات التقنية، ليس بغرض استخدامها فحسب، وإنما للتحصن من [هجمات الشركات التقنية الأخرى](http://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)، وقد تكون إحدى أضخم هذه العمليات تلك التي أفضت إلى شراء [Google ما لا يقل عن 6000 براءة اختراع دفعت مقابلها 900 مليون دولار](http://www.it-scoop.com/2011/04/google-6000-patents-900-millions/).
+شراء براءات الاختراع أصبحت ضرورة مُلحة للكثير من الشركات التقنية، ليس بغرض استخدامها فحسب، وإنما للتحصن من [هجمات الشركات التقنية الأخرى](https://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)، وقد تكون إحدى أضخم هذه العمليات تلك التي أفضت إلى شراء [Google ما لا يقل عن 6000 براءة اختراع دفعت مقابلها 900 مليون دولار](https://www.it-scoop.com/2011/04/google-6000-patents-900-millions/).
 
 
 

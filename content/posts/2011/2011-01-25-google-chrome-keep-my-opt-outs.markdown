@@ -16,13 +16,13 @@ tags:
 - Keep My Opt-Outs
 ---
 
-**[Google تطلق بدورها Keep My Opt-Outs لحماية مستخدمي Chrome من الإعلانات الموجهة](http://www.it-scoop.com/2011/01/google-chrome-keep-my-opt-outs/)**
+**[Google تطلق بدورها Keep My Opt-Outs لحماية مستخدمي Chrome من الإعلانات الموجهة](https://www.it-scoop.com/2011/01/google-chrome-keep-my-opt-outs/)**
 
 
-بعد أن أطلقت Mozilla مشروعها [Do Not Track](http://www.it-scoop.com/2011/01/mozilla-do-not-track/)، [أطلقت](http://googlepublicpolicy.blogspot.com/2011/01/keep-your-opt-outs.html) Google بدورها إضافة Keep My Opt-Outs و التي تهدف أيضا إلى حماية مستخدمي متصفحها من الإعلانات الموجهة.
+بعد أن أطلقت Mozilla مشروعها [Do Not Track](https://www.it-scoop.com/2011/01/mozilla-do-not-track/)، [أطلقت](http://googlepublicpolicy.blogspot.com/2011/01/keep-your-opt-outs.html) Google بدورها إضافة Keep My Opt-Outs و التي تهدف أيضا إلى حماية مستخدمي متصفحها من الإعلانات الموجهة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/chrome.jpg)
-](http://www.it-scoop.com/2011/01/google-chrome-keep-my-opt-outs/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/chrome.jpg)
+](https://www.it-scoop.com/2011/01/google-chrome-keep-my-opt-outs/)
 
 هدف كلا المشروعين واحد لكن لكل منهما طريقة تنفيذ مختلفة، حيث تعتمد Mozilla مبدأ إرسال ترويسات HTTP إلى المواقع المعلنة تخبرهم أن المستخدم لا يود أن يُسَتهدَف و بالتالي يبقى الأمر مرهونا بتعاون هذه المواقع، أما Keep My Opt-Outs فيقوم بتخزين البيانات في الـ Cookies مما يجعله أكثر فاعلية حيث لا يحتاج إلى تعاون من قِبَل المواقع المعلِنة.
 

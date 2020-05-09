@@ -16,14 +16,14 @@ tags:
 - Nexus S
 ---
 
-**[Google تطلق إصدار Gingerbread) 2.3) من Android  و تكشف رسميا عن هاتف Nexus S](http://www.it-scoop.com/2010/12/google-nexus-s-android-2-3-gingerbread)**
+**[Google تطلق إصدار Gingerbread) 2.3) من Android  و تكشف رسميا عن هاتف Nexus S](https://www.it-scoop.com/2010/12/google-nexus-s-android-2-3-gingerbread)**
 
 
 أطلقت Google اليوم الإصدار 2.3 من نظام Androidالمعروف تحت اسم Gingerbread، كما كشفت عن هاتفها الجديد Nexus S الذي سيكون مجهزا بهذا الإصدار.
 
 
 [![](http://www.google.com/phone/image/nexus-s/0/large)
-](http://www.it-scoop.com/2010/12/google-nexus-s-android-2-3-gingerbread)
+](https://www.it-scoop.com/2010/12/google-nexus-s-android-2-3-gingerbread)
 
 
 فيما يخص إصدار Gingerbread (خبز الزنجيل) من Android فقد أتى بالعديد من التحسينات التي تخص الواجهة الرسومية للنظام، و إدارة أفضل للطاقة، و دعم للـ gyroscope، إضافة إلى دعم أكثر من كاميرا ، تحسين في الآلة الافتراضية Dalvik و تحسين في أداء لوحة المفاتيح الوهمية.

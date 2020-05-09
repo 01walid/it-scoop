@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/collision_attack_overview.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/collision_attack_overview.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/collision_attack_overview.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/collision_attack_overview.png)
 
 
 

@@ -15,13 +15,13 @@ tags:
 - WebOS
 ---
 
-**[HP تؤكد إطلاق جهاز لوحي يعمل على WebOS بداية 2011](http://www.it-scoop.com/2010/08/hps-webos-tablet-slated-early-2011)**
+**[HP تؤكد إطلاق جهاز لوحي يعمل على WebOS بداية 2011](https://www.it-scoop.com/2010/08/hps-webos-tablet-slated-early-2011)**
 
 
 بعد أن أسالت الكثير من الحبر بسبب شرائها لـ Palm و نظامها WebOS، قطعت HP حبل الإشاعات مؤكدة إطلاق جهاز لوحي يعمل على نظام WebOS بداية سنة 2011.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/hp-slate-webos.png)
-](http://www.it-scoop.com/2010/08/hps-webos-tablet-slated-early-2011)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/hp-slate-webos.png)
+](https://www.it-scoop.com/2010/08/hps-webos-tablet-slated-early-2011)
 
 جاء ذلك على لسان Todd Bradley نائب رئيس فرع  Personal Systems Group لدى HP و ذلك خلال الإعلان عن النتائج الفصلية للشركة، حيث صرح قائلا:
 

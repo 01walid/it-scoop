@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/Arabisk-award-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Arabisk-award-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/Arabisk-award-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Arabisk-award-logo.png)
 
 
 
@@ -51,4 +51,4 @@ tags:
 
 
 
-للتذكير فقد[ فازت المجلة التقنية](http://www.it-scoop.com/2011/04/arabisk-award/) في إصدار العام الماضي من المُسابقة بلقب أفضل مدونة متخصصة وذلك بشقيها [اختيار الجمهور](http://blog.arabisk-award.com/archives/115) واختيار [لجنة التحكيم](http://blog.arabisk-award.com/archives/132).
+للتذكير فقد[ فازت المجلة التقنية](https://www.it-scoop.com/2011/04/arabisk-award/) في إصدار العام الماضي من المُسابقة بلقب أفضل مدونة متخصصة وذلك بشقيها [اختيار الجمهور](http://blog.arabisk-award.com/archives/115) واختيار [لجنة التحكيم](http://blog.arabisk-award.com/archives/132).

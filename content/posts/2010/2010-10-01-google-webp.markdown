@@ -15,16 +15,16 @@ tags:
 - WebP
 ---
 
-**[Google تطلق WebP، المعيار الجديد للصور على الويب](http://www.it-scoop.com/2010/10/google-webp/)**
+**[Google تطلق WebP، المعيار الجديد للصور على الويب](https://www.it-scoop.com/2010/10/google-webp/)**
 
 
 
 
-بعد إطلاق وفتح** **النسق [WebM ](http://www.it-scoop.com/2010/05/google-webm-project/)الخاص بالفيديو، كشفت Goolge اليوم عن النسق الخاص بالصور WebP المنافس الجديد لـ JPEG.
+بعد إطلاق وفتح** **النسق [WebM ](https://www.it-scoop.com/2010/05/google-webm-project/)الخاص بالفيديو، كشفت Goolge اليوم عن النسق الخاص بالصور WebP المنافس الجديد لـ JPEG.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/webP-jpeg.jpg)
-](http://www.it-scoop.com/2010/10/google-webp/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/webP-jpeg.jpg)
+](https://www.it-scoop.com/2010/10/google-webp/)
 
 حسب باحثين في Google ، فالنسق الجديد يمكنه اختزال حجم الصور المتبادلة عبر الأنترنت بنسبة 40 % بالمقارنة مع JPEG.
 

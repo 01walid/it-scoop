@@ -16,7 +16,7 @@ tags:
 - جافاسكربت
 ---
 
-نشرت **[Tiobe](http://www.it-scoop.com/tag/tiobe/)** ترتيبها الشهري **للغات البرمجة الأكثر شعبية** والتي كشفت عن تغييرات في قائمة Top 10، في حين حافظت لغة C على صدارتها.
+نشرت **[Tiobe](https://www.it-scoop.com/tag/tiobe/)** ترتيبها الشهري **للغات البرمجة الأكثر شعبية** والتي كشفت عن تغييرات في قائمة Top 10، في حين حافظت لغة C على صدارتها.
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![tiobe-programming-community-index-june-2013](http://www.it-scoop.com/wp-content/uploads/2013/06/tiobe-programming-community-index-june-2013.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/tiobe-programming-community-index-june-2013.png)
+[![tiobe-programming-community-index-june-2013](https://www.it-scoop.com/wp-content/uploads/2013/06/tiobe-programming-community-index-june-2013.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/tiobe-programming-community-index-june-2013.png)
 
 
 
@@ -40,7 +40,7 @@ tags:
 
 
 
-يُسلط التقرير الضوء على الأخطار التي قد تهدد مُستقبل لغة JavaScript، فعلى سبيل المثال يُنظر إليها بأنها لُغة يسهُل ارتكاب أخطاء لدى استخدامها، وبما أنها لُغة مُفسرة فإن أغلب الأخطاء لا تظهر سوى لدى تنفيذ شفراتها، وهو ما دفع بـ Google مثلا إلى إطلاق لغة [Dart](http://www.it-scoop.com/tag/Dart/) التي يُراد منها استبدال JavaScript والتي تحل حاليا في المرتبة 80. كما أن هناك لغات أُخرى تقوم بتوليد شفرات JavaScript بدل كتابتها يدويا، ويتعلق الأمر بكل من CoffeeScript التي حلت في المرتبة 139 و TypeScript التي حلت في المرتبة 207.
+يُسلط التقرير الضوء على الأخطار التي قد تهدد مُستقبل لغة JavaScript، فعلى سبيل المثال يُنظر إليها بأنها لُغة يسهُل ارتكاب أخطاء لدى استخدامها، وبما أنها لُغة مُفسرة فإن أغلب الأخطاء لا تظهر سوى لدى تنفيذ شفراتها، وهو ما دفع بـ Google مثلا إلى إطلاق لغة [Dart](https://www.it-scoop.com/tag/Dart/) التي يُراد منها استبدال JavaScript والتي تحل حاليا في المرتبة 80. كما أن هناك لغات أُخرى تقوم بتوليد شفرات JavaScript بدل كتابتها يدويا، ويتعلق الأمر بكل من CoffeeScript التي حلت في المرتبة 139 و TypeScript التي حلت في المرتبة 207.
 
 
 

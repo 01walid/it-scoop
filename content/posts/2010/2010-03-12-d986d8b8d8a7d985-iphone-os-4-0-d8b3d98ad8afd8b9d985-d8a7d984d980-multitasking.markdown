@@ -13,13 +13,13 @@ tags:
 - multitasking
 ---
 
-[**نظام iPhone OS 4.0 سيدعم الـ multitasking**](http://www.it-scoop.com/2010/03/%d9%86%d8%b8%d8%a7%d9%85-iphone-os-4-0-%d8%b3%d9%8a%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%80-multitasking/)
+[**نظام iPhone OS 4.0 سيدعم الـ multitasking**](https://www.it-scoop.com/2010/03/%d9%86%d8%b8%d8%a7%d9%85-iphone-os-4-0-%d8%b3%d9%8a%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%80-multitasking/)
 
 
 إذا صدق ما ذهب إليه موقع [appleinsider](http://www.appleinsider.com/articles/10/03/11/apples_iphone_4_0_software_to_deliver_multitasking_support.html) فإن النظام القادم من نظام تشغيل iPhone OS 4.0 سيدعم الـ multitasking.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/multi-task-iphone.jpg)
-](http://www.it-scoop.com/2010/03/%d9%86%d8%b8%d8%a7%d9%85-iphone-os-4-0-%d8%b3%d9%8a%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%80-multitasking/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/multi-task-iphone.jpg)
+](https://www.it-scoop.com/2010/03/%d9%86%d8%b8%d8%a7%d9%85-iphone-os-4-0-%d8%b3%d9%8a%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%80-multitasking/)
 
 الـ multitasking سيسمح لمستخدمي أجهزة الـ iPhone و الـ iPad باستعمال أكثر من تطبيق في آن واحد، عكس ما هو الأمر عليه حاليا مع الإصدارات الحالية لنظام iPhone OS.
 

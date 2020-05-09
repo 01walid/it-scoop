@@ -20,8 +20,8 @@ tags:
 
 
 
-[![amazon_drone](http://www.it-scoop.com/wp-content/uploads/2013/12/amazon_drone.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/12/amazon_drone.jpg)
+[![amazon_drone](https://www.it-scoop.com/wp-content/uploads/2013/12/amazon_drone.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/12/amazon_drone.jpg)
 
 
 

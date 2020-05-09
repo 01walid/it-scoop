@@ -13,14 +13,14 @@ tags:
 - The Huffington Post
 ---
 
-**[AOL تواصل مغامراتها مع المواقع الإخبارية بشراء الصحيفة الالكترونية The Huffington Post](http://www.it-scoop.com/2011/02/aol-the-huffington-post/)**
+**[AOL تواصل مغامراتها مع المواقع الإخبارية بشراء الصحيفة الالكترونية The Huffington Post](https://www.it-scoop.com/2011/02/aol-the-huffington-post/)**
 
 
 بعد شرائها للعديد من المواقع الإخبارية الأمريكية و على رأسها مدونتي Engadget و TechCrunch التقنيتين، [أعلنت](http://techcrunch.com/2011/02/06/i-for-one-welcome-our-new-huffington-overlord/) AOL اليوم عن شرائها للصحيفة الالكترونية الأمريكية [The Huffington Post](http://www.huffingtonpost.com/) و ذلك مقابل  315 مليون دولار.
 
 
 [![](http://i.huffpost.com/gen/245103/thumbs/r-HUFFINGTON-POST-AOL-huge.jpg)
-](http://www.it-scoop.com/2011/02/aol-the-huffington-post/)
+](https://www.it-scoop.com/2011/02/aol-the-huffington-post/)
 
 
 و تحظى The Huffington Post بما لا يقل عن 26  مليون زيارة شهرية، و سجلت الزيارات ارتفاعا قدر بـ 22% خلال الفترة الممتدة ما بين ديسمبر 2009 و ديسمبر 2010.

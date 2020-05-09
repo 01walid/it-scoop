@@ -21,8 +21,8 @@ tags:
 
 
 
-[![microsoft-arabia-windows-phone-contest](http://www.it-scoop.com/wp-content/uploads/2013/07/microsoft-arabia-windows-phone-contest.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/microsoft-arabia-windows-phone-contest.png)
+[![microsoft-arabia-windows-phone-contest](https://www.it-scoop.com/wp-content/uploads/2013/07/microsoft-arabia-windows-phone-contest.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/microsoft-arabia-windows-phone-contest.png)
 
 
 

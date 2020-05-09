@@ -14,7 +14,7 @@ tags:
 - iPhone
 ---
 
- **[تطبيق Google+ على iPhone يتعرض لمشاكل و انتقادات عديدة ويحصل على أول تحديث له](http://www.it-scoop.com/2011/07/google-plus-iphone/)**
+ **[تطبيق Google+ على iPhone يتعرض لمشاكل و انتقادات عديدة ويحصل على أول تحديث له](https://www.it-scoop.com/2011/07/google-plus-iphone/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/google-plus-iphone.jpg)
-](http://www.it-scoop.com/2011/07/google-plus-iphone/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/google-plus-iphone.jpg)
+](https://www.it-scoop.com/2011/07/google-plus-iphone/)
 
 
 

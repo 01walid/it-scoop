@@ -13,13 +13,13 @@ tags:
 - Palm
 ---
 
-[**HP تضم إليها Palm و تفكر في تجهيز أجهزتها اللوحية بأنظمة WebOS الخاصة بها**](http://www.it-scoop.com/2010/04/hp-buys-palm/)
+[**HP تضم إليها Palm و تفكر في تجهيز أجهزتها اللوحية بأنظمة WebOS الخاصة بها**](https://www.it-scoop.com/2010/04/hp-buys-palm/)
 
 
 بعد أن كثرت الإشاعات عن رغبة كل من HTC و Lenovo و غيرهما في شراء Palm، قطعت HP حبل الإشاعات بإعلانها شراءها لشركة Palm التي تعاني من أزمة مالية مقابل 1.2 مليار دولار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/HP-Palm.png)
-](http://www.it-scoop.com/2010/04/hp-buys-palm/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/HP-Palm.png)
+](https://www.it-scoop.com/2010/04/hp-buys-palm/)
 
 و في إعلانها على عملية الشراء هذه، لم تخف HP اهتمامها البالغ بنظام WebOS و الذي يجهز هواتف Palm ، حيث أنه من المتوقع أن تطلق HP  جهازا لوحيا غير الذي يتم التحضير له حاليا بالتعاون مع Microsoft، و الذي سيكون مجهزا بنظام WebOS.
 

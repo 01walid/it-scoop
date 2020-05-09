@@ -12,7 +12,7 @@ tags:
 - Fedora 15
 ---
 
-**[غدا... موعد إطلاق الإصدار 15 من توزيعة Fedora](http://www.it-scoop.com/2011/05/linux-fedora-15/)**
+**[غدا... موعد إطلاق الإصدار 15 من توزيعة Fedora](https://www.it-scoop.com/2011/05/linux-fedora-15/)**
 
 
 
@@ -22,14 +22,14 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/dd.png)
-](http://www.it-scoop.com/2011/05/linux-fedora-15/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/dd.png)
+](https://www.it-scoop.com/2011/05/linux-fedora-15/)
 
 وطبعا كعادة Fedora  هنالك الكثير من التحديثات والأشياء الجديدة أهمها :
 من 	ناحية سطح المكتب تم اعتماد [Gnome 3](http://fedoraproject.org/wiki/Features/Gnome3) بشكل افتراضي وهو الإصدار 	الجديد من Gnome  يختلف كثيرا 	عن سابقه  وستلاحظون الفرق في الواجهات 	والتعامل عند استخدامه والصورة التالية تبين شكله .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/Fedora-15-Linux-GNOME-3.jpg)
-](http://www.it-scoop.com/2011/05/linux-fedora-15/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/Fedora-15-Linux-GNOME-3.jpg)
+](https://www.it-scoop.com/2011/05/linux-fedora-15/)
 
 
 
@@ -43,7 +43,7 @@ tags:
 
 
 
-	  * تم 	اعتماد نسخة النواة Kernel 3.6.38  وهي 	التي تحوي التسريع الخاص بالمهام المتعددة ,والذي تحدثنا عنه في خبر سابق [هنا](http://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders/) .
+	  * تم 	اعتماد نسخة النواة Kernel 3.6.38  وهي 	التي تحوي التسريع الخاص بالمهام المتعددة ,والذي تحدثنا عنه في خبر سابق [هنا](https://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders/) .
 
 
 
@@ -62,7 +62,7 @@ tags:
 	  * بالنسبة 	للنسخة الحية فهي تحوي على برامج أكثر 	من السابق بفضل استخدام تقنية الضغط LZMA 	 حيث تم الضغط ب xz بدلا 	من gzip .
 
 
-	  * في البرامج المكتبية تم الاستغناء عن OpenOffice والتحول إلى LibreOffice (الفرق بينهما في [هذا الخبر](http://www.it-scoop.com/2010/09/the-document-foundation-libreoffice/) السابق).
+	  * في البرامج المكتبية تم الاستغناء عن OpenOffice والتحول إلى LibreOffice (الفرق بينهما في [هذا الخبر](https://www.it-scoop.com/2010/09/the-document-foundation-libreoffice/) السابق).
 
 
 

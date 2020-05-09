@@ -15,13 +15,13 @@ tags:
 - youtube
 ---
 
-[**Google  تسجل براءة اختراع تخص الألعاب التفاعلية المضمنة في فيديوهات Youtube**](http://www.it-scoop.com/2009/12/google-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9/)
+[**Google  تسجل براءة اختراع تخص الألعاب التفاعلية المضمنة في فيديوهات Youtube**](https://www.it-scoop.com/2009/12/google-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9/)
 
 
 كشف موقع Bnet عن آخر صيحات Google و المتمثلة في تسجيل براءة اختراع تخص الألعاب التفاعلية المضمنة في الفيديوهات على Youtube تحت مسمى _Web-based for generation of interactive games based on digital videos_
 
-_[![](http://www.it-scoop.com/wp-content/uploads/2009/12/google_youtube-300x225.jpg)
-](http://www.it-scoop.com/2009/12/google-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9/)
+_[![](https://www.it-scoop.com/wp-content/uploads/2009/12/google_youtube-300x225.jpg)
+](https://www.it-scoop.com/2009/12/google-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9-%D8%AA%D8%AE%D8%B5-%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B9/)
 _
 
 بعبارة أخرى، التقنية المعنية ببراءة الاختراع هذه تمكن من إضافة محتوى تفاعلي إلى الفيديو من صور و نصوص تسمح للمستخدم التفاعل معها و التحكم في سير محتوى الفيديو.

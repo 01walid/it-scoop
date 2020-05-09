@@ -14,14 +14,14 @@ tags:
 - TungstenW
 ---
 
-[**للمزيد من الحماية... محفظة شخصية تعمل عن طريق البصمة !**](http://www.it-scoop.com/2010/04/biometric-wallet/)
+[**للمزيد من الحماية... محفظة شخصية تعمل عن طريق البصمة !**](https://www.it-scoop.com/2010/04/biometric-wallet/)
 
 
 منذ بضع سنوات بدأنا نلاحظ توجه شركات صنع الحواسب المحمولة إلى إضافة تقنيات الحماية biometric كالتحقق بالبصمة إلى الأجهزة، لكن اليوم ستكون المرة الأولى التي نرى فيها حماية biometric خاصة بالمحفظات الشخصية!
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Wallet-Hand.jpg)
-](http://www.it-scoop.com/2010/04/biometric-wallet/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Wallet-Hand.jpg)
+](https://www.it-scoop.com/2010/04/biometric-wallet/)
 
 
 حيث قامت شركة Aegis Innovations بتصميم محفظة مزودة بتقنيات حماية التحقق من الهوية biometric ليحافظ مالكو هذه المحافظ على محتوياتها بأمان.

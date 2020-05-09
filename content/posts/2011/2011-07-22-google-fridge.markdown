@@ -14,7 +14,7 @@ tags:
 - Google
 ---
 
-[**Google تضم شركة Fridge الناشئة إلى دوائرها على Google+**](http://www.it-scoop.com/2011/07/google-fridge/)
+[**Google تضم شركة Fridge الناشئة إلى دوائرها على Google+**](https://www.it-scoop.com/2011/07/google-fridge/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/Google-Fridge.jpg)
-](http://www.it-scoop.com/2011/07/google-fridge/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/Google-Fridge.jpg)
+](https://www.it-scoop.com/2011/07/google-fridge/)
 
 
 

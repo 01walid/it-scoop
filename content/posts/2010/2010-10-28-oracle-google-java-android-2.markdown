@@ -21,18 +21,18 @@ tags:
 - sun
 ---
 
-**[Oracle تصرح: "Google قامت بنسخ أجزاء من شفرة Java و لصقها مباشرة في شفرة Android "](http://www.it-scoop.com/2010/10/oracle-google-java-android-2/)**
+**[Oracle تصرح: "Google قامت بنسخ أجزاء من شفرة Java و لصقها مباشرة في شفرة Android "](https://www.it-scoop.com/2010/10/oracle-google-java-android-2/)**
 
 
 
 
-ما زال مسلسل Oracle/Google متواصلا، فبعد أن [رفعت](http://www.it-scoop.com/2010/08/oracle-google-java-android/) Oracle دعوى قضائية على Google لاستعمالها الـ Java على نظام تشغيل Android، و [ردت](http://www.it-scoop.com/2010/10/google-points-out-that-oracle-asked-sun-to-open-source-the-java-tech-it-s-now-suing-google-over/) Google باتهام Oracle بالنفاق و اللعب على وجهين بالـ Java ، قام عملاق قواعد البيانات بتحديث اتهامه مشيرا إلى أن جزء كبيرا من شفرة Android ما هو إلا نسخ و لصق مباشر من الـ Java الذي يمتلكه.
+ما زال مسلسل Oracle/Google متواصلا، فبعد أن [رفعت](https://www.it-scoop.com/2010/08/oracle-google-java-android/) Oracle دعوى قضائية على Google لاستعمالها الـ Java على نظام تشغيل Android، و [ردت](https://www.it-scoop.com/2010/10/google-points-out-that-oracle-asked-sun-to-open-source-the-java-tech-it-s-now-suing-google-over/) Google باتهام Oracle بالنفاق و اللعب على وجهين بالـ Java ، قام عملاق قواعد البيانات بتحديث اتهامه مشيرا إلى أن جزء كبيرا من شفرة Android ما هو إلا نسخ و لصق مباشر من الـ Java الذي يمتلكه.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/android-oracle-google.jpg )
-](http://www.it-scoop.com/2010/10/oracle-google-java-android-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/android-oracle-google.jpg )
+](https://www.it-scoop.com/2010/10/oracle-google-java-android-2/)
 
 
 

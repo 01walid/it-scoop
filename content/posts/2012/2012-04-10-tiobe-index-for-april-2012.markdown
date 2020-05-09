@@ -24,8 +24,8 @@ tags:
 
 
 
-[![ترتيب Tiobe للغات البرمجة الأكثر شعبية لشهر أبريل 2012](http://www.it-scoop.com/wp-content/uploads/2012/04/TIOBE-Programming-Community-Index-April-2012.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/TIOBE-Programming-Community-Index-April-2012.png)
+[![ترتيب Tiobe للغات البرمجة الأكثر شعبية لشهر أبريل 2012](https://www.it-scoop.com/wp-content/uploads/2012/04/TIOBE-Programming-Community-Index-April-2012.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/TIOBE-Programming-Community-Index-April-2012.png)
 
 
 

@@ -21,8 +21,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/10/Everybody-Lies.jpg)
-](http://www.it-scoop.com/2018/10/everybody-lies-review/everybody-lies/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/10/Everybody-Lies.jpg)
+](https://www.it-scoop.com/2018/10/everybody-lies-review/everybody-lies/)
 
 
 

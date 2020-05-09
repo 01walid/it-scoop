@@ -14,13 +14,13 @@ tags:
 - WebOS
 ---
 
-[**باحثون أمنيون يخترقون نظام WebOS الخاص بأجهزة Palm برسائل SMS بسيطة**](http://www.it-scoop.com/2010/04/Palm-WebOS-Hacked-Via-SMS-Messages)
+[**باحثون أمنيون يخترقون نظام WebOS الخاص بأجهزة Palm برسائل SMS بسيطة**](https://www.it-scoop.com/2010/04/Palm-WebOS-Hacked-Via-SMS-Messages)
 
 
 كشف باحثون أمنيون يعملون لدىIntrepidus  عن ثغرة أمنية تسمح باختراق نظام تشغيل WebOS المستخدم على أجهزة Palm و هذا بإرسال رسائل SMS إلى جهاز الضحية.
 
-[![palm pre](http://www.it-scoop.com/wp-content/uploads/2010/04/palm-pre.jpg)
-](http://www.it-scoop.com/2010/04/Palm-WebOS-Hacked-Via-SMS-Messages)
+[![palm pre](https://www.it-scoop.com/wp-content/uploads/2010/04/palm-pre.jpg)
+](https://www.it-scoop.com/2010/04/Palm-WebOS-Hacked-Via-SMS-Messages)
 
 الثغرة تكمن في مستوى الوحدة المسؤولة عن الـ SMS في الإصدار 1.3.5 من نظام WebOS حيث أنها لا تقوم بفلترة محتوى الرسائل كما يجب قبل فتحها و هو ما يمكن من إرسال أي نوع من المحتويات عبر الـ SMS، حيث تمكن الباحثون من حقن شيفرات HTML داخل الرسائل تمكنهم من الحصول على مبتغاهم.
 

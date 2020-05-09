@@ -12,13 +12,13 @@ tags:
 - Sterling Commerce
 ---
 
-[**IBM تعلن شراءها لـ Sterling Commerce إحدى فروع AT&T**](http://www.it-scoop.com/2010/05/IBM-to-acquire-Sterling-Commerce)
+[**IBM تعلن شراءها لـ Sterling Commerce إحدى فروع AT&T**](https://www.it-scoop.com/2010/05/IBM-to-acquire-Sterling-Commerce)
 
 
 أعلنت IBM شراءها لشركة Sterling Commerce إحدى فروع شركة الاتصالات الأمريكية AT&T مقابل 1.4 مليار دولار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/SterlingCommerce.jpg)
-](http://www.it-scoop.com/2010/05/IBM-to-acquire-Sterling-Commerce)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/SterlingCommerce.jpg)
+](https://www.it-scoop.com/2010/05/IBM-to-acquire-Sterling-Commerce)
 
 تطور شركة Sterling Commerce  و التي تملك حاليا أزيد من 18 ألف زبون عمل مختلف أنحاء العالم جملة من الحلول التي تخص الشركات خاصة ما تعلق منها بتبادل المعلومات فيما بينها إلى جانب جملة من الحلول التي تصب في مجال التسيير اللوجستي و تسيير المبيعات، حيث ستسمح عملية الشراء هذه من تعزيز الحلول التي تقدمها شركة IBM لفائدة الشركات.
 

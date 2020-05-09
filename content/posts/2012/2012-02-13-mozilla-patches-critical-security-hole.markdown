@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
 
 
 

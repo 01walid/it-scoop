@@ -15,7 +15,7 @@ tags:
 - e107
 ---
 
-[**اكتشاف Backdoor في آخر إصدار من نظام إدارة المحتوى e107**](http://www.it-scoop.com/2010/01/%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-backdoor-%d9%81%d9%8a-%d8%a2%d8%ae%d8%b1-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85/)
+[**اكتشاف Backdoor في آخر إصدار من نظام إدارة المحتوى e107**](https://www.it-scoop.com/2010/01/%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-backdoor-%d9%81%d9%8a-%d8%a2%d8%ae%d8%b1-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85/)
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 
-[](http://www.it-scoop.com/2010/01/%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-backdoor-%d9%81%d9%8a-%d8%a2%d8%ae%d8%b1-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85/)
+[](https://www.it-scoop.com/2010/01/%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-backdoor-%d9%81%d9%8a-%d8%a2%d8%ae%d8%b1-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85/)
 
 
 

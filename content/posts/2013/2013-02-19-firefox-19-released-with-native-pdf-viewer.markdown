@@ -18,8 +18,8 @@ tags:
 أصدرت مؤسسة **Mozilla** اليوم النسخة رقم 19 من متصفحها الشهير **Firefox** بميزات وتحسينات عديدة كعادة أي إصدارة أساسية، لكن من أبرز الميزات التي تحملها هذه الإصدارة هي احتواؤها على قارئ **PDF** مدمج قائم بذاته داخل المتصفح ودون تدخل أية إضافات خارجية.
 
 
-[![firefox-native-pdf-viewer](http://www.it-scoop.com/wp-content/uploads/2013/02/firefox-native-pdf-viewer.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/firefox-native-pdf-viewer.jpg)تعتمد الميزة الجديدة على محرك مبني بلغة الـ Javascript بالكامل لقراءة ملفات PDF، تحت اسم على مسمي: PDF.js، وهو ليس بالشيء الجديد كلية، فقد كان سابقا في طور الاختبار، لكنه الآن متوفر بشكل افتراضي.
+[![firefox-native-pdf-viewer](https://www.it-scoop.com/wp-content/uploads/2013/02/firefox-native-pdf-viewer.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/firefox-native-pdf-viewer.jpg)تعتمد الميزة الجديدة على محرك مبني بلغة الـ Javascript بالكامل لقراءة ملفات PDF، تحت اسم على مسمي: PDF.js، وهو ليس بالشيء الجديد كلية، فقد كان سابقا في طور الاختبار، لكنه الآن متوفر بشكل افتراضي.
 
 
 

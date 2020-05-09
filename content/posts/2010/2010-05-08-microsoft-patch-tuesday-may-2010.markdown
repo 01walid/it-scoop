@@ -14,13 +14,13 @@ tags:
 - Patch Tuesday
 ---
 
-[**Microsoft تكشف عن محتوى الـ Patch Tuesday لشهر مايو الجاري، و الذي يخص ثغرتين أمنيتين فقط**](http://www.it-scoop.com/2010/05/Microsoft-Patch-Tuesday-May-2010)
+[**Microsoft تكشف عن محتوى الـ Patch Tuesday لشهر مايو الجاري، و الذي يخص ثغرتين أمنيتين فقط**](https://www.it-scoop.com/2010/05/Microsoft-Patch-Tuesday-May-2010)
 
 
 كشف Microsoft أمس عن محتوى الـ Patch Tuesday لشهر مايو الجاري و الذي على غير العادة يخص ثغرتين أمنيتين فقط، مقابل 25 ثغرة كانت محور الـ Patch Tuesday للشهر أبريل المنصرم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
-](http://www.it-scoop.com/2010/05/Microsoft-Patch-Tuesday-May-2010)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
+](https://www.it-scoop.com/2010/05/Microsoft-Patch-Tuesday-May-2010)
 
 الثغرتان المعنيتان بالـ Patch Tuesday تخص إحداهما أنظمة Windows و الأخرى الحزمة المكتبية Office و VBA.
 

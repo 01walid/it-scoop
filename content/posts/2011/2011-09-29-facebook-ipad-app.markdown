@@ -19,7 +19,7 @@ tags:
 - Spartan
 ---
 
-[**خلاف بين Facebook و Apple يؤخر الإعلان عن تطبيق Facebook على iPad رغم جاهزيته منذ أشهر**](http://www.it-scoop.com/2011/09/facebook-ipad-app/)
+[**خلاف بين Facebook و Apple يؤخر الإعلان عن تطبيق Facebook على iPad رغم جاهزيته منذ أشهر**](https://www.it-scoop.com/2011/09/facebook-ipad-app/)
 
 
 
@@ -29,8 +29,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/ipad-facebook-app-log-in-screen.png)
-](http://www.it-scoop.com/2011/09/facebook-ipad-app/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/ipad-facebook-app-log-in-screen.png)
+](https://www.it-scoop.com/2011/09/facebook-ipad-app/)
 
 
 

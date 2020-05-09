@@ -14,7 +14,7 @@ tags:
 - SkypeKit
 ---
 
-**[Skype  تطلق SkypeKit الـ SDK الخاص بها لتضمين خدمات Skype في جميع الأجهزة و التطبيقات](http://www.it-scoop.com/2010/06/Skype-introduce-SkypeKit-Beta-Program)**
+**[Skype  تطلق SkypeKit الـ SDK الخاص بها لتضمين خدمات Skype في جميع الأجهزة و التطبيقات](https://www.it-scoop.com/2010/06/Skype-introduce-SkypeKit-Beta-Program)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![](http://blogs.skype.com/devzone/2010/06/21/SkypeKit.png  )
-](http://www.it-scoop.com/2010/06/Skype-introduce-SkypeKit-Beta-Program)
+](https://www.it-scoop.com/2010/06/Skype-introduce-SkypeKit-Beta-Program)
 
 
 

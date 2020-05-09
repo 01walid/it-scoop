@@ -16,7 +16,7 @@ tags:
 - WebM
 ---
 
-[**Google تطلق إضافة لفيديوهات WebM على متصفح Internet Explorer 9**](http://www.it-scoop.com/2011/03/google-webm-internet-explorer-9/)
+[**Google تطلق إضافة لفيديوهات WebM على متصفح Internet Explorer 9**](https://www.it-scoop.com/2011/03/google-webm-internet-explorer-9/)
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 [![](http://tools.google.com/dlpage/res/webmmf/webm-ie9-yt-screenshot.png )
-](http://www.it-scoop.com/2011/03/google-webm-internet-explorer-9/)
+](https://www.it-scoop.com/2011/03/google-webm-internet-explorer-9/)
 
 
 

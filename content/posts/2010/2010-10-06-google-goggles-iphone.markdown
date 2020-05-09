@@ -16,19 +16,19 @@ tags:
 - iPhone
 ---
 
-**[و أخيرا... تطبيق Google Goggles على هواتف iPhone](http://www.it-scoop.com/2010/10/google-goggles-iphone/)**
+**[و أخيرا... تطبيق Google Goggles على هواتف iPhone](https://www.it-scoop.com/2010/10/google-goggles-iphone/)**
 
 
 
 
-بعد أن كثرت الإشارات [هنا و هناك](http://www.it-scoop.com/2010/08/google-goggles-ios/) عن قرب إصداره دون إعطاء تاريخ محدد لذلك، وصل تطبيق Google Goggles  أخيرا على هواتف iPhone ليمنح لمستخدمي هواتف Apple نفس متعة تجربة البحث المصور التي يعرفها نظراؤهم على Android.
+بعد أن كثرت الإشارات [هنا و هناك](https://www.it-scoop.com/2010/08/google-goggles-ios/) عن قرب إصداره دون إعطاء تاريخ محدد لذلك، وصل تطبيق Google Goggles  أخيرا على هواتف iPhone ليمنح لمستخدمي هواتف Apple نفس متعة تجربة البحث المصور التي يعرفها نظراؤهم على Android.
 
 
 [![](http://a1.phobos.apple.com/us/r1000/050/Purple/39/c2/43/mzl.azygcgji.320x480-75.jpg )
-](http://www.it-scoop.com/2010/10/google-goggles-iphone/)[![](http://a1.phobos.apple.com/us/r1000/025/Purple/9f/16/6c/mzl.yetojgjj.320x480-75.jpg )
-](http://www.it-scoop.com/2010/10/google-goggles-iphone/)
+](https://www.it-scoop.com/2010/10/google-goggles-iphone/)[![](http://a1.phobos.apple.com/us/r1000/025/Purple/9f/16/6c/mzl.yetojgjj.320x480-75.jpg )
+](https://www.it-scoop.com/2010/10/google-goggles-iphone/)
 
-يأتي ذلك بعد أن [لمح ](http://www.it-scoop.com/2010/08/google-goggles-ios)David Petrou المهندس لدى Google خلال مؤتمر Hot Chips الذي أقيم في جامعة Stanford  شهر أغسطس الماضي أن التطبيق قد أصبح شبه جاهز لإطلاقه و أن ذلك سيكون قبل نهاية السنة الجارية.
+يأتي ذلك بعد أن [لمح ](https://www.it-scoop.com/2010/08/google-goggles-ios)David Petrou المهندس لدى Google خلال مؤتمر Hot Chips الذي أقيم في جامعة Stanford  شهر أغسطس الماضي أن التطبيق قد أصبح شبه جاهز لإطلاقه و أن ذلك سيكون قبل نهاية السنة الجارية.
 
 للتذكير فإن تطبيق Google Goggles يسمح لمستخدميه البحث باستعمال الصور، حيث يكفي للباحث أن يصور معلما ما أو غلاف كتاب ليتولى التطبيق مهمة تحويل الصورة إلى بيانات و من ثم إطلاق عملية بحث حول الأمر
 

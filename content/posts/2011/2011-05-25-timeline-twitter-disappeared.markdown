@@ -12,13 +12,13 @@ tags:
 - Twitter
 ---
 
-[**المغردون عبر مختلف أنحاء العالم يشكون اختفاء الـ TimeLine على Twitter**](http://www.it-scoop.com/2011/05/timeline-twitter-disappeared/)
+[**المغردون عبر مختلف أنحاء العالم يشكون اختفاء الـ TimeLine على Twitter**](https://www.it-scoop.com/2011/05/timeline-twitter-disappeared/)
 
 
 إن كنت ممن قاموا أكثر من مرة بتحديث صفحة الـ Twitter لعدم ظهور الـ TimeLine فالأمر لا يعد خللا في متصفحك، و لا تقم بإلقاء اللوم هذه المرة على مزود الاتصال الخاص بك، حيث أن Twitter تعاني مشاكل مع الـ TimeLine الخاصة بها، و هذا ما تبينه التغريدات التي تنشر حاليا على Twitter :)
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)
-](http://www.it-scoop.com/2011/05/timeline-twitter-disappeared/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)
+](https://www.it-scoop.com/2011/05/timeline-twitter-disappeared/)
 
 هل فكرت في الأمر ؟؟ كيف يمكنني أن أؤكد الأمر اعتمادا على التغريدات إن كانت لا تظهر ؟ حسنا، يكفي أن تستعمل إحدى التطبيقات المختلقة التي تعتمد على Twitter أو أن تبحث عن أحدث التحديثات التي تخص TimeLine و Twitter [على Google](http://www.google.com/search?q=timeline+twitter&hl=fr&prmd=ivns&source=lnt&tbs=rltm:1&sa=X&ei=n1XdTZz7H8Gk-gbr5PG4Dw&ved=0CAsQpwUoAQ)، أو أن يخبرك بذلك صديق لم تختف الـ TimeLine لديه :p.
 

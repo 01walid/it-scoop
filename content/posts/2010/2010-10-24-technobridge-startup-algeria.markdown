@@ -15,7 +15,7 @@ tags:
 - Technobridge
 ---
 
-**[حاضنة المشاريع Technobridge تطلق حملتها الثانية لاستضافة المشاريع المبتكرة للشباب الجزائري](http://www.it-scoop.com/2010/10/technobridge-startup-algeria/)**
+**[حاضنة المشاريع Technobridge تطلق حملتها الثانية لاستضافة المشاريع المبتكرة للشباب الجزائري](https://www.it-scoop.com/2010/10/technobridge-startup-algeria/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/business-startup.jpg)
-](http://www.it-scoop.com/2010/10/technobridge-startup-algeria/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/business-startup.jpg)
+](https://www.it-scoop.com/2010/10/technobridge-startup-algeria/)
 
 
 إن كنت جزائريا و لديك فكرة مبتكرة و تفكر في تجسيدها في مشروع  و إطلاق شركتك الخاصة ، و تبحث عن دعم تقني و تكويني  (و حتى مالي)، إضافة إلى محيط يساعدك على الوصول إلى هدفك، فإليك فرصة لا تعوض، قم بإعداد كامل تفاصيل مشروعك التقني، و قم بملء [الاستمارة الخاصة بذلك](http://www.anpt.dz/fiche.pdf) ، و أرسل طلبك عبر البريد.

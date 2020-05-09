@@ -12,18 +12,18 @@ tags:
 - Mozilla
 ---
 
-**[ترقيع من 20 سطر فقط يضاعف سرعة إقلاع Firefox على أنظمة Windows](http://www.it-scoop.com/2011/01/20-line-code-speed-up-firefox-windows)**
+**[ترقيع من 20 سطر فقط يضاعف سرعة إقلاع Firefox على أنظمة Windows](https://www.it-scoop.com/2011/01/20-line-code-speed-up-firefox-windows)**
 
 
 
 
-هل تتذكرون [الـ Patch الذي يتكون من 200 سطر](http://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders/) و الذي يتيح تحسين أداء نظام Linux بشكل كبير ؟ أمر مشابه يحدث حاليا مع Firefox على أنظمة Windows و الذي يقسم زمن إقلاعه إلى نصفين بفضل Patch لا يتجاوز طوله 20 سطر برمجي.
+هل تتذكرون [الـ Patch الذي يتكون من 200 سطر](https://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders/) و الذي يتيح تحسين أداء نظام Linux بشكل كبير ؟ أمر مشابه يحدث حاليا مع Firefox على أنظمة Windows و الذي يقسم زمن إقلاعه إلى نصفين بفضل Patch لا يتجاوز طوله 20 سطر برمجي.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/firefox-speed.jpg)
-](http://www.it-scoop.com/2011/01/20-line-code-speed-up-firefox-windows)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/firefox-speed.jpg)
+](https://www.it-scoop.com/2011/01/20-line-code-speed-up-firefox-windows)
 
 
 هذا ما [أعلن عنه](https://bugzilla.mozilla.org/show_bug.cgi?id=627591) المطور Taras Glek و الذي لاحظ تحسنا يقدر بـ 40% على متصفح Firefox 4  -الذي لا يزال في الإصدار التجريبي- بفضل هذا  الترقيعه ، والذي لاقى ترحيبا من قِبَل جميع من جربه، حيث تقلص زمن الإقلاع في بعض الحالات إلى 50% و تظهر النتائج بشكل أفضل على الأقراص الصلبة البطيئة.

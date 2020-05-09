@@ -14,13 +14,13 @@ tags:
 - Security
 ---
 
-**[ Microsoft تكشف عن محتوى الـ Patch Tuesday لشهر سبتمبر و الذي سيرقع 11 ثغرة](http://www.it-scoop.com/2010/09/patch-tuesday-september-2010/)**
+**[ Microsoft تكشف عن محتوى الـ Patch Tuesday لشهر سبتمبر و الذي سيرقع 11 ثغرة](https://www.it-scoop.com/2010/09/patch-tuesday-september-2010/)**
 
 
 كشفت Microsoft عن محتوى الـ Patch Tuesday الذي ستنشره يوم الثلاثاء القادم و الذي يسمح بترقيع 11 ثغرة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
-](http://www.it-scoop.com/2010/09/patch-tuesday-september-2010/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
+](https://www.it-scoop.com/2010/09/patch-tuesday-september-2010/)
 
 
 

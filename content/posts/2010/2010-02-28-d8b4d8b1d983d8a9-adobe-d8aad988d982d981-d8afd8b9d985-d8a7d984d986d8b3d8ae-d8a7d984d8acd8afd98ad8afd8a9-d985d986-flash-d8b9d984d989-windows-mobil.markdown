@@ -15,12 +15,12 @@ tags:
 - Windows Mobile
 ---
 
-[**شركة Adobe توقف دعم النسخ الجديدة من Flash على Windows Mobile 6.5**](http://www.it-scoop.com/2010/02/%d8%b4%d8%b1%d9%83%d8%a9-adobe-%d8%aa%d9%88%d9%82%d9%81-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%86%d8%b3%d8%ae-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d9%86-flash-%d8%b9%d9%84%d9%89-windows-mobil/)
+[**شركة Adobe توقف دعم النسخ الجديدة من Flash على Windows Mobile 6.5**](https://www.it-scoop.com/2010/02/%d8%b4%d8%b1%d9%83%d8%a9-adobe-%d8%aa%d9%88%d9%82%d9%81-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%86%d8%b3%d8%ae-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d9%86-flash-%d8%b9%d9%84%d9%89-windows-mobil/)
 
 
 أعلنت شركة Adobe صاحبة منتج Flash Player الشهير لعرض الفيديو على الإنترنت, عن توقف دعم النسخة الجديدة Flash Player 10.1 لـ Windows Mobile 6.5.
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/flash.jpeg)
-](http://www.it-scoop.com/2010/02/%d8%b4%d8%b1%d9%83%d8%a9-adobe-%d8%aa%d9%88%d9%82%d9%81-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%86%d8%b3%d8%ae-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d9%86-flash-%d8%b9%d9%84%d9%89-windows-mobil/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/flash.jpeg)
+](https://www.it-scoop.com/2010/02/%d8%b4%d8%b1%d9%83%d8%a9-adobe-%d8%aa%d9%88%d9%82%d9%81-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%86%d8%b3%d8%ae-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%85%d9%86-flash-%d8%b9%d9%84%d9%89-windows-mobil/)
 
 حسب قول Adobe فإنّ إصدار Windows Mobile 6.5 لا يدعم بعض المكتبات البرمجية التي يحتاجها البرنامج للعمل, و أنّ النسخة الجديدة 10.1 سوف تكون مدعومة في Windows Phone 7 نظام تشغيل الهواتف الجديد من شركة Microsoft و الذي سوف يتم طرحه في الاشهر القادمة..
 

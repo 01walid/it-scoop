@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[Google تصدر تحديثا جديدا لـ Chrome لترقيع 10 ثغرات](http://www.it-scoop.com/2010/09/chrome-update-6-0-472-59/)**
+**[Google تصدر تحديثا جديدا لـ Chrome لترقيع 10 ثغرات](https://www.it-scoop.com/2010/09/chrome-update-6-0-472-59/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
-](http://www.it-scoop.com/2010/09/chrome-update-6-0-472-59/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
+](https://www.it-scoop.com/2010/09/chrome-update-6-0-472-59/)
 
 
 من ضمن [الثغرات العشر](http://googlechromereleases.blogspot.com/2010/09/stable-beta-channel-updates_14.html) المرقعة، اثنتان تخصان نظام Linux، و ثالثة تخص نظام Mac OS وصفت بالحرجة.

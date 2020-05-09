@@ -14,13 +14,13 @@ tags:
 - Google
 ---
 
-[**Google تبدأ العمل على الإصدار الـ 6 من Chrome قبل إطلاق الإصدار النهائي لـ Chrome 5**](http://www.it-scoop.com/2010/05/google-chrome-6/)
+[**Google تبدأ العمل على الإصدار الـ 6 من Chrome قبل إطلاق الإصدار النهائي لـ Chrome 5**](https://www.it-scoop.com/2010/05/google-chrome-6/)
 
 
 تتوالى إصدارات متصفح Chrome و تأتي بإضافات جديدة حينا، و تحديثات طفيفة أحايين أخرى، حيث أعلنت Google على مدونة Chrome الرسمية توفر الإصدار التجريبي للإصدار الـ 6 من Chrome و هذا قبل أن تتم الإصدار الخامس و الذي لا يزال العمل جاريا عليه.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
-](http://www.it-scoop.com/2010/05/google-chrome-6/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
+](https://www.it-scoop.com/2010/05/google-chrome-6/)
 
 التحديثات مقارنة بالـ Beta الخاصة بالإصدار الخامس ليست بالكبيرة لحد الساعة، لكن قد يكون الإعلان عن هذا الإصدار تأكيدا لعزم Google مواصلة العمل على تطوير و تحسين متصفحها، أكثر من أي شيء آخر، لكن ما يثير الانتباه، هو طريقة ترقيم Google لإصدارات المتصفح، حيث أن أرقام الإصدارات لم تعد ذات معنى كبير.
 

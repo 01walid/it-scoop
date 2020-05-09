@@ -13,13 +13,13 @@ tags:
 - Xoom
 ---
 
-**[Motorola  ستطلق الجهاز اللوحي Xoom من دون Flash](http://www.it-scoop.com/2011/02/motorola-xoom-without-flash/)**
+**[Motorola  ستطلق الجهاز اللوحي Xoom من دون Flash](https://www.it-scoop.com/2011/02/motorola-xoom-without-flash/)**
 
 
 [أعلنت](http://www.pcworld.com/article/220280/motorola_xoom_launching_without_flash_support.html) Verizon Wireless  أن الجهاز اللوحي Motorola Xoom   سيكون متوفرا في الـ 24 من الشهر الحالي ، بنظام Honeycomb (Android 3.0) (وهو أول جهاز لوحي يأتي بهذا النظام) المبني على دعم Flash ، لكنه لن يأتي منصبا .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/motorola-xoom.jpg)
-](http://www.it-scoop.com/2011/02/motorola-xoom-without-flash/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/motorola-xoom.jpg)
+](https://www.it-scoop.com/2011/02/motorola-xoom-without-flash/)
 
 حسبما ذكرت [Adobe](http://blogs.adobe.com/flashplatform/2011/02/update-for-fp-10-2-on-tabs.html) في مدونتها  أنه سيتم توفير Adobe Flash Player 10.2 للأجهزة اللوحية للتحميل مجانا خلال بضع أسابيع ، في الوقت الحالي يمكن تحميل الإصدار 10.1 من [متجر التطبيقات](https://market.android.com/details?id=com.adobe.flashplayer&feature=search_result) .
 

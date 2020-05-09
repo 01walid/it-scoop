@@ -16,13 +16,13 @@ tags:
 - zynga
 ---
 
-[**هل سيؤثر تراجع مؤشر Nasdaq على دخول الشركات التقنية إلى البورصة؟**](http://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
+[**هل سيؤثر تراجع مؤشر Nasdaq على دخول الشركات التقنية إلى البورصة؟**](https://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
 
 
 
 
-عرف مؤشر Nasdaq بداية هذا الأسبوع [تراجعا مهما](http://www.marketwatch.com/story/nasdaq-leads-broad-market-retreat-2011-08-08?link=MW_latest_news) قُدِّر بنحو 07% خلال يوم واحد و11% منذ بداية السنة الجارية، وعرفت العديد من الشركات التقنية العالمية تراجعا في قيمة أسهمها.[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Stock-Market-Nasdaq.jpeg)
-](http://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
+عرف مؤشر Nasdaq بداية هذا الأسبوع [تراجعا مهما](http://www.marketwatch.com/story/nasdaq-leads-broad-market-retreat-2011-08-08?link=MW_latest_news) قُدِّر بنحو 07% خلال يوم واحد و11% منذ بداية السنة الجارية، وعرفت العديد من الشركات التقنية العالمية تراجعا في قيمة أسهمها.[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Stock-Market-Nasdaq.jpeg)
+](https://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
 
 
 
@@ -44,7 +44,7 @@ tags:
 
 
 [![](http://9to5google.files.wordpress.com/2011/08/screen-shot-2011-08-09-at-1-19-23-pm1.png)
-](http://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
+](https://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
 
 
 

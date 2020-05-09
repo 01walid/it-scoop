@@ -16,7 +16,7 @@ tags:
 - Vulnerabilities
 ---
 
-**[Microsoft تكشف عن محتوى الـ Patch Tuesday "الخفيف" لشهر نوفمبر و الذي لا يحتوي ترقيعا لثغرة Internet Explorer](http://www.it-scoop.com/2010/11/microsoft-patch-tuesday-november-2010)**
+**[Microsoft تكشف عن محتوى الـ Patch Tuesday "الخفيف" لشهر نوفمبر و الذي لا يحتوي ترقيعا لثغرة Internet Explorer](https://www.it-scoop.com/2010/11/microsoft-patch-tuesday-november-2010)**
 
 
 
@@ -26,14 +26,14 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
-](http://www.it-scoop.com/2010/11/microsoft-patch-tuesday-november-2010)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
+](https://www.it-scoop.com/2010/11/microsoft-patch-tuesday-november-2010)
 
 
 نشرة واحدة فقط وُصفت بالحرجة ، مقابل اثنتين وُسمتا بالـ "مهمة"، و يأتي هذا الترقيع الدوري لسد 12 ثغرة تخص بالأساس حزمة Microsoft Office  بإصداراتها XP ، 2010 و حتى 2011  الخاصة بالـ Mac، إلى جانب Forefront Unified Access Gateway 2010 .
 
-لكن بخلاف المنتظر، فإن هذا الـ Patch Teusday لا يحتوي ترقيعا لثغرة Internet Explorer التي [حدثناكم](http://www.it-scoop.com/2010/11/microsoft-internet-explorer-zero-day-vunlerability/) عنها يوم أمس، و من المنتظر أن تدوم فترة ترقب مستخدمي هذا المتصفح أيام (أو أسابيع) أخرى.
+لكن بخلاف المنتظر، فإن هذا الـ Patch Teusday لا يحتوي ترقيعا لثغرة Internet Explorer التي [حدثناكم](https://www.it-scoop.com/2010/11/microsoft-internet-explorer-zero-day-vunlerability/) عنها يوم أمس، و من المنتظر أن تدوم فترة ترقب مستخدمي هذا المتصفح أيام (أو أسابيع) أخرى.
 
 من المنتظر صدور هذا الـ Patch Tuesday في الـ 09 من نوفمبر الجاري (الثلاثاء القادم).
 
-للتذكير فقد سبق للـ [Patch Tuesday لشهر أكتوبر الماضي](http://www.it-scoop.com/2010/10/patch-tuesday-october-2010/) أن دخل التاريخ كأثقل Patch Tuesday في تاريخ Microsoft بفضل ثغراته الـ 49.
+للتذكير فقد سبق للـ [Patch Tuesday لشهر أكتوبر الماضي](https://www.it-scoop.com/2010/10/patch-tuesday-october-2010/) أن دخل التاريخ كأثقل Patch Tuesday في تاريخ Microsoft بفضل ثغراته الـ 49.

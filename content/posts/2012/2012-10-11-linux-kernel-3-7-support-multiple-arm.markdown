@@ -17,8 +17,8 @@ tags:
 
 نواة **Linux** من أكثر الأنوية المنشرة على مختلف الأجهزة بمختلف المصنعين والمعماريات. مع تزايد وتبيان الأجهزة التي تعمل على معالجات **ARM**، شكّل هذا صعوبة في التطوير والدعم لكل معالج على حدى وبناء نسخة مخصصة له من النواة. لكن ليس بعد الآن.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/LinuxARM.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/LinuxARM.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/LinuxARM.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/LinuxARM.jpg)
 
 هذا ما كشفه [ إيداع لدى مستودع الشفرة المصدرية](http://git.kernel.org/?p=linux/kernel/git/torvalds/linux-2.6.git;a=commit;h=9cd11c0c47b8690b47e7573311ce5c483cb344ed) الخاصة بالنواة، حيث كان يُضاف حوالي 000 70 سطر برمجي لكل نسخة من معالجات ARM المتنوعة في حين كان يكفي فقط 000 50 لنظيراتها ذوي المعمارية x86 قليلة التنوع، [لم يكن هذا يسعد المطوين](http://www.linaro.org/linaro-blog/2011/06/09/kernel-upstreaming/) بل كان يسبب لهم ارهاقا ووجع الرأس.
 

@@ -14,7 +14,7 @@ tags:
 - Security
 ---
 
-**[Mozilla ترفع قيمة مكافآت اكتشاف الثغرات في Firefox إلى 3000 دولار](http://www.it-scoop.com/2010/07/Mozilla-increases-bounty-security-bug)**
+**[Mozilla ترفع قيمة مكافآت اكتشاف الثغرات في Firefox إلى 3000 دولار](https://www.it-scoop.com/2010/07/Mozilla-increases-bounty-security-bug)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
-](http://www.it-scoop.com/2010/07/Mozilla-increases-bounty-security-bug)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+](https://www.it-scoop.com/2010/07/Mozilla-increases-bounty-security-bug)
 
 
 

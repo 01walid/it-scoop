@@ -18,7 +18,7 @@ tags:
 - XP
 ---
 
-[**حصة Mac OS X من سوق أنظمة تشغيل الأجهزة المكتبية  تتجاوز 6% لأول مرة  في تاريخ إحصاءات Net Applications**](http://www.it-scoop.com/2011/09/os-market-share-net-applications-august-2011)
+[**حصة Mac OS X من سوق أنظمة تشغيل الأجهزة المكتبية  تتجاوز 6% لأول مرة  في تاريخ إحصاءات Net Applications**](https://www.it-scoop.com/2011/09/os-market-share-net-applications-august-2011)
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/os-market-share-net-applications-August-2011.png)
-](http://www.it-scoop.com/2011/09/os-market-share-net-applications-august-2011)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/os-market-share-net-applications-August-2011.png)
+](https://www.it-scoop.com/2011/09/os-market-share-net-applications-august-2011)
 
 
 

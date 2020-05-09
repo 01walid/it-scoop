@@ -12,7 +12,7 @@ tags:
 - McAfee
 ---
 
-**[Intel تضع يدها على McAfee](http://www.it-scoop.com/2010/08/intel-mcafee/)**
+**[Intel تضع يدها على McAfee](https://www.it-scoop.com/2010/08/intel-mcafee/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/intel-mcafee.jpg)
-](http://www.it-scoop.com/2010/08/intel-mcafee/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/intel-mcafee.jpg)
+](https://www.it-scoop.com/2010/08/intel-mcafee/)
 
 
 أعطى  كلامجلسي إدارة الشركتي الضوء الأخضر بالإجماع لإتمام الصفقة، و التي من المنتظر إنهاؤها بمجرد الحصول على موافقة المساهمين في شركة McAfee.

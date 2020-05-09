@@ -15,13 +15,13 @@ tags:
 - PS3
 ---
 
-[**Sony تقرر توقيف إمكانية تنصيب أنظمة تشغيل أخرى على PS3 ابتداءً من الفاتح من أبريل**](http://www.it-scoop.com/2010/03/sony-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84/)
+[**Sony تقرر توقيف إمكانية تنصيب أنظمة تشغيل أخرى على PS3 ابتداءً من الفاتح من أبريل**](https://www.it-scoop.com/2010/03/sony-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84/)
 
 
 يشهد نظام Linux ساعاته الأخيرة على أجهزة PS3، حيث أعلنت Sony على مدونتها الرسمية، إلغاء إمكانية تنصيب أنظمة تشغيل أخرى على منصات PS3 ابتداءً من الفاتح من أبريل القادم، تاريخ إطلاق تحديث الـ  Firmware 3.21.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/ps3ubuntu.jpg)
-](http://www.it-scoop.com/2010/03/sony-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/ps3ubuntu.jpg)
+](https://www.it-scoop.com/2010/03/sony-%d8%aa%d9%82%d8%b1%d8%b1-%d8%aa%d9%88%d9%82%d9%8a%d9%81-%d8%a5%d9%85%d9%83%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%86%d8%b5%d9%8a%d8%a8-%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84/)
 
 حسب Sony فإن قرارها يعود لأسباب أمنية دون أن تفصح عن تفاصيل أكثر.
 

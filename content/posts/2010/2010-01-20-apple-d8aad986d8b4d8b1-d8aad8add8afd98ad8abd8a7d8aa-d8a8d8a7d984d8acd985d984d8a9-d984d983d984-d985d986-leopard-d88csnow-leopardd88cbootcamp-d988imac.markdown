@@ -15,13 +15,13 @@ tags:
 - snow Leopard
 ---
 
-[**Apple تنشر تحديثات بالجملة لكل من Leopard ،Snow Leopard،BootCamp وiMac**](http://www.it-scoop.com/2010/01/apple-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%ac%d9%85%d9%84%d8%a9-%d9%84%d9%83%d9%84-%d9%85%d9%86-leopard-%d8%8csnow-leopard%d8%8cbootcamp-%d9%88imac/)
+[**Apple تنشر تحديثات بالجملة لكل من Leopard ،Snow Leopard،BootCamp وiMac**](https://www.it-scoop.com/2010/01/apple-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%ac%d9%85%d9%84%d8%a9-%d9%84%d9%83%d9%84-%d9%85%d9%86-leopard-%d8%8csnow-leopard%d8%8cbootcamp-%d9%88imac/)
 
 
 نشرت Apple ليلة أمس جملة من التحديثات التي خصت كلا من  Leopard ،Snow Leopard،BootCamp وiMac.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/windows_7_macbook.jpg)
-](http://www.it-scoop.com/2010/01/apple-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%ac%d9%85%d9%84%d8%a9-%d9%84%d9%83%d9%84-%d9%85%d9%86-leopard-%d8%8csnow-leopard%d8%8cbootcamp-%d9%88imac/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/windows_7_macbook.jpg)
+](https://www.it-scoop.com/2010/01/apple-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%a8%d8%a7%d9%84%d8%ac%d9%85%d9%84%d8%a9-%d9%84%d9%83%d9%84-%d9%85%d9%86-leopard-%d8%8csnow-leopard%d8%8cbootcamp-%d9%88imac/)
 
 التحديثات هي على النحو التالي:
 

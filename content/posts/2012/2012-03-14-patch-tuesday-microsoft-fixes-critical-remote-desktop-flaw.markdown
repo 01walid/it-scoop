@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
 
 
 

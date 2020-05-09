@@ -14,13 +14,13 @@ tags:
 - windows live hotmail
 ---
 
-[**Windows Live Hotmail يتلقى 4 مليارات من الرسائل  الالكترونية يوميا**](http://www.it-scoop.com/2009/12/windows-live-hotmail-%d9%8a%d8%aa%d9%84%d9%82%d9%89-4-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/)
+[**Windows Live Hotmail يتلقى 4 مليارات من الرسائل  الالكترونية يوميا**](https://www.it-scoop.com/2009/12/windows-live-hotmail-%d9%8a%d8%aa%d9%84%d9%82%d9%89-4-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/)
 
 
 حسب Arther de Haan مدير قسم Windows Live للتجارب و هندسة النظم فإن  Windows Live Hotmail يتلقى  ما لا يقل عن أربعة مليارات رسالة إلكترونية  كل يوم .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/Windows_live_hotmail_logo.png)
-](http://www.it-scoop.com/2009/12/windows-live-hotmail-%d9%8a%d8%aa%d9%84%d9%82%d9%89-4-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Windows_live_hotmail_logo.png)
+](https://www.it-scoop.com/2009/12/windows-live-hotmail-%d9%8a%d8%aa%d9%84%d9%82%d9%89-4-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1/)
 
 ومن ضمن  هذا العدد الكبير فإن مليارا كاملا منها يكون عبارة عن رسائل Spam.
 

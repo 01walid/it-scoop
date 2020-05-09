@@ -16,8 +16,8 @@ categories:
 الكتاب يشرح منهاجية يُمكن لنا من خلالها التفكير وفهم الأمور التي تبدو ظاهريًا مُعقّدة أو تحتاج إلى جهد فكري عميق بشكل جيّد.
 الكتاب يركّز على النقاط الأساسية التالية:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2017/12/The-5-Elements-of-Effective-Thinking-.jpg)
-](http://www.it-scoop.com/2017/12/the-5-elements-of-effective-thinking/the-5-elements-of-effective-thinking-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2017/12/The-5-Elements-of-Effective-Thinking-.jpg)
+](https://www.it-scoop.com/2017/12/the-5-elements-of-effective-thinking/the-5-elements-of-effective-thinking-2/)
 
 
 ## 

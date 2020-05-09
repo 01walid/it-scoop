@@ -15,7 +15,7 @@ tags:
 
 أعلنت شركة Apple أنها ستدعم windows7 بإصداراته (Premium ، Professional و Ultimate) على نظامها الجديد Snow Leopard عن طريق استعمال [ bootcamp ](http://www.apple.com/support/bootcamp)قبل نهاية السنة الحالية
 
-![windows_7_macbook](http://www.it-scoop.com/wp-content/uploads/2009/11/windows_7_macbook.jpg)
+![windows_7_macbook](https://www.it-scoop.com/wp-content/uploads/2009/11/windows_7_macbook.jpg)
 
 حاليا يمكن تنصيب windows7    على أجهزة الـ Mac  لكن  الـ drivers  الحالية   ليست  موجهة للقيام بذلك  مما يعني أن شركة Apple  ستقوم بتوفير drivers  جديدة  للاستعمال الأنسب لـ windows7  على أجهزة الـ mac
 تجدر الإشارة إلى أن  أجهزة الـ mac  الوحيدة التي يمكنها تشغيل أنظمة windows  هي الأجهزة المعتمدة على معمارية مبنية حول معالجات  Intel  فقط

@@ -19,8 +19,8 @@ tags:
 
 
 
-[![شعارا Facebook و Yahoo](http://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-Yahoo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-Yahoo.jpg)
+[![شعارا Facebook و Yahoo](https://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-Yahoo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-Yahoo.jpg)
 
 
 

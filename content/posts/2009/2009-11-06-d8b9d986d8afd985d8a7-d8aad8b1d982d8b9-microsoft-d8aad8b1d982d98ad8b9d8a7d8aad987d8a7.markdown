@@ -15,7 +15,7 @@ tags:
 
 أصدرت Microsoft  ترقيعات جديدة لـ Internet explorer  لإصلاح بعض الأخطاء التي تسببت فيها ترقيعات سابقة.
 
-![microsoft-patch](http://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
+![microsoft-patch](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
 
 
 [الترقيع الحالي](http://support.microsoft.com/kb/976749) يخص تصحيح بعض الأخطاء في الترقيع [MS09-054](http://www.microsoft.com/france/technet/security/bulletin/ms09-054.mspx) و الذي يخص كافة إصدارات internet explorer  و المتعلق بثغرة تمكن الـ Hacker من التحكم  عن بعد في جهاز الضحية باستعمال صفحة ويب  ملغمة بشيفرات  VBScript و JavaScript  مكتوبة خصيصا لاستثمار الثغرة.

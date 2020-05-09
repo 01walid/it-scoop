@@ -12,15 +12,15 @@ tags:
 - IPO
 ---
 
-**[Groupon تخطط للدخول إلى البورصة بقيمة 15 مليار دولار](http://www.it-scoop.com/2011/01/groupon-ipo-15-billion-dollars/)**
+**[Groupon تخطط للدخول إلى البورصة بقيمة 15 مليار دولار](https://www.it-scoop.com/2011/01/groupon-ipo-15-billion-dollars/)**
 
 
 كشف [مدونة](http://dealbook.nytimes.com/2011/01/13/groupon-readies-for-an-i-p-o/) جريدة الـ New york Times أن Groupon تقوم حاليا تدرس فكرة دخولها إلى البورصة و التي سترفع قيمة الشركة إلى 15 مليار دولار.
 
 [![](http://www.groupon.com/images/groupon/logo_groupon_233x97.png)
-](http://www.it-scoop.com/2011/01/groupon-ipo-15-billion-dollars/)
+](https://www.it-scoop.com/2011/01/groupon-ipo-15-billion-dollars/)
 
-كما يقول المثل: "إذا عرف السبب بطل العجب"، حيث توضح هذه الخطوة سبب [رفض Groupon عرض Google لشرائها](http://www.it-scoop.com/2010/12/google-groupon/) و المقدر بـ 6 ملايبر دولار .
+كما يقول المثل: "إذا عرف السبب بطل العجب"، حيث توضح هذه الخطوة سبب [رفض Groupon عرض Google لشرائها](https://www.it-scoop.com/2010/12/google-groupon/) و المقدر بـ 6 ملايبر دولار .
 
 و لقد سبق لـ Groupon أن حصلت على تمويل إضافي منذ أيام وصلت إلى 950 مليون دولار، و تعتبر هذه الشركة من بين أسرع الشركات نموا على الإنترنت، حيث يصل عدد مستخدميها إلى 50 مليون عبر مختلف أنحاء العالم.
 

@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/SE-Android.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/SE-Android.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/SE-Android.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/SE-Android.jpg)
 
 
 

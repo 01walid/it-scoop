@@ -15,7 +15,7 @@ tags:
 - iPhone 4
 ---
 
-**[Apple تعلن عن بيعها لـ 1.7 مليون جهاز iPhone 4 خلال الأيام الثلاثة الأولى من إطلاقه](http://www.it-scoop.com/2010/06/iPhone-4-Sales-Top-1-7-Million)**
+**[Apple تعلن عن بيعها لـ 1.7 مليون جهاز iPhone 4 خلال الأيام الثلاثة الأولى من إطلاقه](https://www.it-scoop.com/2010/06/iPhone-4-Sales-Top-1-7-Million)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/iPhone-4.jpg)
-](http://www.it-scoop.com/2010/06/iPhone-4-Sales-Top-1-7-Million)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone-4.jpg)
+](https://www.it-scoop.com/2010/06/iPhone-4-Sales-Top-1-7-Million)
 
 
 يأتي هذا بالرغم من المنافسة الشرسة التي تلقاها هواتف iPhone من نظيراتها التي تعمل على نظام Android، إضافة إلى المشاكل الحالية المتعلقة بالهوائيات في الجيل الرابع من الـ iPhone.

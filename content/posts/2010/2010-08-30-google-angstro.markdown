@@ -14,13 +14,13 @@ tags:
 - Google Me
 ---
 
-**[Google تواصل التحضير لشبكتها الاجتماعية المنتظرة بشراء Angstro](http://www.it-scoop.com/2010/08/google-angstro)**
+**[Google تواصل التحضير لشبكتها الاجتماعية المنتظرة بشراء Angstro](https://www.it-scoop.com/2010/08/google-angstro)**
 
 
 قامت Google بشراء الشركة الناشئة Angstro  و التي طورت تقنية خاصة بتجميع المحتوى من الشبكات الاجتماعية في صفقة لم يتم الكشف عنه بعد.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/angstro.jpg)
-](http://www.it-scoop.com/2010/08/google-angstro)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/angstro.jpg)
+](https://www.it-scoop.com/2010/08/google-angstro)
 
 التقنية التي تطورها Angstro   تقوم على تجميع المحتويات من العديد من المواقع على الإنترنت خاصة الشبكات الاجتماعية، و من المحتمل جدا أن تلعب هذه التقنية دورا ما في الشبكة الاجتماعية المنتظرة لـ Google و التي يحتمل أن تحمل اسم Google Me.
 

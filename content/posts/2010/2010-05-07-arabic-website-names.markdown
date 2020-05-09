@@ -11,13 +11,13 @@ tags:
 - ICANN
 ---
 
-[**أولى أسماء النطاقات العربية ترى النور**](http://www.it-scoop.com/2010/05/arabic-website-names/)
+[**أولى أسماء النطاقات العربية ترى النور**](https://www.it-scoop.com/2010/05/arabic-website-names/)
 
 
 و أخيرا انتهى  احتكار الحرف اللاتيني لأسماء النطاقات، فقد أعلنت الـ ICANN على مدونتها أن أولى أسماء النطاقات العربية قد أبصرت النور و يتعلق الأمر بكل من أسماء النطاقات لمصر و السعودية و الإمارات العربية المتحدة.
 
 [![](http://blog.icann.org/wp-content/uploads/2010/05/idn-example-450px.png)
-](http://www.it-scoop.com/2010/05/arabic-website-names/)
+](https://www.it-scoop.com/2010/05/arabic-website-names/)
 
 أسماء النطاقات الجديدة التي تم اعتمادها هي كل من .السعودية، .امارات و .مصر
 

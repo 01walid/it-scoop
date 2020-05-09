@@ -15,13 +15,13 @@ tags:
 - PhoneItiPad
 ---
 
-**[بعد أن كان الجميع يظنه مستحيلا، إجراء المكالمات الهاتفية بالـ iPad أصبح ممكنا و الفضل يعود لـ ... آيفون إسلام](http://www.it-scoop.com/2011/05/ipad-3g-phone-calls-iphoneislam)**
+**[بعد أن كان الجميع يظنه مستحيلا، إجراء المكالمات الهاتفية بالـ iPad أصبح ممكنا و الفضل يعود لـ ... آيفون إسلام](https://www.it-scoop.com/2011/05/ipad-3g-phone-calls-iphoneislam)**
 
 
 لا تدرون كم هي فرحتي كبيرة و أنا أكتب عن هذا الخبر، ليس للفائدة الكبيرة التي يقدمها هذا الحل (فلا أملك iPad ... بعد)، لكن لكونه مكتوبا بأيادي مسلمة، فبعد أن كان الجميع يظنه مستحيلا، [يعلن](http://www.iphoneislam.com/?p=11223) فريق عمل آيفون إسلام عن حل لتمكين أجهزة الـ iPad 3G من المكالمات الهاتفية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/phoneitipad-mockup.jpg)
-](http://www.it-scoop.com/2011/05/ipad-3g-phone-calls-iphoneislam)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/phoneitipad-mockup.jpg)
+](https://www.it-scoop.com/2011/05/ipad-3g-phone-calls-iphoneislam)
 
 تطبيق PhoneItiPad  لم يصدر بعد بشكل رسمي، حيث يشير الموقع أن التحقق من ثباته لا يزال جاريا، لكن الفيديو التي تعلن عن ذلك (المرفقة أدناه) لا تدع أي مجال للشك. كما أن التطبيق لا يتطلب أية إضافات خاصة للجهاز، لكن في المقابل يجب أن تكون حماية النظام مكسورة (Jailbreak).
 

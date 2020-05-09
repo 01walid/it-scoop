@@ -15,14 +15,14 @@ tags:
 - sun
 ---
 
-[**Oracle تلغي مجانية إضافة ODF Plugin التي تسمح لمستعملي حزمة Office التعامل مع ملفات ODF**](http://www.it-scoop.com/2010/04/oracle-start-charging-odf-plugin)
+[**Oracle تلغي مجانية إضافة ODF Plugin التي تسمح لمستعملي حزمة Office التعامل مع ملفات ODF**](https://www.it-scoop.com/2010/04/oracle-start-charging-odf-plugin)
 
 
 بعد إلغاء مجانية نظام تشغيل Solaris، و توقيف التوزيع المجاني لأقراص OpenOffice، حان الدور الآن على إضافة ODF Plugin و التي تسمح لمستعملي حزمة Microsoft Office التعامل مع ملفات ODF  في إصدارها 1.2.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/ODF.jpg)
-](http://www.it-scoop.com/2010/04/oracle-start-charging-odf-plugin)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/ODF.jpg)
+](https://www.it-scoop.com/2010/04/oracle-start-charging-odf-plugin)
 
 
 إضافة ODF Plugin و التي نشرتها Sun سنة 2007 مجانا تسمح لمستعملي حزمة إنشاء و التعامل مع ملفات ODF الخاصة بحزمة OpenOffice، حيث أن الإصدار 3.2  من الإضافة كانت متوافقا مع مختلف إصدارات Office من 2000  إلى 2007.

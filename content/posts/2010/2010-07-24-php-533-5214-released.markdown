@@ -13,7 +13,7 @@ tags:
 - PHP
 ---
 
-**[صدور كلٍ من تحديثي 5.2.14 و 5.3.3 لـ PHP](http://www.it-scoop.com/2010/07/php-533-5214-released)**
+**[صدور كلٍ من تحديثي 5.2.14 و 5.3.3 لـ PHP](https://www.it-scoop.com/2010/07/php-533-5214-released)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/php-logo.png)
-](http://www.it-scoop.com/2010/07/php-533-5214-released)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/php-logo.png)
+](https://www.it-scoop.com/2010/07/php-533-5214-released)
 
 
 التحديث 5.2.14  يأتي لتصحيح بعض العلل الأمنية الموجودة في الإصدار السابق، كما تسجل نهاية دعم الفرع 5.2 من PHP، و يطلب من جميع مستخدمي هذا الفرع الانتقال إلى الفرع 5.3  لأنه لن يتم توفير أية ترقيعات لاحقة لهم.

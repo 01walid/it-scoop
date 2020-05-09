@@ -13,7 +13,7 @@ tags:
 - News Corp
 ---
 
-**[News Corp تبدي رغبتها في التخلص من MySpace، بيعا أو شراكة مع جهات أخرى](http://www.it-scoop.com/2010/11/news-corp-myspace/)**
+**[News Corp تبدي رغبتها في التخلص من MySpace، بيعا أو شراكة مع جهات أخرى](https://www.it-scoop.com/2010/11/news-corp-myspace/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/myspace-logo.png)
-](http://www.it-scoop.com/2010/11/news-corp-myspace/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/myspace-logo.png)
+](https://www.it-scoop.com/2010/11/news-corp-myspace/)
 
 
 هذا ما جاء على لسان Chase Carey  المدير العام لمجمع  News Corporation في [حوار](http://www.reuters.com/article/idUSTRE6AS3R920101130) أجراه مع وكالة Reuters للأنباء، و هي الخطوة التي تأتي بعد أن فقد الموقع صفة "الشبكة الاجتماعية" بعد أن تحول إلى موقع ترفيهي و قرر منذ أسابيع توفير آلية الدخول إليه عبر حسابات Facebook.

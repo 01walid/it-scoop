@@ -29,8 +29,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/XobotOS.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/XobotOS.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/XobotOS.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/XobotOS.jpg)
 
 
 
@@ -45,8 +45,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/mono-vs-dalvik.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/mono-vs-dalvik.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/mono-vs-dalvik.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/mono-vs-dalvik.png)
 
 
 
@@ -62,12 +62,12 @@ tags:
 
 
 [
-](http://www.it-scoop.com/wp-content/uploads/2012/05/mono-vs-dalvik.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/mono-vs-dalvik.png)
 
 
 
 
-تجدر الإشارة إلى أنه سبق وأن ["ورثت" Xamarin كل "تركة" Suse](http://www.it-scoop.com/2011/07/novell-xamarin-mono/) فيما يخص مشروع Mono ولواحقه، كما أنه سبق لها وأن أطلقت تطبيق [Mono for Android](http://www.it-scoop.com/2011/04/mono-for-android-dotnet/) الذي يسمح بكتابة تطبيقات لنظام Android باستعمال لغة C#. بعبارة أخرى، Xamarin تعي وتعرف جيدا المجال الذي دخلت إليه.
+تجدر الإشارة إلى أنه سبق وأن ["ورثت" Xamarin كل "تركة" Suse](https://www.it-scoop.com/2011/07/novell-xamarin-mono/) فيما يخص مشروع Mono ولواحقه، كما أنه سبق لها وأن أطلقت تطبيق [Mono for Android](https://www.it-scoop.com/2011/04/mono-for-android-dotnet/) الذي يسمح بكتابة تطبيقات لنظام Android باستعمال لغة C#. بعبارة أخرى، Xamarin تعي وتعرف جيدا المجال الذي دخلت إليه.
 
 
 

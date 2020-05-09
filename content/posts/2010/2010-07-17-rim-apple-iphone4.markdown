@@ -15,7 +15,7 @@ tags:
 - RIM
 ---
 
-[**بيان رسمي من Research In Motion ردا على دعاية Apple حول مشكلة  الهوائي في الـ iPhone 4**](http://www.it-scoop.com/2010/07/rim-apple-iphone4/)
+[**بيان رسمي من Research In Motion ردا على دعاية Apple حول مشكلة  الهوائي في الـ iPhone 4**](https://www.it-scoop.com/2010/07/rim-apple-iphone4/)
 
 
 رد الرئيسان التنفيذيان لـ Research In Motion  صاحبة هواتف BlackBerry و صانعة هوائيات الهواتف النقالة على التعليقات التي وصفاها بالمضللة لـ Steve Jobs خلال المؤتمر الصحفي الخاص بمشكلة الهوائي في الـ iPhone 4 البارحة.

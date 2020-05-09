@@ -13,14 +13,14 @@ tags:
 - T-Mobile
 ---
 
-**[ AT&T تشتري الفرع الفرع الأمريكي لـ T-Mobile مقابل 39 مليار دولار](http://www.it-scoop.com/2011/03/att-t-mobile-deutsche-telekom/)**
+**[ AT&T تشتري الفرع الفرع الأمريكي لـ T-Mobile مقابل 39 مليار دولار](https://www.it-scoop.com/2011/03/att-t-mobile-deutsche-telekom/)**
 
 
 أفضت النقاشات الدائرة ما بين شركتي  Deutsche Telekom  و AT&T إلى بيع الأولى للثانية الفرعَ الأمريكيَ لـ  T-Mobile مقابل 39 مليار دولار ، 25 مليارا منها ستكون نقدا، أما البقية فستكون أسهماً … وستحصل Deutsche Telekom  على حصة 8% من AT&T إضافة إلى مقعد في مجلس إدارتها.
 
 
 [![](http://www.blogcdn.com/www.engadget.com/media/2011/03/11x0320n81aatt.jpg)
-](http://www.it-scoop.com/2011/03/att-t-mobile-deutsche-telekom/)
+](https://www.it-scoop.com/2011/03/att-t-mobile-deutsche-telekom/)
 
 
 و سترفع هذه العملية عدد مشتركي AT&T إلى حوالي 130 مليون مشترك ، وقد تمت الموافقة على هذه الصفقة بين إدارة الشركتين، إلا أنها لا تزال في انتظار مباركة الجهات الحكومية و القانونية، و من المتوقع أن يتم الفراغ من عملية الشراء هذه بعد 12 شهرا.

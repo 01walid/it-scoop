@@ -14,13 +14,13 @@ tags:
 - Magento
 ---
 
-[**eBay تعتزم شراء الـ CMS الخاص بالتجارة الالكترونية Magento**](http://www.it-scoop.com/2011/06/ebay-magento/)
+[**eBay تعتزم شراء الـ CMS الخاص بالتجارة الالكترونية Magento**](https://www.it-scoop.com/2011/06/ebay-magento/)
 
 
 [أعلنت](http://www.businesswire.com/news/home/20110606006390/en/eBay-Agrees-Acquire-Magento) eBay أنها تعتزم شراء شركة [Magento](http://www.magentocommerce.com/) المنتجة لنظام إدارة المحتوى الخاص بالتجارة الالكترونية الذي يحمل نفس الاسم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/ebay-and-magento.jpg)
-](http://www.it-scoop.com/2011/06/ebay-magento/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/ebay-and-magento.jpg)
+](https://www.it-scoop.com/2011/06/ebay-magento/)
 
 بالرغم من امتلاكها لـ 49% من أصول الشركة إلا أن eBay قررت الحصول على المزيد و عزمت على امتلاك كامل أصول الشركة، و تنوي eBay بذلك أن تضم Magento إلى منصتها للتجارة الالكترونية التي تحمل الاسم X.commerce و التي تضم كلا من GSI التي اشترتها سابقا خلال هذا العام، خدمة الدفع الالكتروني PayPal إضافة إلى نشاطها الرئيسي المقام عبر موقع eBay.
 

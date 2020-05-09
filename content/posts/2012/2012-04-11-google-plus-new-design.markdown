@@ -16,11 +16,11 @@ tags:
 - جوجل بلص
 ---
 
-منذ بضع ساعات أعلنت Google على مدوّنتها الرّسميّة عن تصميم جديد لنسخة الويب من طبقتها الاجتماعيّة النّاشئة Google+. يتزامن هذا التّحديث مع بلوغ مستخدمي الشّبكة 170 مليونًا مقارنة بآخر عدد أعلن عنه: 90 مليونًا ([الّذي أعلن في يناير/كانون الثّاني الماضي عند كشف أرباح الرّبع الرابع من عام 2011](http://www.it-scoop.com/2012/01/google-news-8/)).
+منذ بضع ساعات أعلنت Google على مدوّنتها الرّسميّة عن تصميم جديد لنسخة الويب من طبقتها الاجتماعيّة النّاشئة Google+. يتزامن هذا التّحديث مع بلوغ مستخدمي الشّبكة 170 مليونًا مقارنة بآخر عدد أعلن عنه: 90 مليونًا ([الّذي أعلن في يناير/كانون الثّاني الماضي عند كشف أرباح الرّبع الرابع من عام 2011](https://www.it-scoop.com/2012/01/google-news-8/)).
 
 
-## [![](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design.png)
+## [![](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design.png)
 
 
 [التّدوينة](http://googleblog.blogspot.co.uk/2012/04/toward-simpler-more-beautiful-google.html) الّتي عنوانها "نحو Google+ أبسط وأجمل" تشرح الكثير من تفاصيل الشّكل الجديد، الّذي يبدو موجّها بحرص نحو الشّاشات الّتي تعمل باللّمس وكذلك الشّاشات التّقليديّة.
@@ -56,8 +56,8 @@ tags:
 أضاف التّصميم الجديد للمنشورات عرضًا أكبر للصّور المفردة ومقاطع الفيديو وعرضًا للمواقع الجغرافيّة والشّروحات لألبومات الصّور. كذلك يظهر قسم جديد يدعى Activity (النّشاط) عند النّقر على عدد من أجرى +1 للمنشور أو عدد من أعاد نشره ليعرض بعضًا من صورهم وأسمائهم.
 
 
-## [![](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-2.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-2.png)
+## [![](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-2.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-2.png)
 
 
 
@@ -73,8 +73,8 @@ tags:
 
 
 
-## [![](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-hangouts.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-hangouts.png)
+## [![](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-hangouts.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-hangouts.png)
 
 
 
@@ -84,13 +84,13 @@ tags:
 
 
 
-ليست Facebook وحدها من يحدّث صفحات مستخدميه الشّخصيّة، فها هي Google مع هذا التّحديث تحسّن تصميم الملفّات الشّخصيّة لتسمح للمستخدمين بعرض صور أكبر تشبه تلك المسمّاة Cover Photos (صور الغلاف) في Facebook. مع تغيير شكل قسم الدّردشة أيضًا يبدو أن Google لا تجد حرجًا في تقليد Facebook، وهذا دليل آخر على [قوانين الحرب بينهما](http://www.it-scoop.com/2011/11/facebook-google-fight/)!
+ليست Facebook وحدها من يحدّث صفحات مستخدميه الشّخصيّة، فها هي Google مع هذا التّحديث تحسّن تصميم الملفّات الشّخصيّة لتسمح للمستخدمين بعرض صور أكبر تشبه تلك المسمّاة Cover Photos (صور الغلاف) في Facebook. مع تغيير شكل قسم الدّردشة أيضًا يبدو أن Google لا تجد حرجًا في تقليد Facebook، وهذا دليل آخر على [قوانين الحرب بينهما](https://www.it-scoop.com/2011/11/facebook-google-fight/)!
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-profils.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-profils.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-profils.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/google-plus-new-design-profils.png)
 
 
 

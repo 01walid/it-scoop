@@ -23,13 +23,13 @@ tags:
 
 
 
-[![MariaDB](http://www.it-scoop.com/wp-content/uploads/2013/02/MariaDB.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/MariaDB.png)
+[![MariaDB](https://www.it-scoop.com/wp-content/uploads/2013/02/MariaDB.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/MariaDB.png)
 
 
 
 
-نظام إدارة قواعد البيانات MariaDB [عبارة عن Fork لنظام MySql](http://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/)  أطلقه مؤسس MySql AB (المؤسسة التي طورت MySql) وذلك بعد أن اشترت Oracle شركة Sun التي سبق لها أن اشترت MySql AB وذلك لمواصلة العمل على نظام إدارة قواعد بيانات مفتوح بشكل كلي، خاصة بعد اتجاه Oracle إلى جعل MySql أكثر انغلاقا حسب العديد من مناصري حركة المصادر المفتوحة.
+نظام إدارة قواعد البيانات MariaDB [عبارة عن Fork لنظام MySql](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-mariadb-5-1-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d8%a8%d9%87-%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b3-%d9%84%d9%80-mysql-%d8%b0%d9%88-4-storage-engine/)  أطلقه مؤسس MySql AB (المؤسسة التي طورت MySql) وذلك بعد أن اشترت Oracle شركة Sun التي سبق لها أن اشترت MySql AB وذلك لمواصلة العمل على نظام إدارة قواعد بيانات مفتوح بشكل كلي، خاصة بعد اتجاه Oracle إلى جعل MySql أكثر انغلاقا حسب العديد من مناصري حركة المصادر المفتوحة.
 
 
 

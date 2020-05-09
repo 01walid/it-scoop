@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/twitter-settings.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/twitter-settings.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/twitter-settings.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/twitter-settings.png)
 
 
 
@@ -29,13 +29,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/twitter-images-service-ios-before.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/twitter-images-service-ios-before.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/twitter-images-service-ios-before.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/twitter-images-service-ios-before.jpg)
 
 
 
 
-بطبيعة الحال فإن مثل هذه الحركات لن تُعجب مطوري الخدمات المنافسة، لكن يبدو بأن [تحركات تويتر الأخيرة](http://www.it-scoop.com/2012/08/twitter-new-api-changes/) جهزتهم نفسيا لتقبل ذلك، حيث [أشار](http://www.buzzfeed.com/jwherrman/twitter-is-removing-third-party-image-services-fro) Noah Everett مطور خدمة Twitpic بأنه يتفهم الوضع كون الشركة تعتمد على الإعلانات وبالتالي فإنه يهمها أن تتحكم في طريقة عرض المحتوى على خدمتها لكنه كان يتمنى لو حدث الأمر بشكل مختلف.
+بطبيعة الحال فإن مثل هذه الحركات لن تُعجب مطوري الخدمات المنافسة، لكن يبدو بأن [تحركات تويتر الأخيرة](https://www.it-scoop.com/2012/08/twitter-new-api-changes/) جهزتهم نفسيا لتقبل ذلك، حيث [أشار](http://www.buzzfeed.com/jwherrman/twitter-is-removing-third-party-image-services-fro) Noah Everett مطور خدمة Twitpic بأنه يتفهم الوضع كون الشركة تعتمد على الإعلانات وبالتالي فإنه يهمها أن تتحكم في طريقة عرض المحتوى على خدمتها لكنه كان يتمنى لو حدث الأمر بشكل مختلف.
 
 
 

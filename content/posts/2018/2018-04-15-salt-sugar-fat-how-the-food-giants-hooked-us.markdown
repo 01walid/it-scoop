@@ -15,8 +15,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/04/salt-sugar-fat.jpg)
-](http://www.it-scoop.com/2018/04/salt-sugar-fat-how-the-food-giants-hooked-us/salt-sugar-fat/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/04/salt-sugar-fat.jpg)
+](https://www.it-scoop.com/2018/04/salt-sugar-fat-how-the-food-giants-hooked-us/salt-sugar-fat/)
 
 
 

@@ -13,13 +13,13 @@ tags:
 - Google
 ---
 
-[**Google تقرر تشفير عمليات البحث بداية من الأسبوع القادم**](http://www.it-scoop.com/2010/05/Google-encrypted-search-next-week)
+[**Google تقرر تشفير عمليات البحث بداية من الأسبوع القادم**](https://www.it-scoop.com/2010/05/Google-encrypted-search-next-week)
 
 
 كشفت Marissa Mayer و التي تشغل منصب نائبة رئيس قسم منتجات البحث وخبرة المستخدم عن نية Google تشفير عمليات البحث عبر محرك بحثها و هذا بداية من الأسبوع القادم.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/google_security.jpg)
-](http://www.it-scoop.com/2010/05/Google-encrypted-search-next-week)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/google_security.jpg)
+](https://www.it-scoop.com/2010/05/Google-encrypted-search-next-week)
 
 لم يتم الكشف بعد عن الطريقة التي سيتم بها الأمر، و لا عن حيثياته أو أسبابه، لكن قد تكون الهجمات التي عانت منها Google و التي كانت قادمة من الصين أحد الأسباب التي دفع عملاق البحث في اتخاذ هذا الإجراء.
 

@@ -14,13 +14,13 @@ tags:
 - oracle
 ---
 
-**[أنباء عن قرب انضمام  Mark Hurd الـ CEO السابق لـHP إلى Oracle](http://www.it-scoop.com/2010/09/mark-hurd-oracle/)**
+**[أنباء عن قرب انضمام  Mark Hurd الـ CEO السابق لـHP إلى Oracle](https://www.it-scoop.com/2010/09/mark-hurd-oracle/)**
 
 
 أشارت صحيفة الـ wall Street Journal إلى أن Mark Hurd الرئيس التنفيذي السابق لـ HP قاب قوسين أو أدنى من الانضمام إلى Oracle لشغل منصب رفيع المستوى.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/Mark-Hurd.jpg)
-](http://www.it-scoop.com/2010/09/mark-hurd-oracle/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/Mark-Hurd.jpg)
+](https://www.it-scoop.com/2010/09/mark-hurd-oracle/)
 
 الـ WSJ و التي نقلت عن مصدر مطلع على الموضوع جيدا، لم تحصل على ماهية المنصب الذي يشغله Mark Hurd لكن أكد أن المنصب ليس منصب الرئيس المدير التنفيذي الذي يشغله Larry Ellison منذ بدايات Oracle قبل 30 سنة.
 

@@ -12,7 +12,7 @@ tags:
 - Total Security 2012
 ---
 
-[**Bitdefender تطلق الإصدار التجريبي لـ Total Security 2012**](http://www.it-scoop.com/2011/05/bitdefender-total-security-2012-beta)
+[**Bitdefender تطلق الإصدار التجريبي لـ Total Security 2012**](https://www.it-scoop.com/2011/05/bitdefender-total-security-2012-beta)
 
 
 كشفت Bitdefender عن الإصدار التجريبي لـ Total Security 2012 و لقد خصصت 3 جوائز قيمة للمجربين الأكثر إبلاغا عن وجود علل في التطبيق.
@@ -20,7 +20,7 @@ tags:
 
 
 [![](http://beta2012.bitdefender.com/images/screenshots/Main%20View%20-%20Protected.png)
-](http://www.it-scoop.com/2011/05/bitdefender-total-security-2012-beta)
+](https://www.it-scoop.com/2011/05/bitdefender-total-security-2012-beta)
 
 و حسب [البيان الصحفي](http://www.bitdefenderme.com/NW2106-me--%D8%A8%D8%AA%D8%AF%D9%8A%D9%81%D9%86%D8%AF%D8%B1-%D8%AA%D8%B7%D9%84%D9%82-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-Total-Security-2012-BETA.html) الذي يعلن عن التطبيق، فإنه من بين أهم ما تمت إضافته فيه هو وضع التشغيل التلقائي Auto-pilot mode ، حيث يتخذ التطبيق الإجراءات اللازمة من دون "إزعاج" المستخدم بمختلف التنبيهات.
 

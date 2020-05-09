@@ -21,8 +21,8 @@ tags:
 بعد إظهار عد تنازلي قبل أربعة أيام، ثم انقطع ذلك العد وكأن لسان حالهم يقول: كشفتمونا يا إخوة،  أعلنت **Canonical** أخيرا عن تفاصيل السر المكشوف، وكما كان متوقعا فالأمر يتعلق بـخط يلتقي فيه سطحان، ولا يتناطح عليه كبشان (ولا حتى جاموس Gnu)، وإلا لسقط إحداهما على الحافة، حزرتم؟ إنه **Ubuntu Edge** طبعا.
 
 
-[![Canonical-Ubuntu-Edge](http://www.it-scoop.com/wp-content/uploads/2013/07/Canonical-Ubuntu-Edge.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/Canonical-Ubuntu-Edge.jpg)
+[![Canonical-Ubuntu-Edge](https://www.it-scoop.com/wp-content/uploads/2013/07/Canonical-Ubuntu-Edge.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/Canonical-Ubuntu-Edge.jpg)
 
 
   إذا يتعلق الأمر بهاتف <del>ذكي</del> **خارق**، ذي مواصفات عالية، ثنائي الإقلاع، سواء بنظام **Ubuntu touch** أو بنظام **Android** على الخيار، وما الخارق فيه؟ - أنه يتحول إلى نظام سطح مكتب عادي عند إصاله بشاشة حاسوب. أما بالنسبة للمواصفات الأساسية فهو يأتي بـ: 4Gb ذاكرة عشوائية، معالج متعدد الأنوية ومساحة قرص SSD تصل إلى 128Gb وهي سابقة في عالم الهواتف الذكية ، كذلك بدقة شاشة 1280×720 HD، و 2 كاميرا أمامية وخلفية، تقنية NFC، .. وغيره من المواصفات.

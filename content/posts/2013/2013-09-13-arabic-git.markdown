@@ -19,8 +19,8 @@ tags:
 
 
 
-[![arabicGit-screenShot](http://www.it-scoop.com/wp-content/uploads/2013/09/arabicGit-screenShot.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/arabicGit-screenShot.png)
+[![arabicGit-screenShot](https://www.it-scoop.com/wp-content/uploads/2013/09/arabicGit-screenShot.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/arabicGit-screenShot.png)
 
 
 

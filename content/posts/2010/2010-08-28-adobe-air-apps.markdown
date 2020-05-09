@@ -14,7 +14,7 @@ tags:
 - AIR
 ---
 
-**[إطلاق دليل Adobe AIR Apps للوصول السريع لتطبيقات AIR  و معرفة تفاصيلها](http://www.it-scoop.com/2010/08/adobe-air-apps/)**
+**[إطلاق دليل Adobe AIR Apps للوصول السريع لتطبيقات AIR  و معرفة تفاصيلها](https://www.it-scoop.com/2010/08/adobe-air-apps/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Adobe-AIR-Application.png)
-](http://www.it-scoop.com/2010/08/adobe-air-apps/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Adobe-AIR-Application.png)
+](https://www.it-scoop.com/2010/08/adobe-air-apps/)
 
 
 الموقع الجديد يجنب المهتم بتطبيقات AIR عناء البحث عنها، حيث نجدها على الموقع مبوبة حسب مجال استخدامها (شبكات اجتماعية، التجارة الالكترونية، الوسائط المتعددة ...).

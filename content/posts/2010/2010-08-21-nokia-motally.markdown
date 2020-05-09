@@ -13,13 +13,13 @@ tags:
 - Nokia
 ---
 
-**[Nokia تشتري Motally المتخصصة في إحصائيات الهواتف](http://www.it-scoop.com/2010/08/nokia-motally/)**
+**[Nokia تشتري Motally المتخصصة في إحصائيات الهواتف](https://www.it-scoop.com/2010/08/nokia-motally/)**
 
 
 أعلنت Nokia شراءها لشركة Motally المتخصصة في إحصائيات الهواتف و خاصة ما تعلق منها بمدى استعمال التطبيقات و تصفح مواقع الإنترنت.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/nokia-motally.png)
-](http://www.it-scoop.com/2010/08/nokia-motally/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/nokia-motally.png)
+](https://www.it-scoop.com/2010/08/nokia-motally/)
 
 Motally و التي تتكون من 8 أشخاص فقط تقدم حاليا إحصائيات تخص كلا من iOS، BlackBerry و Android، و سيتم توجيه نشاطها بعد شرائها إلى كل من مكتبة Qt و نظامي Symbian و MeeGo الذين تعمل عليهما Nokia إلى جانب لغة Java.
 

@@ -19,13 +19,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/digg-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/digg-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/digg-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/digg-logo.png)
 
 
 
 
-هل تم بيع الشركة أم جزء منها فقط؟ في حقيقة الأمر تم بيع الشركة على مراحل، حيث سبق لشبكة LinkedIn أن اشترت 15 براءة اختراع مملوكة لـ Digg مُقابل [سعر تراوح ما بين 3.75 و4 مليون دولار](http://techcrunch.com/2012/07/12/digg-sold-to-linkedin-and-the-washington-post-and-betaworks/)، قبل أن "تُجهز" جريدة Washington Post –كما سبق وأن أخبرناكم به- على الشركة ["بشرائها"/توظيفها لفريق عمل الموقع](http://www.it-scoop.com/2012/05/digg-washington-post/) في صفقة وصلت قيمتها إلى 12 مليون دولار، وما [صفقة اليوم](http://about.digg.com/blog/digg-and-betawork) إلا إتمام لشراء ما تبقى من الشركة.
+هل تم بيع الشركة أم جزء منها فقط؟ في حقيقة الأمر تم بيع الشركة على مراحل، حيث سبق لشبكة LinkedIn أن اشترت 15 براءة اختراع مملوكة لـ Digg مُقابل [سعر تراوح ما بين 3.75 و4 مليون دولار](http://techcrunch.com/2012/07/12/digg-sold-to-linkedin-and-the-washington-post-and-betaworks/)، قبل أن "تُجهز" جريدة Washington Post –كما سبق وأن أخبرناكم به- على الشركة ["بشرائها"/توظيفها لفريق عمل الموقع](https://www.it-scoop.com/2012/05/digg-washington-post/) في صفقة وصلت قيمتها إلى 12 مليون دولار، وما [صفقة اليوم](http://about.digg.com/blog/digg-and-betawork) إلا إتمام لشراء ما تبقى من الشركة.
 
 
 

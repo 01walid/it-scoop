@@ -16,7 +16,7 @@ tags:
 - TimeLine Application
 ---
 
-[قامت](http://www.it-scoop.com/2012/01/facebook-open-graph/) Facebook شهر يناير الماضي بالكشف عن تطبيقات الخط الزمني TimeLine Applications  والتي تُعتبر نتيجةً لتطور Open Graph الذي يُعنى بآلية إشعار أصدقاء كل عضو بمختلف نشاطاته على الشبكة.
+[قامت](https://www.it-scoop.com/2012/01/facebook-open-graph/) Facebook شهر يناير الماضي بالكشف عن تطبيقات الخط الزمني TimeLine Applications  والتي تُعتبر نتيجةً لتطور Open Graph الذي يُعنى بآلية إشعار أصدقاء كل عضو بمختلف نشاطاته على الشبكة.
 
 
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-- يمكن مثلا للمواقع الإخبارية ك[المجلة التقنية](http://www.it-scoop.com/2012/01/facebook-open-graph/) إنتاج حالات مثل: "عمر قرأ خبر الفلاني".
+- يمكن مثلا للمواقع الإخبارية ك[المجلة التقنية](https://www.it-scoop.com/2012/01/facebook-open-graph/) إنتاج حالات مثل: "عمر قرأ خبر الفلاني".
 
 
 

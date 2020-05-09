@@ -19,8 +19,8 @@ tags:
 
 
 
-[![شعار كملنا](http://www.it-scoop.com/wp-content/uploads/2012/02/kammelna-logo.gif)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/kammelna-logo.gif)سبق وأن أعلن [موقع عالم التقنية](http://www.tech-wd.com/wd/2012/02/12/kammelna-acquired-by-social-games-company/) عن الخبر مُشيرا إلى أن قيمة الصفقة تُقدّر بعشرة ملايين دولار، لكن لم يتم تأكيد الصفقة حينها، حيث أبى المدون السعودي عصام الزامل -مؤسس الشركة- أن يُعلّق حول الخبر.
+[![شعار كملنا](https://www.it-scoop.com/wp-content/uploads/2012/02/kammelna-logo.gif)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/kammelna-logo.gif)سبق وأن أعلن [موقع عالم التقنية](http://www.tech-wd.com/wd/2012/02/12/kammelna-acquired-by-social-games-company/) عن الخبر مُشيرا إلى أن قيمة الصفقة تُقدّر بعشرة ملايين دولار، لكن لم يتم تأكيد الصفقة حينها، حيث أبى المدون السعودي عصام الزامل -مؤسس الشركة- أن يُعلّق حول الخبر.
 
 
 

@@ -19,8 +19,8 @@ tags:
 
 في تدوينة لسان حالها : "تعبت/كرهت من تصرفات الكبار"، أعلنت وشرحت **Opera** قرار التحول إلى محرك العرض **WebKit** والتخلي عن خاصتها المسمى **Presto** وذلك لما أصبح متصفح **Opera** يتعرض له من تهميش وضغوطات من قبل بعض كبرى المواقع والشركات.
 
-[![Opera-Webkit](http://www.it-scoop.com/wp-content/uploads/2013/02/Opera-Webkit.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/Opera-Webkit.png)
+[![Opera-Webkit](https://www.it-scoop.com/wp-content/uploads/2013/02/Opera-Webkit.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/Opera-Webkit.png)
 
 إذا لم تفهم ما أقلق Opera، فتخيل السيناريو التالي: خرائط Google خاصة على الهواتف تدعم بالدرجة الأولى WebKit ولا تُستعرض بشكل جيد على غيره، فيس بوك يُهمش المتصفحات غير المنتشرة ولا يُلقي لها بالا، بل وقد يحجبها، عدة خدمات أخرى تقوم بنفس الشيء سواء عمدا أو عن غير قصد ببناء خدماتهم بما يتناسب أو ما يوفره WebKit بالدرجة الأولى.
 

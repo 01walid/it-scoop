@@ -15,7 +15,7 @@ tags:
 - Tiobe
 ---
 
-**[Obective-C تزداد شعبية حسب أحدث ترتيب لـ TIOBE للغات البرمجة](http://www.it-scoop.com/2010/10/tiobe-obective-c/ )**
+**[Obective-C تزداد شعبية حسب أحدث ترتيب لـ TIOBE للغات البرمجة](https://www.it-scoop.com/2010/10/tiobe-obective-c/ )**
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://www.tiobe.com/content/paperinfo/tpci/images/tpci_trends.png)
-](http://www.it-scoop.com/2010/10/tiobe-obective-c/ )
+](https://www.it-scoop.com/2010/10/tiobe-obective-c/ )
 
 
 

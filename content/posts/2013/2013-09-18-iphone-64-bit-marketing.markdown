@@ -22,8 +22,8 @@ tags:
 
 
 
-[![iphone-5s-64-bit](http://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5s-64-bit.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5s-64-bit.jpg)
+[![iphone-5s-64-bit](https://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5s-64-bit.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/iphone-5s-64-bit.jpg)
 
 
 
@@ -43,8 +43,8 @@ tags:
 
 
 
-[![facebook-5s-info](http://www.it-scoop.com/wp-content/uploads/2013/09/facebook-5s-info.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/facebook-5s-info.jpg)
+[![facebook-5s-info](https://www.it-scoop.com/wp-content/uploads/2013/09/facebook-5s-info.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/facebook-5s-info.jpg)
 
 
 

@@ -13,14 +13,14 @@ tags:
 - Social Networks
 ---
 
-[**Facebook تسن قوانين جديدة للحد من مخاطر البرمجيات الخبيثة على شبكتها الاجتماعية**](http://www.it-scoop.com/2010/06/new-facebook-developer-rules/)
+[**Facebook تسن قوانين جديدة للحد من مخاطر البرمجيات الخبيثة على شبكتها الاجتماعية**](https://www.it-scoop.com/2010/06/new-facebook-developer-rules/)
 
 
 بحثاً عن الحد من ازدياد مخاطر البرمجيات الخبيثة على شبكتها الاجتماعية، ستلزم Facebook المطورين بتأكيد ملكية حساباتهم من خلال التزويد برقم الهاتف أو رقم بطاقة الائتمان الشخصية المضافة إلى حسابهم.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/facebook-security.gif)
-](http://www.it-scoop.com/2010/06/new-facebook-developer-rules/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/facebook-security.gif)
+](https://www.it-scoop.com/2010/06/new-facebook-developer-rules/)
 
 
 في حين أنه من الواضح أن هذه الخطوة في الاتجاه الصحيح إلا أنها لن توقف هذه البرمجيات من الاستمرار بإعاثة الفساد في الشبكة الاجتماعية.

@@ -12,15 +12,15 @@ tags:
 - True-Gaming
 ---
 
-**[موقع  True-Gaming  يحصل على استثمار من الوطنية للإنترنت  N2V](http://www.it-scoop.com/2011/03/n2v-true-gaming/)**
+**[موقع  True-Gaming  يحصل على استثمار من الوطنية للإنترنت  N2V](https://www.it-scoop.com/2011/03/n2v-true-gaming/)**
 
 
 
 
 [المبادرات الوطنية للانترنت](http://n2v.com/) (N2V) شركة الإنترنت القابضة الأبرز في الشرق الأوسط تعلن اليوم عن استثمارها في موقع ([True- Gaming .net](http://true-%20gaming%20.net/)) الموقع الاعلامي العربي الرائد في ألعاب الفيديو.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/True-Gaming-300x74.gif)
-](http://www.it-scoop.com/2011/03/n2v-true-gaming/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/True-Gaming-300x74.gif)
+](https://www.it-scoop.com/2011/03/n2v-true-gaming/)
 
 
 

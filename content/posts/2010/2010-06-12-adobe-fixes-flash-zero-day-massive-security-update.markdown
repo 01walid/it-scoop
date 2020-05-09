@@ -18,18 +18,18 @@ tags:
 - Security
 ---
 
-**[Adobe تطرح ترقيعاً أمنياً رسمياً لثغرات 0-day المكتشفة في تطبيقات Flash player, Reader و Acrobat](http://www.it-scoop.com/2010/06/Adobe-Fixes-Flash-Zero-Day-Massive-Security-Update)**
+**[Adobe تطرح ترقيعاً أمنياً رسمياً لثغرات 0-day المكتشفة في تطبيقات Flash player, Reader و Acrobat](https://www.it-scoop.com/2010/06/Adobe-Fixes-Flash-Zero-Day-Massive-Security-Update)**
 
 
 
 
-قامت شركة Adobe بطرح الترقيع الرسمي الخاص [بالمشاكل الأمنية في تطبيقاتها والتي كتبنا حولها منذ 6 أيام مضت](http://www.it-scoop.com/2010/06/Adobe-Reports-Critical-Vulnerability).
+قامت شركة Adobe بطرح الترقيع الرسمي الخاص [بالمشاكل الأمنية في تطبيقاتها والتي كتبنا حولها منذ 6 أيام مضت](https://www.it-scoop.com/2010/06/Adobe-Reports-Critical-Vulnerability).
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Flash-patch.jpg)
-](http://www.it-scoop.com/2010/06/Adobe-Fixes-Flash-Zero-Day-Massive-Security-Update)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Flash-patch.jpg)
+](https://www.it-scoop.com/2010/06/Adobe-Fixes-Flash-Zero-Day-Massive-Security-Update)
 
 
 

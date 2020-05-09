@@ -30,8 +30,8 @@ tags:
 
 
 
-[![مُقارنة ما بين مداخيل AppStore، متجر Amazon و متجر Google Play](http://www.it-scoop.com/wp-content/uploads/2012/04/revenue-comparison-iOS-Amzon-Android.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/revenue-comparison-iOS-Amzon-Android.png)
+[![مُقارنة ما بين مداخيل AppStore، متجر Amazon و متجر Google Play](https://www.it-scoop.com/wp-content/uploads/2012/04/revenue-comparison-iOS-Amzon-Android.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/revenue-comparison-iOS-Amzon-Android.png)
 
 
 

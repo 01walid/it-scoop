@@ -22,8 +22,8 @@ tags:
 
 
 
-[![google-maps-ios-update](http://www.it-scoop.com/wp-content/uploads/2013/03/google-maps-ios-update.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/google-maps-ios-update.jpg)
+[![google-maps-ios-update](https://www.it-scoop.com/wp-content/uploads/2013/03/google-maps-ios-update.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/google-maps-ios-update.jpg)
 
 
 

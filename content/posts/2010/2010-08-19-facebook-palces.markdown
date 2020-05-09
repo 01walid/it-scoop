@@ -14,14 +14,14 @@ tags:
 - places
 ---
 
-**[Facebook تطلق خدمة Places لتشارك أماكن توجد أعضائه](http://www.it-scoop.com/2010/08/facebook-palces)**
+**[Facebook تطلق خدمة Places لتشارك أماكن توجد أعضائه](https://www.it-scoop.com/2010/08/facebook-palces)**
 
 
 أطلقت Facebook منذ أمس خدمة جديدة لتشارك أماكن تواجد أعضائها أطلقت عليها اسم Places.
 
 
 [![](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs155.ash2/41107_472081566728_20531316728_6309714_1280015_n.jpg )
-](http://www.it-scoop.com/2010/08/facebook-palces)
+](https://www.it-scoop.com/2010/08/facebook-palces)
 
 
 الخدمة الجديدة المتوفرة حاليا في الولايات المتحدة فقط، تتمثل حسبما ورد على لسان Mark Zuckerberg الرئيس التنفيذي لـ Facebook في "خدمة تسمح لكم بتشارك أماكن تواجدكم، مع من معكم و معرفة من هم بالقرب منكم".

@@ -19,13 +19,13 @@ tags:
 - Yahoo
 ---
 
-حدثناكم سابقا عن [تجديد Google لعقدها مع Mozilla لثلاث سنوات إضافية](http://www.it-scoop.com/2011/12/google-mozilla-renew-search-deal/)، وبما أن السرية تحوط تفاصيل العقد فلم يكن من الممكن معرفة قيمته، مما فتح المجال أمام بعض الاحتمالات التي تُرجح أن يكون أقل قيمة من سابقه.
+حدثناكم سابقا عن [تجديد Google لعقدها مع Mozilla لثلاث سنوات إضافية](https://www.it-scoop.com/2011/12/google-mozilla-renew-search-deal/)، وبما أن السرية تحوط تفاصيل العقد فلم يكن من الممكن معرفة قيمته، مما فتح المجال أمام بعض الاحتمالات التي تُرجح أن يكون أقل قيمة من سابقه.
 
 
 
 
-[![Google ستدفع 300 مليون دولار سنويا لمؤسسة Mozilla والفضل يعود إلى كل من Microsoft و Yahoo](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Firefox-Logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Firefox-Logo.png)
+[![Google ستدفع 300 مليون دولار سنويا لمؤسسة Mozilla والفضل يعود إلى كل من Microsoft و Yahoo](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Firefox-Logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Firefox-Logo.png)
 
 
 

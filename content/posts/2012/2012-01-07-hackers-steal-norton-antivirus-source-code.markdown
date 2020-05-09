@@ -18,8 +18,8 @@ tags:
 
 
 
-[![Norton Antivirus](http://www.it-scoop.com/wp-content/uploads/2012/01/norton-logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/norton-logo.jpg)
+[![Norton Antivirus](https://www.it-scoop.com/wp-content/uploads/2012/01/norton-logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/norton-logo.jpg)
 
 
 

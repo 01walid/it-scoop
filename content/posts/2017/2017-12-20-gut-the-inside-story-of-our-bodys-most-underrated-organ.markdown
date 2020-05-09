@@ -14,8 +14,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2017/12/Gut-The-Inside-Story-of-Our-Body’s-Most-Underrated-Organ.jpg)
-](http://www.it-scoop.com/2017/12/gut-the-inside-story-of-our-bodys-most-underrated-organ/gut-the-inside-story-of-our-bodys-most-underrated-organ/)
+[![](https://www.it-scoop.com/wp-content/uploads/2017/12/Gut-The-Inside-Story-of-Our-Body’s-Most-Underrated-Organ.jpg)
+](https://www.it-scoop.com/2017/12/gut-the-inside-story-of-our-bodys-most-underrated-organ/gut-the-inside-story-of-our-bodys-most-underrated-organ/)
 
 الكتاب لم يكن سهل الهضم بالنسبة لي، وجدت فيه أقسامًا أرى أنها تتطلّب بعض المعارف الطبيّة المُسبقة لتخرج منها بأفضل فائدة ممكنة. إلا أن أسلوب الكاتبة وتحمّسها للموضوع يجعلك تستمتع بقراءة الكتاب بشكل عام، حيث أن الأمر أشبه بحكاية أو قصّة (رحلة كعكة من اللحظة التي تُشاهدها وتتذوّقها إلى أن تخرج من الطّرف الآخر من جهازك الهضمي).
 من بين أهم الأفكار التي خرجت منها بعد الفراغ من الكتاب هو أن لأمعاء الإنسان أهمية كبيرة جدًا في الجسم لا يُماثلها من حيث الأهمية سوى المخ/الجهاز العصبي، حيث تمتلك الأمعاء شبكة عصبية خاصّة بها يُمكنها أن تواصل العمل لوحدها حتى ولو انقطع اتصالها بمركز التحكم الموجود في المخ. كما أن لها تأثيرًا كبيرًا ومُباشرًا على الجهاز العصبي "الأساسي"، حيث يمكن أن تؤثّر حالة جهازك الهضمي/الأمعاء على صحّتك النّفسية.

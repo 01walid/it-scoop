@@ -26,7 +26,7 @@ tags:
 أطلقت Google الإصدار التجريبي لـ Chrome 10 و الذي –على غير العادة- يأتي بالعديد من الخواص الجديدة.
 
 [![](https://lh4.googleusercontent.com/PAxHeU25m_QWU83fp_RAPnrtAaWN_m8XOplzXtMZQW7g5wwGEetXbSmje_y2uZBhZjuaNvJCf6kGPHPSehn0z80mi5h1srPdtpJxpP4wfkqr4uoHTnRoEx2EyPOsx4nw)
-](http://www.it-scoop.com/2011/02/chrome-10-beta/)
+](https://www.it-scoop.com/2011/02/chrome-10-beta/)
 
 أهم ما جاء به هذا الإصدار هو إضافة محرك JavaScript جديد أطلق عليه اسم CrankShaft و الذي [يعتبر أسرع بـ 66%](http://chrome.blogspot.com/2011/02/faster-than-speeding-rabbit-speed-sync.html) من محرك JavaScript الخاص بالإصدار 9 من
 

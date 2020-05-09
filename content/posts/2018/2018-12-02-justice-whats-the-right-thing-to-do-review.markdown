@@ -15,8 +15,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/12/Justice-Whats-the-Right-Thing-to-Do.jpg)
-](http://www.it-scoop.com/2018/12/justice-whats-the-right-thing-to-do-review/justice-whats-the-right-thing-to-do/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/12/Justice-Whats-the-Right-Thing-to-Do.jpg)
+](https://www.it-scoop.com/2018/12/justice-whats-the-right-thing-to-do-review/justice-whats-the-right-thing-to-do/)
 
 
 
@@ -91,4 +91,4 @@ categories:
 
 
 
-[http://www.it-scoop.com/2018/06/what-money-cant-buy/](http://www.it-scoop.com/2018/06/what-money-cant-buy/)
+[https://www.it-scoop.com/2018/06/what-money-cant-buy/](https://www.it-scoop.com/2018/06/what-money-cant-buy/)

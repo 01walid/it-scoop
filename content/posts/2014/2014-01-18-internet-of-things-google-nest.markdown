@@ -23,8 +23,8 @@ tags:
 
 
 
-[![google-nest](http://www.it-scoop.com/wp-content/uploads/2014/01/google-nest1.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/google-nest1.jpg)
+[![google-nest](https://www.it-scoop.com/wp-content/uploads/2014/01/google-nest1.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/google-nest1.jpg)
 
 
 
@@ -34,8 +34,8 @@ tags:
 
 
 
-[![nest-google-privacy](http://www.it-scoop.com/wp-content/uploads/2014/01/nest-google-privacy.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/nest-google-privacy.jpg)
+[![nest-google-privacy](https://www.it-scoop.com/wp-content/uploads/2014/01/nest-google-privacy.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/nest-google-privacy.jpg)
 
 
 
@@ -61,8 +61,8 @@ tags:
 
 
 
-[![idate_m2m](http://www.it-scoop.com/wp-content/uploads/2014/01/idate_m2m.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/idate_m2m.jpg)
+[![idate_m2m](https://www.it-scoop.com/wp-content/uploads/2014/01/idate_m2m.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/idate_m2m.jpg)
 
 
 
@@ -115,8 +115,8 @@ tags:
 
 
 
-[caption id="attachment_12729" align="aligncenter" width="300"][![internet-of-things-landscape](http://www.it-scoop.com/wp-content/uploads/2014/01/internet-of-things-landscape-300x225.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/internet-of-things-landscape.png) (اضغط على الصورة لمشاهدتها بحجمها الكامل)[/caption]
+[caption id="attachment_12729" align="aligncenter" width="300"][![internet-of-things-landscape](https://www.it-scoop.com/wp-content/uploads/2014/01/internet-of-things-landscape-300x225.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/internet-of-things-landscape.png) (اضغط على الصورة لمشاهدتها بحجمها الكامل)[/caption]
 
 
 
@@ -129,8 +129,8 @@ tags:
 
 
 
-[![Babolat-Play](http://www.it-scoop.com/wp-content/uploads/2014/01/Babolat-Play.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/Babolat-Play.jpg)
+[![Babolat-Play](https://www.it-scoop.com/wp-content/uploads/2014/01/Babolat-Play.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/Babolat-Play.jpg)
 
 
 
@@ -207,8 +207,8 @@ Parrot التي تُصنع [لواقط للمزروعات](http://www.parrot.com
 
 
 
-[![ibm-smarter-cities](http://www.it-scoop.com/wp-content/uploads/2014/01/ibm-smarter-cities.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/ibm-smarter-cities.jpg)
+[![ibm-smarter-cities](https://www.it-scoop.com/wp-content/uploads/2014/01/ibm-smarter-cities.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/ibm-smarter-cities.jpg)
 
 
 

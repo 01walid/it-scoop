@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/duqu_code.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/duqu_code.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/duqu_code.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/duqu_code.png)
 
 
 

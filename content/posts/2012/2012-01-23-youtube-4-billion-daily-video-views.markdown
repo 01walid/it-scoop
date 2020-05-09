@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo-300x212.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo-300x212.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo.jpg)
 
 
 
@@ -39,4 +39,4 @@ tags:
 
 
 
-كل هذه الأرقام تعقد من وضعية منافسي Youtube الذين بالرغم من تركيزهم على بعض نقاط ضعف Youtube (كجودة الفيديوهات، أو سرعة التحميل على سبيل المثال) تبقى حصصهم في هذا المجال ضعيفة نسبيا، وتؤكد [الأرقام التي نشرتها Nielsen](http://www.it-scoop.com/2011/12/google-top-web-brand-2011/) سابقا -والتي تركز على السوق الأمريكية فقط- ذلك.
+كل هذه الأرقام تعقد من وضعية منافسي Youtube الذين بالرغم من تركيزهم على بعض نقاط ضعف Youtube (كجودة الفيديوهات، أو سرعة التحميل على سبيل المثال) تبقى حصصهم في هذا المجال ضعيفة نسبيا، وتؤكد [الأرقام التي نشرتها Nielsen](https://www.it-scoop.com/2011/12/google-top-web-brand-2011/) سابقا -والتي تركز على السوق الأمريكية فقط- ذلك.

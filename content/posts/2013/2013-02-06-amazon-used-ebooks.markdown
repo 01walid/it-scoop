@@ -19,8 +19,8 @@ tags:
 
 
 
-[![amazon-kindle_with_books1-1](http://www.it-scoop.com/wp-content/uploads/2013/02/amazon-kindle_with_books1-1.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/amazon-kindle_with_books1-1.jpg)
+[![amazon-kindle_with_books1-1](https://www.it-scoop.com/wp-content/uploads/2013/02/amazon-kindle_with_books1-1.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/amazon-kindle_with_books1-1.jpg)
 
 
 

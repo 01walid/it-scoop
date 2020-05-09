@@ -16,7 +16,7 @@ tags:
 - semantic web
 ---
 
-**[Google تضع يدها على MetaWeb و تخطو خطوة كبيرة نحو الإجابة على جميع الأسئلة]( http://www.it-scoop.com/2010/07/google-acquires-metaweb)**
+**[Google تضع يدها على MetaWeb و تخطو خطوة كبيرة نحو الإجابة على جميع الأسئلة]( https://www.it-scoop.com/2010/07/google-acquires-metaweb)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/metaWeb-logo.png)
-]( http://www.it-scoop.com/2010/07/google-acquires-metaweb)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/metaWeb-logo.png)
+]( https://www.it-scoop.com/2010/07/google-acquires-metaweb)
 
 
 قد يحوي الجزء " الإجابة على جميع الأسئلة " في العنوان نوعا من المبالغة  في الظرف الراهن، لكن الأمر لن يكون كذلك بعد سنوات قليلة، حيث تتيح التقنية التي تحوز عليها Google من وراء عملية الشراء هذه من التمكن من فهم الجمل و الأسئلة المطروحة بكل يسر، و تصرح Google في هذا الشأن قائلة:

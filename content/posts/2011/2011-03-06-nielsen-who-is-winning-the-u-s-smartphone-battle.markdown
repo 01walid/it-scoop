@@ -22,13 +22,13 @@ tags:
 ---
 
 [**تقرير nielsen : من سيربح معركة الهواتف الذكية في الولايات المتحدة ؟**
-](http://www.it-scoop.com/2011/03/nielsen-who-is-winning-the-u-s-smartphone-battle)
+](https://www.it-scoop.com/2011/03/nielsen-who-is-winning-the-u-s-smartphone-battle)
 
 
 الجواب يعتمد على معيار الترتيب ( نظام التشغيل أو الشركة المصنعة ) ، فمعركة كسب قلوب و عقول مستهلكي الهواتف الذكية لا تزال ساخنة وفقا [للبيانات](http://blog.nielsen.com/nielsenwire/online_mobile/who-is-winning-the-u-s-smartphone-battle/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+NielsenWire+%28Nielsen+Wire) الصادرة من شركة  Nielsen .
 
 [![](http://blog.nielsen.com/nielsenwire/wp-content/uploads/2011/03/manufacture-os-share.png )
-](http://www.it-scoop.com/2011/03/nielsen-who-is-winning-the-u-s-smartphone-battle)
+](https://www.it-scoop.com/2011/03/nielsen-who-is-winning-the-u-s-smartphone-battle)
 
 فلقد أجرت هذه الأخيرة دراسة في الفترة الممتدة ما بين نوفمبر و يناير الماضيين و التي بينت التالي:
 

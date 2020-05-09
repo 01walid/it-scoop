@@ -12,7 +12,7 @@ tags:
 - share button
 ---
 
-**[LinkedIn توفر بدورها  أزرارا لتسهيل تشارك المحتويات على شبكتها](http://www.it-scoop.com/2010/11/linkedin-share-button/)**
+**[LinkedIn توفر بدورها  أزرارا لتسهيل تشارك المحتويات على شبكتها](https://www.it-scoop.com/2010/11/linkedin-share-button/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/linkedin_share_button.jpg)
-](http://www.it-scoop.com/2010/11/linkedin-share-button/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/linkedin_share_button.jpg)
+](https://www.it-scoop.com/2010/11/linkedin-share-button/)
 
 
 العملية و الأزرار مشابهة لحد كبير لما تقدمه باقي الشبكات الاجتماعية، حيث أنها توفر [صفحة ](http://www.linkedin.com/publishers)تتيح توليد شيفرات تظهر 3 أنواع من الأزرار لتشارك المحتويات، و لاستظهار عداد لعمليات التشارك الحاصلة.

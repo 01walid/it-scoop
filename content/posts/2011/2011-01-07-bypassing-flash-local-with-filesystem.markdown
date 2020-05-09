@@ -15,7 +15,7 @@ tags:
 - sandbox
 ---
 
-**[باحث أمني يتوصل إلى طريقة لتجاوز الـ Sandbox الخاص بـ Flash Player](http://www.it-scoop.com/2011/01/bypassing-flash-local-with-filesystem)**
+**[باحث أمني يتوصل إلى طريقة لتجاوز الـ Sandbox الخاص بـ Flash Player](https://www.it-scoop.com/2011/01/bypassing-flash-local-with-filesystem)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Adobe-Flash-Vulnerability.jpg)
-](http://www.it-scoop.com/2011/01/bypassing-flash-local-with-filesystem)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Adobe-Flash-Vulnerability.jpg)
+](https://www.it-scoop.com/2011/01/bypassing-flash-local-with-filesystem)
 
 
 و حسب الطريقة التي شرحها Rios فإنه يمكن لأي ملف SWF يتم تنفيذه مباشرة على الجهاز (و ليس من خلال المتصفح) أن يقرأ ملفات الجهاز مباشرة، و يقوم بإرسالها عبر الشبكة دون أن يثير انتباه الضحية، متجاوزا بذلك حماية الـ Sandbox التي من المفترض أن تمنع أيا من سرقات البيانات الشخصية.

@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface.png)
 
 
 
@@ -29,8 +29,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-support.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-support.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-support.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-support.jpg)
 
 
 
@@ -40,8 +40,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-keyboard.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-keyboard.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-keyboard.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-surface-keyboard.jpg)
 
 
 

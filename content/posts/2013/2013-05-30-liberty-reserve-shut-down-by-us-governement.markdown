@@ -18,8 +18,8 @@ tags:
 
 
 
-[![Liberty-Reserve-shut-down-by-US-governement](http://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve-shut-down-by-US-governement.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve-shut-down-by-US-governement.jpg)
+[![Liberty-Reserve-shut-down-by-US-governement](https://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve-shut-down-by-US-governement.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve-shut-down-by-US-governement.jpg)
 
 
 
@@ -34,8 +34,8 @@ tags:
 
 
 
-[![Liberty-Reserve](http://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve.jpg)
+[![Liberty-Reserve](https://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/05/Liberty-Reserve.jpg)
 
 
 
@@ -55,7 +55,7 @@ tags:
 
 
 
-لكن هل يُمكن اعتبار إيقاف Liberty Reserve بداية حرب طويلة الأمد تخوضها الإدارة الأمريكية ضد العملات الافتراضية بشكل عام وضد [Bitcoin](http://www.it-scoop.com/2013/05/bitcoin/) بشكل خاص؟ هناك من يرى ذلك خاصة وأن السلطات الأمريكية خاضت "أولى معاركها" ضد Bitcoin منذ أيام فقط، حيث أنها قامت [بحجز حسابات](http://www.forbes.com/sites/petercohan/2013/05/29/after-liberty-reserve-shut-down-is-bitcoin-next/) تابعة لـ Mutum Sigillum وسيط منصة Mt. Gox اليابانية الخاصة بتداول عملة Bitcoin والتي تتحكم في 80% من عمليات تداول هذه العُملة. كما أنها قامت [بإيقاف جميع العمليات التي تتم على هذه المنصة باستخدام منصة الدفع الإلكتروني الأمريكية Dwolla](http://siliconangle.com/blog/2013/05/15/bitcoining-just-got-a-bit-more-complicated-no-thanks-to-dwolla/). إلا أن Patrick Murck المستشار القانوني لمؤسسة بيت كوين (Bitcoin Foundation) بأنه تجب قراءة عملية Liberty Reserve على أنها مُجرد تحذير لمنصات تبادل Bitcoin غير القانونية.
+لكن هل يُمكن اعتبار إيقاف Liberty Reserve بداية حرب طويلة الأمد تخوضها الإدارة الأمريكية ضد العملات الافتراضية بشكل عام وضد [Bitcoin](https://www.it-scoop.com/2013/05/bitcoin/) بشكل خاص؟ هناك من يرى ذلك خاصة وأن السلطات الأمريكية خاضت "أولى معاركها" ضد Bitcoin منذ أيام فقط، حيث أنها قامت [بحجز حسابات](http://www.forbes.com/sites/petercohan/2013/05/29/after-liberty-reserve-shut-down-is-bitcoin-next/) تابعة لـ Mutum Sigillum وسيط منصة Mt. Gox اليابانية الخاصة بتداول عملة Bitcoin والتي تتحكم في 80% من عمليات تداول هذه العُملة. كما أنها قامت [بإيقاف جميع العمليات التي تتم على هذه المنصة باستخدام منصة الدفع الإلكتروني الأمريكية Dwolla](http://siliconangle.com/blog/2013/05/15/bitcoining-just-got-a-bit-more-complicated-no-thanks-to-dwolla/). إلا أن Patrick Murck المستشار القانوني لمؤسسة بيت كوين (Bitcoin Foundation) بأنه تجب قراءة عملية Liberty Reserve على أنها مُجرد تحذير لمنصات تبادل Bitcoin غير القانونية.
 
 
 

@@ -14,7 +14,7 @@ tags:
 - Google
 ---
 
-**[Google  لا تخشى Facebook، و تتهم Apple بمحاولة إعادة كتابة تاريخ الهواتف](http://www.it-scoop.com/2010/07/Google-Schmidt-undaunted-Apple-Facebook)**
+**[Google  لا تخشى Facebook، و تتهم Apple بمحاولة إعادة كتابة تاريخ الهواتف](https://www.it-scoop.com/2010/07/Google-Schmidt-undaunted-Apple-Facebook)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/LarryPage_SergeyBrin_EricSchmidt.jpg)
-](http://www.it-scoop.com/2010/07/Google-Schmidt-undaunted-Apple-Facebook)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/LarryPage_SergeyBrin_EricSchmidt.jpg)
+](https://www.it-scoop.com/2010/07/Google-Schmidt-undaunted-Apple-Facebook)
 
 
 و صرح Sergei Brin بأن هناك العديد من الدلائل التي تشير إلى أن مستعملي الإنترنت يقومون بعمليات بحث أكثر على محرك Google بعد انضمامهم إلى Facebook، في محاولة مباشرة لتكذيب كل الإشاعات التي تشير إلى رغبة Google إنشاء شبكة اجتماعية  جديدة  (Google Me) للحد من مخاطر Facebook.

@@ -21,7 +21,7 @@ tags:
 
 
 
-[**هدية لقراء المجلة: تذكرة لحضور مؤتمر عرب نت**](http://www.it-scoop.com/2011/03/arabnet-invitation/)
+[**هدية لقراء المجلة: تذكرة لحضور مؤتمر عرب نت**](https://www.it-scoop.com/2011/03/arabnet-invitation/)
 
 
 
@@ -39,8 +39,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/email.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/03/email.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/email.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/03/email.png)
 
 
 

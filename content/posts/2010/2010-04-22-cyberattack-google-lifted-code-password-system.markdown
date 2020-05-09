@@ -15,13 +15,13 @@ tags:
 - Signle Sign-On
 ---
 
-[**نظام كلمات السر الخاص بـ Google تعرض للاختراق خلال هجمات ديسمبر الماضي**](http://www.it-scoop.com/2010/04/cyberattack-google-lifted-code-password-system)
+[**نظام كلمات السر الخاص بـ Google تعرض للاختراق خلال هجمات ديسمبر الماضي**](https://www.it-scoop.com/2010/04/cyberattack-google-lifted-code-password-system)
 
 
 وفقاً لمصدر على صلة وثيقة بالتحقيقات الجارية لدى Google، فإنه عندما قام قراصنة صينيون في ديسمبر الماضي عام 2009 باختراق أنظمة Google الداخلية، استطاعوا في طريقهم الحصول على الشفرة المصدرية الخاصة بنظام Gaia (نسبة للآلهة الإغريقية القديمة) المسؤول عن التحكم بمعظم خدمات ويب الخاصة بالشركة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/google-attack.jpg)
-](http://www.it-scoop.com/2010/04/cyberattack-google-lifted-code-password-system)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/google-attack.jpg)
+](https://www.it-scoop.com/2010/04/cyberattack-google-lifted-code-password-system)
 
 وقد [ذكرت صحيفة The New York Times ](http://www.nytimes.com/2010/04/20/technology/20google.html) بأن هجمات ديسمبر أدت إلى سرقة الشفرة المصدرية التي تتحكم بآلية [Single Sign-On](http://en.wikipedia.org/wiki/Single_sign-on) التي تستخدمها Google لملايين المستخدمين لخدمات العملاق، بما في ذلك Gmail وتطبيقات الشركة التجارية على الويب.
 

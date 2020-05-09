@@ -20,13 +20,13 @@ tags:
 المشروع أطلق عليه اسم ProFORMA والتي تعني باللاتينية "for shape" وهو أيضاً اختصار بالأحرف الأولى للعبارة: **Pro**babilistic **F**eature-based **O**n-line **R**apid **M**odel **A**cquisition، يقول Qi Pan مصمم البرنامج.
 
 
-![](http://www.it-scoop.com/wp-content/uploads/2009/11/stages.png)
+![](https://www.it-scoop.com/wp-content/uploads/2009/11/stages.png)
 
 
 
 
 
-![](http://www.it-scoop.com/wp-content/uploads/2009/11/resblocks4.png)
+![](https://www.it-scoop.com/wp-content/uploads/2009/11/resblocks4.png)
 
 
 

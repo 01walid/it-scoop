@@ -14,7 +14,7 @@ tags:
 - Like
 ---
 
-**[Google تطلق زر +1 شبيه زر Like الخاص بـ Facebook لإضافة توصيات لنتائج بحثها](http://www.it-scoop.com/2011/03/google-1-button/)**
+**[Google تطلق زر +1 شبيه زر Like الخاص بـ Facebook لإضافة توصيات لنتائج بحثها](https://www.it-scoop.com/2011/03/google-1-button/)**
 
 
 [كشفت](http://googleblog.blogspot.com/2011/03/1s-right-recommendations-right-when-you.html) Google اليوم الستار عن خدمة جديدة تتمثل في إضافة [زر +1](http://www.google.com/+1/button/) أمام نتائج بحث محركها، مما يتيح لكل باحث معرفة آراء معارفه حول الروابط التي يجدها خلال بحثه على Google.

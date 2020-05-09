@@ -14,7 +14,7 @@ tags:
 - Anis Plus
 ---
 
-**["اتصالات الجزائر" تطلق عرض Anis Plus لزيادة سرعات الإنترنت بموجة أسعار جديدة](http://www.it-scoop.com/2010/09/anis-plus-announcement/)**
+**["اتصالات الجزائر" تطلق عرض Anis Plus لزيادة سرعات الإنترنت بموجة أسعار جديدة](https://www.it-scoop.com/2010/09/anis-plus-announcement/)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![](http://www.djaweb.dz/images/logo.gif)
-](http://www.it-scoop.com/2010/09/anis-plus-announcement/)
+](https://www.it-scoop.com/2010/09/anis-plus-announcement/)
 
 
 

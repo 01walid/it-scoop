@@ -16,8 +16,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/twitter_arabic.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/twitter_arabic.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/twitter_arabic.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/twitter_arabic.jpg)
 
 
 
@@ -51,8 +51,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/twitter-translation.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/twitter-translation.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/twitter-translation.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/twitter-translation.png)
 
 
 

@@ -16,14 +16,14 @@ tags:
 - Windows Phone 7
 ---
 
-[**بشرى لمحبي لغة VB، أصبح بإمكانكم كتابة تطبيقات لـ Windows Phone 7 بلغتكم المفضلة**](http://www.it-scoop.com/2010/09/visual-basic-windows-phone-7/)
+[**بشرى لمحبي لغة VB، أصبح بإمكانكم كتابة تطبيقات لـ Windows Phone 7 بلغتكم المفضلة**](https://www.it-scoop.com/2010/09/visual-basic-windows-phone-7/)
 
 
 هل أنت من مبرمجي و محبي لغة Visual Basic ؟ هل كانت فكرة كتابة تطبيقات لـ Windows Phone 7 تدور في خلدك لكنك ألغيت الفكرة لعدم تمكنك من استعمال لغتك المفضلة؟ لا تقلقل فقد جاء الفرج :)  سيصبح بإمكانك القيام بذلك.
 
-[[![](http://www.it-scoop.com/wp-content/uploads/2010/09/windows-phone-7-300x255.png)
-](http://www.it-scoop.com/2010/09/visual-basic-windows-phone-7/)
-](http://www.it-scoop.com/wp-content/uploads/2010/09/windows-phone-7.png)
+[[![](https://www.it-scoop.com/wp-content/uploads/2010/09/windows-phone-7-300x255.png)
+](https://www.it-scoop.com/2010/09/visual-basic-windows-phone-7/)
+](https://www.it-scoop.com/wp-content/uploads/2010/09/windows-phone-7.png)
 
 جاء الإعلان عن ذلك  على لسان (أو لنقل على لوحة مفاتيح :p  )  Brandon Watson في [تدوينة](http://www.windowsteamblog.com/windows_phone/b/wpdev/archive/2010/09/23/visual-basic-comes-to-windows-phone-7.aspx) على مدونة فريق عمل Windows، حيث جاء ضمن مجمل ما قال:
 

@@ -14,7 +14,7 @@ tags:
 - pacmap
 ---
 
-**[PacMap:  هل تود أن تلعب Pacman على أرض الواقع  باستعمال هاتف Android ؟](http://www.it-scoop.com/2011/01/pacmap-pacman-android/)**
+**[PacMap:  هل تود أن تلعب Pacman على أرض الواقع  باستعمال هاتف Android ؟](https://www.it-scoop.com/2011/01/pacmap-pacman-android/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/PacMap-Home-191x300.png)
-](http://www.it-scoop.com/2011/01/pacmap-pacman-android/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/PacMap-Home-191x300.png)
+](https://www.it-scoop.com/2011/01/pacmap-pacman-android/)
 
 
 اللعبة تعتمد على الـ GPS لتحديد موقع اللاعب و ترسم له على الخريطة التي يستعرضها نقاط صفراء و مخلوقات ملونة تطارده. المشكل الوحيد الموجود في هذه اللعبة هو أنه لن يمكنك أن تستعملها كحجة لما يوقفك الشرطي بسبب فرط سرعتك هربا من مطارديك.

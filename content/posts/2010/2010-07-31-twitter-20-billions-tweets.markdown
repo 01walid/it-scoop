@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo-300x110.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo-300x110.jpg)
 ](it-scoop.com/2010/07/twitter-20-billions-tweets)
 
 

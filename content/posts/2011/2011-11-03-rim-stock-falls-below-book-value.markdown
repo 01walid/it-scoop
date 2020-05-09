@@ -19,8 +19,8 @@ tags:
 
 
 
-[![Android vs RIM](http://www.it-scoop.com/wp-content/uploads/2011/11/Android-vs-RIM.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/Android-vs-RIM.jpg)
+[![Android vs RIM](https://www.it-scoop.com/wp-content/uploads/2011/11/Android-vs-RIM.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/Android-vs-RIM.jpg)
 
 
 

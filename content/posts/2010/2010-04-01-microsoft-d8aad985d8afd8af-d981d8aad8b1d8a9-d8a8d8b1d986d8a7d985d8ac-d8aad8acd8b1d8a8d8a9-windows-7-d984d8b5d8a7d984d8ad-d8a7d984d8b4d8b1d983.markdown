@@ -14,13 +14,13 @@ tags:
 - windows7
 ---
 
-[**Microsoft تمدد فترة برنامج تجربة Windows 7 لصالح الشركات إلى غاية  نهاية العام الحالي**](http://www.it-scoop.com/2010/04/microsoft-%d8%aa%d9%85%d8%af%d8%af-%d9%81%d8%aa%d8%b1%d8%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-windows-7-%d9%84%d8%b5%d8%a7%d9%84%d8%ad-%d8%a7%d9%84%d8%b4%d8%b1%d9%83/)
+[**Microsoft تمدد فترة برنامج تجربة Windows 7 لصالح الشركات إلى غاية  نهاية العام الحالي**](https://www.it-scoop.com/2010/04/microsoft-%d8%aa%d9%85%d8%af%d8%af-%d9%81%d8%aa%d8%b1%d8%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-windows-7-%d9%84%d8%b5%d8%a7%d9%84%d8%ad-%d8%a7%d9%84%d8%b4%d8%b1%d9%83/)
 
 
 استفادت الشركات الراغبة في تجربة نظام Windows7 منذ شهر سبتمبر الماضي من عروض تسمح باستخدام أحدث نظام للعملاق Microsoft مدة 90 يوما و هذا بغرض معرفة إن كان النظام الجديد متوافقا مع ما تستعمله هذه الشركات من عتاد و برامج.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/windows-7-logo.jpg)
-](http://www.it-scoop.com/2010/04/microsoft-%d8%aa%d9%85%d8%af%d8%af-%d9%81%d8%aa%d8%b1%d8%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-windows-7-%d9%84%d8%b5%d8%a7%d9%84%d8%ad-%d8%a7%d9%84%d8%b4%d8%b1%d9%83/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/windows-7-logo.jpg)
+](https://www.it-scoop.com/2010/04/microsoft-%d8%aa%d9%85%d8%af%d8%af-%d9%81%d8%aa%d8%b1%d8%a9-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-windows-7-%d9%84%d8%b5%d8%a7%d9%84%d8%ad-%d8%a7%d9%84%d8%b4%d8%b1%d9%83/)
 
 و بما أن هذه العملية آتت أكلها و استفادت Microsoft منها هو ما فتح شهيتها أكثر و قررت تمديد فترة هذا البرنامج إلى غاية نهاية السنة الحالية.
 

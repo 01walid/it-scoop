@@ -16,7 +16,7 @@ tags:
 - Facebook Credits
 ---
 
-**[Electronic Arts توقع اتفاقا مع Facebook لاستعمال عملتها الافتراضية على ألعابها الاجتماعية](http://www.it-scoop.com/2010/11/electronic-arts-facebook-credits)**
+**[Electronic Arts توقع اتفاقا مع Facebook لاستعمال عملتها الافتراضية على ألعابها الاجتماعية](https://www.it-scoop.com/2010/11/electronic-arts-facebook-credits)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 أعلنت Electronic Arts في [بيان صحفي](http://investor.ea.com/releasedetail.cfm?ReleaseID=526155) نشرته أمس عن توصلها لاتفاق مع Facebook تستعمل  بموجبه عملة Facebook الافتراضية Facebook Credits  على ألعابها الاجتماعية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/Electronic-Arts-facebook-playfish.jpg)
-](http://www.it-scoop.com/2010/11/electronic-arts-facebook-credits)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Electronic-Arts-facebook-playfish.jpg)
+](https://www.it-scoop.com/2010/11/electronic-arts-facebook-credits)
 
 بعد شرائها لشركة PlayFish و التي تنتج العديد من الألعاب على Facebook (مثل لعبة [Biggest Brain](http://apps.facebook.com/biggestbrain/) الرائعة)، تواصل Electronic Arts اهتمامها بالألعاب على الشبكات الاجتماعية (وخاصة على  الـ Facebook)، و يأتي هذا الاتفاق الذي يمتد على خمس سنوات كاملة لتعزيز مكانها على Facebook حيث يتيح لها استعمال Facebook Credits بشكل حصري على ألعاب EA لشراء مختلف حاجيات لاعبيها .
 

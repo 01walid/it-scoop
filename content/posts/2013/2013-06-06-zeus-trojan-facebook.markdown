@@ -24,8 +24,8 @@ tags:
 
 
 
-[![facebook-trojan-horse](http://www.it-scoop.com/wp-content/uploads/2013/06/facebook-trojan-horse.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/facebook-trojan-horse.jpg)
+[![facebook-trojan-horse](https://www.it-scoop.com/wp-content/uploads/2013/06/facebook-trojan-horse.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/facebook-trojan-horse.jpg)
 
 
 

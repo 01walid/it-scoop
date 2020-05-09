@@ -11,7 +11,7 @@ tags:
 - رؤية رقمية، الراديو الرقمي
 ---
 
-[**الحلقة 20 من Podcast رؤية رقمية: الراديو الرقمي**](http://www.it-scoop.com/2011/06/digital-vision-podcast-20-digital-radio)
+[**الحلقة 20 من Podcast رؤية رقمية: الراديو الرقمي**](https://www.it-scoop.com/2011/06/digital-vision-podcast-20-digital-radio)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/WebRadio.png)
-](http://www.it-scoop.com/2011/06/digital-vision-podcast-20-digital-radio)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/WebRadio.png)
+](https://www.it-scoop.com/2011/06/digital-vision-podcast-20-digital-radio)
 
 
 

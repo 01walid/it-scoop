@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/google-logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/google-logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-logo.jpg)
 
 
 
@@ -41,13 +41,13 @@ tags:
 
 
 
-كما أن هذا التغيير قد يسبب لها أيضا "وجع رأس" جديد، فمن المتوقع أن تحظى إعلانات AdSense التي تظهر في محرك بحثها بالكثير من الانتقادات، حيث أنه في العديد من الحالات تحتل هذه الإعلانات مساحة معتبرة من منطقة above the fold. مما يعني أن Google أمام خيارين، إما التقليل من هذه الإعلانات، أو [معاقبة نفسها من جديد مثلما فعلته سابقا مع Chrome](http://www.it-scoop.com/2012/01/chrome-page-pagerank-reduced/).
+كما أن هذا التغيير قد يسبب لها أيضا "وجع رأس" جديد، فمن المتوقع أن تحظى إعلانات AdSense التي تظهر في محرك بحثها بالكثير من الانتقادات، حيث أنه في العديد من الحالات تحتل هذه الإعلانات مساحة معتبرة من منطقة above the fold. مما يعني أن Google أمام خيارين، إما التقليل من هذه الإعلانات، أو [معاقبة نفسها من جديد مثلما فعلته سابقا مع Chrome](https://www.it-scoop.com/2012/01/chrome-page-pagerank-reduced/).
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/google-search-ads-300x243.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-search-ads.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/google-search-ads-300x243.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-search-ads.jpg)
 
 
 
@@ -62,4 +62,4 @@ tags:
 
 
 
-للتذكير فإن Google أدخلت العديد من التحسينات على محرك بحثها خلال الأشهر القليلة الماضية، أحدثها كانت [تزويد محرك البحث بالخواص الاجتماعية لطبقتها الاجتماعية Google+](http://www.it-scoop.com/2012/01/google-makes-its-search-more-social/)، إضافة إلى جملة متكونة من [30 تحديثا مختلفا](http://www.it-scoop.com/2012/01/google-30-search-quality-changes%e2%80%8e/) تم الكشف عنها بداية الشهر الجاري.
+للتذكير فإن Google أدخلت العديد من التحسينات على محرك بحثها خلال الأشهر القليلة الماضية، أحدثها كانت [تزويد محرك البحث بالخواص الاجتماعية لطبقتها الاجتماعية Google+](https://www.it-scoop.com/2012/01/google-makes-its-search-more-social/)، إضافة إلى جملة متكونة من [30 تحديثا مختلفا](https://www.it-scoop.com/2012/01/google-30-search-quality-changes%e2%80%8e/) تم الكشف عنها بداية الشهر الجاري.

@@ -22,13 +22,13 @@ tags:
 - هواوي
 ---
 
-أشارت جريدة Wall Street Journal أن **Google** بصدد التحضير لبيع شركة **Motorola** التي اشترتها [مُقابل 12.5 مليار دولار](http://www.it-scoop.com/2011/08/google-motorola-mobility/) لصالح **Huawei** لكن مع احتفاظها ببراءات الاختراع الخاص بها والمُقدرة بنحو 17 ألفًا.
+أشارت جريدة Wall Street Journal أن **Google** بصدد التحضير لبيع شركة **Motorola** التي اشترتها [مُقابل 12.5 مليار دولار](https://www.it-scoop.com/2011/08/google-motorola-mobility/) لصالح **Huawei** لكن مع احتفاظها ببراءات الاختراع الخاص بها والمُقدرة بنحو 17 ألفًا.
 
 
 
 
-[![أنباء عن احتمال بيع Google شركة Motorola لـ Huawei مع الاحتفاظ ببراءات اختراعها](http://www.it-scoop.com/wp-content/uploads/2012/04/google-motorola.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/google-motorola.jpg)
+[![أنباء عن احتمال بيع Google شركة Motorola لـ Huawei مع الاحتفاظ ببراءات اختراعها](https://www.it-scoop.com/wp-content/uploads/2012/04/google-motorola.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/google-motorola.jpg)
 
 
 

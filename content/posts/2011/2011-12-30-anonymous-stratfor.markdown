@@ -17,8 +17,8 @@ tags:
 
 
 
-[![anonymous  تخترق موقع stratford ](http://www.it-scoop.com/wp-content/uploads/2011/12/stratford-anonymous.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/stratford-anonymous.jpg)
+[![anonymous  تخترق موقع stratford ](https://www.it-scoop.com/wp-content/uploads/2011/12/stratford-anonymous.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/stratford-anonymous.jpg)
 
 
 

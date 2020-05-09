@@ -17,7 +17,7 @@ tags:
 - RIM
 ---
 
-[**RIM تعتزم إطلاق هواتف BlackBerry مجهزة بنظام QNX متوافقة مع تطبيقات Android**](http://www.it-scoop.com/2011/08/rim-blackberry-qnx-android/)
+[**RIM تعتزم إطلاق هواتف BlackBerry مجهزة بنظام QNX متوافقة مع تطبيقات Android**](https://www.it-scoop.com/2011/08/rim-blackberry-qnx-android/)
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/BlackBerry.jpg)
-](http://www.it-scoop.com/2011/08/rim-blackberry-qnx-android/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/BlackBerry.jpg)
+](https://www.it-scoop.com/2011/08/rim-blackberry-qnx-android/)
 
 
 

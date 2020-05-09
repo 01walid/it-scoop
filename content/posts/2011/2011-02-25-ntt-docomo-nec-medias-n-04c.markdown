@@ -13,7 +13,7 @@ tags:
 - NTT DoCoMo
 ---
 
-[**NTT DoCoMo  تطلق NEC Medias N-04C أنحف هاتف ذكي بنظام Android**](http://www.it-scoop.com/2011/02/ntt-docomo-nec-medias-n-04c/)
+[**NTT DoCoMo  تطلق NEC Medias N-04C أنحف هاتف ذكي بنظام Android**](https://www.it-scoop.com/2011/02/ntt-docomo-nec-medias-n-04c/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/NEC-Medias-N-04C.jpg)
-](http://www.it-scoop.com/2011/02/ntt-docomo-nec-medias-n-04c/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/NEC-Medias-N-04C.jpg)
+](https://www.it-scoop.com/2011/02/ntt-docomo-nec-medias-n-04c/)
 
 و يأتي هذا الجهاز بعيد إطلاق كل من Samsung's Galaxy S II و Sony Ericsson's Xperia Arc  و اللذان يتميزان بسمك يصل إلى غاية 9 ملم عند أنحف منطقة.
 

@@ -15,14 +15,14 @@ tags:
 - Google
 ---
 
-[**عدد التطبيقات على الـ Android Market يتجاوز حاجز الـ 20,000  تطبيق و العدد مرشح للزيادة أكثر**](http://www.it-scoop.com/2009/12/%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%80-android-market-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%ad%d8%a7%d8%ac%d8%b2-%d8%a7/)
+[**عدد التطبيقات على الـ Android Market يتجاوز حاجز الـ 20,000  تطبيق و العدد مرشح للزيادة أكثر**](https://www.it-scoop.com/2009/12/%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%80-android-market-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%ad%d8%a7%d8%ac%d8%b2-%d8%a7/)
 
 
 
 حسب الإحصائيات المقدمة من طرف AndroLib فإن عدد التطبيقات الحالي على الـ Android Market تجاوز سقف 20,000 تطبيق .
 
-[![google_android_logo](http://www.it-scoop.com/wp-content/uploads/2009/12/google_android_logo.jpg)
-](http://www.it-scoop.com/2009/12/%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%80-android-market-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%ad%d8%a7%d8%ac%d8%b2-%d8%a7/)
+[![google_android_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/google_android_logo.jpg)
+](https://www.it-scoop.com/2009/12/%d8%b9%d8%af%d8%af-%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%80-android-market-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%ad%d8%a7%d8%ac%d8%b2-%d8%a7/)
 
 حسب نفس الإحصائيات فإن ثلثا هذا العدد من التطبيقات  مجاني مقابل الثلث فقط على الـ AppStore الخاص بـ Apple الذي يحوي 100.000 تطبيق.
 

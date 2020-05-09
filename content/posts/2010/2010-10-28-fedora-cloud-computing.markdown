@@ -14,7 +14,7 @@ tags:
 - Linux
 ---
 
-**[Fedora ستدخل الحوسبة السحابية خلال 5 أيام](http://www.it-scoop.com/2010/10/fedora-cloud-computing/)**
+**[Fedora ستدخل الحوسبة السحابية خلال 5 أيام](https://www.it-scoop.com/2010/10/fedora-cloud-computing/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/amazon-web-service.jpg)
-](http://www.it-scoop.com/2010/10/fedora-cloud-computing/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/amazon-web-service.jpg)
+](https://www.it-scoop.com/2010/10/fedora-cloud-computing/)
 
 
 

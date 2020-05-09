@@ -13,14 +13,14 @@ tags:
 - Twitter
 ---
 
-**[Twitter "تشتري" فريق عمل خدمة Fluther](http://www.it-scoop.com/2010/12/twitter-fluther/)**
+**[Twitter "تشتري" فريق عمل خدمة Fluther](https://www.it-scoop.com/2010/12/twitter-fluther/)**
 
 
 أعلنت Twitter عن "شرائها" لفريق عمل خدمة Fluther (لا أدري إن كان هذا التعبير جائزا)، و انضمامهم إلى فريق عمل الموقع.
 
 
 [![](http://d1invc31d88qbm.cloudfront.net/images/v2/dr_jelly.png)
-](http://www.it-scoop.com/2010/12/twitter-fluther/)
+](https://www.it-scoop.com/2010/12/twitter-fluther/)
 
 
 حسب [تدوينة](http://blog.twitter.com/2010/12/fluther-flocks-to-twitter.html) Twitter و [تدوينة](http://blog.fluther.com/fluther-joins-twitter/) فريق عمل اللتان تعلنان عن ذلك، فإن خدمة  Fluther(التي تتمثل في خدمة [للأسئلة/ الأجوبة](http://www.fluther.com/help/)) ستبقى مستقلة بذاتها و ستواصل نشاطها مثلما كانت عليه (من سيقوم بإداراته إذاً :s ؟)، لكن الأمر أشبه إلى حد كبير بما هو حاصل في مجال الرياضة (و كرة القدم تحديدا) من شراء اللاعبين و انتقالهم من فريق إلى آخر. و يتعلق الأمر بأربع مهندسين و مصمم.

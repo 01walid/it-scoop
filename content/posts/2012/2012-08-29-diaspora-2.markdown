@@ -17,8 +17,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/diaspora-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2010/08/diaspora-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/diaspora-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/08/diaspora-logo.png)
 
 
 
@@ -33,7 +33,7 @@ tags:
 
 
 
-تجدر الإشارة إلى أن الشبكة قد حظيت باهتمام كبير لدى انطلاقتها خاصة بعد [حصولها على 200 ألف دولار كتمويل](http://www.it-scoop.com/2010/08/diaspora-september-15/) عبر شبكة Kickstarter بعد أن كانت تهدف إلى جمع 10 آلاف دولار، وقد كان من بيع المتبرعين حينئذ Mark Zukerburg.
+تجدر الإشارة إلى أن الشبكة قد حظيت باهتمام كبير لدى انطلاقتها خاصة بعد [حصولها على 200 ألف دولار كتمويل](https://www.it-scoop.com/2010/08/diaspora-september-15/) عبر شبكة Kickstarter بعد أن كانت تهدف إلى جمع 10 آلاف دولار، وقد كان من بيع المتبرعين حينئذ Mark Zukerburg.
 
 
 

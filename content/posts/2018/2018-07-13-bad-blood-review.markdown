@@ -20,8 +20,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/07/Bad-Blood-Secrets-and-Lies-in-a-Silicon-Valley-Startup-.jpg)
-](http://www.it-scoop.com/2018/07/bad-blood-review/bad-blood-secrets-and-lies-in-a-silicon-valley-startup/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/07/Bad-Blood-Secrets-and-Lies-in-a-Silicon-Valley-Startup-.jpg)
+](https://www.it-scoop.com/2018/07/bad-blood-review/bad-blood-secrets-and-lies-in-a-silicon-valley-startup/)
 
 
 

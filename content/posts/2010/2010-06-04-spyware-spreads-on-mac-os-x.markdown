@@ -13,13 +13,13 @@ tags:
 - Security
 ---
 
-[**Intego تحذر من انتشار برمجية خبيثة تصاحب تطبيقات تخص نظام Mac OSX**](http://www.it-scoop.com/2010/06/spyware-spreads-on-mac-os-x/ )
+[**Intego تحذر من انتشار برمجية خبيثة تصاحب تطبيقات تخص نظام Mac OSX**](https://www.it-scoop.com/2010/06/spyware-spreads-on-mac-os-x/ )
 
 
 نشرت مجموعة أمنية مختصة تسمى [Intego](http://www.intego.com/) يوم الثلاثاء الماضي قائمة بأسماء التطبيقات المصابة بالبرمجية الخبيثة OSX/OpinionSpy.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Worm-Apple.jpg)
-](http://www.it-scoop.com/2010/06/Spyware-Spreads-On-Mac-OS-X)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Worm-Apple.jpg)
+](https://www.it-scoop.com/2010/06/Spyware-Spreads-On-Mac-OS-X)
 
 نبهت المجموعة بأن البرمجية الخبيثة ليست مضمنة في هذه التطبيقات وإنما يتم تحميلها أثناء عملية التنصيب.
 

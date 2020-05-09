@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Jolla-Meego-e1341912776449.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Jolla-Meego.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Jolla-Meego-e1341912776449.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Jolla-Meego.jpg)
 
 
 
@@ -34,7 +34,7 @@ tags:
 
 
 
-للتذكير فإن نظام [MeeGo](http://www.it-scoop.com/2010/10/meego-1-1/) هو وليد جمع جهود كل من نظام Moblin الخاص بـIntel وMaemo  الخاص بـ Nokia، لكن بعد تخلي Nokia عن نظام MeeGo [قررت Intel مواصلة العمل عليه مع شريك آخر](http://www.it-scoop.com/2011/02/intel-defends-meego-nokia-defection/)، ووقع اختيارها على Samsung لمواصلة العمل عليه تحت اسم Tizen.
+للتذكير فإن نظام [MeeGo](https://www.it-scoop.com/2010/10/meego-1-1/) هو وليد جمع جهود كل من نظام Moblin الخاص بـIntel وMaemo  الخاص بـ Nokia، لكن بعد تخلي Nokia عن نظام MeeGo [قررت Intel مواصلة العمل عليه مع شريك آخر](https://www.it-scoop.com/2011/02/intel-defends-meego-nokia-defection/)، ووقع اختيارها على Samsung لمواصلة العمل عليه تحت اسم Tizen.
 
 
 

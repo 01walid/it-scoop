@@ -43,7 +43,7 @@ tags:
 
 
 
-[**مسابقة رمضان 1432 على المجلة التقنية - الأسبوع الرابع: اربح ****واحدة من بين 10 تراخيص  ****Bitdefender Internet Security 2012**](http://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-4/)
+[**مسابقة رمضان 1432 على المجلة التقنية - الأسبوع الرابع: اربح ****واحدة من بين 10 تراخيص  ****Bitdefender Internet Security 2012**](https://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-4/)
 
 
 

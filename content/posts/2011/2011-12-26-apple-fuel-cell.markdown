@@ -18,8 +18,8 @@ tags:
 
 
 
-[![بطاريات تعمل بخلايا الوقود](http://www.it-scoop.com/wp-content/uploads/2011/12/fuel-cell-300x199.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/fuel-cell.jpg)
+[![بطاريات تعمل بخلايا الوقود](https://www.it-scoop.com/wp-content/uploads/2011/12/fuel-cell-300x199.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/fuel-cell.jpg)
 
 
 

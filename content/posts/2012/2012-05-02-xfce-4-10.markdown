@@ -22,38 +22,38 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/XFCE-desktop.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/XFCE-desktop.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/XFCE-desktop.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/XFCE-desktop.jpg)
 
 
 1-**Deskbar Mode** جديد يحاذي التطبيقات المفتوحة عموديا فيما يعرض الإضافات أفقيا، صُمم لاستغلال المساحة الأفقية الواسعة في الشاشات العريضة قدر الإمكان.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/panel-deskbar.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/panel-deskbar.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/panel-deskbar.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/panel-deskbar.png)
 
 2-تدعم اللوحة الآن في النمط الأفقي تعدد صفوف منصات الإطلاق والإضافات الأخرى فيما تتوسع عناصر قائمة النوافذ على كامل عرض اللوحة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/panel-rows.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/panel-rows.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/panel-rows.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/panel-rows.png)
 
 3-**applications finder** أعيدت كتابته كليا من الصفر. عن طريق الاختصار Alt+Tab يمكنك تشغيله، عرفت واجهته تحسينا وبات يجمع بين وظائف التطبيق القديم و xfrun4.
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/appfinder-expanded.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/appfinder-expanded.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/appfinder-expanded.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/appfinder-expanded.png)
 
 4-توجيه المستخدم إلى Wiki حين ينقر على زر المساعدة ما يجعل التوثيق حسب المطورين أكثر تحديثا.
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/online-help.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/online-help.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/online-help.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/online-help.png)
 
 5-سهولة تغيير التطبيقات المستخدمة في فتح مختلف الملفات عن طريق نوع جديد من محرر meme دون إضافة أو حذف الصيغ أو الأيقونات.
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/settings-mime.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/settings-mime.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/settings-mime.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/settings-mime.png)
 
 6-إطلاق تطبيقات وفتح ملفات بكبسة زر من سطح المكتب مع استعراض الصورة لمجرد وضع مؤشر الفأرة عليها.
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/xfdesktop.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/xfdesktop.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/xfdesktop.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/xfdesktop.png)
 
 7-مدير إعدادات جديد يجمع التعديلات تحت تصنيفات يتيح البحث عنها عبر الاسم أو الوصف.
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/settings-manager.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/settings-manager.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/settings-manager.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/settings-manager.png)
 يمكن الاطلاع على خواص 4.10 xfce كاملة [من هنا](http://xfce.org/about/tour). أو بقراءة [Changelog هذا الإصدار](http://xfce.org/download/changelogs/4.10).
 - هل تستعمل سطح مكتب Xfce؟ ما السبب الذي يدفعك إلى ذلك؟ ما رأيك في هذه التحديثات؟

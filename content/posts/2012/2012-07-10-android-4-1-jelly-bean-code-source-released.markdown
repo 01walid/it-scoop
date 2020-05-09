@@ -17,13 +17,13 @@ tags:
 - Jelly Bean
 ---
 
-نشرت Google الشفرة المصدرية للإصدار **4.1**  (المعروف باسم **Jelly Bean**) من نظام **Android**، وذلك بعد أسبوعين فقط من كشفها عن [هذا النظام وعن خواصه الجديدة](http://www.it-scoop.com/2012/06/android-jelly-bean/) خلال مؤتمر I/O الماضي.
+نشرت Google الشفرة المصدرية للإصدار **4.1**  (المعروف باسم **Jelly Bean**) من نظام **Android**، وذلك بعد أسبوعين فقط من كشفها عن [هذا النظام وعن خواصه الجديدة](https://www.it-scoop.com/2012/06/android-jelly-bean/) خلال مؤتمر I/O الماضي.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/jelly-bean_android_4_1.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/jelly-bean_android_4_1.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/jelly-bean_android_4_1.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/jelly-bean_android_4_1.jpg)
 
 
 

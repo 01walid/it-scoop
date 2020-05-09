@@ -12,13 +12,13 @@ tags:
 - Sonic Solutions
 ---
 
-[**Sonic Solutions تشتري شركة DivX Inc مقابل 322 مليون دولار**](http://www.it-scoop.com/2010/06/sonic-to-acquire-divx/)
+[**Sonic Solutions تشتري شركة DivX Inc مقابل 322 مليون دولار**](https://www.it-scoop.com/2010/06/sonic-to-acquire-divx/)
 
 
 أعلنت شركة Sonic Solutions توصلها لاتفاق مع شركة DivX Inc المالكة لمعيار ملفات الفيديو المضغوطة DivX مقابل 320 مليون دولار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/divx-logo.jpg)
-](http://www.it-scoop.com/2010/06/sonic-to-acquire-divx/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/divx-logo.jpg)
+](https://www.it-scoop.com/2010/06/sonic-to-acquire-divx/)
 
 عملية الشراء هذه جاءت بعد أن عرضت Sonic Solutions على مساهمي شركة DivX Inc مبلغ 9.83 دولار للسهم الواحد و هو ما يمثل زيادة قدرت بـ 41% من سعر السهم في البورصة، لكن هذا لا يعني إنهاء الصفقة، حيث يجب أن تحصل على مباركة السلطات المراقبة للمنافسة و الاحتكار. و من المتوقع أن تتم الصفقة خلال شهر سبتمبر القادم.
 

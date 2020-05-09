@@ -14,13 +14,13 @@ tags:
 - NetApplications
 ---
 
-[**Chrome يتقدم بخطى ثابتة، Internet Explorer يواصل تراجعه، حسب آخر إحصائيات لـ NetApplications**](http://www.it-scoop.com/2010/05/Browser-Market-Share-April-2010)
+[**Chrome يتقدم بخطى ثابتة، Internet Explorer يواصل تراجعه، حسب آخر إحصائيات لـ NetApplications**](https://www.it-scoop.com/2010/05/Browser-Market-Share-April-2010)
 
 
 أشارت آخر إحصائيات لـ NetApplications أن متصفح Internet Explorer بجميع إصداراته قد تراجع إلى ما دون نسبة 60%، فيما يواصل Chrome مسيرته للوصول إلى نسبة 10% التي سطرتها Google كهدف لها بخطوات ثابتة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/netApplication-Browser-April-2010.png)
-](http://www.it-scoop.com/2010/05/Browser-Market-Share-April-2010)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/netApplication-Browser-April-2010.png)
+](https://www.it-scoop.com/2010/05/Browser-Market-Share-April-2010)
 
 حسب هذه الإحصائيات فقدْ فقدَ Internet Explorer  ما يقدر بـ 0.70%  من نسبة الاستعمال العالمي خلال شهر واحد حيث أصبحت حصته 59.95%، بعد أن كانت تقدر لـ 68.32%  في يونيو من العام المنصرم، و يبقى الإصدار الثامن منه الأوفر حظا بنسبة 24.66%، فيما يواصل الإصدار السادس صموده بـ 17.58% .
 

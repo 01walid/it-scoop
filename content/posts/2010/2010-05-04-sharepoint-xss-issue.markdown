@@ -16,15 +16,15 @@ tags:
 - XSS
 ---
 
-[**Microsoft تحذر من ثغرة 0day في Sharepoint  تم اكتشافها مؤخرا**](http://www.it-scoop.com/2010/05/sharepoint-xss-issue/)
+[**Microsoft تحذر من ثغرة 0day في Sharepoint  تم اكتشافها مؤخرا**](https://www.it-scoop.com/2010/05/sharepoint-xss-issue/)
 
 
 
 
 نشرت Microsoft تحذيرا لمستخدمي تطبيقها Sharepoint من ثغرة 0day من نوع XSS تمس كلا من SharePoint Services 3.0 و SharePoint Server 2007، و هذا بعد أن أعلمتها شركة High-Tech Bridge السويسرية المتخصصة في الأمن و الحماية بوجودها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/sharepoint-logo.png)
-](http://www.it-scoop.com/2010/05/sharepoint-xss-issue/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/sharepoint-logo.png)
+](https://www.it-scoop.com/2010/05/sharepoint-xss-issue/)
 
 هذه الثغرة تعتبر تهديدا كبيرا للشركات، حيث أنها تسمح للمخترقين الوصول إلى البيانات الداخلية الخاصة بالشركات التي تستعمل SharePoint.
 

@@ -13,14 +13,14 @@ tags:
 - windows7
 ---
 
-[**Windows 7 USB/DVD Download Tool **** يعود من جديد بعد حل مشكل الترخيص**](http://www.it-scoop.com/2009/12/windows-7-usbdvd-download-tool-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d8%b9%d8%af-%d8%ad%d9%84-%d9%85%d8%b4%d9%83%d9%84-%d8%a7%d9%84%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5/)
+[**Windows 7 USB/DVD Download Tool **** يعود من جديد بعد حل مشكل الترخيص**](https://www.it-scoop.com/2009/12/windows-7-usbdvd-download-tool-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d8%b9%d8%af-%d8%ad%d9%84-%d9%85%d8%b4%d9%83%d9%84-%d8%a7%d9%84%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5/)
 
 
 
 أعلنت Peter Galli على موقع Port25 المخصص لعالم المصدر المفتوح لدى شركة Microsoft أن البرنامج Windows 7 USB/DVD Download Tool الذي حدثت ضجة كبير حوله بسبب خرقه لرخصة GPLv2 قد عاد إلى متاجر Microsoft من جديد.
 
-[![Win7_usbdvd](http://www.it-scoop.com/wp-content/uploads/2009/12/Win7_usbdvd-300x180.jpg)
-](http://www.it-scoop.com/2009/12/windows-7-usbdvd-download-tool-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d8%b9%d8%af-%d8%ad%d9%84-%d9%85%d8%b4%d9%83%d9%84-%d8%a7%d9%84%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5/)
+[![Win7_usbdvd](https://www.it-scoop.com/wp-content/uploads/2009/12/Win7_usbdvd-300x180.jpg)
+](https://www.it-scoop.com/2009/12/windows-7-usbdvd-download-tool-%d9%8a%d8%b9%d9%88%d8%af-%d9%85%d9%86-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d8%b9%d8%af-%d8%ad%d9%84-%d9%85%d8%b4%d9%83%d9%84-%d8%a7%d9%84%d8%aa%d8%b1%d8%ae%d9%8a%d8%b5/)
 
 تأتي هذه العودة أسابيع بعد سحبه  بسبب الاشتباه بكون البرنامج يعتمد على برنامج آخر منشور تحت رخصة GPLv2 دون أن ينشر هو أيضا تحت نفس الرخصة، و هو الأمر الذي أكدته Microsoft و فسرت ذلك باعتمادها على أحد شركائها لكتابة البرنامج و لم تقم بالتحاليل اللازمة قبل نشره.
 

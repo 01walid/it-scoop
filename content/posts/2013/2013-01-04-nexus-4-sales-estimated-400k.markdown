@@ -19,7 +19,7 @@ tags:
 
 
 
-![nexus-4](http://www.it-scoop.com/wp-content/uploads/2013/01/nexus-4.png)
+![nexus-4](https://www.it-scoop.com/wp-content/uploads/2013/01/nexus-4.png)
 
 
 

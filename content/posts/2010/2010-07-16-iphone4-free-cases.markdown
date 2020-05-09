@@ -12,7 +12,7 @@ tags:
 - iPhone 4
 ---
 
-[**Steve Jobs لا يجد حلا لمشكل الـ iPhone 4 سوى توفير أغطية بالمجان**](http://www.it-scoop.com/2010/07/iphone4-free-cases/)
+[**Steve Jobs لا يجد حلا لمشكل الـ iPhone 4 سوى توفير أغطية بالمجان**](https://www.it-scoop.com/2010/07/iphone4-free-cases/)
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![iphone 4 free case](http://www.blogcdn.com/www.engadget.com/media/2010/07/iphone-reception-pc-0956-rm-eng.jpg)
-](http://www.it-scoop.com/2010/07/iphone4-free-cases/)
+](https://www.it-scoop.com/2010/07/iphone4-free-cases/)
 
 
 هذا و قد بدأ Steve Jobs ببعض المقدمات عن كون هذا المشكل شائعاً في كل الهواتف المحمولة بكل أنواعها كأجهزة Nokia  و Samsung ، و عرض الجهود التي قامت بها الشركة لحل هذا المشكل خلال الـ 22 يوماً الماضية وكيف أنهم استثمروا 100 مليون دولار في بناء غرف خاصة للمساعدة على تحليل مشكل الإرسال في الـ iPhone 4.

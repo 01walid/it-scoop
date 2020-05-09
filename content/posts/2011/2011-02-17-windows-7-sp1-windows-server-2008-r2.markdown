@@ -20,7 +20,7 @@ tags:
 [رابط التحميل](http://windows.microsoft.com/en-US/windows7/learn-how-to-install-windows-7-service-pack-1-sp1 )
 
 
-**[Microsoft توفر الـ SP1 لنظامي Windows 7 و Windows Server 2008 R2  لفائدة مشتركي TechNet و MSDN](http://www.it-scoop.com/2011/02/windows-7-sp1-windows-server-2008-r2)**
+**[Microsoft توفر الـ SP1 لنظامي Windows 7 و Windows Server 2008 R2  لفائدة مشتركي TechNet و MSDN](https://www.it-scoop.com/2011/02/windows-7-sp1-windows-server-2008-r2)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 أعلنت Microsoft عن [توفيرها](http://windowsteamblog.com/windows/b/bloggingwindows/archive/2011/02/16/windows-7-sp1-follow-up.aspx) للـ SP1  لنظامي Windows 7 و Windows Server 2008 R2  لفائدة مشتركي TechNet و MSDN ، قبل أقل من أسبوع على طرحه لعموم المستخدمين.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/windows_7_boot_screen_service_pack_1.jpg)
-](http://www.it-scoop.com/2011/02/windows-7-sp1-windows-server-2008-r2)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/windows_7_boot_screen_service_pack_1.jpg)
+](https://www.it-scoop.com/2011/02/windows-7-sp1-windows-server-2008-r2)
 
 و تنصح Microsoft لمن أراد تنصيب الـ SP على جهازه المنزلي أن يكتفي بالقيام بالتحديثات اللازمة عبر الـ Windows Update  ، حيث أن الـ SP1 لا يأتي سوى بمجموع الترقيعات التي يحتاجها نظام Windows 7.
 

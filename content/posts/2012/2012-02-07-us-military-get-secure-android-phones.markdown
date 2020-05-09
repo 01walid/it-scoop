@@ -19,8 +19,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/02/android-logo-military.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/android-logo-military.jpg)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/02/android-logo-military.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/android-logo-military.jpg)
 
 
 
@@ -72,10 +72,10 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/crashes-ios-android.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/crashes-ios-android.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/crashes-ios-android.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/crashes-ios-android.png)
 
 
 
 
-للتذكير، فإنه قد سبق لوكالة الأمن القومي الأمريكية NSA أن [نشرت نسخة خاصة بها من نظام Android](http://www.it-scoop.com/2012/01/nsa-se-android/) أكثر أمانا من غيرها أطلقت عليها اسم SE Android، تهدف إلى توفير نظام أكثر أمانا للموظفين الحكوميين.
+للتذكير، فإنه قد سبق لوكالة الأمن القومي الأمريكية NSA أن [نشرت نسخة خاصة بها من نظام Android](https://www.it-scoop.com/2012/01/nsa-se-android/) أكثر أمانا من غيرها أطلقت عليها اسم SE Android، تهدف إلى توفير نظام أكثر أمانا للموظفين الحكوميين.

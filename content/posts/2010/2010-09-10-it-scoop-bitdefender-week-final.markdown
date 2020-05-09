@@ -12,12 +12,12 @@ tags:
 - BitdefenderMe
 ---
 
-[**اختتام مسابقة رمضان على المجلة التقنية**](http://www.it-scoop.com/2010/09/it-scoop-bitdefender-week-final)
+[**اختتام مسابقة رمضان على المجلة التقنية**](https://www.it-scoop.com/2010/09/it-scoop-bitdefender-week-final)
 
 
 
 
-انتهت منذ قليل مسابقة رمضان المقامة على المجلة التقنية بالتعاون مع [BitDefender الشرق الأوسط](http://www.it-scoop.com/index.php?adclick=38)
+انتهت منذ قليل مسابقة رمضان المقامة على المجلة التقنية بالتعاون مع [BitDefender الشرق الأوسط](https://www.it-scoop.com/index.php?adclick=38)
 
 و لقد تم سحب اسم  "أحمد مدحت يوسف" في السحب الخامس و اسم "Youssef Elazzaoui" في السحب الختامي، و تم الاتصال بهما لتسليمهما الجائزة
 

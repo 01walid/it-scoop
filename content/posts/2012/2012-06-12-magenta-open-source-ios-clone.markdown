@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/Magenta.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/Magenta.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/Magenta.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/Magenta.png)
 
 
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-ليس هذا هو الخبر السيء الوحيد لشركة Apple ونظامها iOS (أو الجيد، يرتبط الأمر بالجهة التي تقف فيها لقراءة الوضع :p)، حيث نشر مطور يطلق على نفسه اسم Bubble Wrap (ما حكايتنا اليوم مع الأسماء المستعارة) مقطعي فيديو يبينان تمكنه من كتابة محاكي أطلق عليه اسم **Brine**  لتشغيل تطبيقات iOS على كل من نظام Windows وعلى جهاز PlayBook (الأخ الكبير/الصغير لهواتف BlackBerry). وحسب موقع [Open Source BB](http://opensourcebb.com/2012/06/brine-an-ios-emulator-for-playbook-not-yet-available/) الذي اتصل بأحد مطوري مشروع [Dingle Berry](http://www.it-scoop.com/2011/12/playbook-dingleberry/) (التطبيق الذي يسمح بالتحكم في أجهزة PlayBook عن بعد) فإن صاحب الفيديو سبق له وأن اتصل به بخصوص هذه المحاكي (مما يرجح من احتمال أن لا يكون الأمر مجرد فيديو).
+ليس هذا هو الخبر السيء الوحيد لشركة Apple ونظامها iOS (أو الجيد، يرتبط الأمر بالجهة التي تقف فيها لقراءة الوضع :p)، حيث نشر مطور يطلق على نفسه اسم Bubble Wrap (ما حكايتنا اليوم مع الأسماء المستعارة) مقطعي فيديو يبينان تمكنه من كتابة محاكي أطلق عليه اسم **Brine**  لتشغيل تطبيقات iOS على كل من نظام Windows وعلى جهاز PlayBook (الأخ الكبير/الصغير لهواتف BlackBerry). وحسب موقع [Open Source BB](http://opensourcebb.com/2012/06/brine-an-ios-emulator-for-playbook-not-yet-available/) الذي اتصل بأحد مطوري مشروع [Dingle Berry](https://www.it-scoop.com/2011/12/playbook-dingleberry/) (التطبيق الذي يسمح بالتحكم في أجهزة PlayBook عن بعد) فإن صاحب الفيديو سبق له وأن اتصل به بخصوص هذه المحاكي (مما يرجح من احتمال أن لا يكون الأمر مجرد فيديو).
 
 
 

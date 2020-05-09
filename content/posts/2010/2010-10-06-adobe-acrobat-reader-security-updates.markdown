@@ -20,13 +20,13 @@ tags:
 - Vulnerabilities
 ---
 
-**[Adobe تنشر ترقيعات لـ 23 ثغرة على كل من Reader و Acrobat](http://www.it-scoop.com/2010/10/adobe-acrobat-reader-security-updates)**
+**[Adobe تنشر ترقيعات لـ 23 ثغرة على كل من Reader و Acrobat](https://www.it-scoop.com/2010/10/adobe-acrobat-reader-security-updates)**
 
 
 نشرت Adobe أمس جملة من الترقيعات تخص 23 ثغرة على منتجيها Reader و Acrobat ، مسجلة رقما قياسيا فيما يخص عدد الثغرات المرقعة دفعة واحدة خلال 2010.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
-](http://www.it-scoop.com/2010/10/adobe-acrobat-reader-security-updates)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+](https://www.it-scoop.com/2010/10/adobe-acrobat-reader-security-updates)
 
 الثغرات [المرقعة ](http://www.adobe.com/support/security/bulletins/apsb10-21.html)تخص الإصدار 9.3.4 لتطبيقي Reader و Acrobat على كل من Windows، Mac  إضافة إلى نفس الإصدار من تطبيق Reader على أنظمة Unix.
 

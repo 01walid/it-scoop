@@ -13,13 +13,13 @@ tags:
 - skype
 ---
 
-**[CashU تطلق حملة جديدة لفائدة مشتركيها الجدد بالتعاون مع Skype](http://www.it-scoop.com/2010/12/cashu-skype/)**
+**[CashU تطلق حملة جديدة لفائدة مشتركيها الجدد بالتعاون مع Skype](https://www.it-scoop.com/2010/12/cashu-skype/)**
 
 
 أعلنت شركة CashU صاحبة خدمة الدفع عبر الإنترنت التي تحمل نفس الاسم عن حملة جديدة لمشتركيها الجديد و ذلك بالتعاون مع خدمة الاتصالات Skype.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/AR-300x276.jpg)
-](http://www.it-scoop.com/2010/12/cashu-skype/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/AR-300x276.jpg)
+](https://www.it-scoop.com/2010/12/cashu-skype/)
 
 و تتمثل الحملة في إهداء المشتركين الجدد لدى CashU كوبونات خاصة بخدمة Skype تسمح الاستفادة من رصيد مجاني قيمته 30 دقيقة من الاتصال.
 

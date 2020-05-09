@@ -11,13 +11,13 @@ tags:
 - المجلة التقنية
 ---
 
- أهلا بكم في **المجلة التقنية في حلتها الجديدة**، حلة اكتستها وأكستها باقي المواقع التي تقع ضمن شبكتها، ويتعلق الأمر بكل من[ مدونة الإعلام الاجتماعي](http://socialmedia4arab.com/)، [مدونة دروس الويب](http://www.webtuts.me/) إضافة إلى موقع [ArabicGit](http://www.arabicgit.com/) والذي[ انضم إلى شبكتنا مؤخرا](http://www.it-scoop.com/2013/09/arabic-git/).
+ أهلا بكم في **المجلة التقنية في حلتها الجديدة**، حلة اكتستها وأكستها باقي المواقع التي تقع ضمن شبكتها، ويتعلق الأمر بكل من[ مدونة الإعلام الاجتماعي](http://socialmedia4arab.com/)، [مدونة دروس الويب](http://www.webtuts.me/) إضافة إلى موقع [ArabicGit](http://www.arabicgit.com/) والذي[ انضم إلى شبكتنا مؤخرا](https://www.it-scoop.com/2013/09/arabic-git/).
 
 
 
 
-[![it-scoop-screenshot](http://www.it-scoop.com/wp-content/uploads/2013/09/it-scoop-screenshot.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/it-scoop-screenshot.png)
+[![it-scoop-screenshot](https://www.it-scoop.com/wp-content/uploads/2013/09/it-scoop-screenshot.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/it-scoop-screenshot.png)
 
 
 
@@ -77,5 +77,5 @@ tags:
 
 
 
-[![show-in-news-feed](http://www.it-scoop.com/wp-content/uploads/2013/09/show-in-news-feed.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/show-in-news-feed.png)
+[![show-in-news-feed](https://www.it-scoop.com/wp-content/uploads/2013/09/show-in-news-feed.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/show-in-news-feed.png)

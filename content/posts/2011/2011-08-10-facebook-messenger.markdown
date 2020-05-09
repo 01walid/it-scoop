@@ -15,13 +15,13 @@ tags:
 - iOS
 ---
 
-[**Facebook يطلق تطبيق الدردشة Facebook Messenger على نظامي iOS وAndroid**](http://www.it-scoop.com/2011/08/facebook-messenger/)
+[**Facebook يطلق تطبيق الدردشة Facebook Messenger على نظامي iOS وAndroid**](https://www.it-scoop.com/2011/08/facebook-messenger/)
 
 
 [أطلقت](http://mashable.com/2011/08/09/facebook-messenger/) شركة Facebook تطبيق الدردشة Facebook Messenger الخاص بها، وهو تطبيق مستقل عن تطبيق Facebook الأساسيّ ومهمّته تبادل الرّسائل بين مستخدمي الشّبكة الاجتماعيّة في الوقت الفعليّ ، اعتمادًا على نظام الرّسائل والمحادثة في الشّبكة الاجتماعيّة، ويمكن أيضًا استخدامه لإرسال رسائل SMS إلى أرقام هواتف أصدقائك في Facebook.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Facebook-Messenger.jpg)
-](http://www.it-scoop.com/2011/08/facebook-messenger/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Facebook-Messenger.jpg)
+](https://www.it-scoop.com/2011/08/facebook-messenger/)
 
 اشترت Facebook في وقت سابق من هذا العام شركة تدعى Beluga، وهي شركة متخصّصة في إنتاج تطبيقات المراسلة الجماعيّة، وتطبيق Facebook الجديد هو نتيجة شراء هذه الشّركة.
 

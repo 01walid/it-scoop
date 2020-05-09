@@ -18,7 +18,7 @@ tags:
 
 
 
-**[القرصنة تطال حتى ... أجهزة الصراف الآلي]( http://www.it-scoop.com/2010/07/atms-hacked/)**
+**[القرصنة تطال حتى ... أجهزة الصراف الآلي]( https://www.it-scoop.com/2010/07/atms-hacked/)**
 
 
 
@@ -29,7 +29,7 @@ tags:
 
 
 [![](http://www.wired.com/images_blogs/threatlevel/2010/07/atm_cash.jpg )
-]( http://www.it-scoop.com/2010/07/atms-hacked/)
+]( https://www.it-scoop.com/2010/07/atms-hacked/)
 
 
 

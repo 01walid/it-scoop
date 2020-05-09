@@ -12,13 +12,13 @@ tags:
 - Kaspersky
 ---
 
-[**Kaspersky تسجل براءة اختراع لـ Hardware-Based Antivirus مستقل عن نظام التشغيل**](http://www.it-scoop.com/2010/02/kaspersky-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a8%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%84%d9%80-hardware-based-antivirus-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%b9%d9%86-%d9%86%d8%b8/http://www.it-scoop.com/2010/02/kaspersky-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a8%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%84%d9%80-hardware-based-antivirus-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%b9%d9%86-%d9%86%d8%b8/)
+[**Kaspersky تسجل براءة اختراع لـ Hardware-Based Antivirus مستقل عن نظام التشغيل**](https://www.it-scoop.com/2010/02/kaspersky-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a8%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%84%d9%80-hardware-based-antivirus-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%b9%d9%86-%d9%86%d8%b8/https://www.it-scoop.com/2010/02/kaspersky-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a8%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%84%d9%80-hardware-based-antivirus-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%b9%d9%86-%d9%86%d8%b8/)
 
 
 حصلت Kaspersky على براءة اختراع تخص نوعا جديدا من مضادات الفيروسات و التي ستكون مضمنة في شريحة خاصة يتم ربطها مباشرة بالجهاز.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
-](http://www.it-scoop.com/2010/02/kaspersky-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a8%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%84%d9%80-hardware-based-antivirus-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%b9%d9%86-%d9%86%d8%b8/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
+](https://www.it-scoop.com/2010/02/kaspersky-%d8%aa%d8%b3%d8%ac%d9%84-%d8%a8%d8%b1%d8%a7%d8%a1%d8%a9-%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d8%b9-%d9%84%d9%80-hardware-based-antivirus-%d9%85%d8%b3%d8%aa%d9%82%d9%84-%d8%b9%d9%86-%d9%86%d8%b8/)
 
 من ناحية المبدأ ، فإن الـ Hardware-Based Antivirus ليس معقدا، إذ يتكون من معالج ARM و ذاكرة عشوائية مما يسمح له العمل دون استهلاك  أيا من موارد النظام.
 

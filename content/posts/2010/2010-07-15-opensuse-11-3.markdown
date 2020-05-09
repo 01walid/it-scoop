@@ -13,7 +13,7 @@ tags:
 - OpenSuse
 ---
 
-**[إطلاق الإصدار  11.3  من توزيعة OpenSuse](http://www.it-scoop.com/2010/07/opensuse-11-3/)**
+**[إطلاق الإصدار  11.3  من توزيعة OpenSuse](https://www.it-scoop.com/2010/07/opensuse-11-3/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/OpenSuse.png)
-](http://www.it-scoop.com/2010/07/opensuse-11-3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/OpenSuse.png)
+](https://www.it-scoop.com/2010/07/opensuse-11-3/)
 
 
 ضمن محتويات الإصدار 11.3 لـ OpenSuse نجد كلا من نواة نظام Linux  2.6.34.x، و سطحي المكتب KDE 4.4.4 و GNOME 2.30.1. إلى جانب كل من X.org 1.8 GCC 4.5

@@ -14,14 +14,14 @@ tags:
 - Mentor Graphics
 ---
 
-**[Mentor Graphics تلتحق بالركب وتنضم إلى Linux Foundation](http://www.it-scoop.com/2010/12/mentor-graphics-joins-linux-foundation)**
+**[Mentor Graphics تلتحق بالركب وتنضم إلى Linux Foundation](https://www.it-scoop.com/2010/12/mentor-graphics-joins-linux-foundation)**
 
 
-بعد حوالي أسبوع على [انضمام](http://www.it-scoop.com/2010/12/huawei-join-linux-foundation/) شركة Huawei إلى مؤسسة Linux Foundation ,[أعلنت](http://www.linuxfoundation.org/news-media/announcements/2010/12/mentor-graphics-joins-linux-foundation) المؤسسة اليوم أن [Mentor Graphics](http://www.mentor.com/) أصبحت عضوا جديدا فيها.
+بعد حوالي أسبوع على [انضمام](https://www.it-scoop.com/2010/12/huawei-join-linux-foundation/) شركة Huawei إلى مؤسسة Linux Foundation ,[أعلنت](http://www.linuxfoundation.org/news-media/announcements/2010/12/mentor-graphics-joins-linux-foundation) المؤسسة اليوم أن [Mentor Graphics](http://www.mentor.com/) أصبحت عضوا جديدا فيها.
 
-[](http://www.it-scoop.com/wp-content/uploads/2010/12/Linux_Foundation.png)[![](http://www.it-scoop.com/wp-content/uploads/2010/12/Mentor.png)
-](http://www.it-scoop.com/2010/12/mentor-graphics-joins-linux-foundation)[![](http://www.it-scoop.com/wp-content/uploads/2010/12/Linux_Foundation.png)
-](http://www.it-scoop.com/2010/12/mentor-graphics-joins-linux-foundation)
+[](https://www.it-scoop.com/wp-content/uploads/2010/12/Linux_Foundation.png)[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Mentor.png)
+](https://www.it-scoop.com/2010/12/mentor-graphics-joins-linux-foundation)[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Linux_Foundation.png)
+](https://www.it-scoop.com/2010/12/mentor-graphics-joins-linux-foundation)
 
 شركة Mentor Graphics تأسست عام 1981 وهي شركة رائدة في إنتاج خدمات ومنتجات تعد جزءا أساسيا في تصميم الرقاقات (chips) واللوحات (boards) ,وكذلك في أنظمة التشغيل والتطبيقات وبرامج التشغيل .
 

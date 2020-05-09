@@ -15,13 +15,13 @@ tags:
 - patch
 ---
 
-**[Linux يحظى بترقيع معجزة يسرع تعددية المهام](http://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders)**
+**[Linux يحظى بترقيع معجزة يسرع تعددية المهام](https://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders)**
 
 
 في عالم البرمجيات وخاصة منها أنظمة التشغيل، يندر وجود حلول خارقة للعادة، تغير من الأمور جذريا، فالمعهود هو التحسين من البرمجية شيئا فشيئا مع مرور الزمن،  لكن أن تأتي رقعة صغيرة لتقلب الأمور والموازين ، وتقفز بها إلى الأحسن، هذا ما يسميه الكثيرون "معجزة"، وبالضبط هذا ما حدث مؤخرا مع نواة Linux في رقعة جد مبشرة لهذا النظام جاءت من طرف ثالث!.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/kernel_panic-273x300.png)
-](http://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/kernel_panic-273x300.png)
+](https://www.it-scoop.com/2010/11/the-200-line-linux-kernel-patch-that-does-wonders)
 
 نجحت هذه الرقعة في اختزال جوهري لضغط النظام في الوضع الرسومي دون تعلق الوضع الكتابي، وكذا في إثبات وجودها لدى Linus Trovalds، لأن مثل هذه الترقيعات تُقترح بانتظام عليه لكن يعيبها الكثير فيتم رفضها، لكن هذه الأخيرة حظيت بمباركة الأب الروحي  وصنف حالتها  ضمن "الميزة القاتلة" أو killer feature.
 

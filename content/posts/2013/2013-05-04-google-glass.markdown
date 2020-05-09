@@ -22,8 +22,8 @@ tags:
 
 
 
-[![google-glass](http://www.it-scoop.com/wp-content/uploads/2013/05/google-glass.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/05/google-glass.png)
+[![google-glass](https://www.it-scoop.com/wp-content/uploads/2013/05/google-glass.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/05/google-glass.png)
 
 
 

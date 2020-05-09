@@ -12,7 +12,7 @@ tags:
 - facebook
 ---
 
-**[Facebook يتجاوز رسميا حاجز الـ 500 مليون مستخدم](http://www.it-scoop.com/2010/07/facebook-500-million-2/)**
+**[Facebook يتجاوز رسميا حاجز الـ 500 مليون مستخدم](https://www.it-scoop.com/2010/07/facebook-500-million-2/)**
 
 
 
@@ -22,11 +22,11 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
-](http://www.it-scoop.com/2010/07/facebook-500-million-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
+](https://www.it-scoop.com/2010/07/facebook-500-million-2/)
 
 
-و قد [صرحت](http://www.it-scoop.com/2010/07/facebook-will-announce-500-million-users-this-week/) Randi Zuckerberg سابقا لـ All Things Digital أن عدد المشتركين يصل إلى 500 مليون خلال هذا الأسبوع، و هو العدد الذي وصلنا إليه اليوم.
+و قد [صرحت](https://www.it-scoop.com/2010/07/facebook-will-announce-500-million-users-this-week/) Randi Zuckerberg سابقا لـ All Things Digital أن عدد المشتركين يصل إلى 500 مليون خلال هذا الأسبوع، و هو العدد الذي وصلنا إليه اليوم.
 
 للتذكير فقد خصصت إدارة Facebook صفحة يمكن من خلالها تشارك بعض قصص المشتركين و التي لعب Facebook فيها دورا مهما، و التي يمكن الوصول إليها من هنا [Facebook Stories](http://stories.facebook.com/).
 

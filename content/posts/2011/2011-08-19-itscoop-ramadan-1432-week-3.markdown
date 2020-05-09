@@ -32,7 +32,7 @@ tags:
 سنعلن عن مسابقة الأسبوع الرابع غدا بحول الله
 
 
-[ **مسابقة رمضان 1432 على المجلة التقنية - الأسبوع الثالث: اربح استضافات إنترنت بقيمة 68 دولار للواحدة**](http://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-3/)
+[ **مسابقة رمضان 1432 على المجلة التقنية - الأسبوع الثالث: اربح استضافات إنترنت بقيمة 68 دولار للواحدة**](https://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-3/)
 
 
 
@@ -43,7 +43,7 @@ tags:
 
 
 [![](http://it-scoop.com/rsc/DZsecurity-250x250.png)
-](http://www.it-scoop.com/wp-يوغرطة بن علي (Youghourta Benali)/post-new.php)
+](https://www.it-scoop.com/wp-يوغرطة بن علي (Youghourta Benali)/post-new.php)
 
 
 
@@ -83,4 +83,4 @@ tags:
 
 
 
-يمكن الإطلاع على قائمة الفائزين في سحب الأسبوع الثاني [من هنا](http://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-2/)
+يمكن الإطلاع على قائمة الفائزين في سحب الأسبوع الثاني [من هنا](https://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-2/)

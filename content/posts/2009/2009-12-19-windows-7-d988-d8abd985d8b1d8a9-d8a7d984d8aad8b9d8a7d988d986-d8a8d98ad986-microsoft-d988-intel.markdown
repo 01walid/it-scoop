@@ -15,8 +15,8 @@ tags:
 
 يبدو أن Intel أيضاً انضمت الى قائمة مروجي Windows 7 و هي هنا من على موقعها تضع فيديو يبين بعض أوجه التعاون بين Microsoft و Intel في إنتاج Windows 7 لجعلها تستفيد إلى أقصى درجة من التحسينات و المميزات التي توفرها Intel في معالجاتها الحديثة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo-300x278.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo-300x278.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo.jpg)
 الفيديو يتحدث فيه [Mark Russinovich](http://www.microsoft.com/presspass/exec/techfellow/Russinovich/default.mspx) و هو من مؤلفي سلسلة كتب [Windows Internal](http://www.amazon.com/Windows%C2%AE-Internals-Including-Windows-PRO-Developer/dp/0735625301/ref=dp_cp_ob_b_title_1) الشهيرة و أيضاً مؤسس شركة SysInternals و التي استحوذت عليها Microsoft منذ عدة سنوات و انضم الى Microsoft تحت مسمى Technical Fellow و هو يعتبر أعلى منصب تقني في شركة Microsoft و من حاملي هذا المنصب في الشركة [Anders Hejlsberg](http://www.microsoft.com/presspass/exec/techfellow/hejlsberg/default.mspx) مصمم لغة #C.
 
 أترككم مع الفيديو

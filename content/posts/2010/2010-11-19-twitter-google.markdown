@@ -16,7 +16,7 @@ tags:
 - Twitter
 ---
 
-**[Twitter رفضت عرضين بـ 2.5  و 4 مليار دولار لشرائها](http://www.it-scoop.com/2010/11/twitter-google/)**
+**[Twitter رفضت عرضين بـ 2.5  و 4 مليار دولار لشرائها](https://www.it-scoop.com/2010/11/twitter-google/)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/google-twitter.jpg)
-](http://www.it-scoop.com/2010/11/twitter-google/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/google-twitter.jpg)
+](https://www.it-scoop.com/2010/11/twitter-google/)
 
 
 فيما يخص عرض Google فقد تم رفضه مباشرة بحجة أنه لا يقدر الشركة حق قدرها؟ أما الثاني فترجح بعض المصادر أن تكون صاحبته هي Microsoft و التي لم تفلح أيضا في محاولتها.

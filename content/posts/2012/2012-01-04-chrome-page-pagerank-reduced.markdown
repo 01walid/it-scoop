@@ -21,8 +21,8 @@ tags:
 
 
 
-[![نتائج البحث عن Browser لا تظهر أي أثر لمتصفح Chrome](http://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google.png)
+[![نتائج البحث عن Browser لا تظهر أي أثر لمتصفح Chrome](https://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google.png)
 
 
 
@@ -37,8 +37,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google-page-7.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google-page-7.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google-page-7.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/browser-search-results-google-page-7.png)
 
 
 

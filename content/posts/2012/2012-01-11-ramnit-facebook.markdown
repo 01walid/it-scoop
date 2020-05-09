@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/ramnit-facebook-300x225.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/ramnit-facebook.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/ramnit-facebook-300x225.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/ramnit-facebook.jpg)
 
 
 
@@ -30,14 +30,14 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/ramnitbycountry-300x180.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/ramnitbycountry.png)على ما يبدو، فإن القائمين خلف هذه النسخة من Ramnit يقومون بدخول الحسابات المسروقة ويعملون على نشرها مجدداً من خلال هذه الحسابات إلى أصدقائهم وعائلاتهم.
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/ramnitbycountry-300x180.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/ramnitbycountry.png)على ما يبدو، فإن القائمين خلف هذه النسخة من Ramnit يقومون بدخول الحسابات المسروقة ويعملون على نشرها مجدداً من خلال هذه الحسابات إلى أصدقائهم وعائلاتهم.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/ramnitfacebook-300x189.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/ramnitfacebook.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/ramnitfacebook-300x189.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/ramnitfacebook.png)
 
 
 

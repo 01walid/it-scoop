@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/DisplayMedia-facebook-ios-5-0.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/DisplayMedia-facebook-ios-5-0.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/DisplayMedia-facebook-ios-5-0.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/DisplayMedia-facebook-ios-5-0.png)
 
 
 

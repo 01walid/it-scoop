@@ -19,7 +19,7 @@ tags:
 - sun
 ---
 
-**[Oracle ترفع دعوى قضائية ضد Google لاستعمالها للـ Java في نظام Android](http://www.it-scoop.com/2010/08/oracle-google-java-android)**
+**[Oracle ترفع دعوى قضائية ضد Google لاستعمالها للـ Java في نظام Android](https://www.it-scoop.com/2010/08/oracle-google-java-android)**
 
 
 
@@ -29,8 +29,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/android-oracle-google.jpg)
-](http://www.it-scoop.com/2010/08/oracle-google-java-android)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/android-oracle-google.jpg)
+](https://www.it-scoop.com/2010/08/oracle-google-java-android)
 
 
 حسب Oracle فإن نظام Android يقوم أساسه على تطبيقات مكتوبة بالـ Java قامت بخرق 7 براءات اختراع تخص الـ Java، و يضيف إلى أن Google كانت على علم ببراءات الاختراع السبع و استعملتها عن قصد دون أن تدفع مقابل ذلك.

@@ -21,8 +21,8 @@ tags:
 
 
 
-[![alfanous](http://www.it-scoop.com/wp-content/uploads/2013/11/alfanous-300x270.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/alfanous.jpg)ولمن لا يعرف معنى [API](http://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA)، هي واجهة برمجية (لا رسومية) تسمح بنقل البيانات من مكتبة برمجية أو قاعدة البيانات أو محرك البحث على هيئة مُتعارف عليها بحيث تكون تلك الهيئة مفهومة من طرف عدة لغات برمجة على مختلف المنصات مثال ذلك [XML](http://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%85%D9%8A%D8%B2_%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF) و[JSON](http://ar.wikipedia.org/wiki/%D8%AC%D8%B3%D9%88%D9%86).
+[![alfanous](https://www.it-scoop.com/wp-content/uploads/2013/11/alfanous-300x270.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/alfanous.jpg)ولمن لا يعرف معنى [API](http://ar.wikipedia.org/wiki/%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA)، هي واجهة برمجية (لا رسومية) تسمح بنقل البيانات من مكتبة برمجية أو قاعدة البيانات أو محرك البحث على هيئة مُتعارف عليها بحيث تكون تلك الهيئة مفهومة من طرف عدة لغات برمجة على مختلف المنصات مثال ذلك [XML](http://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A9_%D8%A7%D9%84%D8%AA%D8%B1%D9%85%D9%8A%D8%B2_%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%A7%D9%85%D8%AA%D8%AF%D8%A7%D8%AF) و[JSON](http://ar.wikipedia.org/wiki/%D8%AC%D8%B3%D9%88%D9%86).
 
 
 
@@ -61,8 +61,8 @@ tags:
 
 
 
-[![json-example](http://www.it-scoop.com/wp-content/uploads/2013/12/json-example.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/12/json-example.jpg)أطلق مشروع الفانوس على هذا التخريج اسم JSON Output System أو اختصارا JOS، وقد تم توحيده في الإصدار الجديد وجعله مركزيا Centralized ، أي نفس النظام يخدم جميع أقسام المشروع، هذا يُسهل من عملية تطويره وإضافة الميزات عليه من مكان واحد.
+[![json-example](https://www.it-scoop.com/wp-content/uploads/2013/12/json-example.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/12/json-example.jpg)أطلق مشروع الفانوس على هذا التخريج اسم JSON Output System أو اختصارا JOS، وقد تم توحيده في الإصدار الجديد وجعله مركزيا Centralized ، أي نفس النظام يخدم جميع أقسام المشروع، هذا يُسهل من عملية تطويره وإضافة الميزات عليه من مكان واحد.
 
 
 
@@ -103,8 +103,8 @@ tags:
 
 
 
-[![alfanous-api-hierarchy](http://www.it-scoop.com/wp-content/uploads/2013/12/alfanous-api-hierarchy.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/12/alfanous-api-hierarchy.jpg)نداء الواجهة البرمجية الجديدة لا يقوم فقط على تمرير كلمات البحث أو نص الاستعلام، فقد تم أيضا إدراج مبدأ "الأعلام" Flags والتي عن طريقها يمكن تخصيص نتيجة الاستعلام وزيادة كفاءتها.
+[![alfanous-api-hierarchy](https://www.it-scoop.com/wp-content/uploads/2013/12/alfanous-api-hierarchy.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/12/alfanous-api-hierarchy.jpg)نداء الواجهة البرمجية الجديدة لا يقوم فقط على تمرير كلمات البحث أو نص الاستعلام، فقد تم أيضا إدراج مبدأ "الأعلام" Flags والتي عن طريقها يمكن تخصيص نتيجة الاستعلام وزيادة كفاءتها.
 
 
 

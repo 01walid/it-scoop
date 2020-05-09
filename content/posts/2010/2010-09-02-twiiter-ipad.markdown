@@ -13,12 +13,12 @@ tags:
 - Twitter
 ---
 
-**[Twitter]( http://www.it-scoop.com/2010/09/twiiter-ipad/)****[ تطلق تطبيقها الرسمي الخاص بأجهزة الـ ]( http://www.it-scoop.com/2010/09/twiiter-ipad/)****[iPad]( http://www.it-scoop.com/2010/09/twiiter-ipad/)****[ وتفرده بميزات خاصة]( http://www.it-scoop.com/2010/09/twiiter-ipad/)**
+**[Twitter]( https://www.it-scoop.com/2010/09/twiiter-ipad/)****[ تطلق تطبيقها الرسمي الخاص بأجهزة الـ ]( https://www.it-scoop.com/2010/09/twiiter-ipad/)****[iPad]( https://www.it-scoop.com/2010/09/twiiter-ipad/)****[ وتفرده بميزات خاصة]( https://www.it-scoop.com/2010/09/twiiter-ipad/)**
 
 
 
 
-**[ ]( http://www.it-scoop.com/2010/09/twiiter-ipad/)**
+**[ ]( https://www.it-scoop.com/2010/09/twiiter-ipad/)**
 
 
 
@@ -26,10 +26,10 @@ tags:
 أعلنت Twitter اليوم على مدونتها الرسمية إطلاق تطبيقها الرسمي لأجهزة الـ iPad  والذي أسمته Twitter for iPad [وإتاحته مجانا على الـ App Store](http://itunes.apple.com/us/app/twitter/id333903271?mt=8) مع ميزات تجربة استخدام تحسن من "سهولة تتبع تدفق التغريدات".
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/twitter-iPad.jpg)
-]( http://www.it-scoop.com/2010/09/twiiter-ipad/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/twitter-iPad.jpg)
+]( https://www.it-scoop.com/2010/09/twiiter-ipad/)
 
-[بعد شرائها tweetie وإتاحته مجانا باسم Twitter for iPhone](http://www.it-scoop.com/2010/04/twitter-acquires-tweetie/)، يأتي اليوم twitter for iPad كما وعدت به Twitter منذ أشهر مضت، التطبيق الرسمي لأجهزة الـ iPad، لكن لحظة ! قد يبدو لك هذا روتين عادي لسلسلة تطبيقات متشابهة لخدمة twitter ، لكن هذه المرة حاولت twitter  كسر هذا الروتين بالاستفادة من كل من طبيعة حجم أجهزة الـ iPad وتجربة الاستخدام التي اكتسبتها مع مرور الوقت في تتبع ضخ التغريدات عبر تصنيف ما تتضمنه من روابط تحيل إلى: صفحات ويب، صور، فيديوهات، أشخاص، أماكن، الاستفادة من ميزة الـ hashtags ، الردود والـ retweet. وذلك بتخفيض الحاجة إلى فتح نوافذ جديدة أو النقر على أزرار معينة.
+[بعد شرائها tweetie وإتاحته مجانا باسم Twitter for iPhone](https://www.it-scoop.com/2010/04/twitter-acquires-tweetie/)، يأتي اليوم twitter for iPad كما وعدت به Twitter منذ أشهر مضت، التطبيق الرسمي لأجهزة الـ iPad، لكن لحظة ! قد يبدو لك هذا روتين عادي لسلسلة تطبيقات متشابهة لخدمة twitter ، لكن هذه المرة حاولت twitter  كسر هذا الروتين بالاستفادة من كل من طبيعة حجم أجهزة الـ iPad وتجربة الاستخدام التي اكتسبتها مع مرور الوقت في تتبع ضخ التغريدات عبر تصنيف ما تتضمنه من روابط تحيل إلى: صفحات ويب، صور، فيديوهات، أشخاص، أماكن، الاستفادة من ميزة الـ hashtags ، الردود والـ retweet. وذلك بتخفيض الحاجة إلى فتح نوافذ جديدة أو النقر على أزرار معينة.
 
 كل هذا ترجمته twitter  في ثلاث أمور مضمنة في هذا التطبيق بأربعة أمور:
 

@@ -19,7 +19,7 @@ tags:
 - SmartPhone
 ---
 
-**[الإصدار 1.1 من نظام MeeGo متوفر للتحميل](http://www.it-scoop.com/2010/10/meego-1-1/ )**
+**[الإصدار 1.1 من نظام MeeGo متوفر للتحميل](https://www.it-scoop.com/2010/10/meego-1-1/ )**
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 [![](http://farm2.static.flickr.com/1117/5125188971_f96c7281a4_o.jpg )
-](http://www.it-scoop.com/2010/10/meego-1-1/)
+](https://www.it-scoop.com/2010/10/meego-1-1/)
 
 
 الإصدار الجديد مبني على نواة Linux 2.6.35 ويقبل التنصيب على أجهزة Netbook التي تعمل على معالجات Atom، إلى جانب كل من هواتف Nokia N900 و السيارات التي تحتوي حواسيب مضمنة In-Vehicle Infotainment.

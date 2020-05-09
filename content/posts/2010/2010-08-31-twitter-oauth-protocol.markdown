@@ -14,7 +14,7 @@ tags:
 - Twitter
 ---
 
-**[Twitter تفرض بوتوكول OAuth ابتداءً  من اليوم على التطبيقات التي تستخدم الـ API الخاصة بها](http://www.it-scoop.com/2010/08/twitter-oauth-protocol/)**
+**[Twitter تفرض بوتوكول OAuth ابتداءً  من اليوم على التطبيقات التي تستخدم الـ API الخاصة بها](https://www.it-scoop.com/2010/08/twitter-oauth-protocol/)**
 
 
 
@@ -24,14 +24,14 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/oauth-twitter.png)
-](http://www.it-scoop.com/2010/08/twitter-oauth-protocol/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/oauth-twitter.png)
+](https://www.it-scoop.com/2010/08/twitter-oauth-protocol/)
 
 
 الوضع الحالي من شأنه أن يوفر حماية أكبر للمستخدمين ، حيث أن التطبيقات ستطلب من المستخدم تسجيل دخوله إلى Twitter و موافقته على استخدام التطبيق بدل طلب اسم المستخدم/كلمة السر مثلما يظهر في الصورة التالية:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/AllowLongTweets.png)
-](http://www.it-scoop.com/2010/08/twitter-oauth-protocol/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/AllowLongTweets.png)
+](https://www.it-scoop.com/2010/08/twitter-oauth-protocol/)
 
 لضمان مرور سلس من النظام القديم إلى النظام الجديد الذي يعتمد على استخدام البروتوكول OAuth قامت Twitter بإعلام المطورين بالأمر منذ شهر ديسمبر الماضي ، و هو ما منح لهم وقتا كافيا للقيام بعمليات التغيير اللازمة.
 

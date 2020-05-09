@@ -14,7 +14,7 @@ tags:
 - Paul Allen
 ---
 
-**[Paul Allen يقاضي 11 شركة تقنية أمريكية في قضية براءات اختراع](http://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)**
+**[Paul Allen يقاضي 11 شركة تقنية أمريكية في قضية براءات اختراع](https://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/paul-allen.jpg)
-](http://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/paul-allen.jpg)
+](https://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)
 
 
 براءات الاختراع المعنية بهذه الدعوى هي أربع تتعلق ببعض أساسيات استعمال الويب الحديث المسجلة باسم شركة Interval Research المملوكة لـ Paul Allen و التي تتعلق أساسا بمساعدة متصفح الموقع على إيجاد ما يبحث عنه كاقتراح منتجات مشابهة أو مواضيع مشابهة (مثل التي تشاهدونها أسفل هذا الخبر)  و التي لا تخلو المواقع الحديثة  و خاصة مواقع التجارة الالكترونية منها.

@@ -13,7 +13,7 @@ tags:
 - أوبنتو ببساطة
 ---
 
-[**كتاب "أوبنتو ببساطة" متوفر الآن للتحميل المجاني**](http://www.it-scoop.com/2011/07/simply-ubuntu/)
+[**كتاب "أوبنتو ببساطة" متوفر الآن للتحميل المجاني**](https://www.it-scoop.com/2011/07/simply-ubuntu/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/simplyubuntu_web_cover.png)
-](http://www.it-scoop.com/2011/07/simply-ubuntu/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/simplyubuntu_web_cover.png)
+](https://www.it-scoop.com/2011/07/simply-ubuntu/)
 
 
 

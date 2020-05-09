@@ -16,13 +16,13 @@ tags:
 - Tiobe
 ---
 
-بعد أن [انتزعت](http://www.it-scoop.com/2012/04/tiobe-index-for-april-2012/) من **Java** صدارة الترتيب الشهر الماضي، حافظت **لغة ****C** البرمجية على مرتبتها الأولى للشهر الثاني على التوالي في **ترتيب ****Tiobe**** لأكثر لغات البرمجة شعبية**، في حين لم يشهد ترتيب اللغات العشر الأولى حراكا كبيرا.
+بعد أن [انتزعت](https://www.it-scoop.com/2012/04/tiobe-index-for-april-2012/) من **Java** صدارة الترتيب الشهر الماضي، حافظت **لغة ****C** البرمجية على مرتبتها الأولى للشهر الثاني على التوالي في **ترتيب ****Tiobe**** لأكثر لغات البرمجة شعبية**، في حين لم يشهد ترتيب اللغات العشر الأولى حراكا كبيرا.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-2012.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-2012.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-2012.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-2012.png)
 
 
 
@@ -52,7 +52,7 @@ tags:
 
 
 
-مما دفع بـPaul Jansen مدير Tiobe إلى الرد بقوله بأن أغلب الانتقادات تأتي من مجتمعات اللغات التي تشهد تراجعا، حيث تحتل PHP المرتبة 6 حاليا ([نفس مرتبة الشهر الماضي](http://www.it-scoop.com/2012/04/tiobe-index-for-april-2012/)) بعد أن كانت تحتل المرتبة 5 شهر مايو 2011. قبل أن يدعو Gutmans إلى إعطائه اقتراحاته لتحسين جودة الترتيب.
+مما دفع بـPaul Jansen مدير Tiobe إلى الرد بقوله بأن أغلب الانتقادات تأتي من مجتمعات اللغات التي تشهد تراجعا، حيث تحتل PHP المرتبة 6 حاليا ([نفس مرتبة الشهر الماضي](https://www.it-scoop.com/2012/04/tiobe-index-for-april-2012/)) بعد أن كانت تحتل المرتبة 5 شهر مايو 2011. قبل أن يدعو Gutmans إلى إعطائه اقتراحاته لتحسين جودة الترتيب.
 
 
 
@@ -72,5 +72,5 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-20121.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-20121.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-20121.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/TIOBE-Programming-Community-Index-may-20121.png)

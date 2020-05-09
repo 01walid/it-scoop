@@ -15,7 +15,7 @@ tags:
 - Rich text signatures
 ---
 
-[Gmail تضيف ميزة تنسيق النصوص المتقدمة للتواقيع Rich text signatures ](http://www.it-scoop.com/2010/07/gmail-rich-text-signatures/)
+[Gmail تضيف ميزة تنسيق النصوص المتقدمة للتواقيع Rich text signatures ](https://www.it-scoop.com/2010/07/gmail-rich-text-signatures/)
 
 
 
@@ -26,7 +26,7 @@ tags:
 
 
 [![gmail rich signatures](http://4.bp.blogspot.com/_JE4qNpFW6Yk/TDYhaX9aJCI/AAAAAAAAAok/SUZMdB9N7sI/rich_text_signatures1.png)
-](http://www.it-scoop.com/2010/07/gmail-rich-text-signatures/)
+](https://www.it-scoop.com/2010/07/gmail-rich-text-signatures/)
 
 
 وكان مستخدمو Gmail يلجؤون عادة إلى بعض البرامج و الإضافات المستقلة  لدعم التواقيع المتقدمة على Gmail. ويمكن تغيير التوقيع الآن بالذهاب إلى إعدادات -> عام حيث يمكن إضافة صور، روابط و استعمال تنسيقات خصوصية كتغيير الخط الخ.

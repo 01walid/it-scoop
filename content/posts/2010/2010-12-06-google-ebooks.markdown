@@ -13,7 +13,7 @@ tags:
 - Google eBooks
 ---
 
-**[Google تطلق متجرها السحابيGoogle eBooks  لبيع الكتب الإلكترونية](http://www.it-scoop.com/2010/12/google-ebooks/)**
+**[Google تطلق متجرها السحابيGoogle eBooks  لبيع الكتب الإلكترونية](https://www.it-scoop.com/2010/12/google-ebooks/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://books.google.com/intl/fr/googlebooks/images/webstore/promos/20101203/promo_960x220_devices.png)
-](http://www.it-scoop.com/2010/12/google-ebooks/)
+](https://www.it-scoop.com/2010/12/google-ebooks/)
 
 
 ربما يقول قائل، كتب الكترونية+ بيع و قراءة، هذه فهمناها، لكن ما دخل الحوسبة السحابية هنا، الأمر بسيط، الكتاب لن تقوم بتنزيله على جهازك و إنما يبقى على حساب خاص بك و يمكنك قراءته من أي جهاز (حاسوب، هاتف، جهاز لوحي...) و يمكنك مواصلة القراءة من الصفحة التي توقفت فيها مهما كان الجهاز الذي كنت تستعمله حينها ، أو تستعمله لاحقا.

@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[ما السر وراء الـ Doodle الجديد المتحرك لموقع Google؟](http://www.it-scoop.com/2010/09/google-doodle/)**
+**[ما السر وراء الـ Doodle الجديد المتحرك لموقع Google؟](https://www.it-scoop.com/2010/09/google-doodle/)**
 
 
 
@@ -23,11 +23,11 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/google-doodle.jpg)
-](http://www.it-scoop.com/2010/09/google-doodle/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/google-doodle.jpg)
+](https://www.it-scoop.com/2010/09/google-doodle/)
 
 
-الأمر مختلف اليوم ليس لكون الشعار متحركا ، فقد سبق لـ Google عمل أكثر من شعار مخصص (أو ما يطلق عليه مصطلح Doodle) متحرك كالـ Doodle الخاص باحتفال مرور ربع قرن عن الـ Buckyball ، و ليس بسبب تفاعليته، فقد سبق لـ Google الاحتفال بالـ [PacMan ](http://www.it-scoop.com/tag/pacman/)بتحويل شعارها إلى حلبة لهذه اللعبة الشهيرة، و لكن بسبب الغموض الذي يكتنفه.
+الأمر مختلف اليوم ليس لكون الشعار متحركا ، فقد سبق لـ Google عمل أكثر من شعار مخصص (أو ما يطلق عليه مصطلح Doodle) متحرك كالـ Doodle الخاص باحتفال مرور ربع قرن عن الـ Buckyball ، و ليس بسبب تفاعليته، فقد سبق لـ Google الاحتفال بالـ [PacMan ](https://www.it-scoop.com/tag/pacman/)بتحويل شعارها إلى حلبة لهذه اللعبة الشهيرة، و لكن بسبب الغموض الذي يكتنفه.
 
 و في [رد](http://www.telegraph.co.uk/technology/google/7986607/Google-logo-mystery-coloured-balls-interactive-doodle-celebrating-12th-birthday.html) على تساؤل لـ Daily Telegraph of London رد متحدث رسمي لـ Google بقوله:
 

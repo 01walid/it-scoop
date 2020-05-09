@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/megaupload-logo.png)
 
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-ليس هذا فحسب، [أشار نفس الموقع](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10792862#cb=fc2f5ef8ef62e2&origin=http%3A%2F%2Fwww.nzherald.co.nz%2Ff215328c26e283a&relation=parent.parent&transport=postmessage&type=resize&height=21&ackData[id]=1&width=90) سابقا بأن المذكرة القضائية التي تم استخدامها لإلقاء القبض على Kim Dotcom تحتوي في حد ذاتها على أخطاء إجرائية، مما يزيد من تعقيد القضية أكثر فأكثر، وترجيح [نظرية المؤامرة](http://www.it-scoop.com/2012/01/megaupload-shutdown/) التي تقول بأن هناك أطرافا سعت إلى إيقاف الموقع ومؤسسه مهما كانت الظروف، نظرا لتحضير الشركة لخدمات موسيقية قانونية كان من شأنها أن تعصف بمستقبل كبريات شركات هذه الصناعة، كونها كانت تخطط لدفع 90% من المداخيل لمنتجي المحتوى (الفنانين).
+ليس هذا فحسب، [أشار نفس الموقع](http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=10792862#cb=fc2f5ef8ef62e2&origin=http%3A%2F%2Fwww.nzherald.co.nz%2Ff215328c26e283a&relation=parent.parent&transport=postmessage&type=resize&height=21&ackData[id]=1&width=90) سابقا بأن المذكرة القضائية التي تم استخدامها لإلقاء القبض على Kim Dotcom تحتوي في حد ذاتها على أخطاء إجرائية، مما يزيد من تعقيد القضية أكثر فأكثر، وترجيح [نظرية المؤامرة](https://www.it-scoop.com/2012/01/megaupload-shutdown/) التي تقول بأن هناك أطرافا سعت إلى إيقاف الموقع ومؤسسه مهما كانت الظروف، نظرا لتحضير الشركة لخدمات موسيقية قانونية كان من شأنها أن تعصف بمستقبل كبريات شركات هذه الصناعة، كونها كانت تخطط لدفع 90% من المداخيل لمنتجي المحتوى (الفنانين).
 
 
 

@@ -19,7 +19,7 @@ tags:
 
 
 
-[**مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الرابع)**](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
+[**مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الرابع)**](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
 
 
 نواصل اليوم مع الأسبوع الرابع من المسابقة التي تنظمها  المجلة التقنية بالتعاون مع bitdefender  و التي تتيح لكم الفور بنسخة  bitdefender internet security 2010 كل يوم جمعة.
@@ -28,7 +28,7 @@ tags:
 
 
 [![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
-](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
+](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
 
 
 
@@ -56,8 +56,8 @@ tags:
 الخبر الذي يجب أن تكتب تعليقا عليه هو الظاهر في الصورة التالية:
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/bitDefender4.png)
-]( http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/bitDefender4.png)
+]( https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-4/)
 
 
 

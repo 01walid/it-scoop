@@ -18,7 +18,7 @@ tags:
 - Windows
 ---
 
-**[التفاحة المقضومة تقضم جزءً من حصة Windows في أوروبا](http://www.it-scoop.com/2010/10/windows-mac-os-x-os-market-share)**
+**[التفاحة المقضومة تقضم جزءً من حصة Windows في أوروبا](https://www.it-scoop.com/2010/10/windows-mac-os-x-os-market-share)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/apple-vs-windows.jpg)
-](http://www.it-scoop.com/2010/10/windows-mac-os-x-os-market-share)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/apple-vs-windows.jpg)
+](https://www.it-scoop.com/2010/10/windows-mac-os-x-os-market-share)
 
 
 و حسب هذه الدراسة فلقد تراجعت حصة Windows في أوروبا من 93.3% خلال شهر أغسطس من العام الماضي إلى 91.1% خلال نفس الفترة من العام الجاري، فيما تقدم نظراؤه لدى Apple (Mac OS X و iOS) من 5.4% إلى 7.4% خلال نفس الفترة.

@@ -16,14 +16,14 @@ tags:
 - Social Networks
 ---
 
-[خاصية Instant personalisation الجديدة في Facebook... احذر أن تتنتهك خصوصيتك!](http://www.it-scoop.com/2011/01/facebook-instant-personalisation)
+[خاصية Instant personalisation الجديدة في Facebook... احذر أن تتنتهك خصوصيتك!](https://www.it-scoop.com/2011/01/facebook-instant-personalisation)
 
 
 Instant personalisation أو ميزة التخصيص الفوري، هي ميزة أطلقتها Facebook خلال شهر نيسان/أبريل من العام الفارط، لكنها بقت دون تفعيل ولم يسري مفعولها إلا حاليا، حيث بدأت تظهر لبعض المستخدمين تدريجيا، المشكل أنها قد تشكل انتهاكا صريحا لخصوصية المستخدم خاصة وأنها تأتي مفعلة بشكل افتراضي.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/facebookEcrit_logo.jpg)
-](http://www.it-scoop.com/2011/01/facebook-instant-personalisation)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/facebookEcrit_logo.jpg)
+](https://www.it-scoop.com/2011/01/facebook-instant-personalisation)
 
 
 

@@ -20,8 +20,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/05/naked-money.jpg)
-](http://www.it-scoop.com/2018/05/naked-money/nakedmoney-indd/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/05/naked-money.jpg)
+](https://www.it-scoop.com/2018/05/naked-money/nakedmoney-indd/)
 
 
 

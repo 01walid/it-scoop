@@ -16,13 +16,13 @@ tags:
 - Pwn2Own
 ---
 
-**[Google تقرر منح 20 ألف دولار لمن يتمكن من استغلال ثغرات Chrome خلال مسابقة Pwn2Own](http://www.it-scoop.com/2011/02/google-chrome-pwn2own-20-000-dollars)**
+**[Google تقرر منح 20 ألف دولار لمن يتمكن من استغلال ثغرات Chrome خلال مسابقة Pwn2Own](https://www.it-scoop.com/2011/02/google-chrome-pwn2own-20-000-dollars)**
 
 
 تأكيدا منها على أن متصفح Chrome آمن إلى أبعد الحدود و أنه من الصعب استغلال ثغراته، قررت Google تخصيص جائزة قدرها 20 ألف دولار لمن يتمكن من استغلال إحدى ثغرات متصفحها خلال مسابقة [Pwn2Own](http://dvlabs.tippingpoint.com/blog/2011/02/02/pwn2own-2011) التي تقام سنويا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
-](http://www.it-scoop.com/2011/02/google-chrome-pwn2own-20-000-dollars)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
+](https://www.it-scoop.com/2011/02/google-chrome-pwn2own-20-000-dollars)
 
 و لم يتمكن أي أحد من استغلال ثغرات Chrome خلال دورة [العام الماضي من مسابقة Pwn2Own](http://dvlabs.tippingpoint.com/blog/2010/02/15/pwn2own-2010)، إلا أن Google تصبو من خلال هذه الخطوة إلى أحد الأمرين، إما اكتشاف ثغرة أمنية خطيرة و بالتالي تقوم بترقيعها و تقلل من الأخطار الممكنة (على قلتها) الخاص بمتصفحها، أو أن تؤكد مرة أخرى أن الـ Sandbox الخاص بـ Chrome فعلا في المستوى.
 

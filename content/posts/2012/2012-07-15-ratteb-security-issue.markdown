@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-21-48-PM.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-21-48-PM.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-21-48-PM.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-21-48-PM.png)
 
 
 
@@ -53,8 +53,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-30-52-PM.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-30-52-PM.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-30-52-PM.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-30-52-PM.png)
 
 
 
@@ -77,8 +77,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-38-44-PM.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-38-44-PM.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-38-44-PM.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/7-15-2012-02-38-44-PM.png)
 
 
 

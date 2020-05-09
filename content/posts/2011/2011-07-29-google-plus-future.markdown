@@ -107,9 +107,9 @@ Google أعدت العدة واستعملت موارد كثيرة لإنجاح G
 
 
 
- 	  * [Pool Party](http://www.poolpartyapp.com/login): نظام لتشارك الصور الذي طورته Slide التي [اشترتها Google شهر أغسطس الماضي](http://www.it-scoop.com/2010/08/google-slide/) ([Google Is Testing A Photo-Sharing App Called Pool PartyRead](http://www.businessinsider.com/google-is-testing-a-photo-sharing-app-called-pool-party-2011-6)).
+ 	  * [Pool Party](http://www.poolpartyapp.com/login): نظام لتشارك الصور الذي طورته Slide التي [اشترتها Google شهر أغسطس الماضي](https://www.it-scoop.com/2010/08/google-slide/) ([Google Is Testing A Photo-Sharing App Called Pool PartyRead](http://www.businessinsider.com/google-is-testing-a-photo-sharing-app-called-pool-party-2011-6)).
  	  * [Photovin](http://photovine.com/): نظام آخر لتشارك الصور، ولكن هذه المرة عبر الهواتف ([Google’s mysterious Photovine looks like a photo-sharing service](http://thenextweb.com/google/2011/07/12/googles-mysterious-photovine-website-is-live-and-it-looks-like-a-social-photo-sharing-service/))
- 	  * [Fridge](http://frid.ge/): شبكة اجتماعية لها نفس مبدأ عمل الدوائر ([Google تضم شركة Fridge الناشئة إلى دوائرها على Google+](http://www.it-scoop.com/2011/07/google-fridge/)).
+ 	  * [Fridge](http://frid.ge/): شبكة اجتماعية لها نفس مبدأ عمل الدوائر ([Google تضم شركة Fridge الناشئة إلى دوائرها على Google+](https://www.it-scoop.com/2011/07/google-fridge/)).
  	  * [PittPatt](http://www.pittpatt.com/): نظام للتعرف على الأوجه ([Google Acquires Facial Recognition Software Company PittPatt](http://techcrunch.com/2011/07/22/google-acquires-facial-recognition-software-company-pittpatt/)).
 
 

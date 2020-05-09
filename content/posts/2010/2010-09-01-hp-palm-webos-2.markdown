@@ -14,7 +14,7 @@ tags:
 - WebOS
 ---
 
-**[HP تكشف النقاب عن خصائص الإصدار 2.0 من نظام WebOS]( http://www.it-scoop.com/2010/09/hp-palm-webos-2)**
+**[HP تكشف النقاب عن خصائص الإصدار 2.0 من نظام WebOS]( https://www.it-scoop.com/2010/09/hp-palm-webos-2)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/WebOS2.jpg)
-]( http://www.it-scoop.com/2010/09/hp-palm-webos-2)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/WebOS2.jpg)
+]( https://www.it-scoop.com/2010/09/hp-palm-webos-2)
 
 
 من بين أهم ما جاء به هذا الإصدار في نسخته التجريبية الخاصة (Private Beta) نجد تعدد المهام   Multitaskingو الذي وصفه فريق عمل Palm بالمتقدم بفضل إمكانية تجميع التطبيقات بعضها مع بعض لتسهيل إدارتها و تنظيمها على شاشة الهاتف.

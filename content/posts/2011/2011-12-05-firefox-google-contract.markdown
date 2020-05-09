@@ -21,8 +21,8 @@ tags:
 
 
 
-[![هل ستلعب Google ورقة التمويل لتقضي نهائيا على متصفح Firefox؟](http://www.it-scoop.com/wp-content/uploads/2011/12/sad-firefox.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/sad-firefox.jpg)
+[![هل ستلعب Google ورقة التمويل لتقضي نهائيا على متصفح Firefox؟](https://www.it-scoop.com/wp-content/uploads/2011/12/sad-firefox.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/sad-firefox.jpg)
 
 
 

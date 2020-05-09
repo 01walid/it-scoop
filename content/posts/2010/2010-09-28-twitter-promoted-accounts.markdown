@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[هل ستكشف  Twitter اليوم النقاب عن “Promoted Accounts” ؟](http://www.it-scoop.com/2010/09/twitter-promoted-accounts/)**
+**[هل ستكشف  Twitter اليوم النقاب عن “Promoted Accounts” ؟](https://www.it-scoop.com/2010/09/twitter-promoted-accounts/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/s-TWITTER-PROMOTED-ACCOUNTS-large.jpg)
-](http://www.it-scoop.com/2010/09/twitter-promoted-accounts/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/s-TWITTER-PROMOTED-ACCOUNTS-large.jpg)
+](https://www.it-scoop.com/2010/09/twitter-promoted-accounts/)
 
 
 بعد "Promoted Tweets"، وحسب موقع [All Things Digital](http://mediamemo.allthingsd.com/20100927/exclusive-want-twitter-to-help-you-find-more-followers-pay-up-for-a-promoted-account/) قد تكشف Twitter اليوم النقاب عن ميزة “Promoted Accounts” (الحسابات المُروَجَة إن صح التعبير) بنية التربح وراء من يريدون جلب متتبعين followers أكثر  لحسابتهم في خدمة التدوين المصغر، وذلك في مؤمتر IAB الذي ينعقد اليوم في مدينة New York.

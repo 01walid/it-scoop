@@ -24,8 +24,8 @@ tags:
 
 
 
-[![اكتشاف ثغرة في نظام blackberry tablet OS تمكن من التحكم في أجهزة PlayBook عن بعد](http://www.it-scoop.com/wp-content/uploads/2011/12/play-book.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/play-book.jpg)
+[![اكتشاف ثغرة في نظام blackberry tablet OS تمكن من التحكم في أجهزة PlayBook عن بعد](https://www.it-scoop.com/wp-content/uploads/2011/12/play-book.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/play-book.jpg)
 
 
 

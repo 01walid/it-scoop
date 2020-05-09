@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/motorola_apple_frand_demand.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/motorola_apple_frand_demand.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/motorola_apple_frand_demand.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/motorola_apple_frand_demand.png)
 
 
 

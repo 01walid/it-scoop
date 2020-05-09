@@ -14,14 +14,14 @@ tags:
 - Linux
 ---
 
-**[إطلاق برنامج Bricscad المكافئ للـ Autocad على أنظمة الـLinux](http://www.it-scoop.com/2010/09/bicscard/)**
+**[إطلاق برنامج Bricscad المكافئ للـ Autocad على أنظمة الـLinux](https://www.it-scoop.com/2010/09/bicscard/)**
 
 
 في خبر قد يسعد الكثير من مستخدمي أنظمة الـ Linux، أطلقت شركة [Bricsys](http://www.bricsys.com//) برنامجها Bricscad المكافئ "التجاري" الأول على أنظمة الـLinux لبرنامج الرسم الهندسي الشهير AutoCad المستخدم بكثرة في الهندسة الصناعية والعمارة.
 
 
 [![](http://www.bricsys.com/common/image/site/page/V10linux.png)
-](http://www.it-scoop.com/2010/09/bicscard/)
+](https://www.it-scoop.com/2010/09/bicscard/)
 
 
 بعد حوالي عامين من الانتظار تخرج النسخة الأولى بواجهة قريبة جدا من برنامج AutoCad مع دعم للغة Autolisp و3D وبكافة الميزات الأساسية.

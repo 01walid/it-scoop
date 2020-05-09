@@ -14,13 +14,13 @@ tags:
 - Nexus One
 ---
 
-[**Google تقرر إيقاف بيع Nexus One عبر موقعها، و تقرر الانتقال إلى التسويق التقليدي**](http://www.it-scoop.com/2010/05/nexus-one-changes-availability/)
+[**Google تقرر إيقاف بيع Nexus One عبر موقعها، و تقرر الانتقال إلى التسويق التقليدي**](https://www.it-scoop.com/2010/05/nexus-one-changes-availability/)
 
 
 "ليس كل ما تُقدم عليه Google يعني نجاحه"، هذا ما يمكن استخلاصه من تجربة Google تسويق جهازها Nexus One حصريا عبر موقعها على الإنترنت، حيث أعلنت اليوم عن إيقاف البيع عبر هذا الموقع و تحويل طريقة تسويقه إلى الطريقة التقليدية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/Nexus_One2_270x491.jpg)
-](http://www.it-scoop.com/2010/05/nexus-one-changes-availability/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/Nexus_One2_270x491.jpg)
+](https://www.it-scoop.com/2010/05/nexus-one-changes-availability/)
 
 حيث تشير Google في التدوينة التي تعلن هذا التغيير أن نظام Andoird حقق نجاحاً أكبر من المتوقع، بعكس نظام البيع عبر الشبكة و الذي حقق نتائج دون المتوقع، حيث إن العديد من العملاء يفضلون لمس الجهاز و تجربته قبل شرائه.
 

@@ -15,8 +15,8 @@ tags:
 
 بعد النجاح الذي حققه موقع **iSecur1ty** على الساحة العربية من حيث جودة المواضيع وإثرائه للمحتوى العربي في مجال أمن المعلومات، تحول الموقع إلى شركة قائمة بذاتها مع زيادة نشاطٍ وفريقٍ شاب طموح مطلع على المجال ويُعنى بنشر ثقافة الهاكر الأخلاقي. وكخطوة إلى الأمام، أطلق الفريق يومَ أمسٍ أول إصدار من مجلة **iSecur1ty** المختصة في نفس مجال الموقع، وقد شهد الإصدار الأول -على قلة صفحاته ومواضيعه- أكثر من 1000 تحميل فقط في 6 ساعات.
 
-[![iSecur1ty](http://www.it-scoop.com/wp-content/uploads/2013/04/iSecur1ty-300x144.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/iSecur1ty.png)
+[![iSecur1ty](https://www.it-scoop.com/wp-content/uploads/2013/04/iSecur1ty-300x144.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/iSecur1ty.png)
 
 هذه نبذة مختصرة [عن المجلة](http://www.isecur1ty.org/magazine/about.html) من موقعها الرسمي:
 

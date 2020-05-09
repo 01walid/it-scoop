@@ -18,8 +18,8 @@ tags:
 
 
 
-[![eric-schmidt](http://www.it-scoop.com/wp-content/uploads/2013/02/eric-schmidt.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/eric-schmidt.jpg)
+[![eric-schmidt](https://www.it-scoop.com/wp-content/uploads/2013/02/eric-schmidt.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/eric-schmidt.jpg)
 
 
 

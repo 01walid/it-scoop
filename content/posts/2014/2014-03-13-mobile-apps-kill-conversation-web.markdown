@@ -19,8 +19,8 @@ tags:
 
 
 
-[![social-apps](http://www.it-scoop.com/wp-content/uploads/2014/03/social-apps.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/03/social-apps.jpg)
+[![social-apps](https://www.it-scoop.com/wp-content/uploads/2014/03/social-apps.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/03/social-apps.jpg)
 
 
 
@@ -51,8 +51,8 @@ tags:
 
 
 
-[![zuck_fbblue](http://www.it-scoop.com/wp-content/uploads/2014/03/zuck_fbblue.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/03/zuck_fbblue.jpg)
+[![zuck_fbblue](https://www.it-scoop.com/wp-content/uploads/2014/03/zuck_fbblue.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/03/zuck_fbblue.jpg)
 
 
 
@@ -83,8 +83,8 @@ tags:
 
 
 
-[![libon-open-chat](http://www.it-scoop.com/wp-content/uploads/2014/03/libon-open-chat.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/03/libon-open-chat.png)
+[![libon-open-chat](https://www.it-scoop.com/wp-content/uploads/2014/03/libon-open-chat.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/03/libon-open-chat.png)
 
 
 
@@ -100,8 +100,8 @@ tags:
 
 
 
-[![wordeo](http://www.it-scoop.com/wp-content/uploads/2014/03/wordeo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/03/wordeo.jpg)
+[![wordeo](https://www.it-scoop.com/wp-content/uploads/2014/03/wordeo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/03/wordeo.jpg)
 
 
 
@@ -111,8 +111,8 @@ tags:
 
 
 
-[caption id="attachment_12794" align="aligncenter" width="550"][![mobile-stickers](http://www.it-scoop.com/wp-content/uploads/2014/03/mobile-stickers.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/03/mobile-stickers.jpg) مثال عن تواصل عبر ما يُطلق عليه اسم Stickers[/caption]
+[caption id="attachment_12794" align="aligncenter" width="550"][![mobile-stickers](https://www.it-scoop.com/wp-content/uploads/2014/03/mobile-stickers.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/03/mobile-stickers.jpg) مثال عن تواصل عبر ما يُطلق عليه اسم Stickers[/caption]
 
 
 نعيش حاليا في عالم سريع جدا، في عالم لا نجد الوقت الكافي للقراءة (“tl;dr” = “too long; don’t read“) أما الكتابة فحدث ولا حرج، فهذه عملية تستهلك أضعاف ما تحتاجه القراءة من وقت حتى ولو كان كل المطلوب هو مُجرد كُليمات، فأصبحت اللغة مُختصرة وأصبح البعض يختصر حتى OK لتصبح K (ألم تكن OK أصلا اختصارا لكلمة Okey؟). أخبرني من فضلك، **هل يُعقل فعلا أننا أصبحنا نتواصل بأصوات أحادية المقطع فقط monosyllabes، بنقرات Like أو بالصور الشخصية selphies أو بالملصقات Stickers؟** (حنين إلى العصر الحجري؟).

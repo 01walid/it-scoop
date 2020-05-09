@@ -16,7 +16,7 @@ tags:
 - Schleswig-Holstein
 ---
 
-[**السلطات الألمانية تَحظِر استعمال زر Like على المواقع المحلية لمخالفته قوانين خصوصية الأفراد الألمانية والأوروبية**](http://www.it-scoop.com/2011/08/germany-schleswig-holstein-facebooks-like-button/)
+[**السلطات الألمانية تَحظِر استعمال زر Like على المواقع المحلية لمخالفته قوانين خصوصية الأفراد الألمانية والأوروبية**](https://www.it-scoop.com/2011/08/germany-schleswig-holstein-facebooks-like-button/)
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/germany-facebook-dislike.jpg)
-](http://www.it-scoop.com/2011/08/germany-schleswig-holstein-facebooks-like-button/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/germany-facebook-dislike.jpg)
+](https://www.it-scoop.com/2011/08/germany-schleswig-holstein-facebooks-like-button/)
 
 
 

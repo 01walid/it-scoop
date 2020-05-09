@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/TIOBE-Programming-Community-Index-july-2012.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/TIOBE-Programming-Community-Index-july-2012.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/TIOBE-Programming-Community-Index-july-2012.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/TIOBE-Programming-Community-Index-july-2012.png)
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 
 
-وعلى ذكر الهواتف الذكية، لم يشفع انتشار Android للغة Java كثيرا، حيث أنها لم تستطع بعد استعادة صدارتها التي انتزعتها منها لغة C [منذ أربعة أشهر](http://www.it-scoop.com/2012/04/tiobe-index-for-april-2012/) (يجب أن لا ننسى بأن الهواتف الذكية ليست إلا جزء يسيرا من الحوسبة ككل)، في حين تواصل لغة PHP فقدان بريقها، حيث حلت سابعة في هذا الترتيب، متراجعة بذلك بمرتبة مُقارنة بترتيب [الشهر الماضي](http://www.it-scoop.com/2012/05/tiobe-index-for-may-2012/)، وبمرتبتين مُقارنة بترتيب نفس الشهر من العام الماضي.
+وعلى ذكر الهواتف الذكية، لم يشفع انتشار Android للغة Java كثيرا، حيث أنها لم تستطع بعد استعادة صدارتها التي انتزعتها منها لغة C [منذ أربعة أشهر](https://www.it-scoop.com/2012/04/tiobe-index-for-april-2012/) (يجب أن لا ننسى بأن الهواتف الذكية ليست إلا جزء يسيرا من الحوسبة ككل)، في حين تواصل لغة PHP فقدان بريقها، حيث حلت سابعة في هذا الترتيب، متراجعة بذلك بمرتبة مُقارنة بترتيب [الشهر الماضي](https://www.it-scoop.com/2012/05/tiobe-index-for-may-2012/)، وبمرتبتين مُقارنة بترتيب نفس الشهر من العام الماضي.
 
 
 

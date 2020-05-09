@@ -21,8 +21,8 @@ tags:
 
 
 
-[![صورة بيانية عن الوقت الذي يقضيه المُستخدمون على مختلف المواقع الاجتماعية خلال شهر يناير 2001 حسب كوم سكور](http://www.it-scoop.com/wp-content/uploads/2012/02/Comscore-Average-minutes-per-visitor-to-social-media-site-in-january.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Comscore-Average-minutes-per-visitor-to-social-media-site-in-january.jpg)
+[![صورة بيانية عن الوقت الذي يقضيه المُستخدمون على مختلف المواقع الاجتماعية خلال شهر يناير 2001 حسب كوم سكور](https://www.it-scoop.com/wp-content/uploads/2012/02/Comscore-Average-minutes-per-visitor-to-social-media-site-in-january.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Comscore-Average-minutes-per-visitor-to-social-media-site-in-january.jpg)
 
 
 

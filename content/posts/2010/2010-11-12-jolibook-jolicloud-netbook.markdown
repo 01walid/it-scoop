@@ -15,16 +15,16 @@ tags:
 - netbook
 ---
 
-**[طارق كريم يعلن عن انطلاقة قريبه لجهاز JoliBook الخاص بنظام JoliCloud في المملكة المتحدة](http://www.it-scoop.com/2010/11/jolibook-jolicloud-netbook/)**
+**[طارق كريم يعلن عن انطلاقة قريبه لجهاز JoliBook الخاص بنظام JoliCloud في المملكة المتحدة](https://www.it-scoop.com/2010/11/jolibook-jolicloud-netbook/)**
 
 
 
 
-بعد أن كانت الأمور لا تزيد عن كونها "[إشاعات](http://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)"، أكد طارق كريم عن وجود مشروع لجهاز Netbook خاص بنظام JoliCloud و الذي يطلق عليه اسم JoliBook و أعلن عن أول محطة له ستكون في المملكة المتحدة.
+بعد أن كانت الأمور لا تزيد عن كونها "[إشاعات](https://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)"، أكد طارق كريم عن وجود مشروع لجهاز Netbook خاص بنظام JoliCloud و الذي يطلق عليه اسم JoliBook و أعلن عن أول محطة له ستكون في المملكة المتحدة.
 
 
 [![](http://farm5.static.flickr.com/4107/5169606200_f5064183c1.jpg )
-](http://www.it-scoop.com/2010/11/jolibook-jolicloud-netbook/)
+](https://www.it-scoop.com/2010/11/jolibook-jolicloud-netbook/)
 
 و في الحوار الذي أجراه معه موقع TechCrunch أشار طارق كريم إلى أن الجهاز سيكون بسعر في المتناول، لكن لم يحدد ذلك السعر، كما أنه لم يحدد تاريخ إطلاق الجهاز، لكن في المقابل يظهر في الفيديو كريم و هو يستعمل نظامه على جهاز MacBook Air. و لم يظهر في الفيديو سوى علبة الجهاز.
 

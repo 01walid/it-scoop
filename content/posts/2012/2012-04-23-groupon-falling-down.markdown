@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.jpg)
 
 
 
@@ -30,13 +30,13 @@ tags:
 
 
 
-بعد قرابة شهر من ذلك، يواصل سعر سهم Groupon تراجعه حيث وصل سعره اليوم إلى [11.85 دولارا](http://www.google.com/finance?q=groupon) بعد أن كان السعر الذي دخلت به إلى البورصة هو 20 دولارا للسهم الواحد. ويُشير موقع [The Next Web](http://thenextweb.com/insider/2012/04/20/groupon-falling-down-market-valuation-approaching-old-google-buyout-offer-price/)  إلى أن هذا السعر لم يعد يفصله سوى القليل عن 9.4 دولار، والذي سيجعل قيمة الشركة الكلية مكافئا للقيمة التي [عرضتها Google لشرائها](http://www.it-scoop.com/2010/12/google-groupon/) شهر ديسمبر سنة 2010، والذي رفضته الشركة حينها.
+بعد قرابة شهر من ذلك، يواصل سعر سهم Groupon تراجعه حيث وصل سعره اليوم إلى [11.85 دولارا](http://www.google.com/finance?q=groupon) بعد أن كان السعر الذي دخلت به إلى البورصة هو 20 دولارا للسهم الواحد. ويُشير موقع [The Next Web](http://thenextweb.com/insider/2012/04/20/groupon-falling-down-market-valuation-approaching-old-google-buyout-offer-price/)  إلى أن هذا السعر لم يعد يفصله سوى القليل عن 9.4 دولار، والذي سيجعل قيمة الشركة الكلية مكافئا للقيمة التي [عرضتها Google لشرائها](https://www.it-scoop.com/2010/12/google-groupon/) شهر ديسمبر سنة 2010، والذي رفضته الشركة حينها.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/Groupon.png)
 
 
 

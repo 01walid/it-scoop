@@ -13,13 +13,13 @@ tags:
 - Google
 ---
 
-[**Google  تطلق الإصدار النهائي من المتصفح Chrome 4.1 لأنظمة Windows**](http://www.it-scoop.com/2010/03/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-chrome-4-1-%d9%84%d8%a3/)
+[**Google  تطلق الإصدار النهائي من المتصفح Chrome 4.1 لأنظمة Windows**](https://www.it-scoop.com/2010/03/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-chrome-4-1-%d9%84%d8%a3/)
 
 
 أسبوعان فقط بعد إطلاق الإصدار Beta لـ4.1 Chrome ، أطلقت Google الإصدار النهائي منه، و الذي يأتي بخاصية الترجمة المضمنة في المتصفح والمبنية على خدمة الترجمة الخاصة بـ Google، و الخصائص الجديدة المتعلقة بالتحكم في خصوصية المستخدم.
 
 [![](http://www.google.com/chrome/intl/ar/images/dlpage_alt.jpg)
-](http://www.it-scoop.com/2010/03/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-chrome-4-1-%d9%84%d8%a3/)
+](https://www.it-scoop.com/2010/03/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-chrome-4-1-%d9%84%d8%a3/)
 
 إضافة إلى إمكانية تحديد المواقع المسموح لها باستعمال الـ Cookies، الـ JavaScript و الـ pop-up و ما إلى ذلك.
 

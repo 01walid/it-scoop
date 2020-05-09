@@ -13,13 +13,13 @@ tags:
 - Mozilla
 ---
 
-**[Mozilla تكشف أنها نشرت عن طريق الخطأ قاعدة بيانات تشمل البيانات الشخصية لبعض المسجلين لديها](http://www.it-scoop.com/2010/12/mozilla-accidentally-publishes-user-ids-and-passwords)**
+**[Mozilla تكشف أنها نشرت عن طريق الخطأ قاعدة بيانات تشمل البيانات الشخصية لبعض المسجلين لديها](https://www.it-scoop.com/2010/12/mozilla-accidentally-publishes-user-ids-and-passwords)**
 
 
 أعلنت Mozilla على مدونتها الخاصة بالأمن و الحماية عن نشرها عن طريق الخطأ لقاعدة بيانات تشمل البيانات الشخصية لنحو 44000 من المسجلين على موقعها addons.mozilla.org ، بعد أن راسلها أحد الباحثين الأمنيين لتبليغها بذلك.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
-](http://www.it-scoop.com/2010/12/mozilla-accidentally-publishes-user-ids-and-passwords)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+](https://www.it-scoop.com/2010/12/mozilla-accidentally-publishes-user-ids-and-passwords)
 
 و تشير Mozilla إلى أن القاعدة تحتوي حسابات معطلة فيها البيانات الشخصية لأصحابها بما فيها كلمات السر الخاص بهم "مشفرة" بخوارزمية MD5 ، لكنها تقلل من خطورة الوضع بحكم محدودية انتشار قاعدة البيانات.
 

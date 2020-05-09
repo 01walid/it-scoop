@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/Eugene-Kaspersky.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/Eugene-Kaspersky.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/Eugene-Kaspersky.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/Eugene-Kaspersky.jpg)
 
 
 

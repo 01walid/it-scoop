@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/11/Weapons-of-Math-Destruction.jpg)
-](http://www.it-scoop.com/2018/11/%d8%a7%d9%84%d8%ac%d8%a7%d9%86%d8%a8-%d8%a7%d9%84%d9%85%d9%8f%d8%b8%d9%84%d9%85-%d9%84%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b6%d9%91%d8%ae%d9%85%d8%a9%d8%8c-%d8%a3%d9%88-%d9%83/weapons-of-math-destruction/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/11/Weapons-of-Math-Destruction.jpg)
+](https://www.it-scoop.com/2018/11/%d8%a7%d9%84%d8%ac%d8%a7%d9%86%d8%a8-%d8%a7%d9%84%d9%85%d9%8f%d8%b8%d9%84%d9%85-%d9%84%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%a7%d9%84%d8%b6%d9%91%d8%ae%d9%85%d8%a9%d8%8c-%d8%a3%d9%88-%d9%83/weapons-of-math-destruction/)
 
 
 
@@ -75,4 +75,4 @@ categories:
 
 
 
-كما سبق وأن أشرت له في مُراجعة كتاب آخر ([الجميع يكذب، أو كيف تكون البيانات الضّخمة أصدق من الجميع](http://www.it-scoop.com/2018/10/everybody-lies-review/)[. لمحة سريعة حول كتاب Everybody Lies](http://www.it-scoop.com/2018/10/everybody-lies-review/)) يفضل قراءة هذا الكتاب (الذي يلقي الضوء على الجانب المُظلم للبيانات الضخمة) إلى جانب كتاب آخر يُركّز على قوّتها واستخداماتها (مثل الكتاب آنف الذكر) حتى يتكون لديك فهم متوازن لهذا المجال.
+كما سبق وأن أشرت له في مُراجعة كتاب آخر ([الجميع يكذب، أو كيف تكون البيانات الضّخمة أصدق من الجميع](https://www.it-scoop.com/2018/10/everybody-lies-review/)[. لمحة سريعة حول كتاب Everybody Lies](https://www.it-scoop.com/2018/10/everybody-lies-review/)) يفضل قراءة هذا الكتاب (الذي يلقي الضوء على الجانب المُظلم للبيانات الضخمة) إلى جانب كتاب آخر يُركّز على قوّتها واستخداماتها (مثل الكتاب آنف الذكر) حتى يتكون لديك فهم متوازن لهذا المجال.

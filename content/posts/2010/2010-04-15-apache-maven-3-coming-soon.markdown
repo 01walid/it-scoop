@@ -13,13 +13,13 @@ tags:
 - Maven
 ---
 
-[**الإصدار الثالث من Apache Maven... قريبا**](http://www.it-scoop.com/2010/04/apache-maven-3-coming-soon)
+[**الإصدار الثالث من Apache Maven... قريبا**](https://www.it-scoop.com/2010/04/apache-maven-3-coming-soon)
 
 
 سيكون Apache Maven 3.0 المفتوح المصدر جاهزاً للانطلاق خلال أشهر قليلة  بعد انتظار دام 6 سنوات من المطورين الذي داوموا على استخدام سلفه Maven  2.x طوال تلك الفترة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/maven-logo.png)
-](http://www.it-scoop.com/2010/04/apache-maven-3-coming-soon)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/maven-logo.png)
+](https://www.it-scoop.com/2010/04/apache-maven-3-coming-soon)
 
 Maven 3.0 سيكون أول إصدار رئيسي لمشروع Apache  منذ عام 2005 حين تم إطلاق الإصدار الثاني منه، طبعاً لم يخلو الأمر طوال  تلك الفترة من التحديثات التراكمية على الإصدار 2.0.
 

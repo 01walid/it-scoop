@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Number-of-opera-mini-opera-mobile-users.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Number-of-opera-mini-opera-mobile-users.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Number-of-opera-mini-opera-mobile-users.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Number-of-opera-mini-opera-mobile-users.png)
 
 
 
@@ -42,7 +42,7 @@ tags:
 
 
 
-[أنباء عن احتمال شراء فيس بوك لمتصفح Opera](http://www.it-scoop.com/2012/05/facebook-opera/)
+[أنباء عن احتمال شراء فيس بوك لمتصفح Opera](https://www.it-scoop.com/2012/05/facebook-opera/)
 
 
 

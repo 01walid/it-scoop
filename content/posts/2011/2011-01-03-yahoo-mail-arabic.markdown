@@ -12,14 +12,14 @@ tags:
 - Yahoo
 ---
 
-**[بريد Yahoo يتكلم بلغة الضاد](http://www.it-scoop.com/2011/01/yahoo-mail-arabic/)**
+**[بريد Yahoo يتكلم بلغة الضاد](https://www.it-scoop.com/2011/01/yahoo-mail-arabic/)**
 
 
 وصلتنا مساء اليوم صورة توضح أن بريد Yahoo قد بدأ في "تعلم" اللغة العربية، حيث أصبح من الممكن استعمال الواجهة العربية في خدمة البريد الجديد.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/yahoo-Arabic-Beta.gif)
-](http://www.it-scoop.com/2011/01/yahoo-mail-arabic/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/yahoo-Arabic-Beta.gif)
+](https://www.it-scoop.com/2011/01/yahoo-mail-arabic/)
 
 
 لم أجرب الواجهة الجديدة بعد (لقلة استعمالي لـ Yahoo) لكن تشير الصورة إلى أن الأمر لا يزال تجريبيا فقط (تجربة اللغة العربية على الإصدار التجريبي من بريد  Yahoo )  حيث تظهر بعض القوائم باللغة الانجليزية، إلى جانب تداخل بعض الكلمات الأخرى، و اختفاء أخرى تحت أزرارها.

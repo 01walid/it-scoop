@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/Mac-Trojan.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/Mac-Trojan.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/Mac-Trojan.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/Mac-Trojan.png)
 
 
 
@@ -37,8 +37,8 @@ Backdoor.Flashback.39 [يصيب الأجهزة](http://news.drweb.com/show/?i=23
 
 
 
-[caption id="attachment_10496" align="aligncenter" width="649" caption="شكل الرماز في الصفحات المصابة (انقر على الصورة لمشاهدتها بحجمها الكامل)"][![](http://www.it-scoop.com/wp-content/uploads/2012/04/flashback.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/flashback.png)[/caption]
+[caption id="attachment_10496" align="aligncenter" width="649" caption="شكل الرماز في الصفحات المصابة (انقر على الصورة لمشاهدتها بحجمها الكامل)"][![](https://www.it-scoop.com/wp-content/uploads/2012/04/flashback.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/flashback.png)[/caption]
 
 
 وفقاً لبعض المصادر فإن روابط لأكثر من 4 ملايين موقع محمّل بالشفرة الخبيثة أمكن إيجادها على Google SERP (صفحات نتائج محرك البحث)في نهاية مارس المنصرم، بما في ذلك موقع dlink.com وفقاً لبعض المشاركات في منتديات Apple التي تشير إلى وجود الشفرة الخبيثة فيه.
@@ -104,8 +104,8 @@ Backdoor.Flashback.39 [يصيب الأجهزة](http://news.drweb.com/show/?i=23
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/map2.1.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/map2.1.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/map2.1.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/map2.1.png)
 
 
 

@@ -14,13 +14,13 @@ tags:
 - WebOS
 ---
 
-[**أنباء عن تحضير HP لـ Hurricane  جهاز لوحي جديد بنظام WebOS**](http://www.it-scoop.com/2010/05/hp-hurricane-webos-tablet/)
+[**أنباء عن تحضير HP لـ Hurricane  جهاز لوحي جديد بنظام WebOS**](https://www.it-scoop.com/2010/05/hp-hurricane-webos-tablet/)
 
 
 حسب موقع examiner  و الذي اعتمد على معلومات من داخل شركة HP، فإن هذه الأخيرة بصدد التحضير لجهاز لوحي جديد يعمل بنظام WebOS  .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/hp_logo_1.jpg)
-](http://www.it-scoop.com/2010/05/hp-hurricane-webos-tablet/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/hp_logo_1.jpg)
+](https://www.it-scoop.com/2010/05/hp-hurricane-webos-tablet/)
 
 حسب نفس الموقع فإنه من المتوقع إطلاق الجهاز الجديد و الذي يسمى –إلى حد الساعة – بـ Hurricane  في الربع الثالث من العام الجاري، و هو الوقت الأنسب لإطلاق الأجهزة الجديدة، ليتسنى بيع أعداد كبيرة منه في فترة أعياد رأس السنة الميلادية.
 

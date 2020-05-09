@@ -14,7 +14,7 @@ tags:
 - Day Software
 ---
 
-**[Adobe تشتري  Day Software المتخصصة في أنظمة إدارة المحتوى CMS](http://www.it-scoop.com/2010/07/adobe-day-sofwtare-cms/)**
+**[Adobe تشتري  Day Software المتخصصة في أنظمة إدارة المحتوى CMS](https://www.it-scoop.com/2010/07/adobe-day-sofwtare-cms/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/day_software_logo.png)
-](http://www.it-scoop.com/2010/07/adobe-day-sofwtare-cms/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/day_software_logo.png)
+](https://www.it-scoop.com/2010/07/adobe-day-sofwtare-cms/)
 
 
 عملية الشراء هذه و التي وصفتها Adobe بالاستراتيجية، حيث يشير Rob Tarkoff نائب رئيس قسم التطوير لدى Adobe أن الشركات تبحث عن أنظمة متكاملة لبناء مواقعها على الإنترنت و لتحديثها بشكل سهل.

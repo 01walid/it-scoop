@@ -14,7 +14,7 @@ tags:
 - Thunderbird
 ---
 
-**[Mozilla تصدر تحديثات لكل من Firefox و ThunderBird](http://www.it-scoop.com/2010/07/Mozilla-Firefox-ThunderBird-updates)**
+**[Mozilla تصدر تحديثات لكل من Firefox و ThunderBird](https://www.it-scoop.com/2010/07/Mozilla-Firefox-ThunderBird-updates)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/firefox-thunderbird.jpg)
-](http://www.it-scoop.com/2010/07/Mozilla-Firefox-ThunderBird-updates)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/firefox-thunderbird.jpg)
+](https://www.it-scoop.com/2010/07/Mozilla-Firefox-ThunderBird-updates)
 
 
 فيما يخص Firefox فقد عرف كلا من التحديث 3.6.7 و الذي يأتي ليرقع 14 ثغرة، 8 منها وصفت بالحرجة بالإضافة إلى  تحسين أداء أداة فصل الإضافات عن بعضها البعض. إلى جانب التحديث  3.5.11  الخاص بالفرع 3.5 من المتصفح، و الذي توصي Mozilla بترقيته إلى 3.6.

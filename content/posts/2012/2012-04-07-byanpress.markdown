@@ -17,7 +17,7 @@ tags:
 
 
 
-![بيان برس](http://www.it-scoop.com/wp-content/uploads/2012/04/byanpress-e1333822197953.png)
+![بيان برس](https://www.it-scoop.com/wp-content/uploads/2012/04/byanpress-e1333822197953.png)
 
 
 
@@ -28,4 +28,4 @@ tags:
 
 
 
-تجدر الإشارة إلى أن بيان بريس هو ثالث منتج تصدره شركة حسوب للإعلانات بعد كل من خدمة الإعلانات (المنتج الرئيسي) وخدمة [Captcha](http://www.it-scoop.com/2011/12/hsoub-captcha/) تدعم اللغة العربية.
+تجدر الإشارة إلى أن بيان بريس هو ثالث منتج تصدره شركة حسوب للإعلانات بعد كل من خدمة الإعلانات (المنتج الرئيسي) وخدمة [Captcha](https://www.it-scoop.com/2011/12/hsoub-captcha/) تدعم اللغة العربية.

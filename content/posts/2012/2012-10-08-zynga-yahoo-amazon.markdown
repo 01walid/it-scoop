@@ -14,13 +14,13 @@ tags:
 - zynga
 ---
 
-**Zynga** تمر بأحلك أيامها، فبعد فقدانها لـ [6 إداريين خلال ظرف واحد فقط](http://www.it-scoop.com/2012/08/zynga-chief-creative-officer-verdu-exits-to-start-new-company%e2%80%8e/)، فقدت الشركة [الأخوين Bettner مؤسسي Newtoy](http://www.businessinsider.com/word-with-friends-paul-bettner-david-bettner-newtoy-zynga-departure-2012-10) صاحبة لعبة Words With Friends ذائعة الصيت والتي اشترتها Zynga سابقا، كما أن الشركة فقدت [أيضا 20% من قيمة سهمها](http://www.businessinsider.com/zynga-stock-2012-10) نهاية الأسبوع المنصرم لدى إعلانها عن نتائجها المالية السيئة حيث نزلت قيمة الشركة حينها إلى ما دون 1.71 مليار دولار.
+**Zynga** تمر بأحلك أيامها، فبعد فقدانها لـ [6 إداريين خلال ظرف واحد فقط](https://www.it-scoop.com/2012/08/zynga-chief-creative-officer-verdu-exits-to-start-new-company%e2%80%8e/)، فقدت الشركة [الأخوين Bettner مؤسسي Newtoy](http://www.businessinsider.com/word-with-friends-paul-bettner-david-bettner-newtoy-zynga-departure-2012-10) صاحبة لعبة Words With Friends ذائعة الصيت والتي اشترتها Zynga سابقا، كما أن الشركة فقدت [أيضا 20% من قيمة سهمها](http://www.businessinsider.com/zynga-stock-2012-10) نهاية الأسبوع المنصرم لدى إعلانها عن نتائجها المالية السيئة حيث نزلت قيمة الشركة حينها إلى ما دون 1.71 مليار دولار.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/zynga-falls.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/zynga-falls.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/zynga-falls.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/zynga-falls.jpg)
 
 
 

@@ -13,7 +13,7 @@ tags:
 - Linux
 ---
 
-**[سنة حلوة يا Debian :)](http://www.it-scoop.com/2010/08/debian-17-anniversary/)**
+**[سنة حلوة يا Debian :)](https://www.it-scoop.com/2010/08/debian-17-anniversary/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://thank.debian.net/static/cakedebian.png )
-](http://www.it-scoop.com/2010/08/debian-17-anniversary/)
+](https://www.it-scoop.com/2010/08/debian-17-anniversary/)
 
 
 

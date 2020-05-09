@@ -14,13 +14,13 @@ tags:
 - iPhone
 ---
 
-**[الرقم القياسي لسرعة الكتابة على الـ iPhone من نصيب ... آلة](http://www.it-scoop.com/2011/03/iphone-adept-quattro-robot-1-to-50)**
+**[الرقم القياسي لسرعة الكتابة على الـ iPhone من نصيب ... آلة](https://www.it-scoop.com/2011/03/iphone-adept-quattro-robot-1-to-50)**
 
 
 هي ليست كتابة  بمعناها المتعارف عليه و إنما هي أقرب ما تكون إلى ذلك، لكن ما يهمنا هنا هي سرعة القيام بذلك (سواء اعتبرناها كتابة أو لا) حيث استطاع الروبوت Adept Quattro أن ينهي لعبة   a [1 to 50](http://itunes.apple.com/app/1to50/id390866379?mt=8) على الـ iPhone   خلال أقل من 7 ثوان.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/iPhone-1to50.jpg)
-](http://www.it-scoop.com/2011/03/iphone-adept-quattro-robot-1-to-50)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/iPhone-1to50.jpg)
+](https://www.it-scoop.com/2011/03/iphone-adept-quattro-robot-1-to-50)
 
 و يقوم مبدأ هذه اللعبة على النقر على الأرقام من 1 إلى 50 (أليس ذلك ما يعنيه اسمها :p ) في أقل وقت ممكن. و توضح الفيديوهات التالية كيف يقوم بذلك:
 

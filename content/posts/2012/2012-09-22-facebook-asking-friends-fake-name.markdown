@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/facebook-real-name-survey.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/facebook-real-name-survey.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/facebook-real-name-survey.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/facebook-real-name-survey.jpg)
 
 
 

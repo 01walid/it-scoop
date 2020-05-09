@@ -15,7 +15,7 @@ tags:
 - Mono
 ---
 
-**[إطلاق الإصدار 2.8 من Mono و الذي يدعم الـ C# 4.0](http://www.it-scoop.com/2010/10/mono-2-8-csharp-4-0/)**
+**[إطلاق الإصدار 2.8 من Mono و الذي يدعم الـ C# 4.0](https://www.it-scoop.com/2010/10/mono-2-8-csharp-4-0/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Mono-logo.gif)
-](http://www.it-scoop.com/2010/10/mono-2-8-csharp-4-0/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Mono-logo.gif)
+](https://www.it-scoop.com/2010/10/mono-2-8-csharp-4-0/)
 
 
 من بين أهم ما جاء في هذا الإصدار من Mono هو دعمه للـ C# 4.0 و توفيره لـ garbage collector جديد و دعمه للـ OpenBSD، إضافة لتوفيره أحد عشر Frameworks جديدة:

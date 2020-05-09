@@ -19,8 +19,8 @@ tags:
 
 
 
-[![online-news](http://www.it-scoop.com/wp-content/uploads/2013/08/online-news.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/online-news.jpg)
+[![online-news](https://www.it-scoop.com/wp-content/uploads/2013/08/online-news.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/online-news.jpg)
 
 
 

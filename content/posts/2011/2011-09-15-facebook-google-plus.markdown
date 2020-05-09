@@ -12,13 +12,13 @@ tags:
 - Google
 ---
 
-[**Facebook يضيف ميّزات جديدة تنافس Google+ وGoogle تضيف ميّزات ثانويّة**](http://www.it-scoop.com/2011/09/facebook-google-plus)
+[**Facebook يضيف ميّزات جديدة تنافس Google+ وGoogle تضيف ميّزات ثانويّة**](https://www.it-scoop.com/2011/09/facebook-google-plus)
 
 
 يبدو أنّ Facebook أدرك خطر المنافسة القادمة فحاول استباق Google بإضافة الكثير من المميّزات المشابهة لمميّزات Google+، سأذكر بعض الأمثلة:
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/facebook-vs-google-plus.png)
-](http://www.it-scoop.com/2011/09/facebook-google-plus)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/facebook-vs-google-plus.png)
+](https://www.it-scoop.com/2011/09/facebook-google-plus)
 
 
 

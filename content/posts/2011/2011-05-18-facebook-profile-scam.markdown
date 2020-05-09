@@ -15,7 +15,7 @@ tags:
 - scam
 ---
 
-[**تحذير من انتشار رسالة حول إمكانية معرفة من يزور الملف الشخصي للمستخدم على الـ Facebook**](http://www.it-scoop.com/2011/05/facebook-profile-scam/)
+[**تحذير من انتشار رسالة حول إمكانية معرفة من يزور الملف الشخصي للمستخدم على الـ Facebook**](https://www.it-scoop.com/2011/05/facebook-profile-scam/)
 
 
 
@@ -29,7 +29,7 @@ tags:
 
 
 [caption id="" align="aligncenter" width="506" caption="واو: الطريقة فعالة، اكتشف من زار ملفك الشخصي"][![](http://www.securelist.com/en/images/pictures/klblog/479.png)
-](http://www.it-scoop.com/2011/05/facebook-profile-scam/ )[/caption]
+](https://www.it-scoop.com/2011/05/facebook-profile-scam/ )[/caption]
 
 
 
@@ -43,7 +43,7 @@ tags:
 
 
 [![](http://www.securelist.com/en/images/pictures/klblog/485.png)
-](http://www.it-scoop.com/2011/05/facebook-profile-scam/)
+](https://www.it-scoop.com/2011/05/facebook-profile-scam/)
 
 
 
@@ -59,7 +59,7 @@ tags:
 
 
 [![](http://www.securelist.com/en/images/pictures/klblog/483.png)
-](http://www.it-scoop.com/2011/05/facebook-profile-scam/)
+](https://www.it-scoop.com/2011/05/facebook-profile-scam/)
 
 
 

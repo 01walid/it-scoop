@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/Chrome-beta-Android.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Chrome-beta-Android.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/Chrome-beta-Android.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Chrome-beta-Android.png)
 
 
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-التطبيق لا يزال في مرحلة Beta، ومن شأنه أن يُنافس Firefox على الهواتف أيضا، بعد أن انتزع منها مرتبها في سوق المتصفحات على الحواسيب المكتبية، وهو أمر قد [يُهدد مستقبل مؤسسة Mozilla](http://www.it-scoop.com/2011/12/google-mozilla-renew-search-deal/) ككل، خاصة وأن هذه الأخيرة رمت بكامل ثقلها على تطوير نسخة الهواتف من متصفحها، رغم محدودية ما تقدر القيام به، حيث أنها لا يمكنها تطوير إصدارات منه لأنظمة Windows Phone أو iOS، ولا يبقى أمامها سوى Android الذي من المُتوقع أن يكون لمتصفح Chrome نصيب الأسد فيه.
+التطبيق لا يزال في مرحلة Beta، ومن شأنه أن يُنافس Firefox على الهواتف أيضا، بعد أن انتزع منها مرتبها في سوق المتصفحات على الحواسيب المكتبية، وهو أمر قد [يُهدد مستقبل مؤسسة Mozilla](https://www.it-scoop.com/2011/12/google-mozilla-renew-search-deal/) ككل، خاصة وأن هذه الأخيرة رمت بكامل ثقلها على تطوير نسخة الهواتف من متصفحها، رغم محدودية ما تقدر القيام به، حيث أنها لا يمكنها تطوير إصدارات منه لأنظمة Windows Phone أو iOS، ولا يبقى أمامها سوى Android الذي من المُتوقع أن يكون لمتصفح Chrome نصيب الأسد فيه.
 
 
 

@@ -20,18 +20,18 @@ tags:
 - TSMC
 ---
 
-**[أنباء عن احتمال اعتماد Apple على Qualcomm لتوفير رقاقات 3G للـ iPhone 5 و الـ iPad 2](http://www.it-scoop.com/2010/10/apple-qualcomm-3g/)**
+**[أنباء عن احتمال اعتماد Apple على Qualcomm لتوفير رقاقات 3G للـ iPhone 5 و الـ iPad 2](https://www.it-scoop.com/2010/10/apple-qualcomm-3g/)**
 
 
 
 
-يبدو أن [شراء](http://www.it-scoop.com/2010/08/intel-infineon-wireless/) Intel فرع الـ wireless  الخاص بشركة Infineon قد أخلط حسابات Apple، فلقد [أوردت ](http://www.cens.com/cens/html/en/news/news_inner_33917.html)المجلة China Economic News الاقتصادية الصينية أن شركة التفاحة المقضومة قد تتوجه صوب شركة Qualcomm لتوفير رقاقات 3G للأجيال القادمة من منتجاتها iPhone 5 و iPad 2.
+يبدو أن [شراء](https://www.it-scoop.com/2010/08/intel-infineon-wireless/) Intel فرع الـ wireless  الخاص بشركة Infineon قد أخلط حسابات Apple، فلقد [أوردت ](http://www.cens.com/cens/html/en/news/news_inner_33917.html)المجلة China Economic News الاقتصادية الصينية أن شركة التفاحة المقضومة قد تتوجه صوب شركة Qualcomm لتوفير رقاقات 3G للأجيال القادمة من منتجاتها iPhone 5 و iPad 2.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/iphone-qualcomm.jpg)
-](http://www.it-scoop.com/2010/10/apple-qualcomm-3g/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/iphone-qualcomm.jpg)
+](https://www.it-scoop.com/2010/10/apple-qualcomm-3g/)
 
 
 حسب هذا الخبر فإن Qualcomm ستستعين بدورها بـ Taiwan Semiconductor Manufacturing Co. (TSMC) لتصنيع تلك الرقاقات

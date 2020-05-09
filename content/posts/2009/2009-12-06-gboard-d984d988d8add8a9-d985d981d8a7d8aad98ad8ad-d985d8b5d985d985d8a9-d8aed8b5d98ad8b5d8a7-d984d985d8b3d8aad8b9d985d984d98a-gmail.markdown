@@ -20,7 +20,7 @@ tags:
 
 يتوالى إصدار  الأجهزة التي لا نفع لها  أو أن نفعها محدود جدا، إذ أنه تم إصدار نوع جديد من لوحات المفاتيح لا يستعمل إلا مع Gmail.
 
-![Gboard](http://www.it-scoop.com/wp-content/uploads/2009/12/Gboard-221x300.jpg)
+![Gboard](https://www.it-scoop.com/wp-content/uploads/2009/12/Gboard-221x300.jpg)
 
 
 Gboard عبارة عن لوحة مفاتيح مصغرة تحوي 19 زرا  معدة خصيصا لخدمات Gmail المختلفة (إرسال رسالة، الإجابة عن أخرى أو أرشفتها).

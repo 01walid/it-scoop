@@ -14,7 +14,7 @@ tags:
 - patents
 ---
 
-**[Facebook تشتري 18 من Friendster براءة اختراع لتجنب أية ملاحقات قانونية](http://www.it-scoop.com/2010/08/facebook-friendster-patents/)**
+**[Facebook تشتري 18 من Friendster براءة اختراع لتجنب أية ملاحقات قانونية](https://www.it-scoop.com/2010/08/facebook-friendster-patents/)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![](http://cdn.venturebeat.com/wp-content/uploads/2010/07/4540780589_8aa09aa21f.jpg)
-](http://www.it-scoop.com/2010/08/facebook-friendster-patents/)
+](https://www.it-scoop.com/2010/08/facebook-friendster-patents/)
 
 
 الاتفاق من شأنه أن يجنب Facebook العديد من الملاحقات القانونية مستقبلا، حيث أنه و بحكم أن Friendster تعتبر من أولى الشبكات الاجتماعية فقد سجلت باسمها العديد من براءات الاختراع ذات النطاق الواسع و المتعلقة بالشبكات الاجتماعية مما يجعل أي شبكة اجتماعية (بحكم أنها تستعمل إحدى براءات الاختراع) عرضة للمساءلة القانونية في أي وقت.

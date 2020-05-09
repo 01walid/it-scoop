@@ -11,7 +11,7 @@ categories:
 
 حسب دراسة قامت بها [ComScore](http://www.comscore.com/) استحوذت مواقع شركة Microsoft  على حوالي 14,5% من الوقت المستغرق على النت في أنحاء العالم خلال شهر سبتمبر الماضي، متفوقة على كل من Google  و Yahoo و Facebook.
 
-![statistics](http://www.it-scoop.com/wp-content/uploads/2009/11/statistics.jpg)
+![statistics](https://www.it-scoop.com/wp-content/uploads/2009/11/statistics.jpg)
 
 
 حسب نفس الدراسة فإنه تمت تمضية ما يزيد عن 27 مليار ساعة على النت في شهر سبتمبر الماضي فاقت فيها حصة مواقع Microsoft مقدار 3,9 مليار ساعة و مرد ذلك يعود أساسا إلى احتساب الوقت المستغرق على Windows Live Messenger.

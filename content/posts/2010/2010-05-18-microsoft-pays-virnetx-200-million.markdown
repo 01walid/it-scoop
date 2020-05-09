@@ -14,13 +14,13 @@ tags:
 - VirnetX
 ---
 
-[**Microsoft تقرر دفع 200 مليون دولار لـ VirnetX مقابل إبطال دعاواها القضائية الخاصة ببراءات اختراعها**](http://www.it-scoop.com/2010/05/Microsoft- pays-VirnetX-200-million)
+[**Microsoft تقرر دفع 200 مليون دولار لـ VirnetX مقابل إبطال دعاواها القضائية الخاصة ببراءات اختراعها**](https://www.it-scoop.com/2010/05/Microsoft- pays-VirnetX-200-million)
 
 
 في خضم الدعاوى القضائية التي تلاحق Microsoft هنا و هناك، و في ظل خسارتها لأكثر من دعوى قضائية، و التي قد تكون أكثرها إسالة للحبر هي قضية i4i ، قررت Microsoft إخماد دعوى قضائية جديدة رفعتها ضدها شركة VirnetX المتخصصة في الأمن المعلوماتي، و هذه المرة ليس بقوة محامييها، و لكن بحكمة محاسبيها الماليين.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/Microsoft-VirnetX.jpg)
-](http://www.it-scoop.com/2010/05/Microsoft- pays-VirnetX-200-million)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Microsoft-VirnetX.jpg)
+](https://www.it-scoop.com/2010/05/Microsoft- pays-VirnetX-200-million)
 
 قرار Microsoft يتمثل في دفع مبلغ 200 مليون دولار لشركة VirnetX  مقابل إبطال الدعوى القضائية التي رفعتها ضدها، بخصوص انتهاك براءتي اختراع لها متعلقة بتقنيات  تخص الـ VPN.
 

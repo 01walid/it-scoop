@@ -13,14 +13,14 @@ tags:
 - aptana
 ---
 
-**[Appcelerator  تشتري Aptana  منتجة بيئة تطوير الويب Aptana Studio](http://www.it-scoop.com/2011/01/appcelerator-acquires-aptana/)**
+**[Appcelerator  تشتري Aptana  منتجة بيئة تطوير الويب Aptana Studio](https://www.it-scoop.com/2011/01/appcelerator-acquires-aptana/)**
 
 
 أعلنت Appcelerator   المتخصصة في تطبيقات الويب [شراءها](http://www.appcelerator.com/appcelerator-acquires-aptana/) لـ Aptana   المنتجة لبيئة تطوير الويب Aptana Studio في صفقة لم يتم الإعلان عن قيمتها.
 
 
 [![](http://www.appcelerator.com/wp-content/uploads/2011/01/aptana_appc_frontpage_image.png )
-](http://www.it-scoop.com/2011/01/appcelerator-acquires-aptana/)
+](https://www.it-scoop.com/2011/01/appcelerator-acquires-aptana/)
 
 
 و تتخصص Appcelerator    في تطبيقات الويب على اختلاف منصاتها (هواتف، تطبيقات مكتبية أو على الأجهزة اللوحية)، و تهدف من وراء شرائها لـ Aptana إلى تطوير "معيار جديد خاص بتطوير تطبيقات الجيل الجديد" مثلما [تشير](http://www.appcelerator.com/appcelerator-acquires-aptana/) إليه على موقعها الرسمي.

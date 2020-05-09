@@ -11,7 +11,7 @@ tags:
 - URL Hunter
 ---
 
-[**URL Hunter! : اللعبة التي تلعب حصريا على ... سطر عناوين المتصفحات :)**](http://www.it-scoop.com/2011/03/url-hunter/)
+[**URL Hunter! : اللعبة التي تلعب حصريا على ... سطر عناوين المتصفحات :)**](https://www.it-scoop.com/2011/03/url-hunter/)
 
 
 
@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/URL-Hunter.png)
-](http://www.it-scoop.com/2011/03/url-hunter/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/URL-Hunter.png)
+](https://www.it-scoop.com/2011/03/url-hunter/)
 
 
 لعبة URL Hunter! في حد ذاتها بسيطة جدا، إلا أن "الإبداع" (إن صحت تسميته كذلك) يكمن في غرابة "حلبة اللعب" حيث أنها تقتصر على خانة سطر العناوين. تظن أن ذلك غير ممكن ؟ جربها و ستتأكد من ذلك.

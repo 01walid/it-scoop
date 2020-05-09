@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[وفاة المعمرة Ivy Bean أكبر مستخدمة Twitter في العالم](http://www.it-scoop.com/2010/07/ivy-bean-twitters-oldest-user-dies-at-104)**
+**[وفاة المعمرة Ivy Bean أكبر مستخدمة Twitter في العالم](https://www.it-scoop.com/2010/07/ivy-bean-twitters-oldest-user-dies-at-104)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![ن](http://img.metro.co.uk/i/pix/2010/07/28/article-1280331817181-0A9A82E8000005DC-522595_636x300.jpg)
-](http://www.it-scoop.com/2010/07/ivy-bean-twitters-oldest-user-dies-at-104)
+](https://www.it-scoop.com/2010/07/ivy-bean-twitters-oldest-user-dies-at-104)
 
 تعتبر Ivy Bean أكبر مستخدمة للشبكات الاجتماعية في العالم سواء تعلق الأمر بالـ Facebook  أو بـ Twitter  و الذي بلغ عدد متتبعي تغريداتها  62,299 ، منهم نجوم سينمائيون و فنانين كنجم البوب Peter Andre
 و قام مدير الدار التي كانت تتولى رعايتها بنشر الخبر في صفحتها على Twitter و هذه ترجمة لإعلانه

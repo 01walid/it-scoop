@@ -13,7 +13,7 @@ tags:
 - Time
 ---
 
-**[Mark Zuckerberg  شخصية عام 2010، حسب مجلة الـ Time](http://www.it-scoop.com/2010/12/zuckerberg-time-person-of-the-year)**
+**[Mark Zuckerberg  شخصية عام 2010، حسب مجلة الـ Time](https://www.it-scoop.com/2010/12/zuckerberg-time-person-of-the-year)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://img.timeinc.net/time/2010/poy_2010/poy_mz/poy_cover_z_1215.jpg )
-](http://www.it-scoop.com/2010/12/zuckerberg-time-person-of-the-year)
+](https://www.it-scoop.com/2010/12/zuckerberg-time-person-of-the-year)
 
 
 

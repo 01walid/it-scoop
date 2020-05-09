@@ -13,13 +13,13 @@ tags:
 - Commil
 ---
 
-[**القضاء الأمريكي يحكم على Cisco بدفع 3.7 مليون دولار لشركة Commil لاستغلالها براءة اختراع تخصها**](http://www.it-scoop.com/2010/05/cisco-commil-patent/)
+[**القضاء الأمريكي يحكم على Cisco بدفع 3.7 مليون دولار لشركة Commil لاستغلالها براءة اختراع تخصها**](https://www.it-scoop.com/2010/05/cisco-commil-patent/)
 
 
 حكمت محكمة أمريكية على Cisco بدفع تعويض مقدر بـ 3.7 مليون دولار لصالح شركة Commil USA LLC و التي تتهمها باستغلال براءة اختراع لها من دون إذنها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/cisco.jpg)
-](http://www.it-scoop.com/2010/05/cisco-commil-patent/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/cisco.jpg)
+](https://www.it-scoop.com/2010/05/cisco-commil-patent/)
 
 براءة الاختراع محل النزاع، تخص كيفية المحافظة على اتصال لاسلكي Wi-Fi أو Bluetooth خلال تحرك الجهاز في مبنى معين، حيث رفعت Commil دعوى قضائية ضد Cisco سنة 2007 مطالبة بتعويض قدرته حينها بـ 53 مليون دولار.
 

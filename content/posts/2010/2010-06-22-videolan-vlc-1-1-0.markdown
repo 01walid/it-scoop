@@ -13,7 +13,7 @@ tags:
 - VLC
 ---
 
-**[الإصدار 1.1.0  لـ VLC يبصر النور](http://www.it-scoop.com/2010/06/videolan-vlc-1-1-0/)**
+**[الإصدار 1.1.0  لـ VLC يبصر النور](https://www.it-scoop.com/2010/06/videolan-vlc-1-1-0/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://images.videolan.org/images/screenshots/windows-crade.jpg  )
-](http://www.it-scoop.com/2010/06/videolan-vlc-1-1-0/)
+](https://www.it-scoop.com/2010/06/videolan-vlc-1-1-0/)
 
 
 

@@ -13,7 +13,7 @@ tags:
 - LinkedIn
 ---
 
-[**أنباء عن دخول LinkedIn البورصة  يوم الخميس**](http://www.it-scoop.com/2011/05/linkedin-ipo-thursday/)
+[**أنباء عن دخول LinkedIn البورصة  يوم الخميس**](https://www.it-scoop.com/2011/05/linkedin-ipo-thursday/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/05/linkedin-logo.jpg)
-](http://www.it-scoop.com/2011/05/linkedin-ipo-thursday/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/05/linkedin-logo.jpg)
+](https://www.it-scoop.com/2011/05/linkedin-ipo-thursday/)
 
 
 

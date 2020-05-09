@@ -21,8 +21,8 @@ tags:
 
 
 
- [![رسم تخيلي لجهاز جوجل اللوحي المجهزة بنظام أندوريد (جوجل نكسوس تابلت؟)](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)
+ [![رسم تخيلي لجهاز جوجل اللوحي المجهزة بنظام أندوريد (جوجل نكسوس تابلت؟)](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)
 
 
 

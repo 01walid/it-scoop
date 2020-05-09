@@ -15,14 +15,14 @@ tags:
 
 
 
-**[صدور العدد الثاني من مجلة منتدى دلفي للعرب](http://www.it-scoop.com/2010/07/delphi4arab-magazine-02)**
+**[صدور العدد الثاني من مجلة منتدى دلفي للعرب](https://www.it-scoop.com/2010/07/delphi4arab-magazine-02)**
 
 
 أطلق الإخوة القائمون على منتدى دلفي للعرب العدد الثاني لـ "مجلة منتدى دلفي للعرب" و هذا بعد شهر من صدور العدد الأول
 
 
 [![](http://i47.tinypic.com/2r7c87b.jpg)
-](http://www.it-scoop.com/2010/07/delphi4arab-magazine-02)
+](https://www.it-scoop.com/2010/07/delphi4arab-magazine-02)
 
 
 جاء فهرس هذا العدد على النحو التالي:

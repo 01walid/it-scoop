@@ -20,8 +20,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/01/Fire-and-Fury-Inside-the-Trump-White-House.jpg)
-](http://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/fire-and-fury-inside-the-trump-white-house-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/01/Fire-and-Fury-Inside-the-Trump-White-House.jpg)
+](https://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/fire-and-fury-inside-the-trump-white-house-2/)
 
 
 

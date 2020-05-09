@@ -19,8 +19,8 @@ tags:
 
 
 
-[![Groupon CEO Andrew Mason](http://www.it-scoop.com/wp-content/uploads/2013/03/Groupon-fires-CEO-Andrew-Mason.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/Groupon-fires-CEO-Andrew-Mason.jpg)
+[![Groupon CEO Andrew Mason](https://www.it-scoop.com/wp-content/uploads/2013/03/Groupon-fires-CEO-Andrew-Mason.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/Groupon-fires-CEO-Andrew-Mason.jpg)
 
 
 

@@ -13,8 +13,8 @@ categories:
 
 كتاب يتحدث عن Alan Turing آلان تورينج أحد ألمع العقول التي تركت بالغ الأثر على عالم الحواسيب، بل يُعتبر أحد منظّريه وصاحب الفضل الكبير عليه.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/03/the_man_who_knew_too_much__alan_turing_and_the_invention_of_the_computer__audiobook.jpg)
-](http://www.it-scoop.com/2018/03/alan-turing-the-man-who-knew-too-much/the_man_who_knew_too_much__alan_turing_and_the_invention_of_the_computer__audiobook/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/03/the_man_who_knew_too_much__alan_turing_and_the_invention_of_the_computer__audiobook.jpg)
+](https://www.it-scoop.com/2018/03/alan-turing-the-man-who-knew-too-much/the_man_who_knew_too_much__alan_turing_and_the_invention_of_the_computer__audiobook/)
 الكتاب يحكي قصّة ألان تورينج منذ طفولته إلى آخر أيامه، يركّز بشكل أساسي على جانب "إعادة اكتشاف ما اكتُشف من قبل" لكن بطريقته الخاصة، وهو ما صوّره الكاتب على أنه سوء حظ، حيث أنه وبسبب انعزاله وقلة علاقاته الاجتماعية في شبابه، كان يركزّ على عمله دون أن يهتم بالعالم الذي حوله إلى درجة أن أحد أبرز أعماله والوثائق البحثية التي نشرها والمُتعلقة بالآلة التي حملت اسمه (آلة تورينج) كادت أن تندثر لأنه لما شارف على إنهائها وقبل نشرها، نُشر بحث آخر للرياضي تشيرش والتي توصّلت إلى نفس النتائج، إلا أنه وبفضل بساطة الطريقة التي عرض بها نتائجه وبحكم أنها طريقة مُغايرة (وبفضل تواصل أستاذه مع الرياضي Church) انتهى بهذا العمل أن يحمل اسميهما معًا فرضية تشيرتش-تورينج [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis).
 
 يهتم الكتاب أيضًا بالدّور الذي لعبه تورينج في التغلب على آلات التشفير إنيجما [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine)  التي كان يستخدمها الجيش الألماني في الحرب العالمية الثانية، حيث طوّر آليات وآلة سمحت للحلفاء بفك تشفير الرسائل التي كان يتراسل بها الجيش الألماني مما سمح للحلفاء بالانتصار.

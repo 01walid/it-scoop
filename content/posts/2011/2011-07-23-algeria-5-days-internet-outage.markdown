@@ -14,7 +14,7 @@ tags:
 - الجزائر
 ---
 
-[**اتصالات الجزائر تعلن عن تذبذبات وانقطاعات في شبكة الإنترنت في الجزائر خلال هذا الأسبوع**](http://www.it-scoop.com/2011/07/algeria-5-days-internet-outage/)
+[**اتصالات الجزائر تعلن عن تذبذبات وانقطاعات في شبكة الإنترنت في الجزائر خلال هذا الأسبوع**](https://www.it-scoop.com/2011/07/algeria-5-days-internet-outage/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/internet-algerie.jpg)
-](http://www.it-scoop.com/2011/07/algeria-5-days-internet-outage/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/internet-algerie.jpg)
+](https://www.it-scoop.com/2011/07/algeria-5-days-internet-outage/)
 
 
 

@@ -12,7 +12,7 @@ tags:
 - mSpoke
 ---
 
-**[LinkedIn يسجل أولى عمليات توسعها بشراء mSpoke](http://www.it-scoop.com/2010/08/linkedin-acquires-mspoke)**
+**[LinkedIn يسجل أولى عمليات توسعها بشراء mSpoke](https://www.it-scoop.com/2010/08/linkedin-acquires-mspoke)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo.jpg)
-](http://www.it-scoop.com/2010/08/linkedin-acquires-mspoke)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo.jpg)
+](https://www.it-scoop.com/2010/08/linkedin-acquires-mspoke)
 
 
 تطور mSpoke تقنيات تتعلق بالتوصيات أو ما يعرف بالـ recommendations ، و التي تتيح الحصول على نتائج بحث أكثر دقة. مما يسمح لـ LinkedIn بتقديم أداة بحث أفضل للوظائف و الشركات و الأفراد و الأخبار التي تتعلق بهم.

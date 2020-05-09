@@ -15,13 +15,13 @@ tags:
 - sun
 ---
 
-[**Oracle  تلغي مجانية نظام تشغيل Solaris**](http://www.it-scoop.com/2010/03/oracle-%d8%aa%d9%84%d8%ba%d9%8a-%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-solaris/)
+[**Oracle  تلغي مجانية نظام تشغيل Solaris**](https://www.it-scoop.com/2010/03/oracle-%d8%aa%d9%84%d8%ba%d9%8a-%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-solaris/)
 
 
 كانت جميع الأنظار متجهة صوب Oracle لترقب ما ستفعله بـ MySql بعد ترسيم عملية شرائها لـ Sun، لكن Oracle فضلت أن تفاجئ الجميع بالخروج من حيث لا يحتسب المنتظرون، حيث قررت إلغاء مجانية نظام Solaris ، حيث لم يعد بالإمكان استعمال هذا النظام مجانا  بعد تحميله سوى 90  يوما.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/solaris_logo.png)
-](http://www.it-scoop.com/2010/03/oracle-%d8%aa%d9%84%d8%ba%d9%8a-%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-solaris/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/solaris_logo.png)
+](https://www.it-scoop.com/2010/03/oracle-%d8%aa%d9%84%d8%ba%d9%8a-%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d8%a9-%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-solaris/)
 
 نظام Solaris هو أحد الأنظمة المشتقة من نظام Unix و المستعملة على الخوادم، كان –لما كان في عهدة Sun- مجانيا حيث كان من الممكن استعمال الإصدار العاشر منه مجانا بمجرد ملئ نموذج خاص بذلك و توفير عنوان بريد إلكتروني للمستخدم.
 

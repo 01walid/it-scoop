@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-[**Google تكشف عن لغتها البرمجية الجديدة Dart الخاصة بتطبيقات الويب**](http://www.it-scoop.com/2011/10/google-unveils-dart-programming-lang-for-web-apps/)
+[**Google تكشف عن لغتها البرمجية الجديدة Dart الخاصة بتطبيقات الويب**](https://www.it-scoop.com/2011/10/google-unveils-dart-programming-lang-for-web-apps/)
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://www.dartlang.org/imgs/dart-logo.png)
-](http://www.it-scoop.com/2011/10/google-unveils-dart-programming-lang-for-web-apps/)
+](https://www.it-scoop.com/2011/10/google-unveils-dart-programming-lang-for-web-apps/)
 
 
 

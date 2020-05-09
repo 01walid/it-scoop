@@ -14,13 +14,13 @@ tags:
 - Linux 2.6.36
 ---
 
-**[صدور النسخة  "الخفاش" رقم 2.6.36 من نواة البطريق (Linux)](http://www.it-scoop.com/2010/10/linux-2-6-36-flesh-eating-bats-with-fangs/)**
+**[صدور النسخة  "الخفاش" رقم 2.6.36 من نواة البطريق (Linux)](https://www.it-scoop.com/2010/10/linux-2-6-36-flesh-eating-bats-with-fangs/)**
 
 
 عفوا فلسنا نتحدث عن حديقة حيوانات :)، فبعد  80 يوما و ثمانية نسخ مرشحة  منذ النسخة السابقة، أعلن اليوم Linus Torvalds  عن النسخة النهائية من نواة  Linux 2.6.36 مع تغيرات جد ملحوظة، ومن شدة التغيرات لم يتغيرها حجمها !   مع أن الأب الحنون أنفق عليها الكثير من اللحم:) أقصد أسطر برمجية فأطلق عليها اسم "الخفافيش ذات الأنياب آكلة اللحوم"  .....
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/2636whatsnewalt-17032b7479cd9775.png)
-](http://www.it-scoop.com/2010/10/linux-2-6-36-flesh-eating-bats-with-fangs/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/2636whatsnewalt-17032b7479cd9775.png)
+](https://www.it-scoop.com/2010/10/linux-2-6-36-flesh-eating-bats-with-fangs/)
 
 حسنا لا تقلق، سنشرح لك قصة الأبوة هذه، أما عن التسمية، فقصتها ظريفة، وكل ما في الأمر أن[ ضيف Halloween لطيف زار Trovalds في منزله](http://torvalds-family.blogspot.com/2010/10/early-halloween-guest.html)، وبما أن الفراق صعب، أطلق هذه النسخة بمناسبته، وقبل أن ننحرف لتصبح قصة حزينة نعود إلى الخبر:) فهذه النسخة لم يتغير حجمها نتيجة لإسقاط ملفات الإعداد الافتراضية، وعوض ذلك تم زرع العديد من الرقع patches  والأسطر البرمجية التي جعلت من هذه النسخة تحوي على ميزات  ملفتة للنظر  ومن ذلك نذكر:
 

@@ -17,8 +17,8 @@ tags:
 
 في إطار مبادراته لترجمة الكتب التقنية المهمة في مجال المصدر المفتوح، أعلن **مجتمع Linux العربي** اليومَ عن انتهاء ترجمة **كتاب الإدارة المتقدمة لـ Gnu/Linux** مع توفر رابط تحميل -أولي- له.
 
-[![gun-linux-book-arabic](http://www.it-scoop.com/wp-content/uploads/2013/03/gun-linux-book-arabic.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/gun-linux-book-arabic.jpg)الترجمة جهد وبذل، فأما الأولى فقد كانت من طرف العضو المشرف "[عبد الرحيم غالب الفاخوري](http://www.linuxac.org/forum/members/20958-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%AE%D9%88%D8%B1%D9%8A)"، وأما الثانية فقد كانت منه أيضا ومن [طرف](http://www.linuxac.org/forum/threads/59158-%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D9%83%D8%AA%D8%A7%D8%A8-GNU-Linux-Advanced-Administration) أعضاء مجتمع Linux العربي الذين بذلوا المال والوقت والمراجعة لإخراج الكتاب بأفضل ما يمكن.
+[![gun-linux-book-arabic](https://www.it-scoop.com/wp-content/uploads/2013/03/gun-linux-book-arabic.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/gun-linux-book-arabic.jpg)الترجمة جهد وبذل، فأما الأولى فقد كانت من طرف العضو المشرف "[عبد الرحيم غالب الفاخوري](http://www.linuxac.org/forum/members/20958-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D8%A7%D9%84%D9%81%D8%A7%D8%AE%D9%88%D8%B1%D9%8A)"، وأما الثانية فقد كانت منه أيضا ومن [طرف](http://www.linuxac.org/forum/threads/59158-%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D9%83%D8%AA%D8%A7%D8%A8-GNU-Linux-Advanced-Administration) أعضاء مجتمع Linux العربي الذين بذلوا المال والوقت والمراجعة لإخراج الكتاب بأفضل ما يمكن.
 
 يأتي الكتاب في 600 صفحة أو تزيد، وله أهمية بالغة، إذ يعتبر مرجعا في مجاله، فهو شامل في أجزاءه، مُلمٌ في محتوياته، شيّق لأي مهتم بالإدارة المتقدمة لأنظمة Gnu/Linux، هذا الأخير الذي له نصيب الأسد من الخوادم على الويب خاصة مع عصر الحوسبة السحابية، وبزوغ أهمية الأمن والأمان والاستقرار.
 

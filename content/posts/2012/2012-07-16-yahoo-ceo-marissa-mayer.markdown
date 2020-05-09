@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/marissa-mayer-yahoo-ceo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/marissa-mayer-yahoo-ceo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/marissa-mayer-yahoo-ceo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/marissa-mayer-yahoo-ceo.jpg)
 
 
 

@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-oracle.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-oracle.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-oracle.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-oracle.jpg)
 
 
 
@@ -41,4 +41,4 @@ tags:
 
 
 
-للتذكير فإنه قد سبق لهيئة المحلفين أن [برأت](http://www.it-scoop.com/2012/05/google-oracle-patents/) Google من التهم الموجهة إليها بخصوص خرق براءات اختراع Oracle، كما أنها لم تلزمها بأي شيء [رغم وصولها إلى نتيجة مفادها بأن Google قد تعدت على الملكية الفكرية لغيرها](http://www.it-scoop.com/2012/05/android-news/#more-10787)، لكن دون أن تحملها مسؤولية ذلك.
+للتذكير فإنه قد سبق لهيئة المحلفين أن [برأت](https://www.it-scoop.com/2012/05/google-oracle-patents/) Google من التهم الموجهة إليها بخصوص خرق براءات اختراع Oracle، كما أنها لم تلزمها بأي شيء [رغم وصولها إلى نتيجة مفادها بأن Google قد تعدت على الملكية الفكرية لغيرها](https://www.it-scoop.com/2012/05/android-news/#more-10787)، لكن دون أن تحملها مسؤولية ذلك.

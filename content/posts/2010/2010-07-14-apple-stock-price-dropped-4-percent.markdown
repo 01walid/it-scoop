@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/stock-broker-chart-down.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/stock-broker-chart-down.jpg)
 ](it-scoop.com/2010/07/Apple-stock-price-dropped-4-percent)
 
 

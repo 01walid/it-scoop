@@ -16,8 +16,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/it_in_the_toilet.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/it_in_the_toilet.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/it_in_the_toilet.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/it_in_the_toilet.jpg)
 
 
 

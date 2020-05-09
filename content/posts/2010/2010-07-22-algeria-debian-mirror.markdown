@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/debian-TuxDZ.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/debian-TuxDZ.png)
 ](it-scoop.com/2010/07/algeria-debian-mirror)
 
 

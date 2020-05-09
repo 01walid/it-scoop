@@ -41,7 +41,7 @@ tags:
 
 
 
-[**مسابقة رمضان 1432 على المجلة التقنية: اربح كوبونات لنظام الإعلانات حسوب بقيمة 25£ للواحد**](http://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-1/)
+[**مسابقة رمضان 1432 على المجلة التقنية: اربح كوبونات لنظام الإعلانات حسوب بقيمة 25£ للواحد**](https://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-1/)
 
 
 
@@ -51,8 +51,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/hsoubads-250x250.png)
-](http://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-1/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/hsoubads-250x250.png)
+](https://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-1/)
 
 
 

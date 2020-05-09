@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/11/linux.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/11/linux.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/11/linux.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/11/linux.png)
 
 
 

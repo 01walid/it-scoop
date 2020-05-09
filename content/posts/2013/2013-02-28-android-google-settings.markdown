@@ -16,7 +16,7 @@ tags:
 - Google+ Sign-In
 ---
 
-بعد أن كشفت عن نظام تسجيل الدخول الخاص بها **[Google+ Sign-In](http://www.it-scoop.com/2013/02/google-plus-sign-in/)** ظهرت على الأجهزة التي تعمل بنظام **Android** أيقونة لتطبيق جديد خاص بـGoogle يحمل اسم  **Google Settings** وهذا من دون أن يتم إعلام المستخدمين بذلك.
+بعد أن كشفت عن نظام تسجيل الدخول الخاص بها **[Google+ Sign-In](https://www.it-scoop.com/2013/02/google-plus-sign-in/)** ظهرت على الأجهزة التي تعمل بنظام **Android** أيقونة لتطبيق جديد خاص بـGoogle يحمل اسم  **Google Settings** وهذا من دون أن يتم إعلام المستخدمين بذلك.
 
 
 

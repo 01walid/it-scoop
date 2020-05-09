@@ -14,14 +14,14 @@ tags:
 - Quattro Wireless
 ---
 
-[**Apple تضع يدها على Quattro Wireless منافس AdMob  الذي اشترته Google سابقا**](http://www.it-scoop.com/2010/01/apple-%d8%aa%d8%b6%d8%b9-%d9%8a%d8%af%d9%87%d8%a7-%d8%b9%d9%84%d9%89-quattro-wireless-%d9%85%d9%86%d8%a7%d9%81%d8%b3-admob-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a7%d8%b4%d8%aa%d8%b1%d8%aa%d9%87-google-%d8%b3/)
+[**Apple تضع يدها على Quattro Wireless منافس AdMob  الذي اشترته Google سابقا**](https://www.it-scoop.com/2010/01/apple-%d8%aa%d8%b6%d8%b9-%d9%8a%d8%af%d9%87%d8%a7-%d8%b9%d9%84%d9%89-quattro-wireless-%d9%85%d9%86%d8%a7%d9%81%d8%b3-admob-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a7%d8%b4%d8%aa%d8%b1%d8%aa%d9%87-google-%d8%b3/)
 
 
-تستعد شركة Apple للإعلان عن صفقة شرائها لـ Quattro Wireless  المنافس لشركة AdMob[ و التي اشترتها Google منذ مدة](http://www.it-scoop.com/2009/11/google-%d8%aa%d9%84%d8%b9%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-admob/).
+تستعد شركة Apple للإعلان عن صفقة شرائها لـ Quattro Wireless  المنافس لشركة AdMob[ و التي اشترتها Google منذ مدة](https://www.it-scoop.com/2009/11/google-%d8%aa%d9%84%d8%b9%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-admob/).
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/Quattro-Logo.png)
-](http://www.it-scoop.com/2010/01/apple-%d8%aa%d8%b6%d8%b9-%d9%8a%d8%af%d9%87%d8%a7-%d8%b9%d9%84%d9%89-quattro-wireless-%d9%85%d9%86%d8%a7%d9%81%d8%b3-admob-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a7%d8%b4%d8%aa%d8%b1%d8%aa%d9%87-google-%d8%b3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/Quattro-Logo.png)
+](https://www.it-scoop.com/2010/01/apple-%d8%aa%d8%b6%d8%b9-%d9%8a%d8%af%d9%87%d8%a7-%d8%b9%d9%84%d9%89-quattro-wireless-%d9%85%d9%86%d8%a7%d9%81%d8%b3-admob-%d8%a7%d9%84%d8%b0%d9%8a-%d8%a7%d8%b4%d8%aa%d8%b1%d8%aa%d9%87-google-%d8%b3/)
 
 
 حسب موقع All Things Digital الذي أشار إلى الخبر، فإنه من المحتمل أن يتم الإعلان عن الصفقة التي بلغت قيمتها 275 مليون دولار غدا على أقصى تقدير.

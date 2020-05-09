@@ -13,7 +13,7 @@ tags:
 - QR Code
 ---
 
-**[إطلاق تطبيق profileCode لإضافة QR Code إلى الملفات الشخصية على الـ Facebook](http://www.it-scoop.com/2011/01/profilecode-qr-code-facebook/)**
+**[إطلاق تطبيق profileCode لإضافة QR Code إلى الملفات الشخصية على الـ Facebook](https://www.it-scoop.com/2011/01/profilecode-qr-code-facebook/)**
 
 
 
@@ -31,7 +31,7 @@ tags:
 
 
 [![](http://94.23.239.98/profilecode-facebook/site/img/promo.jpg )
-](http://www.it-scoop.com/2011/01/profilecode-qr-code-facebook/)
+](https://www.it-scoop.com/2011/01/profilecode-qr-code-facebook/)
 
 
 
@@ -39,8 +39,8 @@ tags:
 هنا يأتي دور التطبيق profileCode، حيث يسمح لك هذا التطبيق بإضافة مربع تحت صورتك الشخصية الحالية على الـ Facebook تحتوي رابطا لمدونتك الشخصي مثلا، أو أي نص توده أو حتى إضافة  Visiting Card  بكامل محتوياتها (من جميع أرقام هواتفك، عنوانك، بريدك الالكتروني ...). و تظهر على النحو التالي:
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/it-scoopLink-QRCode.jpg)
-](http://www.it-scoop.com/2011/01/profilecode-qr-code-facebook/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/it-scoopLink-QRCode.jpg)
+](https://www.it-scoop.com/2011/01/profilecode-qr-code-facebook/)
 
 و بعدها يكفي قراءة المربع (عبر مسح ضوئي)  عبر هاتفك الذكي للوصول إلى تلك المعلومات ( تتوفر العديد من التطبيقات المجانية  على الـ AppStore للقيام بذلك )
 

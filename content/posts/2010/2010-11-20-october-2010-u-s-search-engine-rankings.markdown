@@ -14,7 +14,7 @@ tags:
 - Yahoo
 ---
 
-**[تقرير comScore يكشف: Google وراء 64,3% من عمليات البحث في أمريكا لشهر أكتوبر](http://www.it-scoop.com/2010/11/october-2010-u-s-search-engine-rankings)**
+**[تقرير comScore يكشف: Google وراء 64,3% من عمليات البحث في أمريكا لشهر أكتوبر](https://www.it-scoop.com/2010/11/october-2010-u-s-search-engine-rankings)**
 
 
 بعد غياب دام عدة أشهر ها أنا اعود إليكم بخبر قد يكون عاديا بالنسبة لبعضكم ولكنه على قدر من الأهمية لبعض الشركات.
@@ -22,7 +22,7 @@ tags:
 
 
 [![](http://www.google.com/images/logos/ps_logo2.png)
-](http://www.it-scoop.com/2010/11/october-2010-u-s-search-engine-rankings)
+](https://www.it-scoop.com/2010/11/october-2010-u-s-search-engine-rankings)
 
 
 

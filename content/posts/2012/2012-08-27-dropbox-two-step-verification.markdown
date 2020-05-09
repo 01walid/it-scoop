@@ -14,8 +14,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/Dropbox-Enables-Two-Step-Verification.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/Dropbox-Enables-Two-Step-Verification.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/Dropbox-Enables-Two-Step-Verification.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/Dropbox-Enables-Two-Step-Verification.png)
 
 
 
@@ -30,7 +30,7 @@ categories:
 
 
 
-كثر الحديث مؤخرا عن  two-step verification وخاصة وأن Gmail يملك هذه الخاصية منذ مدة، وهذا [بعد أن تم اختراق حسابات أحد صحفي Wired](http://www.it-scoop.com/2012/08/apple-amazon-security-flaws/) وإلحاق الضرر بحياته الرقمية، وهو الأمر الذي كان من الممكن اجتنابه لو تم تفعيل هذه الخاصية على حساب الصحفي على Gmail.
+كثر الحديث مؤخرا عن  two-step verification وخاصة وأن Gmail يملك هذه الخاصية منذ مدة، وهذا [بعد أن تم اختراق حسابات أحد صحفي Wired](https://www.it-scoop.com/2012/08/apple-amazon-security-flaws/) وإلحاق الضرر بحياته الرقمية، وهو الأمر الذي كان من الممكن اجتنابه لو تم تفعيل هذه الخاصية على حساب الصحفي على Gmail.
 
 
 

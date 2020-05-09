@@ -23,7 +23,7 @@ tags:
 - Steve Jobs
 ---
 
-**[Mark Zuckerberg  أغنى من Steve Jobs حسب أحدث ترتيب لـ Forbes](http://www.it-scoop.com/2010/09/forbes-mark-zuckerberg/)**
+**[Mark Zuckerberg  أغنى من Steve Jobs حسب أحدث ترتيب لـ Forbes](https://www.it-scoop.com/2010/09/forbes-mark-zuckerberg/)**
 
 
 
@@ -33,8 +33,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
-](http://www.it-scoop.com/2010/09/forbes-mark-zuckerberg/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
+](https://www.it-scoop.com/2010/09/forbes-mark-zuckerberg/)
 
 
 حسب هذا الترتيب، فلقد حل Zuckerberg في المرتبة 35 بثروة قدرت بـ 6.9 مليار دولار، أما Jobs  فلم يحل سوى  في المرتبة 42 بثروة قدرت بـ 6.1 مليار دولار.

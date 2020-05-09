@@ -14,7 +14,7 @@ tags:
 - Google
 ---
 
-**[لأول مرة: الأمريكيون قضوا زمنا أطول على Facebook منه على Google خلال شهر أغسطس المنصرم](http://www.it-scoop.com/2010/09/comscore-facebook-google/)**
+**[لأول مرة: الأمريكيون قضوا زمنا أطول على Facebook منه على Google خلال شهر أغسطس المنصرم](https://www.it-scoop.com/2010/09/comscore-facebook-google/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/chart-of-the-day-time-spent-on-facebook-google-yahoo-jun-2007-aug-2010.jpg)
-](http://www.it-scoop.com/2010/09/comscore-facebook-google/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/chart-of-the-day-time-spent-on-facebook-google-yahoo-jun-2007-aug-2010.jpg)
+](https://www.it-scoop.com/2010/09/comscore-facebook-google/)
 
 
 ركزوا جيدا، الأمر لا يتعلق بعدد الزيارات و إنما بالوقت الذي يقضيه المستخدمون الأمريكيون على المواقع، حيث [بينت](http://www.google.com/hostednews/afp/article/ALeqM5jEcNgf0f-aqtqRtAM1iZy85dkXBA) الدراسة أنهم يقضون 10% من أوقاتهم على الشبكة الاجتماعية Facebook، أي ما يمثل 41.1 مليون دقيقة.

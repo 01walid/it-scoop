@@ -15,7 +15,7 @@ tags:
 
 أعلنت Google  عن خدمتها الجديدة لتخزين البيانات على الـ cloud.
 
-![Google_cloud](http://www.it-scoop.com/wp-content/uploads/2009/11/Google_cloud.jpg)
+![Google_cloud](https://www.it-scoop.com/wp-content/uploads/2009/11/Google_cloud.jpg)
 
 
 يستطيع مستخدمو Gmail الذين يستفيدون حاليا من حوالي 7 جيجابايت من مساحة التخزين و مستخدمو Picasa الذين يستفيدون من حوالي 1 جيجابايت ، الانتقال إلى 20 جيجابايت مقابل 5 دولار أمريكي فقط.

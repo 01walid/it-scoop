@@ -13,7 +13,7 @@ tags:
 - Tim Cook
 ---
 
-[**Steve Jobs يستقيل من منصبه وTim Cook يخلفه كرئيس تنفيذي لـApple**](http://www.it-scoop.com/2011/08/steve-jobs-resigns-apple-ceo/)
+[**Steve Jobs يستقيل من منصبه وTim Cook يخلفه كرئيس تنفيذي لـApple**](https://www.it-scoop.com/2011/08/steve-jobs-resigns-apple-ceo/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/steve-jobs.jpg)
-](http://www.it-scoop.com/2011/08/steve-jobs-resigns-apple-ceo/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/steve-jobs.jpg)
+](https://www.it-scoop.com/2011/08/steve-jobs-resigns-apple-ceo/)
 
 
 

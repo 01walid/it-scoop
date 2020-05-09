@@ -21,7 +21,7 @@ tags:
 
 
 
-![stock-market-twitter](http://www.it-scoop.com/wp-content/uploads/2013/01/stock-market-twitter.jpg)
+![stock-market-twitter](https://www.it-scoop.com/wp-content/uploads/2013/01/stock-market-twitter.jpg)
 
 
 

@@ -13,7 +13,7 @@ tags:
 - Yahoo
 ---
 
-[**بعد كل من Bing و Google محرك بحث yahoo  تستعد لدخول عالم البحث في الزمن الحقيقي Real Time**](http://www.it-scoop.com/2009/12/%d8%a8%d8%b9%d8%af-%d9%83%d9%84-%d9%85%d9%86-bing-%d9%88-google-%d9%85%d8%ad%d8%b1%d9%83-%d8%a8%d8%ad%d8%ab-yahoo-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%af%d8%ae%d9%88%d9%84-%d8%b9%d8%a7%d9%84/)
+[**بعد كل من Bing و Google محرك بحث yahoo  تستعد لدخول عالم البحث في الزمن الحقيقي Real Time**](https://www.it-scoop.com/2009/12/%d8%a8%d8%b9%d8%af-%d9%83%d9%84-%d9%85%d9%86-bing-%d9%88-google-%d9%85%d8%ad%d8%b1%d9%83-%d8%a8%d8%ad%d8%ab-yahoo-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%af%d8%ae%d9%88%d9%84-%d8%b9%d8%a7%d9%84/)
 
 
 

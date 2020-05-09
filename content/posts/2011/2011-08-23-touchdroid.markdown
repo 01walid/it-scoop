@@ -14,18 +14,18 @@ tags:
 - TouchPad
 ---
 
-[**هل سيتمكن مشروع TouchDroid من تشغيل نظام Android على جهاز TouchPad ؟**](http://www.it-scoop.com/2011/08/touchdroid/)
+[**هل سيتمكن مشروع TouchDroid من تشغيل نظام Android على جهاز TouchPad ؟**](https://www.it-scoop.com/2011/08/touchdroid/)
 
 
 
 
-بالرغم من توقيع HP على شهادة وفاة جهازها اللوحي TouchPad بعد قرارها [التخلي عن النظام الذي يشغله WebOS](http://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)، إلا أن التخفيضات الكبيرة التي عرفها الجهاز خلال الأيام القليلة الماضية (والتي خفضت سعر الجهاز إلى غاية 99$ ) أنعش قليلا النقاش حوله، حيث ظهر مشروع جديد يحمل اسم [TouchDroid](http://rootzwiki.com/showthread.php?t=3327) يهدف إلى تنصيب نظام Android على TouchPad.
+بالرغم من توقيع HP على شهادة وفاة جهازها اللوحي TouchPad بعد قرارها [التخلي عن النظام الذي يشغله WebOS](https://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)، إلا أن التخفيضات الكبيرة التي عرفها الجهاز خلال الأيام القليلة الماضية (والتي خفضت سعر الجهاز إلى غاية 99$ ) أنعش قليلا النقاش حوله، حيث ظهر مشروع جديد يحمل اسم [TouchDroid](http://rootzwiki.com/showthread.php?t=3327) يهدف إلى تنصيب نظام Android على TouchPad.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/touchdroid.png)
-](http://www.it-scoop.com/2011/08/touchdroid/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/touchdroid.png)
+](https://www.it-scoop.com/2011/08/touchdroid/)
 
 
 

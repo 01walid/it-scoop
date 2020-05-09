@@ -16,13 +16,13 @@ tags:
 - Mozilla
 ---
 
-بعد أن [وصل](http://www.it-scoop.com/2011/12/firefox-google-contract/) العقد الذي يربط Google بمؤسسة Mozilla إلى نهايته [بنهاية الشهر الماضي](http://www.it-scoop.com/2011/12/firefox-google-contract/)، حامت الشكوك حول مستقبل المؤسسة التي تعتمد على ما تدفعه Google لها مقابل إبقاء محرك بحث الأخيرة كمحرك البحث القياسي الخاص بمتصفح Firefox لتمويل تطوير منتجاتها.
+بعد أن [وصل](https://www.it-scoop.com/2011/12/firefox-google-contract/) العقد الذي يربط Google بمؤسسة Mozilla إلى نهايته [بنهاية الشهر الماضي](https://www.it-scoop.com/2011/12/firefox-google-contract/)، حامت الشكوك حول مستقبل المؤسسة التي تعتمد على ما تدفعه Google لها مقابل إبقاء محرك بحث الأخيرة كمحرك البحث القياسي الخاص بمتصفح Firefox لتمويل تطوير منتجاتها.
 
 
 
 
-[![Google تمدد عقدها مع Mozilla لثلاث سنوات إضافية](http://www.it-scoop.com/wp-content/uploads/2011/12/Mozilla-firefox.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/Mozilla-firefox.png)
+[![Google تمدد عقدها مع Mozilla لثلاث سنوات إضافية](https://www.it-scoop.com/wp-content/uploads/2011/12/Mozilla-firefox.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/Mozilla-firefox.png)
 
 
 
@@ -42,7 +42,7 @@ tags:
 
 
 
-وبما أن مستقبل متصفح Firefox على الأجهزة الشخصية قد يكون غير مضمون نظرا [للمنافسة القوية التي يبديها متصفح Chrome](http://www.it-scoop.com/2011/11/chrome-matches-firefox-market-share/)، فإن Mozilla تُعول الآن على سوق المتصفحات على الهواتف الذكية، لكن حال متصفحها في هذا المجال أسوأ من حاله على الأجهزة الشخصية، حيث أن حصتها من هذا السوق لا تتجاوز 1% حسب إحصائيات StatCounter مثلما يشير إليه [هذا المقال](http://www.businessweek.com/magazine/mozillas-catchup-strategy-for-mobile-12012011.html) (لم يتسنى لنا التحقق من هذه النسبة لأن Firefox [لا يظهر في ترتيب StatCounter لمتصفحات الهواتف](http://gs.statcounter.com/#mobile_browser-ww-monthly-201011-201111)، وهذا قد يكون راجعا إلى النسبة الضئيلة التي يحوز عليها) وهذا راجع إلى تأخر شروع المؤسسة في توفير نسخة من متصفحها للهواتف الذكية.
+وبما أن مستقبل متصفح Firefox على الأجهزة الشخصية قد يكون غير مضمون نظرا [للمنافسة القوية التي يبديها متصفح Chrome](https://www.it-scoop.com/2011/11/chrome-matches-firefox-market-share/)، فإن Mozilla تُعول الآن على سوق المتصفحات على الهواتف الذكية، لكن حال متصفحها في هذا المجال أسوأ من حاله على الأجهزة الشخصية، حيث أن حصتها من هذا السوق لا تتجاوز 1% حسب إحصائيات StatCounter مثلما يشير إليه [هذا المقال](http://www.businessweek.com/magazine/mozillas-catchup-strategy-for-mobile-12012011.html) (لم يتسنى لنا التحقق من هذه النسبة لأن Firefox [لا يظهر في ترتيب StatCounter لمتصفحات الهواتف](http://gs.statcounter.com/#mobile_browser-ww-monthly-201011-201111)، وهذا قد يكون راجعا إلى النسبة الضئيلة التي يحوز عليها) وهذا راجع إلى تأخر شروع المؤسسة في توفير نسخة من متصفحها للهواتف الذكية.
 
 
 

@@ -22,8 +22,8 @@ tags:
 بعد عد تنازلي كنا قد أشرنا إليه أمس على حساباتنا في الشبكات الاجتماعية، والذي أثار الفضول والتفاسير خاصة بتزامنه مع حدث **HTC**، ومماثل لعد **Ubuntu for phones** التنازلي، انقضى منذ قليل بالكشف عن -ما كان متوقعا- نظام **Ubuntu** خاص **بالحواسيب اللوحية**، لكن بمظهر وجودة مفاجئتين.
 
 
-[![tablet-branded-and-apps](http://www.it-scoop.com/wp-content/uploads/2013/02/tablet-branded-and-apps.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/tablet-branded-and-apps.png)
+[![tablet-branded-and-apps](https://www.it-scoop.com/wp-content/uploads/2013/02/tablet-branded-and-apps.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/tablet-branded-and-apps.png)
 
 
 [**Ubuntu for tablet**](http://www.ubuntu.com/devices/tablet) هو نظام يتمتع بنفس بنية **Ubuntu for Phones**، أي دمج تقنية Ubuntu Touch الموجهة خصيصا لأجهزة اللمس.
@@ -44,8 +44,8 @@ tags:
 	  * **دعم لتعدد المهام:** حيث يمكن تشغيل أكثر من تطبيق في نفس الوقت وعرض تطبيقين جنبا إلى جنب بطريقة مشابهة لما أتى به Windows 8، كما هو موضح في الصورة التالية:
 
 
-	  * [![sidebyside](http://www.it-scoop.com/wp-content/uploads/2013/02/sidebyside.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/sidebyside.png)**يدعم النظام جميع قياسات الشاشة ما بين:** 6 إلى 20 بوصة، وهو موجه للاستخدام المنزلي أو في مجال الأعمال على حد سواء.
+	  * [![sidebyside](https://www.it-scoop.com/wp-content/uploads/2013/02/sidebyside.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/sidebyside.png)**يدعم النظام جميع قياسات الشاشة ما بين:** 6 إلى 20 بوصة، وهو موجه للاستخدام المنزلي أو في مجال الأعمال على حد سواء.
 
 **من بين الميزات الأخرى:**
 

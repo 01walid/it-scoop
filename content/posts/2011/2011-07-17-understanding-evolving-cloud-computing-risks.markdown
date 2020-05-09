@@ -11,7 +11,7 @@ tags:
 - cloud computing
 ---
 
-[**[مقال] على الشركات في الشرق الأوسط أن تتروى قبل الإقبال على الخدمات السحابية**](http://www.it-scoop.com/2011/07/understanding-evolving-cloud-computing-risks/)
+[**[مقال] على الشركات في الشرق الأوسط أن تتروى قبل الإقبال على الخدمات السحابية**](https://www.it-scoop.com/2011/07/understanding-evolving-cloud-computing-risks/)
 
 
 
@@ -21,8 +21,8 @@ tags:
 
 
 
-[![cloud computing](http://www.it-scoop.com/wp-content/uploads/2011/07/cloud-computing.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/07/cloud-computing.jpg)
+[![cloud computing](https://www.it-scoop.com/wp-content/uploads/2011/07/cloud-computing.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/07/cloud-computing.jpg)
 
 
 

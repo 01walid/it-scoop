@@ -15,7 +15,7 @@ tags:
 - وفاة ستيف جوبز
 ---
 
-[**Apple تعلن عن وفاة أحد أعمدتها.. Steve Jobs**](http://www.it-scoop.com/2011/10/apple-steve-jobs-passed-away/)
+[**Apple تعلن عن وفاة أحد أعمدتها.. Steve Jobs**](https://www.it-scoop.com/2011/10/apple-steve-jobs-passed-away/)
 
 
 
@@ -25,13 +25,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/a.jpg)
-](http://www.it-scoop.com/2011/10/apple-steve-jobs-passed-away/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/a.jpg)
+](https://www.it-scoop.com/2011/10/apple-steve-jobs-passed-away/)
 
 
 
 
-Steve والذي لم يتجاوز 56 عام وافته المنيّة بعد صراعه الطويل مع سرطان البنكرياس والذي كنا قد [أشرنا](http://www.it-scoop.com/2011/08/steve-jobs-resigns-apple-ceo/) إليه في تدوينة سابقة عندما أعلن عن استقالته من منصبه ليحصل على إجازة طويله بسبب وضعه الصحّي، وقد خلفه Tim Cook رئيساً تنفيذياً لشركة Apple.
+Steve والذي لم يتجاوز 56 عام وافته المنيّة بعد صراعه الطويل مع سرطان البنكرياس والذي كنا قد [أشرنا](https://www.it-scoop.com/2011/08/steve-jobs-resigns-apple-ceo/) إليه في تدوينة سابقة عندما أعلن عن استقالته من منصبه ليحصل على إجازة طويله بسبب وضعه الصحّي، وقد خلفه Tim Cook رئيساً تنفيذياً لشركة Apple.
 
 
 

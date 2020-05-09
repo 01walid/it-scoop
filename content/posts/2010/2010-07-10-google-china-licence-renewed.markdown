@@ -15,7 +15,7 @@ tags:
 - Google
 ---
 
-**[Google تخضع من جديد لقواعد الحكومة الصينية، و تحصل على تجديد لرخصة نشاطها في الصين]( http://www.it-scoop.com/2010/07/google-china-licence-renewed/)**
+**[Google تخضع من جديد لقواعد الحكومة الصينية، و تحصل على تجديد لرخصة نشاطها في الصين]( https://www.it-scoop.com/2010/07/google-china-licence-renewed/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/Google-China.png)
-]( http://www.it-scoop.com/2010/07/google-china-licence-renewed/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Google-China.png)
+]( https://www.it-scoop.com/2010/07/google-china-licence-renewed/)
 
 
 لم تكلف Google نفسها عناء الإعلان عن تجديد رخصتها بكتابة تدوينة جديدة كما عودتنا، بل اكتفت بتحديث تدوينة سابقة تخص إعلانها إعادة توجيه الطلبات إلى نسخة هونج كونج، مما يفسر الحرج الذي وقعت فيه Google من جديد.

@@ -17,7 +17,7 @@ tags:
 - سايفجو
 ---
 
-[**Bitdefender تطلق الإصدار التجريبي من Safego لحماية المستخدمين على Twitter**](http://www.it-scoop.com/2011/08/bitdefender-twitter-safego/)
+[**Bitdefender تطلق الإصدار التجريبي من Safego لحماية المستخدمين على Twitter**](https://www.it-scoop.com/2011/08/bitdefender-twitter-safego/)
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/SafegoTwitter.png)
-](http://www.it-scoop.com/2011/08/bitdefender-twitter-safego/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/SafegoTwitter.png)
+](https://www.it-scoop.com/2011/08/bitdefender-twitter-safego/)
 
 
 

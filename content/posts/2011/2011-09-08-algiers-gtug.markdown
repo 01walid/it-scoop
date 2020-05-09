@@ -14,7 +14,7 @@ tags:
 - GTUG
 ---
 
-[**سفراء Google في الجزائر ينشؤون Algiers Gtug أول مجموعة لمستخدمي تقنيات Google في الجزائر**](http://www.it-scoop.com/2011/09/algiers-gtug/)
+[**سفراء Google في الجزائر ينشؤون Algiers Gtug أول مجموعة لمستخدمي تقنيات Google في الجزائر**](https://www.it-scoop.com/2011/09/algiers-gtug/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/logo-Algiers-GTUG.png)
-](http://www.it-scoop.com/2011/09/algiers-gtug/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/logo-Algiers-GTUG.png)
+](https://www.it-scoop.com/2011/09/algiers-gtug/)
 
 
 

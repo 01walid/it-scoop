@@ -14,13 +14,13 @@ tags:
 - trojan
 ---
 
-**[Soundminer - تطبيق آمن أم دليل على مشكلة أمنية في أنظمة Android؟]( http://www.it-scoop.com/2011/01/soundminer-android-trojan/)**
+**[Soundminer - تطبيق آمن أم دليل على مشكلة أمنية في أنظمة Android؟]( https://www.it-scoop.com/2011/01/soundminer-android-trojan/)**
 
 
 في حين أنه فقط Proof-of-Concept على وجود مشكلة، إلا أن الحقيقة تبقى مخيفة، فقد قام فريق من الباحثين الأمنيين بكتابة Trojan لهواتف أندرويد Andriod قادر على تسجيل أرقام بطاقات الاعتماد المدخلة صوتياً أو عبر لوحة المفاتيح، ومن ثم إرسال ما تم جمعه إلى من قام بكتابته.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/Android-Trojan.jpg)
-]( http://www.it-scoop.com/2011/01/soundminer-android-trojan/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/Android-Trojan.jpg)
+]( https://www.it-scoop.com/2011/01/soundminer-android-trojan/)
 
 التطبيقات المكتوبة لهواتف Android تحتاج إلى طلب الإذن لكل وظيفة نظام تقوم بطلبها. لكن مع الكثير من هذه الطلبات، فقد تم تصميم النظام بحيث يتم تجميعها في مجموعات وعرضها على المستخدم دفعة واحدة لكل مجموعة عند تنصيب التطبيق، الأمر الذي يقلل من فرصة تسلل Trojan خبيث إلى النظام.
 

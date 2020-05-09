@@ -13,7 +13,7 @@ tags:
 - mandriva
 ---
 
-**[مستثمرون ينقذون Mandriva من الإفلاس](http://www.it-scoop.com/2010/06/Mandriva-Saved-By-New-Investors)**
+**[مستثمرون ينقذون Mandriva من الإفلاس](https://www.it-scoop.com/2010/06/Mandriva-Saved-By-New-Investors)**
 
 
 
@@ -23,13 +23,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/mandriva-Tux.jpg)
-](http://www.it-scoop.com/2010/06/Mandriva-Saved-By-New-Investors)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/mandriva-Tux.jpg)
+](https://www.it-scoop.com/2010/06/Mandriva-Saved-By-New-Investors)
 
 
 حسب نفس الموقع دائما و الذي نقل أقوال Arnaud Laprévote المدير العام الجديد لـ Mandriva فإن شركته قد وجدت مستثمرين سيمكنون المجمع من إيجاد التوازن الاقتصادي الذي فقده مؤخرا. لكنه لم يتم الكشف عن هوية المستثمرين الذين فضلوا البقاء في الظل إلى أجل غير مسمى.
 
-[كما أشرنا إليه سابقا](http://www.it-scoop.com/2010/05/mandriva-for-sale/) فإنه و بسبب المشاكل المالية التي عانت منها Mandriva فقد تم تداول اسمي كل من LightApps  البريطانية إلى جانب  Linagora الشركة الفرنسية الرائدة في مجال المصادر المفتوحة لشراء الشركة و لإنقاذها من الإفلاس. كما أن بعض المصادر تشير إلى احتمال كون هذه الأخيرة من بين المستثمرين الحاليين الذين أنقذوا الشركة من الإفلاس
+[كما أشرنا إليه سابقا](https://www.it-scoop.com/2010/05/mandriva-for-sale/) فإنه و بسبب المشاكل المالية التي عانت منها Mandriva فقد تم تداول اسمي كل من LightApps  البريطانية إلى جانب  Linagora الشركة الفرنسية الرائدة في مجال المصادر المفتوحة لشراء الشركة و لإنقاذها من الإفلاس. كما أن بعض المصادر تشير إلى احتمال كون هذه الأخيرة من بين المستثمرين الحاليين الذين أنقذوا الشركة من الإفلاس
 
 للتذكير فإن Mandriva هي الشركة الفرنسية الوحيدة التي تنتج توزيعة Linux و أحدث إصدار لها يحمل الاسم Mandriva 2010 Spring
 

@@ -18,8 +18,8 @@ tags:
 
 
 
-[![25_IMG_3183-Edit.jpg](http://www.it-scoop.com/wp-content/uploads/2013/09/bad-content.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/bad-content.jpg)
+[![25_IMG_3183-Edit.jpg](https://www.it-scoop.com/wp-content/uploads/2013/09/bad-content.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/bad-content.jpg)
 
 
 

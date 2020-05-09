@@ -15,7 +15,7 @@ tags:
 - iPhone 4
 ---
 
-**[Apple تكشف رسميا عن iPhone 4 و  الجيل الرابع من أنظمة iPhone OS](http://www.it-scoop.com/2010/06/apple-iphone4)**
+**[Apple تكشف رسميا عن iPhone 4 و  الجيل الرابع من أنظمة iPhone OS](https://www.it-scoop.com/2010/06/apple-iphone4)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/iPhone4.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/06/iPhone4.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone4.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone4.jpg)
 
 
 

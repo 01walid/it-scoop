@@ -14,7 +14,7 @@ tags:
 - Phoenix
 ---
 
-**[HP تضع يدها على HyperSpace نظام التشغيل الخفيف الخاص بـ Phoenix](http://www.it-scoop.com/2010/06/hp-buys-hyperspace)**
+**[HP تضع يدها على HyperSpace نظام التشغيل الخفيف الخاص بـ Phoenix](https://www.it-scoop.com/2010/06/hp-buys-hyperspace)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/HyperSpace.jpg)
-](http://www.it-scoop.com/2010/06/hp-buys-hyperspace)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/HyperSpace.jpg)
+](https://www.it-scoop.com/2010/06/hp-buys-hyperspace)
 
 
 ** **

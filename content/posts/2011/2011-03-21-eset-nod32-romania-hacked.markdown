@@ -15,12 +15,12 @@ tags:
 ---
 
 [**موقع ESET Nod32  الروماني يتعرض للقرصنة**
-](http://www.it-scoop.com/2011/03/eset-nod32-romania-hacked/)
+](https://www.it-scoop.com/2011/03/eset-nod32-romania-hacked/)
 
 
 
 
-يبدو أننا نعيش أسبوع قرصنة الشركات التي تعنى بقضايا الأمن و الحماية ، فحتى قبل أن نتعافى EMC من الصدمة التي سببتها [قرصنة قسمها الخاص بمكافحة القرصنة](http://www.it-scoop.com/2011/03/rsa-emc-hacked/)، ها هي شركة أخرى توضح سمعتها على المحك حيث قام شخص يدعى sway1990 باكتشاف ثغرة حرجة و مشهورة للغاية (MySQL Injection) في موقع (ESET Nod32) المخصص [لرومانيا ](http://www.eset.ro/)
+يبدو أننا نعيش أسبوع قرصنة الشركات التي تعنى بقضايا الأمن و الحماية ، فحتى قبل أن نتعافى EMC من الصدمة التي سببتها [قرصنة قسمها الخاص بمكافحة القرصنة](https://www.it-scoop.com/2011/03/rsa-emc-hacked/)، ها هي شركة أخرى توضح سمعتها على المحك حيث قام شخص يدعى sway1990 باكتشاف ثغرة حرجة و مشهورة للغاية (MySQL Injection) في موقع (ESET Nod32) المخصص [لرومانيا ](http://www.eset.ro/)
 
 
 ![fg](https://lh5.googleusercontent.com/-GLpSbbyytsM/TYc2DSjs_4I/AAAAAAAABbo/garw2ZTFjMQ/s640/58988578.png)

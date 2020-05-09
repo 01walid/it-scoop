@@ -15,7 +15,7 @@ tags:
 - Google
 ---
 
-**[Google تطلق موقعا جديدا demoslam.com](http://www.it-scoop.com/2010/10/google-demo-slam/)**
+**[Google تطلق موقعا جديدا demoslam.com](https://www.it-scoop.com/2010/10/google-demo-slam/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 أطلقت Google اليوم موقع [demoslam.com](http://demoslam.com/) أو( Google لعرض البطولات إن صحت الترجمة)
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Google-Slam.png)
-](http://www.it-scoop.com/2010/10/google-demo-slam/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Google-Slam.png)
+](https://www.it-scoop.com/2010/10/google-demo-slam/)
 
 الفيديو التالي يقوم بعرض إعلان جميل للموقع
 
@@ -32,7 +32,7 @@ tags:
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="640" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="385"><embed src="http://www.youtube.com/v/YxG7eTW9jxg?fs=1&hl=fr_FR" allowscriptaccess="always" height="385" width="640" allowfullscreen="true" type="application/x-shockwave-flash"></embed></object>
 
-[](http://www.it-scoop.com/wp-content/uploads/2010/10/Google-Slam.png)
+[](https://www.it-scoop.com/wp-content/uploads/2010/10/Google-Slam.png)
 
 ما فهمته أن الموقع يقوم بعمل بطولة أو منافسة بين عرضين  كل عرض يشرح خدمة من خدمات Google وذلك في كل أسبوع والفائز من يحصل على أصوات أكثر من الجمهور , والجميل أنه بإمكان أي شخص أ ن يصور أو يصنع عرضا(فيديو) لخدمة يختارها (من خدمات غوغل) ومن ثم يرفع الفيديو على Youtube ثم يشترك به في الموقع من صفحة (Show the world what you can do) من خلال زر الاشتراك وهو (I'm ready to slam) .
 

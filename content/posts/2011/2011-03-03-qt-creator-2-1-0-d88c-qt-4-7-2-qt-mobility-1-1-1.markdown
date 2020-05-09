@@ -14,7 +14,7 @@ tags:
 ---
 
 [**إطلاق  كل من Qt Creator 2.1.0 ، Qt 4.7.2  و Qt Mobility 1.1.1**
-](http://www.it-scoop.com/2011/03/qt-creator-2-1-0-،-qt-4-7-2-qt-mobility-1-1-1)
+](https://www.it-scoop.com/2011/03/qt-creator-2-1-0-،-qt-4-7-2-qt-mobility-1-1-1)
 
 
 **[أطلقت](http://labs.qt.nokia.com/2011/03/01/qt-4-7-2-has-been-released/)** Qt Labs  التابعة لـ Nokia  الإصدار 4.7.2 من إطار العمل  Qt وهو عبارة عن إصدار صيانة  موازة مع إطلاق كل من [إلإصدار النهائي ](http://labs.qt.nokia.com/2011/03/01/qt-creator-2-1-0-released/) لبيئة التطوير Qt Creator 2.1.0  ،الإصدار 1,1,1 من [Qt Mobility ](http://labs.qt.nokia.com/2011/03/01/qt-mobility-1-1-1-released/) و الإصدار Beta لحزمة التطوير [Qt SDK 1.1 ](http://labs.qt.nokia.com/2011/03/01/qt-sdk-1-1-beta-released/) (نعم كل هذا دفعة واحدة :p).
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://3.bp.blogspot.com/_8Kvtw29jRUk/TTxuYw7Bw-I/AAAAAAAAB3E/YSa5DjOfrKU/s1600/Qt_logostrap_CMYK.png)
-](http://www.it-scoop.com/2011/03/qt-creator-2-1-0-،-qt-4-7-2-qt-mobility-1-1-1)
+](https://www.it-scoop.com/2011/03/qt-creator-2-1-0-،-qt-4-7-2-qt-mobility-1-1-1)
 
 
 و إليكم أهم ما جاء في هذه الإصدارات:

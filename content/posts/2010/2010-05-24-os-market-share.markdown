@@ -13,12 +13,12 @@ tags:
 - Microsoft
 ---
 
-[**َ****Apple**** تتقدم ، ****Microsoft**** تتراجع و ****Linux**** لا يراوح مكانه، حسب آخر إحصائيات ****AT-Internet**](http://www.it-scoop.com/2010/05/os-market-share/)
+[**َ****Apple**** تتقدم ، ****Microsoft**** تتراجع و ****Linux**** لا يراوح مكانه، حسب آخر إحصائيات ****AT-Internet**](https://www.it-scoop.com/2010/05/os-market-share/)
 
 حسب آخر إحصائيات لـ AT-Internet  فإن أنظمة Microsoft شهدت تراجعا في نسبة استعمالها للولوج إلى الإنترنت خلال شهر أبريل المنصرم  مقارنة بنفس الفترة من العام الماضي، حيث شهدت تراجعا قُدِّر بـ 2.4% مما قلص مجموع حصصها إلى 91.9%.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/OS-201005-1-e1274730684446-300x109.png)
-](http://www.it-scoop.com/2010/05/os-market-share/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/OS-201005-1-e1274730684446-300x109.png)
+](https://www.it-scoop.com/2010/05/os-market-share/)
 
 حسب نفس الإحصائيات فإن أنظمة Apple شهدت تقدما بنفس النسبة تقريبا، حيث سجلت نموا قدر بـ 2.3% و هو مالا يمثل زيادة كبيرة، بالنظر إلى الـ  6.8% التي تمثل حصتها.
 

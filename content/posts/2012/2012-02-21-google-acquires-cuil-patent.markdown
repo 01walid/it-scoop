@@ -18,8 +18,8 @@ tags:
 
 
 
-[![صورة عن براءة اختراع مُحرك بحث Cuil والتي تبين كيف تُعرض نتائج البحث في ألسنة](http://www.it-scoop.com/wp-content/uploads/2012/02/cuil-tabs.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/cuil-tabs.jpg)
+[![صورة عن براءة اختراع مُحرك بحث Cuil والتي تبين كيف تُعرض نتائج البحث في ألسنة](https://www.it-scoop.com/wp-content/uploads/2012/02/cuil-tabs.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/cuil-tabs.jpg)
 
 
 

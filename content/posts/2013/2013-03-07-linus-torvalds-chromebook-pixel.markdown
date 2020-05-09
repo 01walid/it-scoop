@@ -24,8 +24,8 @@ tags:
 
 
 
-[![google-chromebook-pixel](http://www.it-scoop.com/wp-content/uploads/2013/03/google-chromebook-pixel.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/google-chromebook-pixel.jpg)
+[![google-chromebook-pixel](https://www.it-scoop.com/wp-content/uploads/2013/03/google-chromebook-pixel.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/google-chromebook-pixel.jpg)
 
 
 
@@ -57,13 +57,13 @@ tags:
 
 
 
-وهو تصريح يُمكن اعتباره "تزكية" مباشرة من رجل عُرف بتصريحاته النارية اتجاه كل ما يُثير حفيظته، والتي [طالت](http://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce/) حتى سطح مكتب Gnome 3 قبل أن يُغير رأيه فيه (يبدو بأن الرجب أصبح يُغير آراءه كثيرا مؤخرا :P).
+وهو تصريح يُمكن اعتباره "تزكية" مباشرة من رجل عُرف بتصريحاته النارية اتجاه كل ما يُثير حفيظته، والتي [طالت](https://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce/) حتى سطح مكتب Gnome 3 قبل أن يُغير رأيه فيه (يبدو بأن الرجب أصبح يُغير آراءه كثيرا مؤخرا :P).
 
 
 
 
-[![miguel_de_icaza_keynote](http://www.it-scoop.com/wp-content/uploads/2013/03/miguel_de_icaza_keynote.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/miguel_de_icaza_keynote.jpg)
+[![miguel_de_icaza_keynote](https://www.it-scoop.com/wp-content/uploads/2013/03/miguel_de_icaza_keynote.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/miguel_de_icaza_keynote.jpg)
 
 
 

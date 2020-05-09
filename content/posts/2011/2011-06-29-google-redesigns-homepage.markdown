@@ -12,12 +12,12 @@ tags:
 - Google UI
 ---
 
-[**Google تغير تدريجيا واجهات محرك البحث و مختلف خدماتها**](http://www.it-scoop.com/2011/06/google-redesigns-homepage/)
+[**Google تغير تدريجيا واجهات محرك البحث و مختلف خدماتها**](https://www.it-scoop.com/2011/06/google-redesigns-homepage/)
 
 
 أعلنت Google على [مدونتها الرسمية](http://googleblog.blogspot.com/2011/06/evolving-google-design-and-experience.html) أنها تعمل على مشروع لتحسين تجربة المستخدم لمنتجاتها شيئا فشيئا و تستمر التحديثات خلال الأشهر القادمة بما في ذلك صفحة محرك البحث الذي سيظهر في النهاية على الشكل الموضع في الصورة أدناه ، حيث تستحوذ المساحات البيضاء على الجزء الأكبر من التصميم مما يجعلها مريحة و أكثر بساطة عن ذي قبل.
 [![ بشكلها الجديد Google واجهة محرك بحث](http://3.bp.blogspot.com/-SgsUyZI9kLk/Tgp6OEYG9CI/AAAAAAAAAU0/skZvKoqTlbc/s1600/screen-shot-2011-06-28-at-2-08-55-pm.png)
-](http://www.it-scoop.com/2011/06/google-redesigns-homepage/)
+](https://www.it-scoop.com/2011/06/google-redesigns-homepage/)
 
 تهدف Google من خلال هذه التحديثات إلى تقديم تجربة متناسقة و سلسة بغض النظر عن المنتج أو الجهاز الذي تستخدم بالإعتماد على ثلاث مبادئ تراها أساسية:
 

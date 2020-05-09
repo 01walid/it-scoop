@@ -23,7 +23,7 @@ tags:
 
 
 
-[**Oracle تطلق الإصدار RC من Java 7**](http://www.it-scoop.com/2011/07/oracle-java-7-rc/)
+[**Oracle تطلق الإصدار RC من Java 7**](https://www.it-scoop.com/2011/07/oracle-java-7-rc/)
 
 
 
@@ -33,8 +33,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/java_logo.gif)
-](http://www.it-scoop.com/2011/07/oracle-java-7-rc/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/java_logo.gif)
+](https://www.it-scoop.com/2011/07/oracle-java-7-rc/)
 
 
 

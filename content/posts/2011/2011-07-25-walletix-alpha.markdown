@@ -13,7 +13,7 @@ tags:
 - Walletix services
 ---
 
-**[إطلاق الإصدار Alpha من نظام الدفع الالكتروني الجزائري Walletix](http://www.it-scoop.com/2011/07/walletix-alpha/)**
+**[إطلاق الإصدار Alpha من نظام الدفع الالكتروني الجزائري Walletix](https://www.it-scoop.com/2011/07/walletix-alpha/)**
 
 
 

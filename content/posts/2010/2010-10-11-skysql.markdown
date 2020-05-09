@@ -21,7 +21,7 @@ tags:
 - Ulf Sandberg
 ---
 
-**[انطلاق SkySQL لتوفير دعم فني خاص بـ MySQL منافس لـ Oracle](http://www.it-scoop.com/2010/10/skysql/)**
+**[انطلاق SkySQL لتوفير دعم فني خاص بـ MySQL منافس لـ Oracle](https://www.it-scoop.com/2010/10/skysql/)**
 
 
 
@@ -31,8 +31,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/SkySQL-Logo.gif)
-](http://www.it-scoop.com/2010/10/skysql/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/SkySQL-Logo.gif)
+](https://www.it-scoop.com/2010/10/skysql/)
 
 
 الاجتماع كان خلال عطلة نهاية الأسبوع المنصرمة في أحد فنادق اسطنبول التركية و لقد كانت نتيجته الإطلاق الفعلي لشركة SkySQL  AB  بقيادة Ulf Sandberg  و التي ستكون منافسا قويا لـ Oracle في مجال للدعم الفني و الاستشارات فيما يخص MySQL مما سيضمن لها مستقبلا بغض النظر عما ستقرره Oracle بشأنه إضافة إلى دعم MariaDB الـ Fork الذي نشأ من MySQL و يتولى مهمة الإشراف عليه Michael Widenius (Monty) مؤسس MySQL.

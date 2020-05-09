@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[ما معنى الـ Doodle الجديد لـ Google ؟](http://www.it-scoop.com/2010/12/google-new-year-2011-doodle)**
+**[ما معنى الـ Doodle الجديد لـ Google ؟](https://www.it-scoop.com/2010/12/google-new-year-2011-doodle)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://www.google.com/logos/2010/newyear11-hp.jpg )
-](http://www.it-scoop.com/2010/12/google-new-year-2011-doodle)
+](https://www.it-scoop.com/2010/12/google-new-year-2011-doodle)
 
 كل ما في الأمر هو أن Google تحتفل برأس السنة الميلادية، و الكتابة MMXI ما هي إلا 2011  مكتوبة بالحروف الرومانية.
 

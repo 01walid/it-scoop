@@ -15,7 +15,7 @@ tags:
 - Tariq Krim
 ---
 
-**[هل سيطلق طارق كريم جهاز Netbook خاص بنظامه JoliCloud ؟](http://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)**
+**[هل سيطلق طارق كريم جهاز Netbook خاص بنظامه JoliCloud ؟](https://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)**
 
 
 
@@ -24,12 +24,12 @@ tags:
 
 
 [![](http://tctechcrunch.files.wordpress.com/2010/10/jolibook2.png )
-](http://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)
+](https://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)
 
 و لقد  بدأ الكلام فعلا يدور حول هذه الصور بين من يقول أن الأمر مجرد ملصقات على جهاز عادي، و بين من يقول أن الأمر عبارة عن تلميح لجهاز خاص أو ربما هو فعلا جهاز خاص بنظام JouliCloud و الذي من المرتقب أن يكون إصداره 1.1 القادم غير محصور بأجهزة الـ Netbook بل يتعداه إلى ما سواه من الأجهزة.
 
 [![](http://tctechcrunch.files.wordpress.com/2010/10/joli-netbook.jpg)
-](http://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)
+](https://www.it-scoop.com/2010/10/jolicloud-jolibook-netbook/)
 
 و حسب [مدونة TechCrunch](http://techcrunch.com/2010/10/25/jolicloud-netbook/) فإن طارق كريم بصدد الاتصال مع مصنعي عتاد لدراسة تصنيع هذه الأجهزة و التي قد تحمل اسم Jolibook (حسب بعض الإشاعات غير المؤكدة)
 

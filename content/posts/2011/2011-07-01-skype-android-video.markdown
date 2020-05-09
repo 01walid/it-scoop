@@ -14,14 +14,14 @@ tags:
 - Skype app For Android
 ---
 
-**[الدردشة المرئية صارت متاحة في تطبيق Skype على نظام Android](http://www.it-scoop.com/2011/07/skype-android-video/)**
+**[الدردشة المرئية صارت متاحة في تطبيق Skype على نظام Android](https://www.it-scoop.com/2011/07/skype-android-video/)**
 
 
 [كشفت](http://blogs.skype.com/en/2011/06/smile_skype_for_android_with_v.html) Skype على مدونتها الرسمية أن مكالمات الفيديو باتت متاحة لمستخدمي تطبيقها على Android ، حيث أصبح بإمكانهم إجراء مكالمات مرئية مع مستخدمي التطبيق على مختلف المنصات Windows، Mac و iPhone .
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/Skype-Android-Phone.jpg)
-](http://www.it-scoop.com/2011/07/skype-android-video/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/Skype-Android-Phone.jpg)
+](https://www.it-scoop.com/2011/07/skype-android-video/)
 
 
 كما مُكن التطبيق من إجراء مكالمات هاتفية مع الخطوط الأرضية و الهواتف المحمولة في مختلف بلدان العالم إلى جانب إرسال رسائل الـ SMS، و يعمل التطبيق على كل من الـ WI-FI  و اتصالات 3G.

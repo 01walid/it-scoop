@@ -16,8 +16,8 @@ tags:
 
 
 
-[![الإحصائيات المُعلنة من طرف Facebook لدى تقيدمها لنموذج S1 الذي يسبق الدخول إلى البورصة](http://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-stats-IPO.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-stats-IPO.jpg)
+[![الإحصائيات المُعلنة من طرف Facebook لدى تقيدمها لنموذج S1 الذي يسبق الدخول إلى البورصة](https://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-stats-IPO.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/Facebook-stats-IPO.jpg)
 
 
 

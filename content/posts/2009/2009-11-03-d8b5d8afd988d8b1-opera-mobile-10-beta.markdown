@@ -14,7 +14,7 @@ tags:
 
 تثبت **Opera Software** مكانتها في سوق متصفحات الهواتف النقالة يوما بعد يوم بفضل منتجيها **Opera Mini** و  **Opera Mobile **، و ها هي تطلق  آخر إصداراتها  **Opera Mobile 10 Beta**
 
-![Opera10Beta](http://www.it-scoop.com/wp-content/uploads/2009/11/Opera10Beta.jpg)
+![Opera10Beta](https://www.it-scoop.com/wp-content/uploads/2009/11/Opera10Beta.jpg)
 
 يتضمن المتصفح Opera Mobile 10  Beta  المجاني (كعادته) على خاصيتين جديدتين و هما **Opera turbo** التي تتيح تصفحا أكثر سرعة و  **Opera Presto** و الذي يقلل وقت تحميل الملفات. تجعل هاتان الخاصيتان  الإصدار الحالي أسرع بمرتين من الإصدار السابق
 

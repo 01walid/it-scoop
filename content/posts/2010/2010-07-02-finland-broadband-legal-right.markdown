@@ -13,14 +13,14 @@ tags:
 - finland
 ---
 
-[**فنلندا تسُن قانونا ينص على أن الاتصال السريع بالإنترنيت Broadband حق قانوني لمواطنيها**](http://www.it-scoop.com/2010/07/finland-broadband-legal-right/)
+[**فنلندا تسُن قانونا ينص على أن الاتصال السريع بالإنترنيت Broadband حق قانوني لمواطنيها**](https://www.it-scoop.com/2010/07/finland-broadband-legal-right/)
 
 
 أصدرت فنلندا قانونا جديدا حول جعل الاتصال السريع بالإنترنيت أو ما يسمى بـ BroadBand حقا شرعيا لمواطنيها و بذلك تكون أول دولة في العالم تخطو هذه الخطوة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/cable.gif)
-](http://www.it-scoop.com/2010/07/finland-broadband-legal-right/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/cable.gif)
+](https://www.it-scoop.com/2010/07/finland-broadband-legal-right/)
 
 
 و ابتداء من الفاتح يوليو الحالي سيكون لكل فرد فنلندي الحق الشرعي في الاتصال بالإنترنيت بسرعة 1Mbps و تتعهد الحكومة الفنلندية لجعل سرعة الاتصال تتجاوز الـ 100Mbps بحلول عام 2015.

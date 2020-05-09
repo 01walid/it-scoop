@@ -14,13 +14,13 @@ tags:
 - Top500
 ---
 
-[**الصين تمتلك ثاني أسرع حاسوب عملاق في العالم و المسمى Nebulae**](http://www.it-scoop.com/2010/06/China-supercomputer-second-fastest)
+[**الصين تمتلك ثاني أسرع حاسوب عملاق في العالم و المسمى Nebulae**](https://www.it-scoop.com/2010/06/China-supercomputer-second-fastest)
 
 
 حسب الترتيب نصف السنوي Top500  و الذي تم نشره بمناسبة مؤتمر International Supercomputing Conference، فإن الصين تمتلك ثاني أسرع حاسوب عملاق في العام و الذي يطلق عليه اسم Nebulae، و الذي يأتي وصيفا للحاسب الأمريكي Jaguar XT.
 
 [![](http://djug.developpez.com/rsc/Top-10-supercalc-june2010.PNG)
-](http://www.it-scoop.com/2010/06/China-supercomputer-second-fastest)
+](https://www.it-scoop.com/2010/06/China-supercomputer-second-fastest)
 
 حسب هذا الترتيب فإن هذا "الوحش" الصيني يملك قدرة حسابية تقدر بـ 1.271 petaflops، حيث أن الـ petaflops تمثل ما يقدر بـ 1015 عملية حسابية في الثانية، و الذي يمكن أن يصل نظريا إلى غاية 2.98 petaflops و هو ما يجعله أسرع بكثير من الـ Jaguar XT الأمريكي ذي الـ 1.7 petaflops.
 

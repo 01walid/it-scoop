@@ -13,8 +13,8 @@ categories:
 
 ملاحظة: هذه النقاط تخص طلبات الحصول على الوظائف التي تُرسل عبر الإنترنت فقط.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2017/04/delete-resume.png)
-](http://www.it-scoop.com/2017/04/bad-resume/delete-resume/)
+[![](https://www.it-scoop.com/wp-content/uploads/2017/04/delete-resume.png)
+](https://www.it-scoop.com/2017/04/bad-resume/delete-resume/)
 
 
 

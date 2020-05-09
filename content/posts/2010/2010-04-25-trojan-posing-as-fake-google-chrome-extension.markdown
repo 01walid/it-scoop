@@ -15,14 +15,14 @@ tags:
 - malware
 ---
 
-[**BitDefender  تحذر من malware ينتحل صفة إضافة لمتصفح ****Chrome**](http://www.it-scoop.com/2010/04/trojan-posing-as-fake-google-chrome-extension)
+[**BitDefender  تحذر من malware ينتحل صفة إضافة لمتصفح ****Chrome**](https://www.it-scoop.com/2010/04/trojan-posing-as-fake-google-chrome-extension)
 
 
 نشرت شركة BitDefender على  مدونتها  تحذيراً للمستخدمين حول ما يعتقد كونه أول برمجية خبيثة تنتشر من خلال التنكر كإضافة لمتصفح Chrome.
 
 
 [![](http://i43.tinypic.com/o8gr3r.png)
-](http://www.it-scoop.com/2010/04/trojan-posing-as-fake-google-chrome-extension)
+](https://www.it-scoop.com/2010/04/trojan-posing-as-fake-google-chrome-extension)
 
 
 حيث انتشر بريد إلكتروني يروج لإضافة جديدة يصفها بـ "_أنها ستساعدك على ترتيب ملفاتك المستلمة في البريد بصورة أفضل_".

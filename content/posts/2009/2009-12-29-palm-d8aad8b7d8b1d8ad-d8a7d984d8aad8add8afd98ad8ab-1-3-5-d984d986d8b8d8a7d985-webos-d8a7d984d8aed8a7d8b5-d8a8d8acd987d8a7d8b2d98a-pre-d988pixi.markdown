@@ -14,13 +14,13 @@ tags:
 - WebOS
 ---
 
-[**Palm تطرح التحديث 1.3.5 لنظام WebOS الخاص بجهازي Pre وPixi**](http://www.it-scoop.com/2009/12/palm-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-1-3-5-%d9%84%d9%86%d8%b8%d8%a7%d9%85-webos-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2%d9%8a-pre-%d9%88pixi/)
+[**Palm تطرح التحديث 1.3.5 لنظام WebOS الخاص بجهازي Pre وPixi**](https://www.it-scoop.com/2009/12/palm-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-1-3-5-%d9%84%d9%86%d8%b8%d8%a7%d9%85-webos-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2%d9%8a-pre-%d9%88pixi/)
 
 
 أعلنت Palm أمس عن طرحها للتحديث 1.3.5 لنظام تشغيل WebOS الخاص بجهازيها Pre و Pixi.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/palm_pixi-300x248.jpg)
-](http://www.it-scoop.com/2009/12/palm-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-1-3-5-%d9%84%d9%86%d8%b8%d8%a7%d9%85-webos-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2%d9%8a-pre-%d9%88pixi/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/palm_pixi-300x248.jpg)
+](https://www.it-scoop.com/2009/12/palm-%d8%aa%d8%b7%d8%b1%d8%ad-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-1-3-5-%d9%84%d9%86%d8%b8%d8%a7%d9%85-webos-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5-%d8%a8%d8%ac%d9%87%d8%a7%d8%b2%d9%8a-pre-%d9%88pixi/)
 
 هذا التحديث من شأنه أن يجعل نظام WebOS أكثر مرونة، حيث أنه تم إلغاء الحد المقدر بـ 64 Mb لحفظ البرامج، كما تمت إعادة النظر في آلية تحميل البرامج.
 

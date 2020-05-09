@@ -14,13 +14,13 @@ tags:
 - بيتكوين
 ---
 
-منذ ما يزيد عن العام والكل يتحدث عن عُملة Bitcoin، ويزداد الحديث عنها مع كل تجاوز لقيمة 1000 دولار (صعودا أو نزولا) لهذه العُملة، أو مع كل تراجع مُخيف لقيمتها. إن كنت تبحث عن مقالات مُفصلة لتفهم ما يجعل من هذه العُملة مُهمة فإنك إما ستجد مقالات الصحافة المُوجهة للعوام والتي عادة ما تُهمل الكثير من التفاصيل المُهمة، أو أنك ستجد مقالات لبعض مهووسي التقنية التي تُركز بشكل أساسي على جانب التشفير الخاص بالعُملة. هذا المقال عبارة عن مُحاولة للإتيان بشيء ما بين هذين البينين ولمُحاولة تسليط المزيد من الضوء على آلية عملة هذه العُملة والنتائج التي تترتب على ذلك. إذا لم تكن لديك أية فكرة حول هذه العُملة، فقد يكون من الأفضل أن تبدأ بمقال سبق أن نشرناه على المجلة حول [عملة بيتكوين](http://www.it-scoop.com/2013/05/bitcoin/) قبل أن تواصل قراءة هذا المقال.
+منذ ما يزيد عن العام والكل يتحدث عن عُملة Bitcoin، ويزداد الحديث عنها مع كل تجاوز لقيمة 1000 دولار (صعودا أو نزولا) لهذه العُملة، أو مع كل تراجع مُخيف لقيمتها. إن كنت تبحث عن مقالات مُفصلة لتفهم ما يجعل من هذه العُملة مُهمة فإنك إما ستجد مقالات الصحافة المُوجهة للعوام والتي عادة ما تُهمل الكثير من التفاصيل المُهمة، أو أنك ستجد مقالات لبعض مهووسي التقنية التي تُركز بشكل أساسي على جانب التشفير الخاص بالعُملة. هذا المقال عبارة عن مُحاولة للإتيان بشيء ما بين هذين البينين ولمُحاولة تسليط المزيد من الضوء على آلية عملة هذه العُملة والنتائج التي تترتب على ذلك. إذا لم تكن لديك أية فكرة حول هذه العُملة، فقد يكون من الأفضل أن تبدأ بمقال سبق أن نشرناه على المجلة حول [عملة بيتكوين](https://www.it-scoop.com/2013/05/bitcoin/) قبل أن تواصل قراءة هذا المقال.
 
 
 
 
-[![bitcoins](http://www.it-scoop.com/wp-content/uploads/2014/02/bitcoins.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/02/bitcoins.jpg)
+[![bitcoins](https://www.it-scoop.com/wp-content/uploads/2014/02/bitcoins.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/02/bitcoins.jpg)
 
 
 
@@ -54,8 +54,8 @@ tags:
 
 
 
-[![cryptocurrency](http://www.it-scoop.com/wp-content/uploads/2014/02/cryptocurrency.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/02/cryptocurrency.jpg)
+[![cryptocurrency](https://www.it-scoop.com/wp-content/uploads/2014/02/cryptocurrency.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/02/cryptocurrency.jpg)
 
 
 
@@ -81,8 +81,8 @@ tags:
 
 
 
-[caption id="attachment_12760" align="aligncenter" width="420"][![Bitcoin-Mining-USB-ASIC-Block](http://www.it-scoop.com/wp-content/uploads/2014/02/Bitcoin-Mining-USB-ASIC-Block.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/02/Bitcoin-Mining-USB-ASIC-Block.jpg) منصة تنقيب[/caption]
+[caption id="attachment_12760" align="aligncenter" width="420"][![Bitcoin-Mining-USB-ASIC-Block](https://www.it-scoop.com/wp-content/uploads/2014/02/Bitcoin-Mining-USB-ASIC-Block.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/02/Bitcoin-Mining-USB-ASIC-Block.jpg) منصة تنقيب[/caption]
 
 
 مبدئيا يُمكن اعتبار بيتكوين كسجل حسابات ضخم يحتفظ بأي "عنوان" يملك أي بيتكوين. تقون كل نسخة من تطبيق بيتكوين بتحميل نسخة كاملة من هذا الدفتر وهو ما يُمكن الجميع من التوافق والتفاهم على أي عُنوان يُملك أي بيتكوين. تقوم شبكة بيتكوين بحماية هذا السجل من أي عمليات تغيير مُحتملة عبر جُملة من عمليات التشفير التي تنتج عنها هاشات Hash وعمليات إثبات العمل proof of work. لا تعرف ما المقصود بهذه المُصطلحات؟ إليك شرحا لها:
@@ -156,8 +156,8 @@ tags:
 
 
 
-[![mon](http://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin_peer_to_peer_network.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin_peer_to_peer_network.jpg)
+[![mon](https://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin_peer_to_peer_network.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin_peer_to_peer_network.jpg)
 
 
 
@@ -203,8 +203,8 @@ tags:
 
 
 
-[![zorro](http://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin-anonymity.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin-anonymity.jpg)
+[![zorro](https://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin-anonymity.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/02/bitcoin-anonymity.jpg)
 
 
 

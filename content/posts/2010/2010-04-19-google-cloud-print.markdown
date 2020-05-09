@@ -14,13 +14,13 @@ tags:
 - Google Cloud Print
 ---
 
-[**Google تعلن عن خدمتها الجديدة Google Cloud Print للطباعة على الورق مرورا بالسحاب**](http://www.it-scoop.com/2010/04/google-cloud-print/)
+[**Google تعلن عن خدمتها الجديدة Google Cloud Print للطباعة على الورق مرورا بالسحاب**](https://www.it-scoop.com/2010/04/google-cloud-print/)
 
 
 كشفت Google النقاب عن خدمة Google Cloud Print و التي من شأنها أن تقضي على مشكل التعريفات الخاصة بالطابعات، حيث أنه سيتم توفير إمكانية طباعة الملفات  انطلاقا من جميع أنواع الأجهزة (أجهزة مكتبية، هواتف ذكية، أجهزة لوحية ...) وعبر جميع أنواع التطبيقات (تطبيقات مكتبية أو تطبيقات ويب) و هذا عن طريق استعمال جميع أنواع الطابعات، و أينما كانت الطابعة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Google-Cloud-Print-infographic.png)
-](http://www.it-scoop.com/2010/04/google-cloud-print/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Google-Cloud-Print-infographic.png)
+](https://www.it-scoop.com/2010/04/google-cloud-print/)
 
 إن لم تكن فهمت جيدا بعد فكرة Google Cloud Print فإليك السيناريو التالي:
 

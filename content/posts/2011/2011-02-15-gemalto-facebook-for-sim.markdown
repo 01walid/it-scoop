@@ -14,13 +14,13 @@ tags:
 - Gemalto
 ---
 
-**[Gemalto تكشف عن Facebook for SIM للاستخدام Facebook عبر جميع أنواع الهواتف](http://www.it-scoop.com/2011/02/gemalto-facebook-for-sim/)**
+**[Gemalto تكشف عن Facebook for SIM للاستخدام Facebook عبر جميع أنواع الهواتف](https://www.it-scoop.com/2011/02/gemalto-facebook-for-sim/)**
 
 
-هل تذكرون [التطبيق](http://www.it-scoop.com/2011/01/facebook-dumbphone-application/) الذي أطلقته Facebook لاستخدام شبكتها عبر الهواتف العادية Feature Phones ؟ هذا التطبيق و بالرغم من الـ 2500 نوعا من الهواتف التي يدعمها إلا أنه لا يدعم جميع أنواع الهواتف، و من أجل ذلك [أطلقت](http://www.gemalto.com/php/pr_view.php?id=933) Gemalto خدمة Facebook for SIM و الذي يمكن جميع مستخدمي الهواتف مهما كان نوعها من استخدام شبكة Facebook.
+هل تذكرون [التطبيق](https://www.it-scoop.com/2011/01/facebook-dumbphone-application/) الذي أطلقته Facebook لاستخدام شبكتها عبر الهواتف العادية Feature Phones ؟ هذا التطبيق و بالرغم من الـ 2500 نوعا من الهواتف التي يدعمها إلا أنه لا يدعم جميع أنواع الهواتف، و من أجل ذلك [أطلقت](http://www.gemalto.com/php/pr_view.php?id=933) Gemalto خدمة Facebook for SIM و الذي يمكن جميع مستخدمي الهواتف مهما كان نوعها من استخدام شبكة Facebook.
 
 [![](http://b.static.ak.fbcdn.net/rsrc.php/yR/r/iYv5KPjJjnb.png )
-](http://www.it-scoop.com/2011/02/gemalto-facebook-for-sim/)
+](https://www.it-scoop.com/2011/02/gemalto-facebook-for-sim/)
 
 Facebook for SIM عبارة عن تطبيق يضاف مباشرة إلى شريحة الهاتف SIM و يوفر للمستخدمين خدمات Facebook من دون الحاجة إلى اتصال إنترنت أو 3G حيث يتم ذلك من خلال إرسال و استقبال البيانات عبر تقنية الـ SMS.
 

@@ -14,7 +14,7 @@ tags:
 - spam
 ---
 
-**[بريد مزوّر من LinkedIn قد يعرض جهازك للاختراق](http://www.it-scoop.com/2010/08/fake-linkedin-email/)**
+**[بريد مزوّر من LinkedIn قد يعرض جهازك للاختراق](https://www.it-scoop.com/2010/08/fake-linkedin-email/)**
 
 
 نوع آخر من البريد المزعج والذي يزعم بأنه رسالة من صديقك في الجامعة بدأ في الظهور مؤخراً، حيث يقول Dan Tynan من ITworld بأنه تلقى أكثر من 20 رسالة متشابهة نوعاً ما من البريد المزعج خلال مدة 24 ساعة تصل بصورة دعوة عبر موقع LinkedIn، والتي تخطى معظمها عبر فلتر البريد المزعج حيث احتوى معظم هذا البريد المزعج على العبارة:
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo.jpg)
-](http://www.it-scoop.com/2010/08/fake-linkedin-email/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo.jpg)
+](https://www.it-scoop.com/2010/08/fake-linkedin-email/)
 
 
 عندما قام Dan بالسماح بعرض الصور المرفقة ظهرت له صورة دعائية لبعض المنشطات الجنسية.
@@ -38,8 +38,8 @@ tags:
 تلقى Dan أيضاً المزيد من البريد المزعج والذي يوصل إلى مواقع بأسماء غريبة (مثل “Cernoma”). عندما قام Dan بزيارة الموقع، أظهر متصفح Google Chrome الذي يستخدمه التحذير التالي:
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/203301-google_chrome_cernoma_warning_original.jpg.png)
-](http://www.it-scoop.com/2010/08/fake-linkedin-email/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/203301-google_chrome_cernoma_warning_original.jpg.png)
+](https://www.it-scoop.com/2010/08/fake-linkedin-email/)
 
 
 والذي يشير إلى أن الموقع يحتوي على شفرات خبيثة تحاول استغلال ثغرات تسمح بتنفيذ drive-by downloads attacks.

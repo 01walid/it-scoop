@@ -16,13 +16,13 @@ tags:
 - Twitter
 ---
 
-[**في ثاني عملية شراء لها خلال شهر، Twitter تشتري شركة Cloudhopper المتخصصة في رسائل الـ SMS**](http://www.it-scoop.com/2010/04/Twitter-Acquires-Messaging-Startup-Cloudhopper)
+[**في ثاني عملية شراء لها خلال شهر، Twitter تشتري شركة Cloudhopper المتخصصة في رسائل الـ SMS**](https://www.it-scoop.com/2010/04/Twitter-Acquires-Messaging-Startup-Cloudhopper)
 
 
 أعلنت Twitter عبر مدونتها الرسمية شراءها لشركة Cloudhopper المتخصصة في تقنيات الرسائل القصيرة SMS.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/cloudhopper.jpg)
-](http://www.it-scoop.com/2010/04/Twitter-Acquires-Messaging-Startup-Cloudhopper)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/cloudhopper.jpg)
+](https://www.it-scoop.com/2010/04/Twitter-Acquires-Messaging-Startup-Cloudhopper)
 
 Cloudhopper الشركة الناشئة و التي هي أحد شركاء Twitter ، و التي حسب Twitter تساعدهم على الاتصال بشبكات الهاتف المحمول عبر مختلف أنحاء العالم.
 

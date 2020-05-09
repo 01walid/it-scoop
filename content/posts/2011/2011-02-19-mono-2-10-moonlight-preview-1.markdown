@@ -19,7 +19,7 @@ tags:
 - Silverlight
 ---
 
-**[إطلاق تحديثات جديدة لكل من مشروع Mono و MoonLight إصدار SilverLight مفتوح المصدر](http://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)**
+**[إطلاق تحديثات جديدة لكل من مشروع Mono و MoonLight إصدار SilverLight مفتوح المصدر](https://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)**
 
 
 
@@ -32,9 +32,9 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Mono-logo.gif)
-](http://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)[![](http://www.it-scoop.com/wp-content/uploads/2009/12/moonlight-logo.JPG)
-](http://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Mono-logo.gif)
+](https://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)[![](https://www.it-scoop.com/wp-content/uploads/2009/12/moonlight-logo.JPG)
+](https://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)
 
 
 قد يكون أهم ما جاء في هذا الإصدار هو دعمه للـ ASP.NET MVC3. و قد تم إدخال تحسينات على مترجمات C#، VB ، F# و Python و تم العمل على تحسين أداء الكود المولد باستخدام Mono، كما تم ترقيع 228 ثغرة تم اكتشافها منذ الإصدار السابق.

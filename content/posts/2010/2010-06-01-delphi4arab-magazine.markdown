@@ -12,13 +12,13 @@ tags:
 - delphi4arab
 ---
 
-[**صدور العدد الأول من مجلة منتدى دلفي للعرب**](http://www.it-scoop.com/2010/06/delphi4arab-magazine/)
+[**صدور العدد الأول من مجلة منتدى دلفي للعرب**](https://www.it-scoop.com/2010/06/delphi4arab-magazine/)
 
 
 أطلق الصديق محمد عبد العزيز المعروف في الأوساط التقنية (و خاصة الدلفاوية منها) تحت مسمى B.M.AbdelAziZ  الإصدار الأول من مجلة منتدى دلفي للعرب.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Delphi4arab.jpg)
-](http://www.it-scoop.com/2010/06/delphi4arab-magazine/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Delphi4arab.jpg)
+](https://www.it-scoop.com/2010/06/delphi4arab-magazine/)
 
 مجلة منتدى دلفي للعرب مجلة شهرية من إنجاز أعضاء المنتدى ([منتدى Delphi للعرب](http://www.delphi4arab.com/forum/)) تعالج مواضيع تتعلق بالـ Delphi من قريب أو من بعيد و تمتاز بخفة أسلوبها من دون أن تكون سطحية، كما تمتاز باستعمالها لغة عربية فصيحة و سلسة.
 

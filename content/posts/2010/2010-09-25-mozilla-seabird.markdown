@@ -14,7 +14,7 @@ tags:
 - SmartPhone
 ---
 
-**[Seabird: الهواتف الذكية كما تتخيلها Mozilla](http://www.it-scoop.com/2010/09/mozilla-seabird/)**
+**[Seabird: الهواتف الذكية كما تتخيلها Mozilla](https://www.it-scoop.com/2010/09/mozilla-seabird/)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![](http://mozillalabs.com/conceptseries/files/2010/09/seabird_2.jpg)
-](http://www.it-scoop.com/2010/09/mozilla-seabird/)
+](https://www.it-scoop.com/2010/09/mozilla-seabird/)
 
 
 على عكس غيره من الهواتف الذكية، لا يحتوي Seabird لا على لوحة مفاتيح حقيقية كاملة و لا يستظهرها على الشاشة، و إنما يحتوي على مستعرضي pico projectors يسمحان بإظهار لوحة مفاتيح تخيلية على جانبي الهاتف.

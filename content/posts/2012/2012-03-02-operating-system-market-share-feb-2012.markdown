@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/Operation-system-Market-Share-Feb-2012.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Operation-system-Market-Share-Feb-2012.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/Operation-system-Market-Share-Feb-2012.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Operation-system-Market-Share-Feb-2012.png)
 
 
 

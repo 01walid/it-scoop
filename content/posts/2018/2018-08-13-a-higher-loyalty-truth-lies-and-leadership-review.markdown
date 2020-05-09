@@ -11,13 +11,13 @@ categories:
 - مقالات
 ---
 
-كتاب خيّب ظنّي كثيرًا. بعد قراءتي لكتاب [Fire and Fury ](http://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/)"[نار وغضب](http://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/)" الذي يحكي أسرار البيت الأبيض في زمن ترامب، الذي كتبه الصحفي الأمريكي مايكل وولف Michael Wolff، كنت أتوقّع أن أعرف المزيد حول الأمر عبر هذا الكتاب الذي كتبه المدير السابق لمكتب التحقيقات الفيدرالي James Comey "جيمس كومي"، لكن لم يقدّم لي ما كنت أبحث عنه.
+كتاب خيّب ظنّي كثيرًا. بعد قراءتي لكتاب [Fire and Fury ](https://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/)"[نار وغضب](https://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/)" الذي يحكي أسرار البيت الأبيض في زمن ترامب، الذي كتبه الصحفي الأمريكي مايكل وولف Michael Wolff، كنت أتوقّع أن أعرف المزيد حول الأمر عبر هذا الكتاب الذي كتبه المدير السابق لمكتب التحقيقات الفيدرالي James Comey "جيمس كومي"، لكن لم يقدّم لي ما كنت أبحث عنه.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/08/a-higher-loyalty.jpg)
-](http://www.it-scoop.com/2018/08/a-higher-loyalty-truth-lies-and-leadership-review/a-higher-loyalty/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/08/a-higher-loyalty.jpg)
+](https://www.it-scoop.com/2018/08/a-higher-loyalty-truth-lies-and-leadership-review/a-higher-loyalty/)
 
 
 
@@ -62,7 +62,7 @@ categories:
 
 
 
-لا أنصح بقراءة هذا الكتاب خاصّة لمن سبق له أن تابع حيثيات فصل مُدير المكتب من منصبه في وقتها. إن كنت ترغب في معرفة ما يحدث في البيت الأبيض في زمن ترامب، فقد ترغب في الاطلاع على كتاب "نار وغضب". يُمكن أن تقرأ مُراجعتي له من هنا: http://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/
+لا أنصح بقراءة هذا الكتاب خاصّة لمن سبق له أن تابع حيثيات فصل مُدير المكتب من منصبه في وقتها. إن كنت ترغب في معرفة ما يحدث في البيت الأبيض في زمن ترامب، فقد ترغب في الاطلاع على كتاب "نار وغضب". يُمكن أن تقرأ مُراجعتي له من هنا: https://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/
 
 
 

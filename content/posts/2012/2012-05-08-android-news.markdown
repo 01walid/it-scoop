@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/android.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/android.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/android.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/android.jpg)
 
 
 
@@ -58,7 +58,7 @@ tags:
 
 
 
-كان هذا الوجه المظلم لقضية Android، لكن هل هناك جانب مشرق؟ قد يعتبر إعلان Xamarin عن إطلاقهم لنظام [XobotOS](http://www.it-scoop.com/2012/05/xobotos-android-c-sharp/) ،نسخة من نظام Android محررة بشكل كامل (أو شبه كامل) من لغة Java مخرجا لمأزق Oracle. كما أن اصطفاف كبار المصنعين خلف هذا النظام، وتوفير العديد من الأجهزة التنافسية التي تستخدمه، كجهاز [Samsung galaxy S III](http://ardroid.com/2012/05/03/samsung-announces-galaxy-s-iii/) الذي أبصر النور مؤخرا، أو أجهزة Kindle التي من المتوقع أن تكون لها كلمة مسموعة في سوق الأجهزة اللوحية، إضافة إلى [تجاوز](http://techcrunch.com/2012/05/07/google-play-about-to-pass-15-billion-downloads-pssht-it-did-that-weeks-ago/) متجر Google Play حاجز 15 مليار تحميل، من شأن كل هذا أن يضمن مستقبلا مشرقا للنظام.
+كان هذا الوجه المظلم لقضية Android، لكن هل هناك جانب مشرق؟ قد يعتبر إعلان Xamarin عن إطلاقهم لنظام [XobotOS](https://www.it-scoop.com/2012/05/xobotos-android-c-sharp/) ،نسخة من نظام Android محررة بشكل كامل (أو شبه كامل) من لغة Java مخرجا لمأزق Oracle. كما أن اصطفاف كبار المصنعين خلف هذا النظام، وتوفير العديد من الأجهزة التنافسية التي تستخدمه، كجهاز [Samsung galaxy S III](http://ardroid.com/2012/05/03/samsung-announces-galaxy-s-iii/) الذي أبصر النور مؤخرا، أو أجهزة Kindle التي من المتوقع أن تكون لها كلمة مسموعة في سوق الأجهزة اللوحية، إضافة إلى [تجاوز](http://techcrunch.com/2012/05/07/google-play-about-to-pass-15-billion-downloads-pssht-it-did-that-weeks-ago/) متجر Google Play حاجز 15 مليار تحميل، من شأن كل هذا أن يضمن مستقبلا مشرقا للنظام.
 
 
 

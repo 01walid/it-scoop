@@ -20,8 +20,8 @@ tags:
 
 
 
-[![Google fresher more recent search results](http://www.it-scoop.com/wp-content/uploads/2011/11/google-speed.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/google-speed.jpg)
+[![Google fresher more recent search results](https://www.it-scoop.com/wp-content/uploads/2011/11/google-speed.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/google-speed.jpg)
 
 
 

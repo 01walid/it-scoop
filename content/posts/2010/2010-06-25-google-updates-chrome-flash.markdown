@@ -14,7 +14,7 @@ tags:
 - Google
 ---
 
-**[Google تعيد تضمين الـ Flash في متصفح Chrome](http://www.it-scoop.com/2010/06/google-updates-Chrome-flash)**
+**[Google تعيد تضمين الـ Flash في متصفح Chrome](https://www.it-scoop.com/2010/06/google-updates-Chrome-flash)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://www.google.com/chrome/intl/ar/images/dlpage_alt.jpg  )
-](http://www.it-scoop.com/2010/06/google-updates-Chrome-flash)
+](https://www.it-scoop.com/2010/06/google-updates-Chrome-flash)
 
 يعود سحب الـ Flash من الإصدار الخامس بسبب مشاكل في الثبات. لكن ستسمح إعادة تضمينه مجددا للمستخدمين قراءة محتويات الـ Flash دون الحاجة إلى تنصيبه أو التأكد من تحديثه نظرا لقيام المتصفح بذلك تلقائيا.
 

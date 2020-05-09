@@ -15,13 +15,13 @@ tags:
 - Nokia
 ---
 
-**[Intel تعلن عن عدم تخليها عن MeeGo و تبدي أسفها لشراكة Nokia مع Microsoft](http://www.it-scoop.com/2011/02/intel-defends-meego-nokia-defection/)**
+**[Intel تعلن عن عدم تخليها عن MeeGo و تبدي أسفها لشراكة Nokia مع Microsoft](https://www.it-scoop.com/2011/02/intel-defends-meego-nokia-defection/)**
 
 
 السؤال الذي يطرح نفسه منذ إعلان Nokia عن شراكتها مع Microsoft و استعمالها نظام Windows Phone 7 على  هواتفها يخص مستقبل نظام MeeGo و هل سيستمر العمل عليه، و لقد سارعت Intel لتجدد دعمها للنظام مبدية أسفها على قرار Nokia الاستعانة بنظام Windows Phone 7.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/meego.jpg)
-](http://www.it-scoop.com/2011/02/intel-defends-meego-nokia-defection/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/meego.jpg)
+](https://www.it-scoop.com/2011/02/intel-defends-meego-nokia-defection/)
 
 و بالرغم من طمأنة Nokia لمتبعي نظام MeeGo [عبر تغريدة](http://twitter.com/#!/nokia/status/36047203759820800) -على حسابها الرسمي على Twitter - بأنها لن توقف عملها على هذا النظام، إلا أن ذلك لا يبعث "على الارتياح"، حيث تشير في تغريدتها أن نظام MeeGo سيبقى مناسبة لخوض طرق و تجارب  جديدة. كما أن تسويق هاتف يعمل على هذا النظام قبل نهاية العام الجاري لا يزال قائما.
 

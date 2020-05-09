@@ -16,13 +16,13 @@ tags:
 - LivingSocial
 ---
 
-**[Facebook تزاحم Groupon و تطلق خدمة الشراء الجماعي  Facebook Deals]( http://www.it-scoop.com/2011/04/facebook-deals/)**
+**[Facebook تزاحم Groupon و تطلق خدمة الشراء الجماعي  Facebook Deals]( https://www.it-scoop.com/2011/04/facebook-deals/)**
 
 
 بعد النجاح الذي عرفه مجال الشراء الجماعي و الذي يظهر جليا من خلال النمو المتسارع لـ Groupon، هاهي Facebook تطالب بحصتها من هذه "الكعكة" و تطلق بدورها خدمة [Facebook Deals](http://www.facebook.com/deals) للشراء الجماعي عبر شبكتها.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/Facebook-deals.png)
-]( http://www.it-scoop.com/2011/04/facebook-deals/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/Facebook-deals.png)
+]( https://www.it-scoop.com/2011/04/facebook-deals/)
 
 حاليا هناك رائدان في هذا المجال Groupon التي تملك ما بين 60 إلى 70 مليون مشترك عبر 45 دولة و التي حاولت و فشلت Google في شراءها قبل أن تعمد إلى إطلاق Google Offers ، و LivingSocial التي تملك ما لا يقل عن 26 مليون مشترك و التي تتلقى دعما مباشرا من طرف Amazon. إلا أن كليهما يعتمدان بشكل أساسي على البريد الالكتروني، و تخلو إستراتيجيتاهما من التواصل الاجتماعي. و هي النقطة التي قد ترجح الكفة لصالح Facebook.
 

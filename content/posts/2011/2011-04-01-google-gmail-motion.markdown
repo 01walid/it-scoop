@@ -15,18 +15,18 @@ tags:
 - Google
 ---
 
-[**Google تبدع كذبة أبريل جديدة: Gmail Motion للتحكم في بريد Gmail عبر حركات الجسم**](http://www.it-scoop.com/2011/04/google-gmail-motion/)
+[**Google تبدع كذبة أبريل جديدة: Gmail Motion للتحكم في بريد Gmail عبر حركات الجسم**](https://www.it-scoop.com/2011/04/google-gmail-motion/)
 
 
 كعادة Google لا تفوت الفاتح من أبريل/نيسان  دون أن تطلق "كذبة" ، و كعادتها تبدع Google في كذبتها هذه لدرجة تجعلك تشك في صحة الأمر (أو عكس ذلك) حتى و إن كنت تعلم أن الأمر مجرد كذبة، و هذه المرة مشروع Google "الكاذب" هو خدمة [Gmail Motion](http://mail.google.com/mail/help/motion.html).
 
 [![](http://mail.google.com/mail/help/images/motion/docs.jpg )
-](http://www.it-scoop.com/2011/04/google-gmail-motion/)
+](https://www.it-scoop.com/2011/04/google-gmail-motion/)
 
 لن تحتاج إلى Kinect لتستفيد من Gmail Motion، كل ما عليك فعله هو استعمال webcam عادية تمكنك من التحكم عبر [حركات جسمك](http://mail.google.com/mail/help/images/motion/motion_printable_guide.gif) في بريد Gmail. فعلى سبيل المثال يكفي أن تقوم بحركة تحاكي فتح رسالة "ورقية" (ظرف الرسالة) حتى تفتح رسائل بريدك الالكتروني أو أن تشير بإبهامك لترد عليه أو بالإبهامين معا حتى ترد على جميع مستقبلي الرسالة.
 
 [![](http://mail.google.com/mail/help/images/motion/motion_printable_guide.gif )
-](http://www.it-scoop.com/2011/04/google-gmail-motion/)
+](https://www.it-scoop.com/2011/04/google-gmail-motion/)
 
 أما إن أردت إرسال رسالة فكل ما عليك القيام به هو .... أترككم مع الفيديو التي تشرح ذلك :D
 

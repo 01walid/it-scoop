@@ -14,7 +14,7 @@ tags:
 - youtube
 ---
 
-**[Google  تقترب  أخيرا من تحقيق أرباح من Youtube](http://www.it-scoop.com/2010/09/google-youtube-profitability/)**
+**[Google  تقترب  أخيرا من تحقيق أرباح من Youtube](https://www.it-scoop.com/2010/09/google-youtube-profitability/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/youtube_money.jpg)
-](http://www.it-scoop.com/2010/09/google-youtube-profitability/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/youtube_money.jpg)
+](https://www.it-scoop.com/2010/09/google-youtube-profitability/)
 
 
 حسب ما [ذكرته](http://www.nytimes.com/2010/09/03/technology/03youtube.html?_r=1) الجريدة نقلا عن مصدر لم تكشف عنه فإنه من المحتمل أن تصل أرباح Youtube هذا العام إلى 450 مليون دولار، مما سيسمح –حسب الجريدة- بتحقيق أولى الأرباح.

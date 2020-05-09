@@ -12,13 +12,13 @@ tags:
 - Open Graph
 ---
 
-خلال ندوة صحفية عُقدت أمس، [أعلنت](http://thenextweb.com/facebook/2012/01/19/facebook-announces-60-new-partners-for-open-graph-will-start-accepting-applications/) Facebook عن إتاحتها Open Graph لجميع المطورين بعد أن كان الأمر مقتصرا على جملة من شركائها فقط، وهذا منذ الإعلان عنه خلال [مؤتمر F8](http://www.it-scoop.com/2011/09/facebook-f8/) الذي عُقد في شهر سبتمبر الماضي، مما يفتح المجال واسعا لإثراء زر Like بأفعال جديدة.
+خلال ندوة صحفية عُقدت أمس، [أعلنت](http://thenextweb.com/facebook/2012/01/19/facebook-announces-60-new-partners-for-open-graph-will-start-accepting-applications/) Facebook عن إتاحتها Open Graph لجميع المطورين بعد أن كان الأمر مقتصرا على جملة من شركائها فقط، وهذا منذ الإعلان عنه خلال [مؤتمر F8](https://www.it-scoop.com/2011/09/facebook-f8/) الذي عُقد في شهر سبتمبر الماضي، مما يفتح المجال واسعا لإثراء زر Like بأفعال جديدة.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/Facebook-Open-Graph.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/Facebook-Open-Graph.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/Facebook-Open-Graph.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/Facebook-Open-Graph.png)
 
 
 
@@ -28,7 +28,7 @@ tags:
 
 
 
-من شأن هذه العملية أن تعطي دفعة للكثير من الخدمات مثلما سبق لخدمة Spotify أن شهدت [زيادة كبيرة جدا](http://www.it-scoop.com/2011/09/spotify-facebook/) في عدد مستخدميها بمجرد إعلان شراكتها مع Facebook، إلا أنه في المقابل يتطلب الأمر أن يتخلى المستخدمون على طبقة جديدة من بياناتهم الشخصية، ويعرض خصوصياتهم من جديد لتحليل ودراسة الشركات والمعلنين الذين سيرغبون في استهدافهم.
+من شأن هذه العملية أن تعطي دفعة للكثير من الخدمات مثلما سبق لخدمة Spotify أن شهدت [زيادة كبيرة جدا](https://www.it-scoop.com/2011/09/spotify-facebook/) في عدد مستخدميها بمجرد إعلان شراكتها مع Facebook، إلا أنه في المقابل يتطلب الأمر أن يتخلى المستخدمون على طبقة جديدة من بياناتهم الشخصية، ويعرض خصوصياتهم من جديد لتحليل ودراسة الشركات والمعلنين الذين سيرغبون في استهدافهم.
 
 
 

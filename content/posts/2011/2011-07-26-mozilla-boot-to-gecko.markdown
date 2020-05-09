@@ -14,7 +14,7 @@ tags:
 - Mozilla
 ---
 
-[**Mozilla تبدأ العمل على Boot To Gecko: مشروع لنظام تشغيل سحابي... خاص بالهواتف المحمولة**](http://www.it-scoop.com/2011/07/mozilla-boot-to-gecko/)
+[**Mozilla تبدأ العمل على Boot To Gecko: مشروع لنظام تشغيل سحابي... خاص بالهواتف المحمولة**](https://www.it-scoop.com/2011/07/mozilla-boot-to-gecko/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2011/07/mozilla-boot-to-gecko.jpg)
-](http://www.it-scoop.com/2011/07/mozilla-boot-to-gecko/)
+ [![](https://www.it-scoop.com/wp-content/uploads/2011/07/mozilla-boot-to-gecko.jpg)
+](https://www.it-scoop.com/2011/07/mozilla-boot-to-gecko/)
 
 
 

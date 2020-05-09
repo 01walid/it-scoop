@@ -66,7 +66,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/apple-jailbreakme.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/apple-jailbreakme.jpg)
 ](it-scoop.com/2010/08/JailbreakMe-20)
 
 

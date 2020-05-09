@@ -14,7 +14,7 @@ tags:
 
 أعلن شركة Google  عن إطلاقها لغة برمجة جديدة تحت اسم Go.
 
-![Go-logo-black](http://www.it-scoop.com/wp-content/uploads/2009/11/Go-logo-black.png)
+![Go-logo-black](https://www.it-scoop.com/wp-content/uploads/2009/11/Go-logo-black.png)
 
 
 حسب Google فإن اللغة الجديدة الموجهة بصورة أكبر إلى تطبيقات الـ web ستجمع بين ميزات لغتي C++ و Python.

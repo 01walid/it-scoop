@@ -12,13 +12,13 @@ tags:
 - Twitter
 ---
 
-**[اسأل و Smart Bulbul يجيبك على أسئلتك... مباشرة على Twitter]( http://www.it-scoop.com/2010/11/smart-bulbul-twitter/)**
+**[اسأل و Smart Bulbul يجيبك على أسئلتك... مباشرة على Twitter]( https://www.it-scoop.com/2010/11/smart-bulbul-twitter/)**
 
 
 هل تود أن تعرف من هو مكتشف الكهرباء؟، أو كم يبلغ عمر شركة Google ؟ أو حتى تاريخ اليوم ؟ كلها أسئلة قد تحتاج إليها أحيانا على عجل و ستأخذ وقتا طويلا نسبيا للوصول إلى إجاباتها ، خاصة إن كان البحث على محركات البحث ليست ضمن النشاطات التي تحبذها.
 
 [![](http://webmashing.com/smartbulbul/images/logo.png)
-](http://www.it-scoop.com/2010/11/smart-bulbul-twitter/)
+](https://www.it-scoop.com/2010/11/smart-bulbul-twitter/)
 
 هذا ما دفع المطور الجزائري [أنيس بورابة](http://twitter.com/_niss) إلى إطلاق خدمة البلبل الذكي أو [Smart Bulbul](http://webmashing.com/smartbulbul/) و التي تتيح الإجابة على هذا النوع من الأسئلة بمجرد طرحها على حساب الخدمة على Twitter و ذلك بكتابة نص السؤال بلغة انجليزية مفهومة
 

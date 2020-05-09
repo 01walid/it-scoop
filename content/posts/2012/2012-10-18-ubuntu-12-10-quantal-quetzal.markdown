@@ -18,13 +18,13 @@ tags:
 - Unity
 ---
 
-أصدرت شركة **Canonical** الراعية لتوزيعة **Ubuntu** اليومَ، النسخة **12.10** من توزيعتها الشهيرة والتي تحمل الاسم الرمزي **Quantal Quetzal**، ستة أشهر بعد [إطلاق Precise Pangolin](http://www.it-scoop.com/2012/04/ubuntu-12-04-precise-pangolin/) لكنها نتاج سنتين من الجهد المتواصل، وممهدة لخطة عمل سنتين آخرين، لترسم آفاق ما سيكون عليه **Ubuntu** عام 2014.
+أصدرت شركة **Canonical** الراعية لتوزيعة **Ubuntu** اليومَ، النسخة **12.10** من توزيعتها الشهيرة والتي تحمل الاسم الرمزي **Quantal Quetzal**، ستة أشهر بعد [إطلاق Precise Pangolin](https://www.it-scoop.com/2012/04/ubuntu-12-04-precise-pangolin/) لكنها نتاج سنتين من الجهد المتواصل، وممهدة لخطة عمل سنتين آخرين، لترسم آفاق ما سيكون عليه **Ubuntu** عام 2014.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-pic-12.10.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-pic-12.10.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-pic-12.10.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-pic-12.10.jpg)
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/Quetzal-150x150.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/Quetzal.jpg)أما عن الاسم، فكعادة Canonical في اختيار حيوانات مهددة بالانقراض أو نادرة، جاء "كوانتال كويتزال" Quantal Quetzal ، هذا الاسم الرمزي ليشير -كما أوضح [ Mark Shuttleworth على مدونته](http://www.markshuttleworth.com/archives/1121)- إلى "الجودة".فالـ [Quantal](http://en.wikipedia.org/wiki/Resplendent_Quetzal) عائلة من الطيور التي عُثِر عليها في غرب المكسيك مع ريش قزحيّ أخضر اللون وهو صنف نادر من الطيور.
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/Quetzal-150x150.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/Quetzal.jpg)أما عن الاسم، فكعادة Canonical في اختيار حيوانات مهددة بالانقراض أو نادرة، جاء "كوانتال كويتزال" Quantal Quetzal ، هذا الاسم الرمزي ليشير -كما أوضح [ Mark Shuttleworth على مدونته](http://www.markshuttleworth.com/archives/1121)- إلى "الجودة".فالـ [Quantal](http://en.wikipedia.org/wiki/Resplendent_Quetzal) عائلة من الطيور التي عُثِر عليها في غرب المكسيك مع ريش قزحيّ أخضر اللون وهو صنف نادر من الطيور.
 
 
 
@@ -42,15 +42,15 @@ tags:
 
 أول ما ستراه هو سطح مكتب Unity والتي حُسن وأضيف له العديد من الميزات، حيث ركزت هذه الإصدارة على فكرة كسر الحواجز بين التطبيقات الأصلية المحلية وتطبيقات الويب، بمعاملة كلاهما بنفس الطريقة/الأهمية، عوض اعتبار تطبيقات الويب مجرد صفحة مفتوحة على المتصفح، أصبح الآن بالإمكان تثبيت أيقونات التطبيقات المشهورة كـ Gmail، تويتر وغيرهم على لوحة التطبيقات الجانبية، استقبال التنبيهات الخاصة بها وعرضها في عداد فوق الأيقونة، التكامل مع "القائمة السريعة" أعلى يمين الشاشة وكأنها تطبيقات حقيقية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-twitter.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-twitter.jpg)كذلك خاصية البحث، لم تعد تفرّق بشكل كبير بين محتوىً محلي أو آخر على الويب، فعند بحثك عن ملف ما أو محتواه، فلن يقتصر البحث على مجلد الـ Home الخاص بالمستخدم بل سيتعداه إلى حسابه في Google Docs أيضا، كذلك البحث عن كتاب ما او محتوى صوتي سيبحث أيضا على Amazon (مع إمكانية تعطيل هذه الخاصية) .
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-twitter.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-twitter.jpg)كذلك خاصية البحث، لم تعد تفرّق بشكل كبير بين محتوىً محلي أو آخر على الويب، فعند بحثك عن ملف ما أو محتواه، فلن يقتصر البحث على مجلد الـ Home الخاص بالمستخدم بل سيتعداه إلى حسابه في Google Docs أيضا، كذلك البحث عن كتاب ما او محتوى صوتي سيبحث أيضا على Amazon (مع إمكانية تعطيل هذه الخاصية) .
 
 Unity على غرار الشائعات، سيواصل كسطح مكتب رسمي للتوزيعة، وقد تم إلغاء تقسيمها إلى Unity 2D و Unity 3D وتوحيد الشفرة في نسخة واحدة فقط هي ببساطة Unity.
 
 **نسخة Ubuntu Server:**
 
-الثقل الذي ت[![](http://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-juju1.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-juju1.png)حدثنا عنه في العنوان، كان يقد هذه النسخة، حيث ركزت Canonical في النظر إلى الكيفية التي أصبحت تُبنى بها مواقع الويب وتطبيقاته، ودفع Ubuntu لاشباع هذه الاحتياجات، نسخة 12.10 أًضيف لها اثنان من أكبر خدمات الخوادم، [OpenStack](http://www.ubuntu.com/cloud/private-cloud/openstack) و Juju. في حين يقدم الأول خدمات الـ Cloud Computing يوفّر [Juju](https://juju.ubuntu.com/) طبقة مسهلة لتنصيب تطبيقات الويب المسكنة محليا، فعوض تنصيب Nginx أو Apache، ثم تنصيب MySQL بعدها السعي وراء ضيط الإعدادت وغيره فقط لتنصيب Wordpress، مع Juju (لماذا أحس وكأنه إعلان تلفزيوني؟ :p) تم أتمتة كل هذا على شاكلة apt-get للخدمات/منصات بل ودفع كل هذا إلى خدمة Amazon EC2 مثلا بكل سهولة. كذلك به خدمة Monitoring مدمجة، تعلمك أي من مكونات تطبيقك يعمل ببطء.
+الثقل الذي ت[![](https://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-juju1.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/ubuntu-juju1.png)حدثنا عنه في العنوان، كان يقد هذه النسخة، حيث ركزت Canonical في النظر إلى الكيفية التي أصبحت تُبنى بها مواقع الويب وتطبيقاته، ودفع Ubuntu لاشباع هذه الاحتياجات، نسخة 12.10 أًضيف لها اثنان من أكبر خدمات الخوادم، [OpenStack](http://www.ubuntu.com/cloud/private-cloud/openstack) و Juju. في حين يقدم الأول خدمات الـ Cloud Computing يوفّر [Juju](https://juju.ubuntu.com/) طبقة مسهلة لتنصيب تطبيقات الويب المسكنة محليا، فعوض تنصيب Nginx أو Apache، ثم تنصيب MySQL بعدها السعي وراء ضيط الإعدادت وغيره فقط لتنصيب Wordpress، مع Juju (لماذا أحس وكأنه إعلان تلفزيوني؟ :p) تم أتمتة كل هذا على شاكلة apt-get للخدمات/منصات بل ودفع كل هذا إلى خدمة Amazon EC2 مثلا بكل سهولة. كذلك به خدمة Monitoring مدمجة، تعلمك أي من مكونات تطبيقك يعمل ببطء.
 
 **في الخفاء:**
 

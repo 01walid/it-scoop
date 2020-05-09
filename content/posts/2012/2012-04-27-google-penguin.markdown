@@ -23,8 +23,8 @@ tags:
 
 
 
-[![الشعار الذي استعمل على موقع Searchengine Land للحديث عن تحديث google penguin](http://www.it-scoop.com/wp-content/uploads/2012/04/google-penguin.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/google-penguin.jpg)
+[![الشعار الذي استعمل على موقع Searchengine Land للحديث عن تحديث google penguin](https://www.it-scoop.com/wp-content/uploads/2012/04/google-penguin.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/google-penguin.jpg)
 
 
 
@@ -34,8 +34,8 @@ tags:
 
 
 
-[![مثال عن استخدام تقنية keyword stuffing التي يحاربها تحديث Google Penguin](http://www.it-scoop.com/wp-content/uploads/2012/04/keyword-stuffing-1024x637.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/keyword-stuffing.png)
+[![مثال عن استخدام تقنية keyword stuffing التي يحاربها تحديث Google Penguin](https://www.it-scoop.com/wp-content/uploads/2012/04/keyword-stuffing-1024x637.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/keyword-stuffing.png)
 
 
 
@@ -45,8 +45,8 @@ tags:
 
 
 
-[![مثال حول إساء استخدام الروابط والذي يحاربه تحديث Google Penguin](http://www.it-scoop.com/wp-content/uploads/2012/04/link-spam.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/link-spam.png)
+[![مثال حول إساء استخدام الروابط والذي يحاربه تحديث Google Penguin](https://www.it-scoop.com/wp-content/uploads/2012/04/link-spam.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/link-spam.png)
 
 
 

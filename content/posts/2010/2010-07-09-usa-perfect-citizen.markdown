@@ -14,7 +14,7 @@ tags:
 - Security
 ---
 
-**[جدل في أمريكا حول برنامج المواطن المثالي Perfect Citizen  الأمني](http://www.it-scoop.com/2010/07/usa-perfect-citizen/)**
+**[جدل في أمريكا حول برنامج المواطن المثالي Perfect Citizen  الأمني](https://www.it-scoop.com/2010/07/usa-perfect-citizen/)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![NSAMAP](http://lawanddisorder.org/wp-content/uploads/2006/09/nsamap.gif)
-](http://www.it-scoop.com/2010/07/usa-perfect-citizen/)
+](https://www.it-scoop.com/2010/07/usa-perfect-citizen/)
 
 حيث أُجبرت الأخيرة (NSA) على التوضيح و تطمين المعارضين الذين يعتقدون أنه انتهاك لخصوصيتهم التي من المفروض حمايتها, و صرحت (NSA)  أن البرنامج المسمى المواطن المثالي  'Perfect Citizen'  هو برنامج يستخدم لغرض بحثي بحت , يهدف الى حماية البنية المعلوماتية التحتية و مراقبتها من أجل تطويرها بكشف مواطن الضعف.
 

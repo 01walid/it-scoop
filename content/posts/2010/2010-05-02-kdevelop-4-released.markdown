@@ -14,13 +14,13 @@ tags:
 - Kdevelop
 ---
 
-[**إطلاق الإصدار 4.0 من بيئة التطوير KDevelop الخاصة بـ KDE**](http://www.it-scoop.com/2010/05/kdevelop-4-released/)
+[**إطلاق الإصدار 4.0 من بيئة التطوير KDevelop الخاصة بـ KDE**](https://www.it-scoop.com/2010/05/kdevelop-4-released/)
 
 
 أعلن فريق تطوير بيئة التطوير KDevelop الإصدار 4.0 منه، و هذا بعد ثلاث سنوات من العمل المتواصل.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/KDevelopBanner.png)
-](http://www.it-scoop.com/2010/05/kdevelop-4-released/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/KDevelopBanner.png)
+](https://www.it-scoop.com/2010/05/kdevelop-4-released/)
 
 الإصدار الرابع من KDevelop يأتي بالعديد من المزايا الجديدة مقارنة بالإصدار الثالث على غرار الدعم الكبير لكل من محرر النصوص Kate و مستظهر الملفات Okteta.
 

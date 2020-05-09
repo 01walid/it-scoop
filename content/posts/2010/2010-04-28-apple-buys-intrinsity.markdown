@@ -15,13 +15,13 @@ tags:
 - Intrinsity
 ---
 
-[**Apple تشتري شركة Intrinsity المتخصصة في تصميم المعالجات**](http://www.it-scoop.com/2010/04/apple-buys-intrinsity/)
+[**Apple تشتري شركة Intrinsity المتخصصة في تصميم المعالجات**](https://www.it-scoop.com/2010/04/apple-buys-intrinsity/)
 
 
 ضمت Apple إلى طاقمها شركة ثانية متخصصة في المعالجات بعد شركة PA Semi و المتمثلة هذه المرة في شركة Intrinsity و التي يرجع لها الفضل في التقنيات التي سمحت لـ Apple تعزيز سرعة معالج A4 ليصل إلى 1 GHz.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Intrinsity.jpg)
-](http://www.it-scoop.com/2010/04/apple-buys-intrinsity/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Intrinsity.jpg)
+](https://www.it-scoop.com/2010/04/apple-buys-intrinsity/)
 
 لا تقوم شركة Intrinsity بتصنيع المعالجات، لكنها تهتم بتصميمها، حيث أن تعمل على تقنيات للاستفادة القصوى من المعالجات الموجهة للهواتف المبنية على معمارية ARM و هذا بأقل استهلاك ممكن للطاقة.
 
@@ -33,6 +33,6 @@ tags:
 
 و حسب أحد الخبراء الذين استشهدت بأقوالهم جريدة الـ New York Times فإن قيمة الصفقة تحوم حول الـ 121 مليون دولار.
 
-للتذكير فإن[ Google اشترت مؤخرا شركة Agnilux](http://www.it-scoop.com/2010/04/google-buys-startup-agnilux/) و التي قام بتأسيسها موظفون سابقون لـ PA Semi المملوكة حاليا لـ Apple، و هو ما يعطي الانطباع أن شراء Apple لـ Intrinsity يعتر ردا مباشرا لخطوة Google.
+للتذكير فإن[ Google اشترت مؤخرا شركة Agnilux](https://www.it-scoop.com/2010/04/google-buys-startup-agnilux/) و التي قام بتأسيسها موظفون سابقون لـ PA Semi المملوكة حاليا لـ Apple، و هو ما يعطي الانطباع أن شراء Apple لـ Intrinsity يعتر ردا مباشرا لخطوة Google.
 
 يمكن الإطلاع على خبر شراء Apple لـ Intrinsity على موقع جريدة الـ New York Times من [هنا](http://www.nytimes.com/2010/04/28/technology/28apple.html?src=busln)

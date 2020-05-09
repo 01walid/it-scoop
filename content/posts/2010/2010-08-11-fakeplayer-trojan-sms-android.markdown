@@ -18,7 +18,7 @@ tags:
 - trojan-sms
 ---
 
-**[FakePlayer: أول Trojan-SMS موجه لهواتف Android](http://www.it-scoop.com/2010/08/fakeplayer-trojan-sms-android/)**
+**[FakePlayer: أول Trojan-SMS موجه لهواتف Android](https://www.it-scoop.com/2010/08/fakeplayer-trojan-sms-android/)**
 
 
 
@@ -31,8 +31,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/android-virus.jpg)
-](http://www.it-scoop.com/2010/08/fakeplayer-trojan-sms-android/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/android-virus.jpg)
+](https://www.it-scoop.com/2010/08/fakeplayer-trojan-sms-android/)
 
 
 الـ Trojan الذي أطلق عليه اسم SMS.AndroidOS.FakePlayer.a يقوم بانتحال هوية قارئ Multimedia ، حيث أنه يقوم – و بمجرد تنصيبه على الجهاز- بإرسال رسائل SMS إلى بعض الأرقام التي تتكلف كثيرا (مثل الأرقام المستعملة في المسابقات التلفزيونية) و هذا من دون أن يلفت انتباه الضحية.

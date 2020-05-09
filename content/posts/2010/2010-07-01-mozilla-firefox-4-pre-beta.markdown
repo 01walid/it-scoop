@@ -12,7 +12,7 @@ tags:
 - Mozilla
 ---
 
-**[Mozilla توفر الإصدار الأولي للـ Beta الأولى لـ Firefox 4 للتحميل](http://www.it-scoop.com/2010/07/Mozilla-Firefox-4 Pre-Beta)**
+**[Mozilla توفر الإصدار الأولي للـ Beta الأولى لـ Firefox 4 للتحميل](https://www.it-scoop.com/2010/07/Mozilla-Firefox-4 Pre-Beta)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
-](http://www.it-scoop.com/2010/07/Mozilla-Firefox-4 Pre-Beta)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
+](https://www.it-scoop.com/2010/07/Mozilla-Firefox-4 Pre-Beta)
 
 
 قد تكون أولى التغييرات التي يلاحظها المستخدم هو ظهور الـ Tabs فوق شريط العناوين أي بالطريقة التي تظهر بها على Chrome ، لكنه يبقى من الممكن الرجوع إلى الوضع الحالي.

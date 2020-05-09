@@ -16,7 +16,7 @@ tags:
 - Hangouts On Air
 ---
 
-[**Google+ تفتح أبوابها للجميع، ووصول عدد التحسينات المضافة إليها إلى 100**](http://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
+[**Google+ تفتح أبوابها للجميع، ووصول عدد التحسينات المضافة إليها إلى 100**](https://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/hangouts-ony-our-phone.png)
-](http://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/hangouts-ony-our-phone.png)
+](https://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
 
 
 
@@ -42,8 +42,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/hangouts-with-extras-300x228.png)
-](http://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/hangouts-with-extras-300x228.png)
+](https://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
 
 
 

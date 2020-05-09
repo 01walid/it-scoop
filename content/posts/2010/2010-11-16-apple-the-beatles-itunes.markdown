@@ -13,7 +13,7 @@ tags:
 - The Beatles
 ---
 
-**[حدث Apple: تمخض الجبل فولد.... The Beatles](http://www.it-scoop.com/2010/11/apple-the-beatles-itunes/)**
+**[حدث Apple: تمخض الجبل فولد.... The Beatles](https://www.it-scoop.com/2010/11/apple-the-beatles-itunes/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/The-Beatles.png)
-](http://www.it-scoop.com/2010/11/apple-the-beatles-itunes/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/The-Beatles.png)
+](https://www.it-scoop.com/2010/11/apple-the-beatles-itunes/)
 
 
 الحدث الذي أعدت له Apple العدة  لم يكن سوى توفيرها لأغاني فرقة The Beatles الغنائية على iTunes حيث أنه لم يتم تحويل تلك الأغاني إلى شكل الكتروني من قبل (على الأقل بشكل قانوني).

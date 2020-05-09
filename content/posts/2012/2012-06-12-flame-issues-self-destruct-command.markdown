@@ -16,13 +16,13 @@ tags:
 - Worm.Win32.Flame
 ---
 
-[بعد اكتشافها](http://www.it-scoop.com/2012/05/worm-win32-flame/)، و[نشر تفاصيل عن آلية عملها](http://www.it-scoop.com/2012/06/flame-crypto-breakthrough/) وما تم فضحه من معلومات حولها حتى الآن، فإن **Flame**، دودة الانترنت الخبيثة أخذت أواخر الأسبوع الماضي تتلقى توجيهات بتدمير نفسها وجميع ملحقاتها وإخفاء جميع الأدلة حولها من الأنظمة المصابة والتي ما تزال تحت سيطرتها، وذلك بعد ورود هذه التوجيهات من مراكز الإدارة والتحكم C&C التابعة لها والتي تتحكم بها الجهة أو الجهات خلف Flame.
+[بعد اكتشافها](https://www.it-scoop.com/2012/05/worm-win32-flame/)، و[نشر تفاصيل عن آلية عملها](https://www.it-scoop.com/2012/06/flame-crypto-breakthrough/) وما تم فضحه من معلومات حولها حتى الآن، فإن **Flame**، دودة الانترنت الخبيثة أخذت أواخر الأسبوع الماضي تتلقى توجيهات بتدمير نفسها وجميع ملحقاتها وإخفاء جميع الأدلة حولها من الأنظمة المصابة والتي ما تزال تحت سيطرتها، وذلك بعد ورود هذه التوجيهات من مراكز الإدارة والتحكم C&C التابعة لها والتي تتحكم بها الجهة أو الجهات خلف Flame.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/flame-virus.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/flame-virus.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/flame-virus.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/flame-virus.jpg)
 
 
 

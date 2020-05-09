@@ -12,14 +12,14 @@ tags:
 - James Gosling
 ---
 
-[**James Gosling الأب الروحي لـ Java ينضم إلى Google**](http://www.it-scoop.com/2011/03/james-gosling-google/)
+[**James Gosling الأب الروحي لـ Java ينضم إلى Google**](https://www.it-scoop.com/2011/03/james-gosling-google/)
 
 
 أعلن James Gosling الأب الروحي للـ Java انضمامه اليوم إلى Google و هذا بعد أن ترك Sun بُعَيد شراء Oracle لها.
 
 
 [![](http://nighthacks.com/roller/jag/resource/GoogleStartDaySmall.png )
-](http://www.it-scoop.com/2011/03/james-gosling-google/)
+](https://www.it-scoop.com/2011/03/james-gosling-google/)
 
 
 و في [التدوينة](http://nighthacks.com/roller/jag/entry/next_step_on_the_road) التي يعلن فيها عن هذا الخبر، يشير Gosling إلى أنه بدأ اليوم العمل لدى Google لكن يضيف أنه لا يعرف تماما ماهية المهمة التي ستوكل إليه و يعتقد أنها ستكون "شيئا من كل شيء".

@@ -13,7 +13,7 @@ tags:
 
 أعلن مصنع الهواتف الجوالة الكوري الجنوبي Samsung عن نظامه الجديد الخاص بالهواتف الجوالة المسمى Bada)   Bada باللغة الكورية تعني المحيط).
 
-![samsung-logo](http://www.it-scoop.com/wp-content/uploads/2009/11/samsung-logo-300x100.jpg)
+![samsung-logo](https://www.it-scoop.com/wp-content/uploads/2009/11/samsung-logo-300x100.jpg)
 
 
 حسب Samsung فإن الـ SDK الخاص  بنظام التشغيل الجديد Bada سيكون جاهزا خلال أسابيع فقط.

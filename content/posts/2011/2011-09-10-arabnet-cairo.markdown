@@ -12,7 +12,7 @@ tags:
 - عرب نت
 ---
 
-[**مؤتمر عرب نت يحط رحاله في القاهرة أيام التاسع عشر والعشرين من أكتوبر القادم**](http://www.it-scoop.com/2011/09/arabnet-cairo/)
+[**مؤتمر عرب نت يحط رحاله في القاهرة أيام التاسع عشر والعشرين من أكتوبر القادم**](https://www.it-scoop.com/2011/09/arabnet-cairo/)
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://arabnet.me/site_media/content_media/images/arabnet-logo.png)
-](http://www.it-scoop.com/2011/09/arabnet-cairo/)
+](https://www.it-scoop.com/2011/09/arabnet-cairo/)
 
 
 

@@ -14,13 +14,13 @@ tags:
 - WordPress
 ---
 
-[**Automattic الراعية لمشروع Wordpress تضع يدها على خدمة Plinky**](http://www.it-scoop.com/2010/06/automattic-buys-plinky/ )
+[**Automattic الراعية لمشروع Wordpress تضع يدها على خدمة Plinky**](https://www.it-scoop.com/2010/06/automattic-buys-plinky/ )
 
 
 أعلنت شركة Automattic الراعية لمشروع Wordpress عن شرائها لخدمة Plinky.
 
 [![](http://www.plinky.com/images/layout/header/logo_large.png)
-](http://www.it-scoop.com/2010/06/automattic-buys-plinky/ )
+](https://www.it-scoop.com/2010/06/automattic-buys-plinky/ )
 
 تقوم Plinky بتوفير خدمة تتمثل في إمكانية طرح سؤال أو تحدٍ معين و الإتاحة لزواره الإجابة أو التعليق عليه، و عادة ما يستعملها المدونون لاستقبال أسئلة من متتبعي مدوناتهم أو لكتابة أفكار صغيرة لا حاجة/قدرة لتخصيص تدوين كاملة خاصة بها.
 

@@ -12,13 +12,13 @@ tags:
 - youtube
 ---
 
-**[Youtube تزيل حد 15 دقيقة للفيديوهات المرفوعة إليها... لبعض المشتركين](http://www.it-scoop.com/2010/12/youtube-removes-video-time-limits)**
+**[Youtube تزيل حد 15 دقيقة للفيديوهات المرفوعة إليها... لبعض المشتركين](https://www.it-scoop.com/2010/12/youtube-removes-video-time-limits)**
 
 
 بعد أن رفعت أقصى حد للفيديوهات المرفوعة إليها من 10 إلى 15 دقيقة منذ بضعة أشهر، أعلنتYoutube على [مدونتها](http://youtube-global.blogspot.com/2010/12/up-up-and-away-long-videos-for-more.html) إزالة أي قيود حول مدة الفيديوهات  و ذلك لصالح بعض المشتركين فقط.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo-300x212.jpg)
-](http://www.it-scoop.com/2010/12/youtube-removes-video-time-limits)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo-300x212.jpg)
+](https://www.it-scoop.com/2010/12/youtube-removes-video-time-limits)
 
 لم تحدد Youtube المشتركين الذين سيستفيدون من هذه العملية لكنها اكتفت بالإشارة إلى أن الفيديو يجب أن تحترم قوانين الموقع و أن تكون ملكا لصاحبها، و من المحتمل جدا أن يتم الاعتماد على ما سبق رفعه من طرف كل مشترك لتقرير ما إن كان سيستفيد من العرض الجديد من عدمه.
 

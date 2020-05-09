@@ -13,13 +13,13 @@ tags:
 - yelp
 ---
 
-[**هل ستكون Yelp الشركة التالية التي ستستحوذ عليها Google؟**](http://www.it-scoop.com/2009/12/google-to-acquire-yelp/)
+[**هل ستكون Yelp الشركة التالية التي ستستحوذ عليها Google؟**](https://www.it-scoop.com/2009/12/google-to-acquire-yelp/)
 
 
 تشير العديد من المصادر أن العملاق Google  يجري مفاوضات وصفت بالمتقدمة للاستحواذ على Yelp  الشركة الراعية لموقع Yelp.com الذي يقدم خدمات بحث و إيجاد الخدمات و الممونين المحليين.
 
 [![](http://www.crunchbase.com/assets/images/resized/0000/2263/2263v3-max-250x250.jpg)
-](http://www.it-scoop.com/2009/12/google-to-acquire-yelp/)
+](https://www.it-scoop.com/2009/12/google-to-acquire-yelp/)
 
 و تشير نفس المصادر إلى أن المفاوضات الحالية التي تجري على قدم و ساق  لن تسفر عن صفقة تقل قيمتها عن 500 مليون دولار أمريكي.
 

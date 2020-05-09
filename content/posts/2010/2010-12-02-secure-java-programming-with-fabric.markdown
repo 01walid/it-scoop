@@ -19,7 +19,7 @@ tags:
 - sun
 ---
 
-**[إطلاق لغة Fabric، التي تعزز أمن الـ Java من داخلها!](http://www.it-scoop.com/2010/12/secure-java-programming-with-fabric)**
+**[إطلاق لغة Fabric، التي تعزز أمن الـ Java من داخلها!](https://www.it-scoop.com/2010/12/secure-java-programming-with-fabric)**
 
 
 لغرض تعزيز أمن التطبيقات التي تعمل على الأنظمة الموزعة، تمكن ست باحثون  لدى جامعة [Cornell University](http://www.cornell.edu/) الأمريكية من إخراج لغة برمجة ذي نمط أمني تحت اسم: [Fabric](http://www.news.cornell.edu/stories/Sept10/Fabric.html) تسمح بزرع إجراءات أمنية على برامج الـ Java.
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/fabric_ar.jpg)
-](http://www.it-scoop.com/2010/12/secure-java-programming-with-fabric)يمكن الرجوع للمخط الأصلي من خلال المصدر أدناه
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/fabric_ar.jpg)
+](https://www.it-scoop.com/2010/12/secure-java-programming-with-fabric)يمكن الرجوع للمخط الأصلي من خلال المصدر أدناه
 
 
 

@@ -21,8 +21,8 @@ tags:
 
 
 
-[![دراسة تؤكد بأن البريد الالكتروني ما يزال أكثر انتشارا من الشبكات الاجتماعية](http://www.it-scoop.com/wp-content/uploads/2012/04/email.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/email.png)
+[![دراسة تؤكد بأن البريد الالكتروني ما يزال أكثر انتشارا من الشبكات الاجتماعية](https://www.it-scoop.com/wp-content/uploads/2012/04/email.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/email.png)
 
 
 

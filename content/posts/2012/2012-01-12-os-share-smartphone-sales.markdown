@@ -21,8 +21,8 @@ tags:
 
 
 
-[![رسم بياني لحصص مختلف أنظمة تشغيل الهواتف الذكية في السوق الأمريكية خلال شهري أكتوبر ونوفمبر 2011](http://www.it-scoop.com/wp-content/uploads/2012/01/os-share-npd.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/os-share-npd.png)
+[![رسم بياني لحصص مختلف أنظمة تشغيل الهواتف الذكية في السوق الأمريكية خلال شهري أكتوبر ونوفمبر 2011](https://www.it-scoop.com/wp-content/uploads/2012/01/os-share-npd.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/os-share-npd.png)
 
 
 
@@ -32,8 +32,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/top-10-models-npd.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/top-10-models-npd.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/top-10-models-npd.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/top-10-models-npd.png)
 
 
 

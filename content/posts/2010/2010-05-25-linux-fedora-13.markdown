@@ -13,15 +13,15 @@ tags:
 - redhat
 ---
 
-[**الإصدار 13 من Fedora يبصر النور هذا المساء**](http://www.it-scoop.com/2010/05/linux-fedora-13/)
+[**الإصدار 13 من Fedora يبصر النور هذا المساء**](https://www.it-scoop.com/2010/05/linux-fedora-13/)
 
 
 إذا كنت من عشاق و مستعملي نظام Fedora فأنت اليوم (أو بالأحرى هذا المساء) مع موعد ميلاد الإصدار الثالث عشر منه، و التي تأتي كعادة كل الإصدارات الجديدة من توزيعات Linux بالعديد من المستجدات.
 
 
 [
-](http://www.it-scoop.com/2010/05/linux-fedora-13/)[![](https://fedoraproject.org/static/images/banners/f13release.png)
-](http://www.it-scoop.com/2010/05/linux-fedora-13/)
+](https://www.it-scoop.com/2010/05/linux-fedora-13/)[![](https://fedoraproject.org/static/images/banners/f13release.png)
+](https://www.it-scoop.com/2010/05/linux-fedora-13/)
 
 
 من بين أهم ما جاء في هذا الإصدار نجد كلا من تبسيط عملية تنصيب النظام، و التنصيب القياسي لبعض من التطبيقات الجديدة كمدير للصور و تطبيق لـ Twitter، إضافة إلى دعم الـ 3D  لكل من البطاقات الرسومية لـ ATI و nVIDIA.

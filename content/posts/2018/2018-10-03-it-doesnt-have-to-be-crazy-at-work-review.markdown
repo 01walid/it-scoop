@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/10/It-Doesnt-Have-to-Be-Crazy-at-Work.jpg)
-](http://www.it-scoop.com/2018/10/it-doesnt-have-to-be-crazy-at-work-review/it-doesnt-have-to-be-crazy-at-work/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/10/It-Doesnt-Have-to-Be-Crazy-at-Work.jpg)
+](https://www.it-scoop.com/2018/10/it-doesnt-have-to-be-crazy-at-work-review/it-doesnt-have-to-be-crazy-at-work/)
 
 
 
@@ -77,7 +77,7 @@ categories:
 
 
 
-[http://www.it-scoop.com/2018/07/why-we-sleep-review/](http://www.it-scoop.com/2018/07/why-we-sleep-review/)
+[https://www.it-scoop.com/2018/07/why-we-sleep-review/](https://www.it-scoop.com/2018/07/why-we-sleep-review/)
 
 
 

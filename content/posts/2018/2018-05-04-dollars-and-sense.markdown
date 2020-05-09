@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/05/Dollars-and-Sense.jpg)
-](http://www.it-scoop.com/2018/05/dollars-and-sense/dollars-and-sense/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/05/Dollars-and-Sense.jpg)
+](https://www.it-scoop.com/2018/05/dollars-and-sense/dollars-and-sense/)
 
 
 
@@ -84,7 +84,7 @@ tags:
 
 
 الأوصاف والطّقوس قد تغيّر من تقديرنا للسلع والمُنتجات: إن رافق المُنتج الذي تشتريه وصف يشرح مزاياه بشكل دقيق أو أنه يتطلب طريقة مُعيّنة (طقوسًا) في كيفية استخدامه/استهلاكه فإننا سنعطي قيمة أكبر لذلك المُنتج بالرغم من أن تلك الأوصاف/الطقوس لا تؤثّر بشكل مُباشر على نوعية المُنتج أو على النتيجة المرجوة منه.
-سبق وأن كتبت حول الموضوع هنا: [هل نحتاج إلى خداع أنفسنا؟: قراءة في كتاب All Marketers Are Liars](http://www.it-scoop.com/2016/11/all-marketers-are-liars/)
+سبق وأن كتبت حول الموضوع هنا: [هل نحتاج إلى خداع أنفسنا؟: قراءة في كتاب All Marketers Are Liars](https://www.it-scoop.com/2016/11/all-marketers-are-liars/)
 
 
 

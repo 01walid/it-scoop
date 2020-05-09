@@ -19,8 +19,8 @@ tags:
 
 
 
-[![winners-arabnet-developer-tournament-beirut](http://www.it-scoop.com/wp-content/uploads/2013/04/winners-arabnet-developer-tournament-beirut.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/winners-arabnet-developer-tournament-beirut.png)
+[![winners-arabnet-developer-tournament-beirut](https://www.it-scoop.com/wp-content/uploads/2013/04/winners-arabnet-developer-tournament-beirut.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/winners-arabnet-developer-tournament-beirut.png)
 
 
 

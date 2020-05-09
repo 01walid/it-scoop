@@ -18,8 +18,8 @@ tags:
 
 
 
-[![native ads](http://www.it-scoop.com/wp-content/uploads/2014/01/native-ads-.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/native-ads-.png)
+[![native ads](https://www.it-scoop.com/wp-content/uploads/2014/01/native-ads-.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/native-ads-.png)
 
 
 
@@ -98,8 +98,8 @@ tags:
 
 
 
-[caption id="attachment_12716" align="aligncenter" width="300"][![Native-ad-Landscape](http://www.it-scoop.com/wp-content/uploads/2014/01/Native-ad-Landscape-300x200.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/Native-ad-Landscape.png) نظرة على المواقع التي تستخدم Native Ads (اضغط على الصورة لتكبيرها)[/caption]
+[caption id="attachment_12716" align="aligncenter" width="300"][![Native-ad-Landscape](https://www.it-scoop.com/wp-content/uploads/2014/01/Native-ad-Landscape-300x200.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/Native-ad-Landscape.png) نظرة على المواقع التي تستخدم Native Ads (اضغط على الصورة لتكبيرها)[/caption]
 
 
 توفر المنصات الاجتماعية إعلانات مُضمنة في سياق تجربة المُستخدم مثلما هو عليه الحال مع التغريدات الإعلانية Sponsored Tweets و خاصية Trends على تويتر، المنشورات مدفوعة الأجر على فيس بوك (Promoted Posts و Sponsored Stories) وحتى Promoted Pins على Pinterest. بالرغم من أن Native Ads تُوفر تجربة استخدام أفضل إلا أنها لا تحل المُشكل الذي ألقت الدراسة آنفة الذكر الضوء عليه والذي يدور حول مبدأ أن المُستخدمين ليسوا على الشبكات الاجتماعية للقيام بعمليات شراء وبالتالي فإنهم لا يرغبون في أية إعلانات سواء كانت إعلانات كلاسيكية أم إعلانات مُضمنة بشكل مُحكم ضمن سياق استخدامهم لتلك الخدمات أو المنصات. عودة إلى نقطة البداية.
@@ -107,8 +107,8 @@ tags:
 
 
 
-[caption id="attachment_12714" align="aligncenter" width="400"][![Promoted_Pins](http://www.it-scoop.com/wp-content/uploads/2014/01/Promoted_Pins.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/Promoted_Pins.jpg) Promoted Pins على Pinterest[/caption]
+[caption id="attachment_12714" align="aligncenter" width="400"][![Promoted_Pins](https://www.it-scoop.com/wp-content/uploads/2014/01/Promoted_Pins.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/Promoted_Pins.jpg) Promoted Pins على Pinterest[/caption]
 
 
 بدل أن يتم عرض الإعلانات على هيئة تحديثات من طرف أصدقائك ومعارفك، هناك حل آخر يتمثل في استخدام تحديث أصدقائك ضمن الإعلانات، وهذا هو الخيار الذي تُراهن عليه Google، حيث أنها تود استخدام آراء وتوصيات أصدقائك لرفع أداء الإعلانات وزيادة فاعليتها: [Google To Start Employing User Ratings And Photos In “Shared Endorsements” Ads ](http://techcrunch.com/2013/10/11/google-to-start-employing-user-ratings-and-photos-in-shared-endoresments-ads/).
@@ -116,8 +116,8 @@ tags:
 
 
 
-[caption id="attachment_12715" align="aligncenter" width="550"][![shared_endorsements](http://www.it-scoop.com/wp-content/uploads/2014/01/shared_endorsements.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/01/shared_endorsements.png) إعلانات Google التي تستخدم تحديثات وتوصيات المُستخدمين[/caption]
+[caption id="attachment_12715" align="aligncenter" width="550"][![shared_endorsements](https://www.it-scoop.com/wp-content/uploads/2014/01/shared_endorsements.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/01/shared_endorsements.png) إعلانات Google التي تستخدم تحديثات وتوصيات المُستخدمين[/caption]
 
 
 بالرغم من كل الهجوم الذي تعرض له مبدأ استخدام توصيات وتحديثات الأصدقاء في الإعلانات، إلا أن Google قامت على الأقل بإعلام المُستخدمين بذلك وأعطتهم حرية منع استخدام آرائهم في هذه الإعلانات. قد تكون طريقة القيام بذلك غير بسيطة، لكن لو أمعنا النظر قليلا لوجدنا أن الأمر يتعلق بتحديثات وتوصيات تم نشرها بشكل علني وبالتالي فإن تُهمة انتهاك خصوصية الأفراد قد لا تكون مبنية على أسس صحيحة. يجب التذكير من جديد هنا أنه **على المنصات الاجتماعية إن لم تكن تدفع مقابل الخدمة التي تستخدمها فإنك -من دون شك- السلعة التي يتم بيعها ولست الزبون**. وعلى ضوء ذلك فإن Google ذهبت إلى أبعد من ذلك حيث لن يكون المُستخدم السلعة فحسب وإنما سيكون المُروج أيضا.[You’re Not Just The Product, You’re The Ads (And Your Friends Should Thank You)](http://techcrunch.com/2013/10/11/you-make-ads-better/)

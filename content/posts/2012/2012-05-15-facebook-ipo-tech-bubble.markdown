@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/facebook-IPO-tech-bubble.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/facebook-IPO-tech-bubble.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/facebook-IPO-tech-bubble.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/facebook-IPO-tech-bubble.jpg)
 
 
 
@@ -64,7 +64,7 @@ tags:
 
 
 
-أضف إلى ذلك، الأخبار التي تداولت مؤخرا عن "البرود" الذي أصاب كبار المستثمرين تجاه فكرة الاستثمار في الشركة بعد عرض [نتائج الشركة المالية الفصلية](http://www.it-scoop.com/2012/04/facebook-900-million-users/)، والتي بينت تراجعا في مداخيلها عللتها الشركة حينها بـ'الاختلافات الفصلية"، قبل أن تعلن بأنها تعرف صعوبات [بسبب الاستخدام المكثف لتطبيقاتها على الهواتف الذكية](http://www.it-scoop.com/2012/05/facebook-ipo-zuckerberg-hoodie/) والتي لا تعرض الإعلانات بدل نسخة الويب الكلاسيكية.
+أضف إلى ذلك، الأخبار التي تداولت مؤخرا عن "البرود" الذي أصاب كبار المستثمرين تجاه فكرة الاستثمار في الشركة بعد عرض [نتائج الشركة المالية الفصلية](https://www.it-scoop.com/2012/04/facebook-900-million-users/)، والتي بينت تراجعا في مداخيلها عللتها الشركة حينها بـ'الاختلافات الفصلية"، قبل أن تعلن بأنها تعرف صعوبات [بسبب الاستخدام المكثف لتطبيقاتها على الهواتف الذكية](https://www.it-scoop.com/2012/05/facebook-ipo-zuckerberg-hoodie/) والتي لا تعرض الإعلانات بدل نسخة الويب الكلاسيكية.
 
 
 

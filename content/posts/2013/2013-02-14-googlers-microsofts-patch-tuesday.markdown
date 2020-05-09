@@ -18,13 +18,13 @@ tags:
 - Vulnerabilities
 ---
 
-كما هو معروف فإن من عادة **Microsoft** أن تنشر نشرة أمنية شهرية تُطلق عليها اسم **[Patch Tuesday](http://www.it-scoop.com/tag/patch-tuesday/)** **لترقيع  الثغرات** التي تم اكتشافها مؤخرا، ومن عادة Microsoft ترقيع ثغرات يكتشفها مهندسوها أو مهندسون مستقلون و آخرون يعملون في شركات أخرى، لكن على غير العادة، حمل أكثر من نصف عدد الثغرات التي تم ترقيعها في شهر فبراير الجاري توقيع مهندسين يعملون لدى منافستها الشرسة **Google**.
+كما هو معروف فإن من عادة **Microsoft** أن تنشر نشرة أمنية شهرية تُطلق عليها اسم **[Patch Tuesday](https://www.it-scoop.com/tag/patch-tuesday/)** **لترقيع  الثغرات** التي تم اكتشافها مؤخرا، ومن عادة Microsoft ترقيع ثغرات يكتشفها مهندسوها أو مهندسون مستقلون و آخرون يعملون في شركات أخرى، لكن على غير العادة، حمل أكثر من نصف عدد الثغرات التي تم ترقيعها في شهر فبراير الجاري توقيع مهندسين يعملون لدى منافستها الشرسة **Google**.
 
 
 
 
-[![microsoft-corp](http://www.it-scoop.com/wp-content/uploads/2013/02/microsoft-corp.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/02/microsoft-corp.jpg)
+[![microsoft-corp](https://www.it-scoop.com/wp-content/uploads/2013/02/microsoft-corp.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/02/microsoft-corp.jpg)
 
 
 

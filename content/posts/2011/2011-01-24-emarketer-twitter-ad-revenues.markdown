@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[هل توصل Twitter فعلا إلى business model يمكنه من التربح خلال 2011 ؟](http://www.it-scoop.com/2011/01/emarketer-twitter-ad-revenues/)**
+**[هل توصل Twitter فعلا إلى business model يمكنه من التربح خلال 2011 ؟](https://www.it-scoop.com/2011/01/emarketer-twitter-ad-revenues/)**
 
 
 **
@@ -24,12 +24,12 @@ tags:
 
 
 [![](http://www.emarketer.com/images/chart_gifs/123001-124000/123832.gif )
-](http://www.it-scoop.com/2011/01/emarketer-twitter-ad-revenues/)
+](https://www.it-scoop.com/2011/01/emarketer-twitter-ad-revenues/)
 
 و حسب eMarketer   فإن Twitter يعرف نموا مشابها للنمو الذي يعرفه Facebook و من الممكن أن تصل مداخيله إلى 250 مليون دولار خلال 2012 متجاوزة بذلك توقعات المكتب لمداخيل MySpace و التي تقدرها بـ 156 مليون دولار.
 
 [![](http://www.emarketer.com/images/chart_gifs/123001-124000/123948.gif )
-](http://www.it-scoop.com/2011/01/emarketer-twitter-ad-revenues/)
+](https://www.it-scoop.com/2011/01/emarketer-twitter-ad-revenues/)
 
 و يمكن تفسير هذه التوقعات بالنمو المستمر الذي تعرفه Twitter من حيث عدد المشتركين الذي يقارب الـ 200 ، مما يدفع  بالمعلنين إلى إعادة التفكير قبل الإعلان عبر الوسائل التقليدية أو عبر باقي الشبكات الاجتماعية.
 

@@ -19,13 +19,13 @@ tags:
 - zynga
 ---
 
-[هل ستنفصل الألعاب الاجتماعية قريبا عن الشبكات الاجتماعية ؟](http://www.it-scoop.com/2011/04/social-games/)
+[هل ستنفصل الألعاب الاجتماعية قريبا عن الشبكات الاجتماعية ؟](https://www.it-scoop.com/2011/04/social-games/)
 
 
 هل الألعاب الاجتماعية هي التي جعلت من الشبكات الاجتماعية ما هي عليه الآن ؟ أم العكس ؟ و ما الذي سيحدث لو قرر أحدهما التخلي عن الآخر ؟ هل سبق لك و أن فكرت في الأمر من هذه الناحية ؟.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/wildones-300x201.jpg)
-](http://www.it-scoop.com/2011/04/social-games/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/wildones-300x201.jpg)
+](https://www.it-scoop.com/2011/04/social-games/)
 
 لكن لماذا كل هذه التساؤلات ؟ ما يدفع لذلك هو أولى بوادر انفصال /استقلال الألعاب الاجتماعية عن الشبكات الاجتماعية، حيث أعلنت  Playdom ثالث أكبر شبكة ألعاب اجتماعية بعد كل من Zynga و PlayFishعن إطلاق [بوابة الألعاب الخاصة بها](http://www.playdom.com/games).
 

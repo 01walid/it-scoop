@@ -14,13 +14,13 @@ tags:
 - Tomcat
 ---
 
-**[الإصدار النهائي من Tomcat 7 خادم تطبيقات Java الشهير متوفر للتحميل](http://www.it-scoop.com/2011/01/apache-tomcat-7/)**
+**[الإصدار النهائي من Tomcat 7 خادم تطبيقات Java الشهير متوفر للتحميل](https://www.it-scoop.com/2011/01/apache-tomcat-7/)**
 
 
 أطلق فريق عمل Tomcat   خادم تطيبقات Java الشهير الإصدار 7.0.6  منه و هذا بعد عدة إصدارات Beta التي نشرت منذ أبريل الماضي.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/Logo-Apache-Tomcat.png)
-](http://www.it-scoop.com/2011/01/apache-tomcat-7/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Logo-Apache-Tomcat.png)
+](https://www.it-scoop.com/2011/01/apache-tomcat-7/)
 
 يدعم هذا الإصدار كلا من الـ [JSP](http://en.wikipedia.org/wiki/JavaServer_Pages) في إصداره 2.2 و الـ [servlet](http://en.wikipedia.org/wiki/Servlets) في إصداره 3.0، و يسمح استعمال هذا الإصدار من servlet لـ Tomcat 7 بتسهيل المهمة على المطورين، و خصوصا ما تعلق بإدارة الإعدادات، حيث تم استبدال استعمال ملف web.xml مركزي لجميع الإعدادات بجملة ملفات متفرقة تختلف باختلاف الآلية التي تديرها. كما يسمح هذا الإصدار إدارة متقدمة للـ Cookies و دعما للـ asynchronous threads.
 

@@ -12,7 +12,7 @@ tags:
 - Vodafone
 ---
 
-[**التنصت على مكالمات زبائن Vodafone في بريطانيا أصبح متاحا للجميع**](http://www.it-scoop.com/2011/07/vodafone-hacked-root-password-published/)
+[**التنصت على مكالمات زبائن Vodafone في بريطانيا أصبح متاحا للجميع**](https://www.it-scoop.com/2011/07/vodafone-hacked-root-password-published/)
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/vodafone-hacked.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/07/vodafone-hacked.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/vodafone-hacked.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/07/vodafone-hacked.png)
 
 
 

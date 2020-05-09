@@ -12,7 +12,7 @@ tags:
 - Samsung
 ---
 
-**[Samsung تنشر فيديو رسمية للتعريف بجهازها اللوحي Galaxy Tab](http://www.it-scoop.com/2010/09/samsung-galaxy-tab-official-live-demo)**
+**[Samsung تنشر فيديو رسمية للتعريف بجهازها اللوحي Galaxy Tab](https://www.it-scoop.com/2010/09/samsung-galaxy-tab-official-live-demo)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/samsung-galaxy-tab.jpg)
-](http://www.it-scoop.com/2010/09/samsung-galaxy-tab-official-live-demo)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/samsung-galaxy-tab.jpg)
+](https://www.it-scoop.com/2010/09/samsung-galaxy-tab-official-live-demo)
 
 
 ما الذي يميز Galaxy tab عن iPad؟ أمور كثيرة لعل من أبرزها اختلاف الحجم فـ Galaxy tab له شاشة 7 بوصات فقط مما يجعل قابلا للمسك بيد واحدة (على عكس الـ iPad)، كما أنه يمتاز بمتصفح يدعم المعايير القياسية بما فيها الـ Flash، و يمتلك خواص لا تجدهما في الـ iPad على غرار الكاميرا الأمامية، إمكانية استعمال ذواكر Micro SD و إمكانية استعماله كهاتف.

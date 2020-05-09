@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/04/Google-drive.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/Google-drive.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/04/Google-drive.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/Google-drive.png)
 
 
 

@@ -23,20 +23,20 @@ tags:
 - Windows Phone 7
 ---
 
-[**Pwn2Own: سقوط الـ iPhone 4 و الـ BlackBerry و لا أحد يحاول اختراق Android أو Windows Phone 7**](http://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)
+[**Pwn2Own: سقوط الـ iPhone 4 و الـ BlackBerry و لا أحد يحاول اختراق Android أو Windows Phone 7**](https://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)
 
 
 شهد اليوم الثاني لمسابقة Pwn2Own دخول الهواتف الذكية إلى الحلبة، و التي شهدت سقوط كل من الـ iPhone 4 و الـ BlackBerry في حين خلت ساحتا Android و Windows Phone 7 من المنافسين.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/pwn2own.jpg)
-](http://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/pwn2own.jpg)
+](https://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)
 
 
 فيما يخص الـ Blackberry Torch 9800 المجهز بنظام Blackberry 6 OS فلقد سقط على يد [فريق مكون من 3 خبراء أمنيين](http://www.zdnet.com/blog/security/pwn2own-2011-blackberry-falls-to-webkit-browser-attack/8401) و الذي استطاعوا استغلال ثغرات في الـ WebKit للإيقاع بضحيتهم. و بالرغم من أن أنظمة أمان Blackberry 6 OS ليست بالمتقدمة، إلا أن نقص المعلومات عنها صعب من مهمة الفريق.
 
 [caption id="" align="aligncenter" width="467" caption="الثلاثي الذي اخترق جهاز Blackberry Torch 9800"][![](http://i.zdnet.com/blogs/blackberry_exploiters.png )
-](http://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)[/caption]
+](https://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)[/caption]
 
 
 
@@ -47,7 +47,7 @@ tags:
 
 
 [caption id="" align="aligncenter" width="221" caption="Charlie Miller مخترق الـ iPhone 4"][![](http://i.zdnet.com/blogs/charlie_miller.png )
-](http://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)[/caption]
+](https://www.it-scoop.com/2011/03/pwn2own-iphone-4-blackberry/)[/caption]
 
 
 

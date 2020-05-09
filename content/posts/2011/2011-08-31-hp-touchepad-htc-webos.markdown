@@ -23,7 +23,7 @@ tags:
 - وب أو إس
 ---
 
-[**HP تقرر تصنيع عدد إضافي من أجهزة TouchPad، وأنباء عن رغبة HTC في شراء نظام WebOS**](http://www.it-scoop.com/2011/08/hp-touchepad-htc-webos/)
+[**HP تقرر تصنيع عدد إضافي من أجهزة TouchPad، وأنباء عن رغبة HTC في شراء نظام WebOS**](https://www.it-scoop.com/2011/08/hp-touchepad-htc-webos/)
 
 
 
@@ -33,8 +33,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/hp-touchpad.jpg)
-](http://www.it-scoop.com/2011/08/hp-touchepad-htc-webos/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/hp-touchpad.jpg)
+](https://www.it-scoop.com/2011/08/hp-touchepad-htc-webos/)
 
 
 

@@ -18,7 +18,7 @@ tags:
 - Zuckerberg
 ---
 
-**[Facebook يحصل على تمويل جديد بقيمة 500 مليون دولار، و تصل قيمته السوقية إلى 50 مليار دولار](http://www.it-scoop.com/2011/01/facebook-raises-500-million)**
+**[Facebook يحصل على تمويل جديد بقيمة 500 مليون دولار، و تصل قيمته السوقية إلى 50 مليار دولار](https://www.it-scoop.com/2011/01/facebook-raises-500-million)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/facebook-money.jpg)
-](http://www.it-scoop.com/2011/01/facebook-raises-500-million)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/facebook-money.jpg)
+](https://www.it-scoop.com/2011/01/facebook-raises-500-million)
 
 
 و بعد أن استثمر 500 مليون دولار سابقا في نفس الشبكة يعود مجمع Digital Sky Technologies) DST) الروسي ليضخ 50 مليون دولار إضافية في "جيب" Zuckerberg. و هي المبالغ التي ترفع من قيمة Facebook السوقية لتصل إلى 50 مليار دولار.

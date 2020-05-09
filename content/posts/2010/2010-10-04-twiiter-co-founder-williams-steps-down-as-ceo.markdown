@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[Evan Williams الرئيس التنفيذي لـ  Twitter يستقيل من منصبه](http://www.it-scoop.com/2010/10/twiiter-co-founder-williams-steps-down-as-ceo)**
+**[Evan Williams الرئيس التنفيذي لـ  Twitter يستقيل من منصبه](https://www.it-scoop.com/2010/10/twiiter-co-founder-williams-steps-down-as-ceo)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/ev1.jpg)
-](http://www.it-scoop.com/2010/10/twiiter-co-founder-williams-steps-down-as-ceo)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/ev1.jpg)
+](https://www.it-scoop.com/2010/10/twiiter-co-founder-williams-steps-down-as-ceo)
 
 
 Williams سيبقى في Twitter ولكن قراره هذا جاء على حسب قوله ليركز أكثر على خطط واستراتيجيات المنتج،  وباختصار، لم يتأقلم Williams وضجر من صداع الرأس الناتج عن كونه المدير التنفيذي لهكذا شركة ناشئة فائقة النمو مثل Twitter.

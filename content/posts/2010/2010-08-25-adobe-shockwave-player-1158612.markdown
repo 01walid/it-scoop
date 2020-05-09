@@ -15,7 +15,7 @@ tags:
 - Shockwave Player
 ---
 
-**[Adobe تنشر التحديث 11.5.8.612 لـ Shockwave Player لترقيع 20 ثغرة خطيرة]( http://www.it-scoop.com/2010/08/adobe-shockwave-player-1158612/)**
+**[Adobe تنشر التحديث 11.5.8.612 لـ Shockwave Player لترقيع 20 ثغرة خطيرة]( https://www.it-scoop.com/2010/08/adobe-shockwave-player-1158612/)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Shockwave-logo.jpg)
-]( http://www.it-scoop.com/2010/08/adobe-shockwave-player-1158612/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Shockwave-logo.jpg)
+]( https://www.it-scoop.com/2010/08/adobe-shockwave-player-1158612/)
 
 
 Shockwave Player و بالرغم من كونه أقل شهرة من أخيه Flash Player إلا أنه نجده –حسب Adobe-  منصبا على أكثر من 450 مليون جهاز حول العالم، و يسمح بقراءة  المحتويات المنتجة باستخدام Adobe Director.

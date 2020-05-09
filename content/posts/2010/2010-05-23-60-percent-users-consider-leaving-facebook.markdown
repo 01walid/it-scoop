@@ -14,13 +14,13 @@ tags:
 - sophos
 ---
 
-[**Facebook مهددة بخسارة 60% من مستخدميها بسبب عدم حمايتها لبياناتهم، حسب استطلاع للرأي أعدته Sophos**](http://www.it-scoop.com/2010/05/60-percent-users-consider-leaving-Facebook)
+[**Facebook مهددة بخسارة 60% من مستخدميها بسبب عدم حمايتها لبياناتهم، حسب استطلاع للرأي أعدته Sophos**](https://www.it-scoop.com/2010/05/60-percent-users-consider-leaving-Facebook)
 
 
 في استطلاع للرأي قامت به Sophos أبدى 60% من منتسبي شبكة Facebook نيتهم  ترك الشبكة و إيقاف حساباتهم فيها بسبب سياسة عدم حماية الخصوصية التي  تنتهجها هذه الأخيرة.
 
 [![](http://www.sophos.com/blogs/gc/images/blogs/gc/2010/05/facebook-quit-poll.jpg)
-](http://www.it-scoop.com/2010/05/60-percent-users-consider-leaving-Facebook)
+](https://www.it-scoop.com/2010/05/60-percent-users-consider-leaving-Facebook)
 
 حسب هذا الاستطلاع و الذي شمل عينية من 1588 مستخدم، يوجد فقط 24 % من المستخدمين الذين لم يقرروا ترك الشبكة، مقابل 16% قاموا بتعطيل حساباتهم فعليا.
 

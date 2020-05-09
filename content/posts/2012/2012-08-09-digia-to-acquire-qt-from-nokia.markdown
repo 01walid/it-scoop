@@ -16,10 +16,10 @@ tags:
 - كيوت
 ---
 
-كما كان متوقعا (إقرأ[ مقال منصة Qt ... إلى أين؟](http://www.it-scoop.com/2012/08/the-future-of-qt/)  لمزيد من المعلومات) وكما ذكرت في المقال، تم اليوم [الإعلان عن بيع Nokia كامل منصة Qt إلى شركة Digia](http://blog.qt.nokia.com/2012/08/09/investment-in-qt-planned-to-continue-digia/) الفنلندية.
+كما كان متوقعا (إقرأ[ مقال منصة Qt ... إلى أين؟](https://www.it-scoop.com/2012/08/the-future-of-qt/)  لمزيد من المعلومات) وكما ذكرت في المقال، تم اليوم [الإعلان عن بيع Nokia كامل منصة Qt إلى شركة Digia](http://blog.qt.nokia.com/2012/08/09/investment-in-qt-planned-to-continue-digia/) الفنلندية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/Qt-digia-300x141.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/Qt-digia.jpg)يأتي الخبر (كما هو واضع من [التعليقات](http://blog.qt.nokia.com/2012/08/09/investment-in-qt-planned-to-continue-digia/) وفي كثير من المواقع التقنية) مبشرا للكثير من المبرمجين والعاملين على منصة Qt فقد تخلصوا أخيرًا من سياسة Nokia وهاجس المستقبل المجهول، واستبشروا بشركة Digia صاحبة Qt commercial والتي تملك مسبقا خبراء وخبرة جيدة في منصة Qt،  كما أنها ذكرت في[ إعلان الشراء على موقعها](http://www.digia.com/en/Home/Company/Press/2012/Digia-to-acquire-Qt-from-Nokia/) أنها:
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/Qt-digia-300x141.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/Qt-digia.jpg)يأتي الخبر (كما هو واضع من [التعليقات](http://blog.qt.nokia.com/2012/08/09/investment-in-qt-planned-to-continue-digia/) وفي كثير من المواقع التقنية) مبشرا للكثير من المبرمجين والعاملين على منصة Qt فقد تخلصوا أخيرًا من سياسة Nokia وهاجس المستقبل المجهول، واستبشروا بشركة Digia صاحبة Qt commercial والتي تملك مسبقا خبراء وخبرة جيدة في منصة Qt،  كما أنها ذكرت في[ إعلان الشراء على موقعها](http://www.digia.com/en/Home/Company/Press/2012/Digia-to-acquire-Qt-from-Nokia/) أنها:
 
 
 

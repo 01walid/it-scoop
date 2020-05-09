@@ -17,13 +17,13 @@ tags:
 - Polar Rose
 ---
 
-**[أنباء عن شراء Apple لـ Polar Rose المتخصصة في التعرف على الأوجه](http://www.it-scoop.com/2010/09/apple-polar-rosefacial-recognition/)**
+**[أنباء عن شراء Apple لـ Polar Rose المتخصصة في التعرف على الأوجه](https://www.it-scoop.com/2010/09/apple-polar-rosefacial-recognition/)**
 
 
 نشر موقع Mac 1 السويدي [خبرا](http://mac1.no/artikkel/9307/apple-kjoper-svensk-fototeknologi) مفاده أن شركة Apple قد اشترت كامل أسهم شركة Polar Rose السويدية المتخصصة في تقنيات التعرف على الأوجه facial recognition .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/polar-rose-logo.png)
-](http://www.it-scoop.com/2010/09/apple-polar-rosefacial-recognition/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/polar-rose-logo.png)
+](https://www.it-scoop.com/2010/09/apple-polar-rosefacial-recognition/)
 
 تطور Polar Rose ثلاث منتجات: FaceCloud و التي تعنى بالتعرف على الأوجه، FaceLib و التي تعتبر API للهواتف لاستغلال تقنية التعرف على الأوجه و FaceCore الـ API الخاصة بأنظمة التشغيل الرئيسية (Windows ، Linux و Mac).
 

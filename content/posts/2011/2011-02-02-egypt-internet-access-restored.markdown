@@ -13,7 +13,7 @@ tags:
 - مصر
 ---
 
-**[عودة الإنترنت إلى مصر من جديد](http://www.it-scoop.com/2011/02/egypt-internet-access-restored/)**
+**[عودة الإنترنت إلى مصر من جديد](https://www.it-scoop.com/2011/02/egypt-internet-access-restored/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 عادت اتصالات الإنترنت للعمل من جديد في مصر و هذا بعد قرابة الأسبوع على انقطاعها.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/arbor-networks-trafic-egypte.jpg)
-](http://www.it-scoop.com/2011/02/egypt-internet-access-restored/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/arbor-networks-trafic-egypte.jpg)
+](https://www.it-scoop.com/2011/02/egypt-internet-access-restored/)
 
 
 و لقد نوهت Google منذ دقائق للأمر على [حسابها على Twitter](http://twitter.com/google) و تم التأكد من ذلك من خلال خدمة Google Analytics حيث بدأت المجلة التقنية في استقبال زيارات المصريين من جديد.

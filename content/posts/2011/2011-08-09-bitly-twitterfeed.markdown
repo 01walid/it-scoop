@@ -15,7 +15,7 @@ tags:
 - Twitterfeed
 ---
 
-[**Bitly تشتري خدمة النشر الآلي على الشبكات الاجتماعية Twitterfeed**](http://www.it-scoop.com/2011/08/bitly-twitterfeed/)
+[**Bitly تشتري خدمة النشر الآلي على الشبكات الاجتماعية Twitterfeed**](https://www.it-scoop.com/2011/08/bitly-twitterfeed/)
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/twitterfeed.png)
-](http://www.it-scoop.com/2011/08/bitly-twitterfeed/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/twitterfeed.png)
+](https://www.it-scoop.com/2011/08/bitly-twitterfeed/)
 
 
 

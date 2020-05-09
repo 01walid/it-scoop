@@ -14,20 +14,20 @@ tags:
 - sophos
 ---
 
-**[Sophos تحذر من زر dislike غير الرسمي على Facebook](http://www.it-scoop.com/2010/08/sophos-facebook-dislike-button/)**
+**[Sophos تحذر من زر dislike غير الرسمي على Facebook](https://www.it-scoop.com/2010/08/sophos-facebook-dislike-button/)**
 
 
 
 
 نشرت Sophos تحذيرا لفائدة مستخدمي الشبكة الاجتماعية Facebook من خطر زر dislike غير الرسمي الذي عرف انتشارا في الآونة الأخيرة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/dislike-facebook-page.jpg)
-](http://www.it-scoop.com/2010/08/sophos-facebook-dislike-button/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/dislike-facebook-page.jpg)
+](https://www.it-scoop.com/2010/08/sophos-facebook-dislike-button/)
 
 الزر الجديد و الذي بمجرد تنصيبه يقوم بإرسال رسائل إلى جميع أصدقاء الضحية ينوه محتواها إلى ظهور الزر الرسمي DisLike و يدعوهم إلى تنصيبه.كما يقوم بإرسال صور و تحديثات على ملف الضحية الشخصي.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/dislike-updates-shadow.jpg)
-](http://www.it-scoop.com/2010/08/sophos-facebook-dislike-button/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/dislike-updates-shadow.jpg)
+](https://www.it-scoop.com/2010/08/sophos-facebook-dislike-button/)
 
 حسب Sophos فإن طريقة الانتشار المتبعة في هذه الحالة ليس كلاسيكيا، حيث أنه عادة ما تنشر تطبيقات مشابهة باستعمال صور أو فيديوهات لمشاهير، و لكن هذه المرة تم التركيز على خاصية طالما طالب بها مستخدمو Facebook.
 

@@ -30,14 +30,14 @@ tags:
 في خبر جميل لمناصري المصادر المفتوحة جاءنا على شكل بيان صحفي - أنظر أدناه- يخص بورصة قطر Qatar Exchange، أن هذه الأخيرة قررت الانتقال إلى نظام Linux  وبالتحديد انتقلت من نظامي IBM AIX و Microsoft Windows إلى Red Hat Enterprise Linux،
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/Qatar_Exchange-logo.gif)
-](http://www.it-scoop.com/2011/02/qatar-exchange-moves-to-redhat-and-opensource-solutions)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/Qatar_Exchange-logo.gif)
+](https://www.it-scoop.com/2011/02/qatar-exchange-moves-to-redhat-and-opensource-solutions)
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo2.jpeg)
-](http://www.it-scoop.com/2011/02/qatar-exchange-moves-to-redhat-and-opensource-solutions)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo2.jpeg)
+](https://www.it-scoop.com/2011/02/qatar-exchange-moves-to-redhat-and-opensource-solutions)
 
 
 كما ستعمد بورصة قطر على استخدام نظام Red Hat Network Satellite لترقيات النظام ونظام Red Hat Clustering لتعظيم وقت تشغيل نظام العمليات الحيوية. وتكامل نظام التداول مع نظم Oracle لتشغيل قواعد بيانات التداول ونظام Tomcat للحصول على واجهة استخدام على الويب.
@@ -46,13 +46,13 @@ tags:
 
 
 [
-](http://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo2.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo2.jpeg)
 
 
 
 
 [
-](http://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo2.jpeg)
+](https://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo2.jpeg)
 
 
 

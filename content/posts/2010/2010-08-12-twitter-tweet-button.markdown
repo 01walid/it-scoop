@@ -14,7 +14,7 @@ tags:
 - Twitter
 ---
 
-[**Twitter تطلق زرها الخاص بالمشاركة Tweet Button **](http://www.it-scoop.com/2010/08/twitter-tweet-button)
+[**Twitter تطلق زرها الخاص بالمشاركة Tweet Button **](https://www.it-scoop.com/2010/08/twitter-tweet-button)
 
 
 
@@ -22,8 +22,8 @@ tags:
 أطلقت Twitter اليوم زرها الخاص بالمشاركة  Tweet Button  و التي تتمثل في زر يتم إضافته إلى المواقع و المدونات بهدف تسهيل إعادة نشر المحتوى و التنويه إليه على Twitter.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/tweet-button.png)
-](http://www.it-scoop.com/2010/08/twitter-tweet-button)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/tweet-button.png)
+](https://www.it-scoop.com/2010/08/twitter-tweet-button)
 
 الخدمة ليست بالجديدة، حيث أن هناك أكثر من موقع يقدم خدمات مشابهة و أشهرها [tweetmeme](http://tweetmeme.com/) و [topsy](http://topsy.com/)، حيث أعلنت Twitter على مدونتها الرسمية أنها ستعاون مع tweetmeme في هذا الشأن.
 

@@ -13,7 +13,7 @@ tags:
 - socialmedia4arab
 ---
 
-**[إطلاق مدونة الإعلام الاجتماعي]( http://www.it-scoop.com/2010/08/socialmedia4arab/)**
+**[إطلاق مدونة الإعلام الاجتماعي]( https://www.it-scoop.com/2010/08/socialmedia4arab/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[](it-scoop.com/2010/08/socialmedia4arab)[![](http://www.it-scoop.com/wp-content/uploads/2010/08/sm4A.png)
-]( http://www.it-scoop.com/2010/08/socialmedia4arab/)
+[](it-scoop.com/2010/08/socialmedia4arab)[![](https://www.it-scoop.com/wp-content/uploads/2010/08/sm4A.png)
+]( https://www.it-scoop.com/2010/08/socialmedia4arab/)
 
 
 إن كنت من متتبعي المجلة التقنية منذ بداياتها (أو على الأقل منذ مدة) فستكون قد لاحظت –و من دون شك- اهتمامنا بالشبكات الاجتماعية و بالإعلام الاجتماعي. لكن كون المجلة التقنية مدونة تقنية فإننا نركز عادة على الجانب التقني أكثر من الجوانب الأخرى. و بما أن الجوانب الأخرى لا تقل أهمية عن الجانب التقني، ارتأينا أن نطلق مدونة جديدة تكون متخصصة و مخصصة كلية للإعلام الاجتماعي

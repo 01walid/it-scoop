@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/oracle-vs-google.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/oracle-vs-google.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/oracle-vs-google.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/oracle-vs-google.png)
 
 
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-لكن بالرغم من فوز Google بهذه الجولة، بعد أن [خسرت بشكل ما الجولة السابقة](http://www.it-scoop.com/2012/05/android-news/#more-10787)، فإن الحرب لم تحسم بعد، حيث يشير [Florian Mueller](http://www.fosspatents.com/2012/05/jury-doesnt-find-google-to-infringe-two.html) المتخصص في مسائل براءات الاختراع وصاحب مدونة Foss Patents، بأن مسألة براءات الاختراع ليست بتلك الأهمية مقارنة مع مسألة حقوق الملكية الفكرية والتي تعول عليها Oracle، كما أنه يمكن للقاضي أن ينقض قرار هيئة المحلفين.
+لكن بالرغم من فوز Google بهذه الجولة، بعد أن [خسرت بشكل ما الجولة السابقة](https://www.it-scoop.com/2012/05/android-news/#more-10787)، فإن الحرب لم تحسم بعد، حيث يشير [Florian Mueller](http://www.fosspatents.com/2012/05/jury-doesnt-find-google-to-infringe-two.html) المتخصص في مسائل براءات الاختراع وصاحب مدونة Foss Patents، بأن مسألة براءات الاختراع ليست بتلك الأهمية مقارنة مع مسألة حقوق الملكية الفكرية والتي تعول عليها Oracle، كما أنه يمكن للقاضي أن ينقض قرار هيئة المحلفين.
 
 
 

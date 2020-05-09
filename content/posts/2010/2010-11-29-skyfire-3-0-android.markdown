@@ -14,7 +14,7 @@ tags:
 - skyfire
 ---
 
-**[إطلاق الإصدار 3.0 من مستعرض skyfire  لأنظمة Android](http://www.it-scoop.com/2010/11/skyfire-3-0-android/)**
+**[إطلاق الإصدار 3.0 من مستعرض skyfire  لأنظمة Android](https://www.it-scoop.com/2010/11/skyfire-3-0-android/)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://www.skyfire.com/images/stories/sf_android.png )
-](http://www.it-scoop.com/2010/11/skyfire-3-0-android/)
+](https://www.it-scoop.com/2010/11/skyfire-3-0-android/)
 
 النسخة 3.0 من برنامج skyfire الخاصة بنظام Android لا تحتاج إلى كل إمكانيات الإصدار الخاص بالـ على iphone، كون نظام Android قادر بمفرده على تشغيل الـ Flash .
 

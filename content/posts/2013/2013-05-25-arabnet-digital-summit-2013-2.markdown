@@ -19,8 +19,8 @@ tags:
 
 
 
-[![ArabNet-Digital-Summit-2013](http://www.it-scoop.com/wp-content/uploads/2013/04/ArabNet-Digital-Summit-2013.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/ArabNet-Digital-Summit-2013.png)
+[![ArabNet-Digital-Summit-2013](https://www.it-scoop.com/wp-content/uploads/2013/04/ArabNet-Digital-Summit-2013.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/ArabNet-Digital-Summit-2013.png)
 
 
 

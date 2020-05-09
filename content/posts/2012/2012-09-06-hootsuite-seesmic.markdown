@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/09/hootsuite-seesmic.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/09/hootsuite-seesmic.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/09/hootsuite-seesmic.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/09/hootsuite-seesmic.png)
 
 
 

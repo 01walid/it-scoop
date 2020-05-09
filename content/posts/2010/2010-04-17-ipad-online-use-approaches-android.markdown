@@ -15,13 +15,13 @@ tags:
 - ipad
 ---
 
-[**نسبة استعمال الـ iPad على الانترنت توازي نسبة الـ BlackBerry، و تقترب من نسبة الـ Android**](http://www.it-scoop.com/2010/04/iPad-online-use-approaches-Android/)
+[**نسبة استعمال الـ iPad على الانترنت توازي نسبة الـ BlackBerry، و تقترب من نسبة الـ Android**](https://www.it-scoop.com/2010/04/iPad-online-use-approaches-Android/)
 
 
 إذا صدقنا آخر إحصائيات لـ NetApplications فإنه لم يكن الـ iPad في حاجة إلا لبضعة أيام حتى توازي نسبة استعماله للدخول إلى الإنترنت نسبة استعمال الـ BlackBerry  و التي قدرت بـ 0,04 % من الاستعمال العالمي للإنترنت.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/apple-ipad.jpg)
-](http://www.it-scoop.com/2010/04/iPad-online-use-approaches-Android/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/apple-ipad.jpg)
+](https://www.it-scoop.com/2010/04/iPad-online-use-approaches-Android/)
 
 حسب هذه الإحصائيات، فإن نسبة استعمال الأجهزة المعتمدة على نظام Android هي 0,07% ، مما يعني أن الـ iPad أصبح قاب قوسين أو أدنى من اللحاق بنظام Google للهواتف، و الذي بالرغم من نسبة استعماله التي تشهد تزايدا مستمرا، إلا أنه لا يزال بعيدا كل البعد عن غريمه الأول iPhone و الذي يحظى بنسبة  0,51% ، و يتربع على رأس قائمة الهواتف الأكثر استعمالا للدخول إلى الإنترنت.
 

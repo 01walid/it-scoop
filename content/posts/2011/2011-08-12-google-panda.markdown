@@ -14,7 +14,7 @@ tags:
 - Google Panda
 ---
 
-[**Google توسع نطاق تحسينات Google Panda  الخاصة بمحرك البحث لتشمل اللغة العربية أيضا**](http://www.it-scoop.com/2011/08/google-panda/)
+[**Google توسع نطاق تحسينات Google Panda  الخاصة بمحرك البحث لتشمل اللغة العربية أيضا**](https://www.it-scoop.com/2011/08/google-panda/)
 
 
 
@@ -24,9 +24,9 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/google-panda.png)
-](http://www.it-scoop.com/2011/08/google-panda/)[
-](http://www.it-scoop.com/2011/08/google-panda/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/google-panda.png)
+](https://www.it-scoop.com/2011/08/google-panda/)[
+](https://www.it-scoop.com/2011/08/google-panda/)
 
 
 

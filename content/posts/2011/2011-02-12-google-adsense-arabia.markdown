@@ -15,13 +15,13 @@ tags:
 - Google AdSense
 ---
 
-**[Google تطلق مدونة لـ AdSense موجهة للناشرين في العالم العربي]( http://www.it-scoop.com/2011/02/google-adsense-arabia/)**
+**[Google تطلق مدونة لـ AdSense موجهة للناشرين في العالم العربي]( https://www.it-scoop.com/2011/02/google-adsense-arabia/)**
 
 
 أطلقت Google يوم أمس [مدونة جديدة](http://adsense-arabia.blogspot.com/) تخص برنامجها AdSense موجهة للناشرين في العالم العربي
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/google-adsense-logo.gif)
-]( http://www.it-scoop.com/2011/02/google-adsense-arabia/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/google-adsense-logo.gif)
+]( https://www.it-scoop.com/2011/02/google-adsense-arabia/)
 
 المدونة حاليا لا تحتوي سوى [تدوينة افتتاحية](http://adsense-arabia.blogspot.com/2011/02/adsense_11.html)، لكنها تعد بأن تبقي متابعها على إطلاع على أخبار و تطورات AdSense التي تهم الناشر العربي، و يشرف على المدونة 3 مختصين متمثلين في كل من يونس المقوسي ، أشرف حسن  و ياسر أبو غضيب.
 

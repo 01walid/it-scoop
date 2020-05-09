@@ -12,13 +12,13 @@ tags:
 - Opera
 ---
 
-[**مؤسس Opera  يستقيل من شركته لاختلافه في الرأي مع مجلس الإدارة**](http://www.it-scoop.com/2011/06/opera-jon-von-tetzchner-resigns)
+[**مؤسس Opera  يستقيل من شركته لاختلافه في الرأي مع مجلس الإدارة**](https://www.it-scoop.com/2011/06/opera-jon-von-tetzchner-resigns)
 
 
 [أعلن](http://techcrunch.com/2011/06/24/opera-founder-jon-s-von-tetzchner-resigns-over-differences-with-board/) Jon von Tetzchner مؤسس شركة Opera software صاحبة المتصفح Opera عن [استقالته](http://www.opera.com/press/releases/2011/06/24/) من الشركة التي أسسها سنة 1994، مشيرا إلى أنه سيترك منصبه الحالي مع نهاية الشهر الجاري.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/Jon-von-Tetzchner_Opera-Software.jpg)
-](http://www.it-scoop.com/2011/06/opera-jon-von-tetzchner-resigns)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/Jon-von-Tetzchner_Opera-Software.jpg)
+](https://www.it-scoop.com/2011/06/opera-jon-von-tetzchner-resigns)
 
 و يوضح Jon von Tetzchner أن قراره راجع إلى اختلافه في الرأي مع مجلس إدارة الشركة، حيث أن هذا الأخير "أصبح يركز أكثر على النتائج الفصلية" في حين يقول عن نفسه أنه كان يعمل دائما لبناء مستقبل أفضل للشركة.
 

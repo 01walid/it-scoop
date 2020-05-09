@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-[**مختارات من أخبار Google خلال هذا الأسبوع**](http://www.it-scoop.com/2011/09/google-news-4/)
+[**مختارات من أخبار Google خلال هذا الأسبوع**](https://www.it-scoop.com/2011/09/google-news-4/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/google-favicon.png)
-](http://www.it-scoop.com/2011/09/google-news-4/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/google-favicon.png)
+](https://www.it-scoop.com/2011/09/google-news-4/)
 
 
 

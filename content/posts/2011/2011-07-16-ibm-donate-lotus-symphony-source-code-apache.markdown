@@ -18,7 +18,7 @@ tags:
 - Symphony
 ---
 
-[**IBM ستتبرع بمصدر حزمتها المكتبية Lotus Symphony لمنظمة Apache لدعم تطوير OpenOffice.org**](http://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
+[**IBM ستتبرع بمصدر حزمتها المكتبية Lotus Symphony لمنظمة Apache لدعم تطوير OpenOffice.org**](https://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
 
 
 
@@ -28,15 +28,15 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/symphony_logo.png)
-](http://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/symphony_logo.png)
+](https://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
 ما الذي ستستفيد منه حزمة OpenOffice ؟ تحسينات كثيرة، أهمها تحسين قابلية استخدام الحزمة، تعزيز أدائها، إلى جانب دعم VBA. كما لا يستبعد أن تستفيد حزمة OpenOffice.org من تحسينات تخص الواجهة الرسومية، حيث تعتبر واجهة Lotus Symphony أكثر جمالا.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/ibm-lotus-symphony-19.jpg)
-](http://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/ibm-lotus-symphony-19.jpg)
+](https://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
 
 
 

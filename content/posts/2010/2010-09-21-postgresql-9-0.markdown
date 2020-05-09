@@ -13,18 +13,18 @@ tags:
 - PostgreSQL 9.0
 ---
 
-**[الإصدار 9.0 من نظام إدارة قواعد البيانات مفتوح المصدر PostgreSQL   يبصر النور]( http://www.it-scoop.com/2010/09/postgresql-9-0/)**
+**[الإصدار 9.0 من نظام إدارة قواعد البيانات مفتوح المصدر PostgreSQL   يبصر النور]( https://www.it-scoop.com/2010/09/postgresql-9-0/)**
 
 
 
 
-لم يمر سوى القليل عن [إعلان](http://www.it-scoop.com/2010/09/oracle-mysql-5-5-rc/) Oracle توفر نسخة RC للإصدار 5.5 من نظام إدارة قواعد البيانات MySql للتحميل، حتى أطلق القائمون على نظام إدارة قواعد البيانات مفتوح المصدر PostgreSQL الإصدار التاسع منه.
+لم يمر سوى القليل عن [إعلان](https://www.it-scoop.com/2010/09/oracle-mysql-5-5-rc/) Oracle توفر نسخة RC للإصدار 5.5 من نظام إدارة قواعد البيانات MySql للتحميل، حتى أطلق القائمون على نظام إدارة قواعد البيانات مفتوح المصدر PostgreSQL الإصدار التاسع منه.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/PostgreSQL-logo.jpg)
-]( http://www.it-scoop.com/2010/09/postgresql-9-0/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/PostgreSQL-logo.jpg)
+]( https://www.it-scoop.com/2010/09/postgresql-9-0/)
 
 
 

@@ -14,7 +14,7 @@ tags:
 - Linux
 ---
 
-**[صدور Gnome 2.32](http://www.it-scoop.com/2010/09/gnome-2-32/)**
+**[صدور Gnome 2.32](https://www.it-scoop.com/2010/09/gnome-2-32/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 صدرت بالأمس النسخة النهائية من البيئة الحرة لسطح المكتب Gnome 2.32، وهي الأخيرة من سلسلة إصدارات الجيل الثاني من Gnome 2 قبل الانتقال إلى الجيل الثالث Gnome 3.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/gnome.jpg)
-](http://www.it-scoop.com/2010/09/gnome-2-32/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/gnome.jpg)
+](https://www.it-scoop.com/2010/09/gnome-2-32/)
 
 تأتي هذه الإصدارة بعدد لا بأس به من التحسنات والإضافات وإصلاح للعلل، ونذكر من ذلك:
 

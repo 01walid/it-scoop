@@ -18,8 +18,8 @@ tags:
 
 
 
-[![keep-calm-and-leave-facebook](http://www.it-scoop.com/wp-content/uploads/2013/04/keep-calm-and-leave-facebook.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/keep-calm-and-leave-facebook.png)
+[![keep-calm-and-leave-facebook](https://www.it-scoop.com/wp-content/uploads/2013/04/keep-calm-and-leave-facebook.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/keep-calm-and-leave-facebook.png)
 
 
 

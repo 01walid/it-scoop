@@ -15,8 +15,8 @@ tags:
 
 نظرا للطريقة السيئة المتعبة من طرق خدمة **Skype** لاسترجاع كلمات المرور/الحسابات المنسية، فقد تمكن أحد الباحثين الأمنيين من اكتشاف طرق ملتوية يمكن لأي مخترق اتباعها و**كشف كلمة مرور حسابك**، خاصة إذا كان يعلم عنك بضع معلومات بسيطة.
 
-[![Skype-hacked](http://www.it-scoop.com/wp-content/uploads/2013/04/Skype-hacked.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/04/Skype-hacked.jpg)الطريقة تعتبر من بدائيات الـ [Social Engineering](http://en.wikipedia.org/wiki/Social_engineering_%28security%29) أو [الهندسة الاجتماعية](http://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_%28%D8%A3%D9%85%D9%86%29)، ومع ذلك فهي تعمل بكفاءة، فكل ما على المخترق معرفته عن الضحية هو:
+[![Skype-hacked](https://www.it-scoop.com/wp-content/uploads/2013/04/Skype-hacked.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/04/Skype-hacked.jpg)الطريقة تعتبر من بدائيات الـ [Social Engineering](http://en.wikipedia.org/wiki/Social_engineering_%28security%29) أو [الهندسة الاجتماعية](http://ar.wikipedia.org/wiki/%D9%87%D9%86%D8%AF%D8%B3%D8%A9_%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9_%28%D8%A3%D9%85%D9%86%29)، ومع ذلك فهي تعمل بكفاءة، فكل ما على المخترق معرفته عن الضحية هو:
 
 
 

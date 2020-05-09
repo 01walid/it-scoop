@@ -11,7 +11,7 @@ categories:
 - برمجيات
 ---
 
-[**Linus Torvalds ينتقد Gnome 3 ويعلن عن انتقاله إلى سطح مكتب XFCE**](http://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce)
+[**Linus Torvalds ينتقد Gnome 3 ويعلن عن انتقاله إلى سطح مكتب XFCE**](https://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce)
 
 
 
@@ -21,8 +21,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Gnome.png)
-](http://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Gnome.png)
+](https://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce)
 
 
 

@@ -15,13 +15,13 @@ tags:
 - DimofinfBS
 ---
 
-**[Dimofinf تطلق DimofinfBS خدمة BackUp متقدمة لتأمين بيانات المواقع و حفظها من الضياع](http://www.it-scoop.com/2010/12/dimofinf-dimofinfbs-backup/)**
+**[Dimofinf تطلق DimofinfBS خدمة BackUp متقدمة لتأمين بيانات المواقع و حفظها من الضياع](https://www.it-scoop.com/2010/12/dimofinf-dimofinfbs-backup/)**
 
 
 أعلنت شركة Dimofinf المتخصصة في حلول الإنترنت و استضافة المواقع عن أحدث خدماتها DimofinfBS  الخاصة بتأمين بيانات المواقع و حفظها من الضياع
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/dimofinfBS_logo.png)
-](http://www.it-scoop.com/2010/12/dimofinf-dimofinfbs-backup/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/dimofinfBS_logo.png)
+](https://www.it-scoop.com/2010/12/dimofinf-dimofinfbs-backup/)
 
 و في البيان الصحفي الذي نشرته Dimofinf و الذي تلقت المجلة التقنية نسخة منه، تشير الشركة إلى أن خدمة DimofinfBS تتميز باستعمالها نظام Disk-based ،أي أنها _"تتعامل مع الأقراص الصلبة بشكل مباشر متجاوزة في ذالك نظام الملفات الخاص بنظام التشغيل. حيث أنها تقرأ القرص الصلب وتسحب البيانات منه على شكل __Blocks_".
 

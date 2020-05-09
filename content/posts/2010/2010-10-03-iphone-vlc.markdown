@@ -16,18 +16,18 @@ tags:
 - VLC
 ---
 
-**[بعد حصوله على إصدار خاص بالـ iPad، قارئ VLC قريبا على الـ iPhone](http://www.it-scoop.com/2010/10/iphone-vlc/)**
+**[بعد حصوله على إصدار خاص بالـ iPad، قارئ VLC قريبا على الـ iPhone](https://www.it-scoop.com/2010/10/iphone-vlc/)**
 
 
 
 
-يبدو أن فريق عمل VideoLAN لا يكل و لا يمل ،فبعد [إطلاق](http://www.it-scoop.com/2010/09/applidium-vlc-ipad-2/) إصدار خاص بأجهزة الـ iPad منذ أيام فقط بالتعاون مع Applidium، ظهرت أولى بوادر إصدار iPhone الخاص بقارئ الوسائط المتعددة المجاني و مفتوح المصدر VLC.
+يبدو أن فريق عمل VideoLAN لا يكل و لا يمل ،فبعد [إطلاق](https://www.it-scoop.com/2010/09/applidium-vlc-ipad-2/) إصدار خاص بأجهزة الـ iPad منذ أيام فقط بالتعاون مع Applidium، ظهرت أولى بوادر إصدار iPhone الخاص بقارئ الوسائط المتعددة المجاني و مفتوح المصدر VLC.
 
 
 
 
 [![](http://i.imgur.com/gfflJ.png )
-](http://www.it-scoop.com/2010/10/iphone-vlc/)
+](https://www.it-scoop.com/2010/10/iphone-vlc/)
 
 
 

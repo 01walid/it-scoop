@@ -22,8 +22,8 @@ tags:
 
 
 
-[![Microsoft تشتري 800 من أصل 1100 براءة اختراع تملكها AOL مقابل مليار دولار](http://www.it-scoop.com/wp-content/uploads/2012/04/aol-patents.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/aol-patents.png)
+[![Microsoft تشتري 800 من أصل 1100 براءة اختراع تملكها AOL مقابل مليار دولار](https://www.it-scoop.com/wp-content/uploads/2012/04/aol-patents.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/aol-patents.png)
 
 
 
@@ -48,7 +48,7 @@ tags:
 
 
 
-تجدر الإشارة إلى أن العديد من الشركات أصبح تلجأ مؤخرا إلى بيع/شراء أعداد هائلة من براءات الاختراع دفعة واحدة، وأهمها تلك التي [اشترت فيها Google 6000](http://www.it-scoop.com/2011/04/google-6000-patents-900-millions/) (نعم 6000 آلاف) براءة اختراع من عند Nortel مُقابل 900 مليون دولار، وأحدثها شراء [فيس بوك 750 براءة اختراع من عند IBM](http://www.it-scoop.com/2012/03/facebook-buys-750-ibm-patents/).
+تجدر الإشارة إلى أن العديد من الشركات أصبح تلجأ مؤخرا إلى بيع/شراء أعداد هائلة من براءات الاختراع دفعة واحدة، وأهمها تلك التي [اشترت فيها Google 6000](https://www.it-scoop.com/2011/04/google-6000-patents-900-millions/) (نعم 6000 آلاف) براءة اختراع من عند Nortel مُقابل 900 مليون دولار، وأحدثها شراء [فيس بوك 750 براءة اختراع من عند IBM](https://www.it-scoop.com/2012/03/facebook-buys-750-ibm-patents/).
 
 
 

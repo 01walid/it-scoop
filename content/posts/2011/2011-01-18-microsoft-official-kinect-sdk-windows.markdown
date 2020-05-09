@@ -15,7 +15,7 @@ tags:
 - Windows
 ---
 
-**[أنباء عن تحضير Microsoft لـ SDK رسمي للـ Kinect على أنظمة Windows](http://www.it-scoop.com/2011/01/microsoft-official-kinect-sdk-windows)**
+**[أنباء عن تحضير Microsoft لـ SDK رسمي للـ Kinect على أنظمة Windows](https://www.it-scoop.com/2011/01/microsoft-official-kinect-sdk-windows)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
-](http://www.it-scoop.com/2011/01/microsoft-official-kinect-sdk-windows)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
+](https://www.it-scoop.com/2011/01/microsoft-official-kinect-sdk-windows)
 
 
 و قد تكون Microsoft أدركت أن نجاح Kinect  -والذي يتمثل في بيع 8 ملايين قطعة خلال شهرين فقط- لا يعود إلى استعماله كأداة طرفية على Xbox 360 فحسب و إنما لعبت الاستعمالات "غير الرسمية" له دورا كبيرا في الترويج له.

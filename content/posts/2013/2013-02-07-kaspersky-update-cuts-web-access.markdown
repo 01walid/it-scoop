@@ -18,8 +18,8 @@ tags:
 
 
 
-[![kaspersky-logo](http://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
+[![kaspersky-logo](https://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
 
 
 
@@ -66,4 +66,4 @@ tags:
 
 
 
-لم تعد تحديثات مضادات الفيروسات التي تسبب مشاكل لمستخدميها نادرة، حيث نشرت العديد من الشركات التي تُطور هذه البرمجيات تحديثات مُماثلة، وهذا ما حدث مثلا مع كل من [بتديفندر](http://www.it-scoop.com/2010/03/bitdefender-epic-fail-2010/)، [McAffe](http://www.it-scoop.com/2010/04/mcafee-false-positive-bricks-enterprise-pcs/)، [Avast](http://www.it-scoop.com/2011/04/avast-false-positive/) ما بين 2010 و2011. إضافة إلى أمر مماثل حدث لـ [Sophos](http://nakedsecurity.sophos.com/2012/09/19/sshupdater-b-fsophos-anti-virus-products/) العام الماضي والذي كان قام بتعليم أحد تحديثاته كبرنامج ضار.
+لم تعد تحديثات مضادات الفيروسات التي تسبب مشاكل لمستخدميها نادرة، حيث نشرت العديد من الشركات التي تُطور هذه البرمجيات تحديثات مُماثلة، وهذا ما حدث مثلا مع كل من [بتديفندر](https://www.it-scoop.com/2010/03/bitdefender-epic-fail-2010/)، [McAffe](https://www.it-scoop.com/2010/04/mcafee-false-positive-bricks-enterprise-pcs/)، [Avast](https://www.it-scoop.com/2011/04/avast-false-positive/) ما بين 2010 و2011. إضافة إلى أمر مماثل حدث لـ [Sophos](http://nakedsecurity.sophos.com/2012/09/19/sshupdater-b-fsophos-anti-virus-products/) العام الماضي والذي كان قام بتعليم أحد تحديثاته كبرنامج ضار.

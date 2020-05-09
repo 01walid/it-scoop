@@ -13,13 +13,13 @@ tags:
 - WordPress
 ---
 
-[**إطلاق الإصدار Beta 1 من نظام إدارة المحتوى Wordpress 3.0**](http://www.it-scoop.com/2010/04/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-beta-1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%89-wordpre/)
+[**إطلاق الإصدار Beta 1 من نظام إدارة المحتوى Wordpress 3.0**](https://www.it-scoop.com/2010/04/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-beta-1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%89-wordpre/)
 
 
 أطلقت شركة automation الراعية لمشروع Wordpress الإصدار  Wordpress 3.0 Beta 1.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
-](http://www.it-scoop.com/2010/04/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-beta-1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%89-wordpre/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
+](https://www.it-scoop.com/2010/04/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-beta-1-%d9%85%d9%86-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%88%d9%89-wordpre/)
 
 قد يكون أهم ما يأتي به هذا الإصدار هو دمج  كل من wordpress MU  مع Wordpress ، حيث سيصبح من الممكن إدارة أكثر من مدونة من نفس نظام إدارة المدونات حيث أن ذلك لم يكن ممكنا في السابق إلا بتنصيب نظام Wordpress MU.
 

@@ -22,7 +22,7 @@ tags:
 - متصفحات
 ---
 
-[**Internet Explorer يواصل سقوطه في ظل النمو المتزايد لعدد مستخدمي Chrome حسب أحدث إحصائيات Statcounter**](http://www.it-scoop.com/2011/09/browser-usage-stats-july-2011‎/)
+[**Internet Explorer يواصل سقوطه في ظل النمو المتزايد لعدد مستخدمي Chrome حسب أحدث إحصائيات Statcounter**](https://www.it-scoop.com/2011/09/browser-usage-stats-july-2011‎/)
 
 
 
@@ -32,8 +32,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/Statcounter-jul08-Aug11.jpg)
-](http://www.it-scoop.com/2011/09/browser-usage-stats-july-2011‎/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/Statcounter-jul08-Aug11.jpg)
+](https://www.it-scoop.com/2011/09/browser-usage-stats-july-2011‎/)
 
 
 

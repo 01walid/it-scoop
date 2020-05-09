@@ -16,18 +16,18 @@ tags:
 - RHEL 4.9
 ---
 
-[**إصدار التحديث 4.9  لتوزيعة CentOS المتوافق مع التحديث 4.9 لـ Red Hat Enterprise Linux**](http://www.it-scoop.com/2011/03/centos-4-9/)
+[**إصدار التحديث 4.9  لتوزيعة CentOS المتوافق مع التحديث 4.9 لـ Red Hat Enterprise Linux**](https://www.it-scoop.com/2011/03/centos-4-9/)
 
 
-بعد أن قامت RedHat [بنشر التحديث 4.9  لتوزيعتها](http://www.it-scoop.com/2011/02/red-hat-enterprise-linux-4-9/) و الذي يعتبر آخر إصدار صيانة للتفرع 4.x، أطلق مشروع CentOS يوم أمس الإصدار 4.9 من التوزيعة التي تحمل نفس الاسم و المبنية على الشفرة المصدرية للـ RHEL 4.9.
-
-
-
+بعد أن قامت RedHat [بنشر التحديث 4.9  لتوزيعتها](https://www.it-scoop.com/2011/02/red-hat-enterprise-linux-4-9/) و الذي يعتبر آخر إصدار صيانة للتفرع 4.x، أطلق مشروع CentOS يوم أمس الإصدار 4.9 من التوزيعة التي تحمل نفس الاسم و المبنية على الشفرة المصدرية للـ RHEL 4.9.
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/centos-logo.png)
-](http://www.it-scoop.com/2011/03/centos-4-9/)
+
+
+
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/centos-logo.png)
+](https://www.it-scoop.com/2011/03/centos-4-9/)
 
 
 

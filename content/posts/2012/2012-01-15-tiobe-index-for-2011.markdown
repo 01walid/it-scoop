@@ -18,8 +18,8 @@ tags:
 
 الجدول التالي يوضح حصيلة انتشار لغات البرمجة خلال عام 2011
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/IndexTiobeJ2012.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/IndexTiobeJ2012.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/IndexTiobeJ2012.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/IndexTiobeJ2012.png)
 
 كما نلاحظ فإن Objective-C حقق ارتفاعا بقدر 3.91% منذ شهر  يناير2011 ليقفز من المرتبة الثامنة إلى المرتبة الخامسة في يناير2012، كان ذلك أشبه بالمفاجئة، وقد جعله هذا يفتك لقب لغة برمجة عام 2011!
 

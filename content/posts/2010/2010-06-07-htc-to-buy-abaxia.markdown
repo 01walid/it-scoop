@@ -13,13 +13,13 @@ tags:
 - HTC
 ---
 
-[**HTC تشتري الشركة الفرنسية Abaxia المتخصصة في تطبيقات الهواتف **](http://www.it-scoop.com/2010/06/HTC-to-Buy-Abaxia)
+[**HTC تشتري الشركة الفرنسية Abaxia المتخصصة في تطبيقات الهواتف **](https://www.it-scoop.com/2010/06/HTC-to-Buy-Abaxia)
 
 
 أعلن المصنع التايواني HTC اليوم عن شرائه لشركة Abaxia المتخصصة في برمجيات الهواتف المحمولة، مقابل مبلغ لم تفصح عنه، و هذا بعد سنوات عديدة من العمل المشترك بينهما.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/abaxia-logo.jpg)
-](http://www.it-scoop.com/2010/06/HTC-to-Buy-Abaxia)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/abaxia-logo.jpg)
+](https://www.it-scoop.com/2010/06/HTC-to-Buy-Abaxia)
 
 شركة Abaxia  تتخصص في واجهات الهواتف User Interface و home screen الخاصة بها، حيث أنها تتعامل مع متعاملي الهواتف المحمولة مباشرة لتخصيص هذه الواجهات وفق ما يتماشى مع متطلباتها و الخدمات التي تعرضها.
 

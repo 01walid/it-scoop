@@ -17,14 +17,14 @@ tags:
 - Twitter
 ---
 
-**[قيمة Twitter لا تقدر بـ 10 ملايير دولار ، و الشبكة تستبعد شراء Google لها](http://www.it-scoop.com/2011/02/twitters-not-valued-at-10-billion)**
+**[قيمة Twitter لا تقدر بـ 10 ملايير دولار ، و الشبكة تستبعد شراء Google لها](https://www.it-scoop.com/2011/02/twitters-not-valued-at-10-billion)**
 
 
-في [حوار](http://www.npr.org/2011/02/16/133775340/twitters-biz-stone-on-starting-a-revolution) أجراه مع موقع NPR فند Biz Stone أحد مؤسسي Twitter أن تكون قيمة شبكتهم الفعلية قد وصلت فعلا إلى 10 ملايير دولار مثلما [أشارت](http://www.it-scoop.com/2011/02/twitter-facebook-google/) إليه جريدة wall street journal منذ أيام.
+في [حوار](http://www.npr.org/2011/02/16/133775340/twitters-biz-stone-on-starting-a-revolution) أجراه مع موقع NPR فند Biz Stone أحد مؤسسي Twitter أن تكون قيمة شبكتهم الفعلية قد وصلت فعلا إلى 10 ملايير دولار مثلما [أشارت](https://www.it-scoop.com/2011/02/twitter-facebook-google/) إليه جريدة wall street journal منذ أيام.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo.jpg)
-](http://www.it-scoop.com/2011/02/twitters-not-valued-at-10-billion)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo.jpg)
+](https://www.it-scoop.com/2011/02/twitters-not-valued-at-10-billion)
 
 
 و لقد أشارت الجريدة إلى أن عدة شركات تتنافس للظفر بـ Twitter و ذكرت من بينها Google و Facebook إلا أن Dick Costolo المدير العام الحالي لـ Twitter نفى أية اتصالات حالية مع Google.

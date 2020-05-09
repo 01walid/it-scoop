@@ -14,16 +14,16 @@ tags:
 - Meizu
 ---
 
-[**المصنع Meizu الصيني ينضم إلى قائمة المهتمين بالأجهزة اللوحية بجهاز  mBook شبيه الـ iPad**](http://www.it-scoop.com/2010/04/meizu-mbook-tablet/)
+[**المصنع Meizu الصيني ينضم إلى قائمة المهتمين بالأجهزة اللوحية بجهاز  mBook شبيه الـ iPad**](https://www.it-scoop.com/2010/04/meizu-mbook-tablet/)
 
 
 كشف المصنع الصيني Meizu أمس النقاب عن جهاز لوحي جديد أقل ما يقال عنه أنه نسخة  شبيهة إلى حد كبير بالـ iPad، لكنها مجهزة بنظام مشتق من نظام Android.
 
 [
-](http://www.it-scoop.com/wp-content/uploads/2010/04/meizu-mbook.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/04/meizu-mbook.jpg)
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/meizu-mbook1.jpg)
-](http://www.it-scoop.com/2010/04/meizu-mbook-tablet/)ليست هذه المرة الأولى التي يحاول فيها المصنع Meizu تقليد منتجات Apple، إذ سبق له و أن أنتج جهاز [M8](http://en.meizu.com/m/m8.html) المشابه للـ iPhone.
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/meizu-mbook1.jpg)
+](https://www.it-scoop.com/2010/04/meizu-mbook-tablet/)ليست هذه المرة الأولى التي يحاول فيها المصنع Meizu تقليد منتجات Apple، إذ سبق له و أن أنتج جهاز [M8](http://en.meizu.com/m/m8.html) المشابه للـ iPhone.
 
 جهاز mBook يمتاز بشاشة ذات 8.4 بوصة و مجهز بمعالج يصل تردده إلى 1.5 GHz، إضافة إلى كل من تقنيات الاتصال 3G، Wi-Fi و الـ GPS ، و مخرج HDMI لمشاهدة الفيديوهات على شاشات خارجية.
 

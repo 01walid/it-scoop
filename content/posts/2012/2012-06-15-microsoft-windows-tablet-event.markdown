@@ -21,13 +21,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-tablet.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-tablet.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-tablet.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/microsoft-tablet.jpg)
 
 
 
 
-هناك عدة احتمالات للإعلانات التي قد يحملها مؤتمر Microsoft، أولها –كما سبق ذكره- هو الإعلان عن جهاز لوحي خاص بالشركة، وهي "النظرية" التي تدعمها كل من [AllThingsD](http://allthingsd.com/20120614/microsoft-taking-direct-aim-at-the-ipad-but-questions-loom-large/#ina-ethics)  و [The Wrap](http://www.thewrap.com/media/article/microsoft-go-after-apple-new-tablet-says-insider-44271)، أما الثانية فهي إمكانية الشراكة مع أو شراء Microsoft لخدمة الفيديو عبر الطلب Hulu، وهي النظرية التي [أطلقها](http://seattletimes.nwsource.com/html/technologybrierdudleysblog/2018436152_my_guess_microsofts_buying_hul.html) Brier Dudley الكاتب لدى Seattle Times، قبل أن يتراجع عنها، ويبدو هذا الاحتمال مستبعدا (احتمال الشراء)، حيث [علق](http://www.businessinsider.com/microsoft-la-party-2012-6) موقع Business Insider حولها قائلا: "أليست Microsoft مشغولة بشراء شبكة Yammer؟". وهو ما يضيف احتمالا ثالثا وهو إمكانية الإعلان عن شرائها لشبكة Yammer والتي أشارت العديد من المصادر بأن سعرها سيكون ما بين [مليار](http://online.wsj.com/article/SB10001424052702303822204577467312505454118.html?mod=googlenews_wsj) و[1.4 مليار دولار](http://techcrunch.com/2012/06/14/yammer-1-4-billion/) (**تحديث**: [Yammer تقبل عرض شراء Microsoft لها مُقابل 1.2 مليار دولار](http://www.it-scoop.com/2012/06/microsoft-yammer/))
+هناك عدة احتمالات للإعلانات التي قد يحملها مؤتمر Microsoft، أولها –كما سبق ذكره- هو الإعلان عن جهاز لوحي خاص بالشركة، وهي "النظرية" التي تدعمها كل من [AllThingsD](http://allthingsd.com/20120614/microsoft-taking-direct-aim-at-the-ipad-but-questions-loom-large/#ina-ethics)  و [The Wrap](http://www.thewrap.com/media/article/microsoft-go-after-apple-new-tablet-says-insider-44271)، أما الثانية فهي إمكانية الشراكة مع أو شراء Microsoft لخدمة الفيديو عبر الطلب Hulu، وهي النظرية التي [أطلقها](http://seattletimes.nwsource.com/html/technologybrierdudleysblog/2018436152_my_guess_microsofts_buying_hul.html) Brier Dudley الكاتب لدى Seattle Times، قبل أن يتراجع عنها، ويبدو هذا الاحتمال مستبعدا (احتمال الشراء)، حيث [علق](http://www.businessinsider.com/microsoft-la-party-2012-6) موقع Business Insider حولها قائلا: "أليست Microsoft مشغولة بشراء شبكة Yammer؟". وهو ما يضيف احتمالا ثالثا وهو إمكانية الإعلان عن شرائها لشبكة Yammer والتي أشارت العديد من المصادر بأن سعرها سيكون ما بين [مليار](http://online.wsj.com/article/SB10001424052702303822204577467312505454118.html?mod=googlenews_wsj) و[1.4 مليار دولار](http://techcrunch.com/2012/06/14/yammer-1-4-billion/) (**تحديث**: [Yammer تقبل عرض شراء Microsoft لها مُقابل 1.2 مليار دولار](https://www.it-scoop.com/2012/06/microsoft-yammer/))
 
 
 

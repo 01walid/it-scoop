@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/long-tweets-com-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/long-tweets-com-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/long-tweets-com-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/long-tweets-com-logo.png)
 
 
 
@@ -34,8 +34,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/Long-tweets-exemple.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/Long-tweets-exemple.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/Long-tweets-exemple.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/Long-tweets-exemple.png)
 
 
 

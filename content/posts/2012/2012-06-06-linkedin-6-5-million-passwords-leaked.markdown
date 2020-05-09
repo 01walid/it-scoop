@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/LinkedIn-Offices.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/LinkedIn-Offices.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/LinkedIn-Offices.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/LinkedIn-Offices.jpg)
 
 
 

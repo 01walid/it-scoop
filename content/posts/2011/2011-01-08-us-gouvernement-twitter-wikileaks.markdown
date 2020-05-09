@@ -18,13 +18,13 @@ tags:
 - wikileaks
 ---
 
-**[الحكومة الأمريكية تطالب Twitter بتسليمها بيانات Julian Assange  مؤسس Wikileaks و 3 أشخاص آخرين](http://www.it-scoop.com/2011/01/us-gouvernement-twitter-wikileaks)**
+**[الحكومة الأمريكية تطالب Twitter بتسليمها بيانات Julian Assange  مؤسس Wikileaks و 3 أشخاص آخرين](https://www.it-scoop.com/2011/01/us-gouvernement-twitter-wikileaks)**
 
 
 أعلن موقع Wikileaks أن الحكومة الأمريكية قد [طلبت](http://news.cnet.com/8301-31921_3-20027893-281.html) من Twitter تسليمها البيانات التي تخص مؤسس الموقع Julian Assang و ثلاث أشخاص آخرين لهم علاقة بالمحتويات التي ينشرها الموقع.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/wikileaks-twitter-300x196.jpg)
-](http://www.it-scoop.com/2011/01/us-gouvernement-twitter-wikileaks)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/wikileaks-twitter-300x196.jpg)
+](https://www.it-scoop.com/2011/01/us-gouvernement-twitter-wikileaks)
 
 و تطالب الحكومة الأمريكية Twitter بتسليمها عناوين الـ IP، الرسائل الخاصة و كافة المعلومات التي تخص الحساب منذ الفاتح من نوفمبر 2009 المتعلقة بـ Julian Assange إضافة إلى Birgitta Jonsdottir العضو في البرلمان الأيسلندي التي لعبت دورا هاما في نشر فيديو لجنود أمريكيين قاموا بإطلاق النار على صحفيين في العراق، Bradley Manning الجندي الأمريكي المتهم بسرقة ملفات رسمية، و Rop Gonggrijp الـ Hacker الهولندي.
 

@@ -16,8 +16,8 @@ tags:
 - Technobridge
 ---
 
-ينظم النادي العلمي للمدرسة الوطنية العليا للإعلام الآلي CSE النسخة الثانية من مسابقة **Startup Weekend** التي تمتد فعالياتها ما بين 17 و 19 نوفمبر الجاري وهذا لتمكين الطلبة الراغبين في إطلاق مشاريعهم الخاصة بالقيام بذلك خلال ظرف 54 ساعة.[![Startup weekend Algiers](http://www.it-scoop.com/wp-content/uploads/2011/11/Stratup-Week-end-Alger.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/Stratup-Week-end-Alger.jpg)
+ينظم النادي العلمي للمدرسة الوطنية العليا للإعلام الآلي CSE النسخة الثانية من مسابقة **Startup Weekend** التي تمتد فعالياتها ما بين 17 و 19 نوفمبر الجاري وهذا لتمكين الطلبة الراغبين في إطلاق مشاريعهم الخاصة بالقيام بذلك خلال ظرف 54 ساعة.[![Startup weekend Algiers](https://www.it-scoop.com/wp-content/uploads/2011/11/Stratup-Week-end-Alger.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/Stratup-Week-end-Alger.jpg)
 
 
 

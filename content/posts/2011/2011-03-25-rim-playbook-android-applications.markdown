@@ -14,14 +14,14 @@ tags:
 - RIM
 ---
 
-[**RIM تؤكد إمكانية تشغيل تطبيقات Android على PlayBook**](http://www.it-scoop.com/2011/03/rim-playbook-android-applications/)
+[**RIM تؤكد إمكانية تشغيل تطبيقات Android على PlayBook**](https://www.it-scoop.com/2011/03/rim-playbook-android-applications/)
 
 
-بعد أن كانت الأمر مجرد [إشاعة و تخمينات](http://www.it-scoop.com/2011/01/rim-android-apps-playbook-blackberry/)، أكدت RIM -مصنعة هواتف BlackBerry- عبر [بيان صحفي](http://press.rim.com/release.jsp?id=4935) أن جهازها اللوحي القادم PlayBook سيكون قادرا على تشغيل تطبيقات Android إلى جانب تطبيقات Java.
+بعد أن كانت الأمر مجرد [إشاعة و تخمينات](https://www.it-scoop.com/2011/01/rim-android-apps-playbook-blackberry/)، أكدت RIM -مصنعة هواتف BlackBerry- عبر [بيان صحفي](http://press.rim.com/release.jsp?id=4935) أن جهازها اللوحي القادم PlayBook سيكون قادرا على تشغيل تطبيقات Android إلى جانب تطبيقات Java.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/playbook.jpg)
-](http://www.it-scoop.com/2011/03/rim-playbook-android-applications/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/playbook.jpg)
+](https://www.it-scoop.com/2011/03/rim-playbook-android-applications/)
 
 
 

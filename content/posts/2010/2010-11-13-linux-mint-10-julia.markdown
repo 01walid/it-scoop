@@ -12,13 +12,13 @@ tags:
 - Mint
 ---
 
-**[إطلاق الإصدارة الجديدة رقم 10 من Linux Mint](http://www.it-scoop.com/2010/11/linux-mint-10-julia/)**
+**[إطلاق الإصدارة الجديدة رقم 10 من Linux Mint](https://www.it-scoop.com/2010/11/linux-mint-10-julia/)**
 
 
 انطلقت يوم أمس النسخة الجديدة من توزيعة Linux Mint وتحمل الرقم 10 وباسم Julia.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/mint-logo.png)
-](http://www.it-scoop.com/2010/11/linux-mint-10-julia/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/mint-logo.png)
+](https://www.it-scoop.com/2010/11/linux-mint-10-julia/)
 
 هذه التوزيعة  مبنية على التوزيعة الشهيرة Ubuntu وكان أول انطلاق لها في عام 2006وهي الآن تحمل الرقم 10 وهي توزيعة تعتني بسهولة الاستخدام .
 

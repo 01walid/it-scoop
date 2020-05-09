@@ -12,7 +12,7 @@ tags:
 - Twitter
 ---
 
-**[إطلاق موقع twitdesktop  لتشارك صور أسطح المكاتب مباشرة على Twitter](http://www.it-scoop.com/2010/10/twitdesktop)**
+**[إطلاق موقع twitdesktop  لتشارك صور أسطح المكاتب مباشرة على Twitter](https://www.it-scoop.com/2010/10/twitdesktop)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/TwitDesktop.png)
-](http://www.it-scoop.com/2010/10/twitdesktop)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/TwitDesktop.png)
+](https://www.it-scoop.com/2010/10/twitdesktop)
 
 
 

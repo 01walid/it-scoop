@@ -14,13 +14,13 @@ tags:
 - Ruby
 ---
 
-[**Microsoft تطلق 1.0 IronRuby، الإصدار مفتوح المصدر من Ruby المبني على منصة .NET**](http://www.it-scoop.com/2010/04/microsoft-announces-ironruby/)
+[**Microsoft تطلق 1.0 IronRuby، الإصدار مفتوح المصدر من Ruby المبني على منصة .NET**](https://www.it-scoop.com/2010/04/microsoft-announces-ironruby/)
 
 
 أطلقت Microsoft 1.0 IronRuby، الإصدار مفتوح المصدر من Ruby المبني على منصة .NET
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/ironRuby-logo.jpg)
-](http://www.it-scoop.com/2010/04/microsoft-announces-ironruby/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/ironRuby-logo.jpg)
+](https://www.it-scoop.com/2010/04/microsoft-announces-ironruby/)
 
 هذا الإصدار سيكون متوافقا كلية مع الإصدار 1.8.6  من Ruby و الإصدار 2.3.5  من إطار العمل Ruby in Rails.
 

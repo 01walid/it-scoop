@@ -16,7 +16,7 @@ tags:
 - zynga
 ---
 
-**[Walt Disney تقرر شراء Playdom المتخصصة في ألعاب الشبكات الاجتماعية](http://www.it-scoop.com/2010/07/walt-disney-to-acquire-playdom)**
+**[Walt Disney تقرر شراء Playdom المتخصصة في ألعاب الشبكات الاجتماعية](https://www.it-scoop.com/2010/07/walt-disney-to-acquire-playdom)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/playdom-disney.jpg)
-](http://www.it-scoop.com/2010/07/walt-disney-to-acquire-playdom)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/playdom-disney.jpg)
+](https://www.it-scoop.com/2010/07/walt-disney-to-acquire-playdom)
 
 
 قررت Walt Disney تخصيص 563 مليون دولار لشراء  Playdom ، إضافة إلى 200 مليون ستكون من نصيب المساهمين في الشركة إذا ما حققت نتائج إيجابية بعد شرائها، و تعتبر عملية الشراء هذه الأضخم في مجالها.

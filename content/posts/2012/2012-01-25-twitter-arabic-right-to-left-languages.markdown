@@ -13,13 +13,13 @@ tags:
 - Twitter
 ---
 
-بعد طول انتظار، وبعد أن كثرت الأصوات التي تنادي بذلك، خاصة مع [تنامي أعداد المغردين باللغة العربية](http://www.it-scoop.com/2011/11/arabic-fastest-growing-language-twitter/)، [أعلنت](http://blog.twitter.com/2012/01/twitter-translation-center-adds-right.html) Twitter اليوم عن فتح باب ترجمة خدمتها إلى العربية وإلى عدة لغات تكتب من اليمين إلى اليسار (العبرية، الفارسية والأردية) عبر مركزها الخاص بالترجمة.
+بعد طول انتظار، وبعد أن كثرت الأصوات التي تنادي بذلك، خاصة مع [تنامي أعداد المغردين باللغة العربية](https://www.it-scoop.com/2011/11/arabic-fastest-growing-language-twitter/)، [أعلنت](http://blog.twitter.com/2012/01/twitter-translation-center-adds-right.html) Twitter اليوم عن فتح باب ترجمة خدمتها إلى العربية وإلى عدة لغات تكتب من اليمين إلى اليسار (العبرية، الفارسية والأردية) عبر مركزها الخاص بالترجمة.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/twitter-logo-RTL.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/twitter-logo-RTL.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/twitter-logo-RTL.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/twitter-logo-RTL.jpg)
 
 
 

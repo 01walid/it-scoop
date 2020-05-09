@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[Twitter تضيف خاصية Suggestions for You لاقتراح مغردين لمتابعتهم](http://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)**
+**[Twitter تضيف خاصية Suggestions for You لاقتراح مغردين لمتابعتهم](https://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)**
 
 
 
@@ -24,14 +24,14 @@ tags:
 
 
 [![](http://1.bp.blogspot.com/_hcnZ74EIM3A/TFMfdf8quGI/AAAAAAAAABY/WT-FAK2KicU/s1600/recommended_users.png)
-](http://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)
+](https://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)
 
 
 كما تمت إضافة لسان تبويب جديد في قسم Find People و المسمى Suggestions for you لإظهار كامل قائمة المغردين المقترحين من طرف Twitter، إلى جانب إظهار اقتراحات لحسابات مشابهة لدى زيارة حساب مغرد لا تتابعه بعد.
 
 
 [![](http://3.bp.blogspot.com/_hcnZ74EIM3A/TFMfH5gOP_I/AAAAAAAAABQ/1o2qQ8FQQPI/s1600/similar_users.png)
-](http://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)
+](https://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)
 
 
 قد يقول مستخدموا التطبيقات الخارجية بأن هدف Twitter من وراء ذلك هو إجبارهم على الدخول إلى الموقع بدل استعمال التطبيقات مباشرة... لا تقلقوا، Twitter فكرت فيكم أيضا ، حيث تعتزم إطلاق API تشمل هذه الخدمة، و ستشاهدون اقتراحات لمغردين جدد على تطبيقاتكم المفضلة على حواسيبكم ، على مواقع خارجية، و على هواتفكم أيضا

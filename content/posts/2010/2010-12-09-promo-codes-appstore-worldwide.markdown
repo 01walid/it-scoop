@@ -14,13 +14,13 @@ tags:
 - promo codes
 ---
 
-**[الـ promo codes على الـ AppStore أصبحت متاحة لجميع دول العالم](http://www.it-scoop.com/2010/12/promo-codes-appstore-worldwide/)**
+**[الـ promo codes على الـ AppStore أصبحت متاحة لجميع دول العالم](https://www.it-scoop.com/2010/12/promo-codes-appstore-worldwide/)**
 
 
 كشف موقع 9to5mac عن خطوة لطالما انتظرها الكثيرون، حيث أعلنت أن Apple قد وسعت مجال الـ promo codes لتصبح متاحة في جميع دول.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/promo-codes-iTunes-300x180.png)
-](http://www.it-scoop.com/2010/12/promo-codes-appstore-worldwide/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/promo-codes-iTunes-300x180.png)
+](https://www.it-scoop.com/2010/12/promo-codes-appstore-worldwide/)
 
 سابقا كان يتوجب على من أراد الاستفادة من أحد هذه "الأكواد الترويجية" promo codes أن يفتح حسابا على الـ AppStore  الخاص بالولايات المتحدة الأمريكية. و تستعمل هذه الـ promo codes (مثلما هو واضح من اسمهما) في الترويج للتطبيقات الجديدة، و ذلك عبر توفير نسخ مجانية منها.
 

@@ -13,7 +13,7 @@ tags:
 - Mac OS X
 ---
 
-**[Apple تنشر التحديث 10.6.5 لنظام التشغيل Mac OS X](http://www.it-scoop.com/2010/11/apple-mac-os-x-10-6-5/)**
+**[Apple تنشر التحديث 10.6.5 لنظام التشغيل Mac OS X](https://www.it-scoop.com/2010/11/apple-mac-os-x-10-6-5/)**
 
 
 
@@ -21,8 +21,8 @@ tags:
 قامت Apple ليلة أمس بإطلاق التحديث 10.6.5  لنظام التشغيل الخاص بها Mac OS X و الذي يمكن الترقية له مباشرة عبر خدمة التحديث الخاصة بالنظام، أو بتحميل التحديث و تنفيذه.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/Mac-OS-X.jpg)
-](http://www.it-scoop.com/2010/11/apple-mac-os-x-10-6-5/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Mac-OS-X.jpg)
+](https://www.it-scoop.com/2010/11/apple-mac-os-x-10-6-5/)
 
 ركز هذا التحديث بشكل أساسي على ثبات النظام و ترقيع العلل التي عرفها الإصدار السابق، كما عرف بعض الترقيعات الأمنية، إلى  جانب تحسينات لكل من أداء النظام مع خوادم Microsoft Exchange ، تصحيح بعض العلل التي كانت موجودة مع بعض طابعات HP و حل لمشكل كان يخص المسافات في خطوط OpenType.
 

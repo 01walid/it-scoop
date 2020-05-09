@@ -17,8 +17,8 @@ tags:
 
 في حين يتنازع الكثير مذبذبين بين Gnome 3 التي اتخذت منحىً لم يعجب البعض، و Unity التي يراها آخرون غير ناضجة بعد، يمضي سطح مكتب KDE بخطى ثابتة نحو سطح أكثر جاذبية، بل واجتماعية مع دمج متواصل ل[تقنية QML](http://qt.nokia.com/qtquick/) في الإصدار رقم 4.9 الذي تم [إطلاقه](http://dot.kde.org/2012/07/31/49-releases-quality-stability) غرة الشهر الحالي.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/08/general-desktop.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/08/general-desktop.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/08/general-desktop.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/08/general-desktop.png)
 
 طبعا عدة تحسينات وتطويرات، وإصلاحات للعلل تأتي مع هذه الإصدارة ونذكر منها:
 

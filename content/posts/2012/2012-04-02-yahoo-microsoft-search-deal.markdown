@@ -27,8 +27,8 @@ tags:
 
 
 
-[![شعارا ياهوو و بينج](http://www.it-scoop.com/wp-content/uploads/2012/04/Yahoo-Bing.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/Yahoo-Bing.png)
+[![شعارا ياهوو و بينج](https://www.it-scoop.com/wp-content/uploads/2012/04/Yahoo-Bing.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/Yahoo-Bing.png)
 
 
 

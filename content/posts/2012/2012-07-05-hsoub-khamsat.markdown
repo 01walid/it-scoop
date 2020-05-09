@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/khamsat.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/khamsat.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/khamsat.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/khamsat.jpg)
 
 
 

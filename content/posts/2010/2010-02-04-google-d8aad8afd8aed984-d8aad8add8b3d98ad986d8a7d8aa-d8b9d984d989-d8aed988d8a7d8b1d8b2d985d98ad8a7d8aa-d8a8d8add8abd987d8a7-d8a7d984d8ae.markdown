@@ -12,7 +12,7 @@ tags:
 - Google
 ---
 
-[**Google  تدخل تحسينات على خوارزميات بحثها الخاصة اللغة العربية**](http://www.it-scoop.com/2010/02/google-%d8%aa%d8%af%d8%ae%d9%84-%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d8%a8%d8%ad%d8%ab%d9%87%d8%a7-%d8%a7%d9%84%d8%ae/)
+[**Google  تدخل تحسينات على خوارزميات بحثها الخاصة اللغة العربية**](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%af%d8%ae%d9%84-%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d8%a8%d8%ad%d8%ab%d9%87%d8%a7-%d8%a7%d9%84%d8%ae/)
 
 
 أعلنت Google  على مدونتها الرسمية إدخالها جملة من التحسينات على محرك بحثها تخص اللغة العربية.
@@ -25,8 +25,8 @@ tags:
 
 على سبيل المثال لاحظ كيف يستطيع Google معرفة ما الذي نقصده تماما لدى كتابة االمجلةالتقنية
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/02/it-scoopGoogle.jpg)
-](http://www.it-scoop.com/2010/02/google-%d8%aa%d8%af%d8%ae%d9%84-%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d8%a8%d8%ad%d8%ab%d9%87%d8%a7-%d8%a7%d9%84%d8%ae/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/02/it-scoopGoogle.jpg)
+](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%af%d8%ae%d9%84-%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d8%b9%d9%84%d9%89-%d8%ae%d9%88%d8%a7%d8%b1%d8%b2%d9%85%d9%8a%d8%a7%d8%aa-%d8%a8%d8%ad%d8%ab%d9%87%d8%a7-%d8%a7%d9%84%d8%ae/)
 
 يمكن الإطلاع على إعلان Google عن التحسينات الجديدة من [هنا](http://googleblog.blogspot.com/2010/02/recent-improvement-for-arabic-searches.html)
 

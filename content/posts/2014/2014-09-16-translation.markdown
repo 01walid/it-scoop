@@ -19,8 +19,8 @@ tags:
 
 
 
-[![translation](http://www.it-scoop.com/wp-content/uploads/2014/09/translation.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/09/translation.jpg)
+[![translation](https://www.it-scoop.com/wp-content/uploads/2014/09/translation.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/09/translation.jpg)
 
 
 

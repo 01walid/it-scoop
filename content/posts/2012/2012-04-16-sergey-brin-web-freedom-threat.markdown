@@ -29,8 +29,8 @@ tags:
 
 
 
-[![Sergey Brin: فيس بوك وApple تُهددان مُستقبل الإنترنت المفتوح](http://www.it-scoop.com/wp-content/uploads/2012/04/sergey-brin.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/04/sergey-brin.jpg)
+[![Sergey Brin: فيس بوك وApple تُهددان مُستقبل الإنترنت المفتوح](https://www.it-scoop.com/wp-content/uploads/2012/04/sergey-brin.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/04/sergey-brin.jpg)
 
 
 

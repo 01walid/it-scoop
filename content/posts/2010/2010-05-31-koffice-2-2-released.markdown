@@ -11,13 +11,13 @@ tags:
 - KOffice
 ---
 
-[**إطلاق الإصدار 2.2 من الحزمة المكتبة المجانية و مفتوحة المصدر KOffice**](http://www.it-scoop.com/2010/05/koffice-2-2-released/)
+[**إطلاق الإصدار 2.2 من الحزمة المكتبة المجانية و مفتوحة المصدر KOffice**](https://www.it-scoop.com/2010/05/koffice-2-2-released/)
 
 
 تم إطلاق الإصدار 2.2 من الحزمة المجانية و مفتوحة المصدر KOffice و التي يمكن استعمالها على كل من أنظمة Linux، Windows و Mac OS .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/koffice-logo.png)
-](http://www.it-scoop.com/2010/05/koffice-2-2-released/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/koffice-logo.png)
+](https://www.it-scoop.com/2010/05/koffice-2-2-released/)
 
 الإصدار 2.2 و الذي يأتي بعد ستة أشهر من الإصدار 2.1 يأتي بالعديد من المستجدات و التي فاقت الـ 4500 و خاصة المتعلقة منها بتصحيح علل في الإصدار السابق.
 

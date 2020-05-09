@@ -13,7 +13,7 @@ tags:
 - facebook
 ---
 
-[**حركة Anonymous تنفي جزئيا صلتها بعملية تدمير Facebook**](http://www.it-scoop.com/2011/08/anonymous-facebook-2/)
+[**حركة Anonymous تنفي جزئيا صلتها بعملية تدمير Facebook**](https://www.it-scoop.com/2011/08/anonymous-facebook-2/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/Anonymous-mask.jpg)
-](http://www.it-scoop.com/2011/08/anonymous-facebook-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Anonymous-mask.jpg)
+](https://www.it-scoop.com/2011/08/anonymous-facebook-2/)
 
 
 

@@ -18,13 +18,13 @@ tags:
 - TechCrunch
 ---
 
-**[Facebook Phone... قريبا في الأسواق](http://www.it-scoop.com/2010/09/facebook-phone/)**
+**[Facebook Phone... قريبا في الأسواق](https://www.it-scoop.com/2010/09/facebook-phone/)**
 
 
 أشار موقع TechCrunch الشهير إلى أن Facebook بصدد التحضير بشكل سري لإطلاق هاتف ذكي جديد خاص بها.
 
 
-![facebook-phone](http://www.it-scoop.com/wp-content/uploads/2010/09/facebook-phone.jpeg)
+![facebook-phone](https://www.it-scoop.com/wp-content/uploads/2010/09/facebook-phone.jpeg)
 
 
 

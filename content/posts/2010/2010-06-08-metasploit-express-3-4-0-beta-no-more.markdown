@@ -15,14 +15,14 @@ tags:
 - Rapid7
 ---
 
-[**خروج Metasploit Express مرحلة الاختبار ودخوله السوق بشكل رسمي**](http://www.it-scoop.com/2010/06/Metasploit-Express-3.4.0-Beta-no-more)
+[**خروج Metasploit Express مرحلة الاختبار ودخوله السوق بشكل رسمي**](https://www.it-scoop.com/2010/06/Metasploit-Express-3.4.0-Beta-no-more)
 
 
 تم منذ سويعات فقط طرح الإصدار 3.4.0 الرسمي المعتمد من حزمة Metasploit Express والتي أخذت بعين الاعتبار تفاوت خبرات من يمكن أن يستخدمها فقدمت واجهة GUI غنية وسهلة الاستخدام إلى جانب القوة التي تتمتع بها حزمة Metasploit المجانية التي تعمل من خلال Console screen.
 
 
 [![](http://www.metasploit.com/images/MetasploitExpressOverview.png)
-](http://www.it-scoop.com/2010/06/Metasploit-Express-3.4.0-Beta-no-more)
+](https://www.it-scoop.com/2010/06/Metasploit-Express-3.4.0-Beta-no-more)
 
 
 مع Metasploit Express أصبح بإمكاننا القول أن الشركات لم تعد بحاجة إلى صرف آلاف الدولارات على خبراء يقومون بفحص مواقعها على الانترنت أو درجة الأمان في شبكاتها المحلية، فالحزمة ستكتفي بشخص لديه بعض الخبرة ليقوم بإدارتها واستخدامها، بالتالي نجد أنها خطوة من Rapid7 - الشركة الراعية - لإدخال حزمة Metasploit الشهيرة حيز الربح التجاري، وهل يمكننا لومهم؟

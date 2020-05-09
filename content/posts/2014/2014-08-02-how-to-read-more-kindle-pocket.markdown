@@ -26,8 +26,8 @@ tags:
 
 
 
-[![ebook-reader](http://www.it-scoop.com/wp-content/uploads/2014/08/ebook-reader-1024x641.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/ebook-reader.jpg)
+[![ebook-reader](https://www.it-scoop.com/wp-content/uploads/2014/08/ebook-reader-1024x641.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/ebook-reader.jpg)
 
 
 
@@ -43,8 +43,8 @@ tags:
 
 
 
-[![kindle-android-icon](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-icon.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-icon.png)
+[![kindle-android-icon](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-icon.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-icon.png)
 
 
 
@@ -65,8 +65,8 @@ tags:
 
 
 
-[![Kindle-for-Android-Text-Options](http://www.it-scoop.com/wp-content/uploads/2014/08/Kindle-for-Android-Text-Options.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/Kindle-for-Android-Text-Options.png)
+[![Kindle-for-Android-Text-Options](https://www.it-scoop.com/wp-content/uploads/2014/08/Kindle-for-Android-Text-Options.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/Kindle-for-Android-Text-Options.png)
 
 
 
@@ -78,8 +78,8 @@ tags:
 
 
 
-[![kindle-android-sync](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-sync.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-sync.png)
+[![kindle-android-sync](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-sync.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-sync.png)
 
 
 
@@ -91,8 +91,8 @@ tags:
 
 
 
-[![kindle-android-dictionary](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-dictionary.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-dictionary.png)
+[![kindle-android-dictionary](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-dictionary.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-dictionary.png)
 
 
 
@@ -105,14 +105,14 @@ tags:
 
 
 
-[![kindle-android-search](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-search.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-search.png)
+[![kindle-android-search](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-search.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-search.png)
 
 
 
  	  * لكن الخاصية الأكثر أهمية هو مؤشر الوقت المُتبقي لإكمال الفصل الحالي (أسفل الكتاب) أو الكتاب وهي خاصية تُساعدك على القراءة أكثر.
- 	  * [![kindle-android-time-left](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-time-left.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-time-left.png)
+ 	  * [![kindle-android-time-left](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-time-left.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/kindle-android-time-left.png)
 
 
 
@@ -210,7 +210,7 @@ tags:
 
 
 
-## Pocket![pocket-logo](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket-logo.png)
+## Pocket![pocket-logo](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket-logo.png)
 
 
 
@@ -221,8 +221,8 @@ tags:
 
 
 
-[![pocket](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket.png)
+[![pocket](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket.png)
 
 
 
@@ -244,8 +244,8 @@ tags:
 
 
 
-[![pocket-sections](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket-sections.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket-sections.png)
+[![pocket-sections](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket-sections.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket-sections.png)
 
 
 
@@ -283,8 +283,8 @@ tags:
 
 
 
-[![pocket-FF](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket-FF.png)
-](http://www.it-scoop.com/wp-content/uploads/2014/08/pocket-FF.png)
+[![pocket-FF](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket-FF.png)
+](https://www.it-scoop.com/wp-content/uploads/2014/08/pocket-FF.png)
 
 
 

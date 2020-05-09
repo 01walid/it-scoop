@@ -13,7 +13,7 @@ tags:
 - Steve Jobs
 ---
 
-**[Steve Jobs يغيب عن Apple من جديد لأجل غير مسمى لأسباب صحية](http://www.it-scoop.com/2011/01/steve-jobs-leave-of-absence-2/)**
+**[Steve Jobs يغيب عن Apple من جديد لأجل غير مسمى لأسباب صحية](https://www.it-scoop.com/2011/01/steve-jobs-leave-of-absence-2/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/steve-jobs.jpg)
-](http://www.it-scoop.com/2011/01/steve-jobs-leave-of-absence-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/steve-jobs.jpg)
+](https://www.it-scoop.com/2011/01/steve-jobs-leave-of-absence-2/)
 
 
 و في الرسالة التي أرسلها Jobs لفريق عمله، يشير إلى أنه سيبقى في منصب CEO الشركة و سيساهم في قرارات Apple لكنه يعهد إلى Tim Cook مسؤولية متابعة العمليات اليومية للشركة، كما أنه يشير إلى ثقته التامة فيه و في الفريق التنفيذي.

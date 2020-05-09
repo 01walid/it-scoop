@@ -16,12 +16,12 @@ tags:
   - Microsoft
 ---
 
-**[Microsoft تفتح مصدر لغة F# 2.0](http://www.it-scoop.com/2010/11/microsoft-f-sharp-open-source/)**
+**[Microsoft تفتح مصدر لغة F# 2.0](https://www.it-scoop.com/2010/11/microsoft-f-sharp-open-source/)**
 
-في حين [تعزز Oracle](http://www.it-scoop.com/2010/11/oracle-premium-java-virtual-machine/) من حظوظها للترشح لمنصب عدو المصادر المفتوحة رقم واحد، سهلت Microsoft اليوم لها المهمة بفتح مصدر لغة البرمجة #F التابعة لها، وذلك يشمل المصرف Compiler و المكتبات libraries  الأساسية.
+في حين [تعزز Oracle](https://www.it-scoop.com/2010/11/oracle-premium-java-virtual-machine/) من حظوظها للترشح لمنصب عدو المصادر المفتوحة رقم واحد، سهلت Microsoft اليوم لها المهمة بفتح مصدر لغة البرمجة #F التابعة لها، وذلك يشمل المصرف Compiler و المكتبات libraries  الأساسية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/open-source-logo-185x139.jpg)
-](http://www.it-scoop.com/2010/11/microsoft-f-sharp-open-source/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/open-source-logo-185x139.jpg)
+](https://www.it-scoop.com/2010/11/microsoft-f-sharp-open-source/)
 
 #F هي لغة برمجة متعددة الأنظمة (وليس المنصات) multi-paradigm programming، وظيفية، كائنيه التوجه، مخففة تعقيد المعادلات الرياضية ومشابهة إلى حد ما بـ  OCaml موجهة لمنصة .NET، تم تطويرها من قبل Don Syme ضمن أبحاث Microsoft. كسبت جمهورا ملحوظا من مختلف البقاع، وقد شهد الإصدار الثاني منها F# 2.0 زرع مسبق في Visual Studio 2010 وتوافق مع مستنسخ منصة .NET مفتوح المصدر Mono.
 

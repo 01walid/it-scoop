@@ -12,11 +12,11 @@ tags:
 - Last.fm
 ---
 
-يبدو أن موسم الحر قد اشتد، فبعد الارتفاع المحسوس لدرجات الحرارة، هاهي درجة حرارة المواقع الشهيرة ترتفع تباعا فلم تمض سوى ساعات قليلة على واقعة [تسريب 6.5 مليون كلمة مرور لمستخدمي موقع التواصل الشهير LinkedIn](http://www.it-scoop.com/2012/06/linkedin-6-5-million-passwords-leaked/) حتى طفت إلى السطح حادثة مشابهة مع الموقع الشهير **Last.fm** صاحب خدمة البث الموسيقي على الإنترنت.
+يبدو أن موسم الحر قد اشتد، فبعد الارتفاع المحسوس لدرجات الحرارة، هاهي درجة حرارة المواقع الشهيرة ترتفع تباعا فلم تمض سوى ساعات قليلة على واقعة [تسريب 6.5 مليون كلمة مرور لمستخدمي موقع التواصل الشهير LinkedIn](https://www.it-scoop.com/2012/06/linkedin-6-5-million-passwords-leaked/) حتى طفت إلى السطح حادثة مشابهة مع الموقع الشهير **Last.fm** صاحب خدمة البث الموسيقي على الإنترنت.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/last-fm-broken.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/last-fm-broken.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/last-fm-broken.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/last-fm-broken.jpg)
 
 
 ولقد نشر الموقع [بيانا](http://www.last.fm/passwordsecurity) يؤكد فيه بإنهم يحققون في حادثة تسريب كلمات مرور لعدد غير معلوم من مستخدميه.

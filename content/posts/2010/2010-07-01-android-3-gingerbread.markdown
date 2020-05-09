@@ -14,7 +14,7 @@ tags:
 - Google
 ---
 
-**[ظهور أولى بشائر الجيل الثالث من Android و الذي يتطلب عتاد أقوى لتشغيله]( http://www.it-scoop.com/2010/07/android-3-gingerbread/)**
+**[ظهور أولى بشائر الجيل الثالث من Android و الذي يتطلب عتاد أقوى لتشغيله]( https://www.it-scoop.com/2010/07/android-3-gingerbread/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/Android-Gingerbread.jpg)
-]( http://www.it-scoop.com/2010/07/android-3-gingerbread/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Android-Gingerbread.jpg)
+]( https://www.it-scoop.com/2010/07/android-3-gingerbread/)
 
 
 يجب على الأجهزة التي تود استعمال هذا النظام أن لا يقل تردد معالجها عن 1 Ghz إضافة إلى استعمالها لذاكرة لا تقل عن 512 Mb و شاشة 3.5 بوصة. مما يوحي إلى أن هذا الإصدار من نظام Android موجه بشكل أكبر إلى أحدث الأجهزة التي ستصدر على غرار جهاز amsung Galaxy S إلى جانب الأجهزة اللوحية.

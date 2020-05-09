@@ -14,7 +14,7 @@ tags:
 - Poly9
 ---
 
-**[Apple تضع يدها على Poly9 الكندية المتخصصة في خدمات الخرائط عبر الويب](http://www.it-scoop.com/2010/07/apple-buys-poly9/)**
+**[Apple تضع يدها على Poly9 الكندية المتخصصة في خدمات الخرائط عبر الويب](https://www.it-scoop.com/2010/07/apple-buys-poly9/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/Poly9.jpg)
-](http://www.it-scoop.com/2010/07/apple-buys-poly9/)Poly9 شركة كندية تقع في مقاطعة Quebec تضم 10 موظفين فقط و تم إطلاقها سنة 2005، و تقدم خدمات خاصة بالخرائط شبيهة بالخدمات التي تقدمها Google في هذا المجال، كما توفر API لاستفادة من خدماتها و التي يستعملها كل من Apple، Yahoo و Microsoft.
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Poly9.jpg)
+](https://www.it-scoop.com/2010/07/apple-buys-poly9/)Poly9 شركة كندية تقع في مقاطعة Quebec تضم 10 موظفين فقط و تم إطلاقها سنة 2005، و تقدم خدمات خاصة بالخرائط شبيهة بالخدمات التي تقدمها Google في هذا المجال، كما توفر API لاستفادة من خدماتها و التي يستعملها كل من Apple، Yahoo و Microsoft.
 
 
 لم يتم الكشف عن قيمة الصفقة و لا عن تاريخ حدوثها و لا عن دوافع Apple من وراء عملية الشراء، لكن تشير جريدة Le Soleil أن موظفي Poly9 قد تركوا مكاتبهم في الـ Quebec و التحقوا بمكاتبهم الجديدة في كاليفورنيا.

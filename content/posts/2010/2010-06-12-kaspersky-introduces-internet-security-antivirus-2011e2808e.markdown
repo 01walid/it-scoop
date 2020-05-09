@@ -14,7 +14,7 @@ tags:
 - Kaspersky Internet Security
 ---
 
-**[Kaspersky تعلن عن طرح نسخة Internet Security, Antivirus 2011](http://www.it-scoop.com/2010/06/Kaspersky-introduces-Internet-Security-Antivirus-2011‎)**
+**[Kaspersky تعلن عن طرح نسخة Internet Security, Antivirus 2011](https://www.it-scoop.com/2010/06/Kaspersky-introduces-Internet-Security-Antivirus-2011‎)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 [![](http://www.kaspersky.com/images/boxes/kis2011_eng_big.jpg)
-](http://www.it-scoop.com/2010/06/Kaspersky-introduces-Internet-Security-Antivirus-2011‎)[![](http://www.kaspersky.com/images/boxes/kav2011_eng_big.jpg)
-](http://www.it-scoop.com/2010/06/Kaspersky-introduces-Internet-Security-Antivirus-2011‎)
+](https://www.it-scoop.com/2010/06/Kaspersky-introduces-Internet-Security-Antivirus-2011‎)[![](http://www.kaspersky.com/images/boxes/kav2011_eng_big.jpg)
+](https://www.it-scoop.com/2010/06/Kaspersky-introduces-Internet-Security-Antivirus-2011‎)
 
 
 تتضمن هذه النسخة تقنية مراقبة النظام System Monitor، التي تراقب أي إضافات أو تعديلات في الملفات أو ريجستري النظام. هذه الوظيفة تسمح للمستخدمين بإلغاء التعديلات غير المرغوب بها المجراة في النظام.

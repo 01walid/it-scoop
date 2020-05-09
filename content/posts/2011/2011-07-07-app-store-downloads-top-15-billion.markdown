@@ -13,7 +13,7 @@ tags:
 - AppStore
 ---
 
-[**متجر تطبيقات Apple يتجاوز حاجز 15 مليار تحميل**](http://www.it-scoop.com/2011/07/app-store-downloads-top-15-billion)
+[**متجر تطبيقات Apple يتجاوز حاجز 15 مليار تحميل**](https://www.it-scoop.com/2011/07/app-store-downloads-top-15-billion)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/iphone_apps.jpg)
-](http://www.it-scoop.com/2011/07/app-store-downloads-top-15-billion)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/iphone_apps.jpg)
+](https://www.it-scoop.com/2011/07/app-store-downloads-top-15-billion)
 
 
 

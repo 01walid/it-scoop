@@ -16,7 +16,7 @@ tags:
 - TurkSec
 ---
 
-**[خادم Hotmail الاسرائيلي يتعرض لهجمة DNS Hijacking](http://www.it-scoop.com/2010/06/Hotmail-Israel-defaced-Turksec)**
+**[خادم Hotmail الاسرائيلي يتعرض لهجمة DNS Hijacking](https://www.it-scoop.com/2010/06/Hotmail-Israel-defaced-Turksec)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/hotmail.co_.il-Hacked.png)
-](http://www.it-scoop.com/wp-content/uploads/2010/06/hotmail.co_.il-Hacked.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/hotmail.co_.il-Hacked.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/06/hotmail.co_.il-Hacked.png)
 
 
 حملت صفحة الموقع صورة لطفل يحمل العلم الفلسطيني على ظهره ومجموعة من العبارات المناهضة للصهيونية وأفعالها المرتكبة ضد المسلمين والفلسطينيين فيما يبدو بصورة غير مباشرة أنه ناتج عن المجزرة التي ارتكبتها اسرائيل بحق قافلة الحرية والتي كان فيها الكثير من المشتركين من الأتراك.

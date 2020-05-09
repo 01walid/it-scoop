@@ -10,14 +10,14 @@ categories:
 - هواتف/ أجهزة لوحية
 ---
 
-[**جهاز Droid ينضم هو أيضا إلى قائمة الأجهزة المعنية بالـ Jailbreaking**](http://www.it-scoop.com/2009/12/%d8%ac%d9%87%d8%a7%d8%b2-droid-%d9%8a%d9%86%d8%b6%d9%85-%d9%87%d9%88-%d8%a3%d9%8a%d8%b6%d8%a7-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84/)
+[**جهاز Droid ينضم هو أيضا إلى قائمة الأجهزة المعنية بالـ Jailbreaking**](https://www.it-scoop.com/2009/12/%d8%ac%d9%87%d8%a7%d8%b2-droid-%d9%8a%d9%86%d8%b6%d9%85-%d9%87%d9%88-%d8%a3%d9%8a%d8%b6%d8%a7-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84/)
 
 
 
 بعد الـ iPhone  و كسر الحماية التي يعاني منها  (Jailbreaking) ها هو Droid أيضا ينضم إليه، إذ استطاع Hacker يدعى Zinx Verituse  أن يقوم بكسر الحماية الموجودة على الجهاز مما يسمع له بتنصيب أي برامج يريد عليه.
 
 [![](http://img.timeinc.net/time/2009/50_top_10/gadgets/android.jpg)
-](http://www.it-scoop.com/2009/12/%d8%ac%d9%87%d8%a7%d8%b2-droid-%d9%8a%d9%86%d8%b6%d9%85-%d9%87%d9%88-%d8%a3%d9%8a%d8%b6%d8%a7-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84/)
+](https://www.it-scoop.com/2009/12/%d8%ac%d9%87%d8%a7%d8%b2-droid-%d9%8a%d9%86%d8%b6%d9%85-%d9%87%d9%88-%d8%a3%d9%8a%d8%b6%d8%a7-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84/)
 
 غرض الـ Jailbreaking هذه المرة مختلف قليلا عن  ما هو الحال على الـ iPhone حيث أن هدف الـ Hacker كان فقط الحصول على صلاحيات إضافية بغية تنصيب برامج إضافية و استعمال بعض الخواص التي كانت معطلة كالـ Multitouch .
 

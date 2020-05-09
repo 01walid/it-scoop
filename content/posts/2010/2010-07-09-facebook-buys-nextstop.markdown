@@ -13,7 +13,7 @@ tags:
 - NextStop
 ---
 
-**[Facebook تشتري شركة NextStop التي تقدم دليلا سياحيا اجتماعيا على الإنترنت](http://www.it-scoop.com/2010/07/facebook-buys-nextstop/)**
+**[Facebook تشتري شركة NextStop التي تقدم دليلا سياحيا اجتماعيا على الإنترنت](https://www.it-scoop.com/2010/07/facebook-buys-nextstop/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://www.nextstop.com/static/images/logo.gif  )
-](http://www.it-scoop.com/2010/07/facebook-buys-nextstop/)
+](https://www.it-scoop.com/2010/07/facebook-buys-nextstop/)
 
 
 

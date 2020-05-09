@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/05/Facebook-Opera.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/05/Facebook-Opera.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/05/Facebook-Opera.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/05/Facebook-Opera.png)
 
 
 
@@ -58,4 +58,4 @@ tags:
 
 
 
-للتذكير فإن نقطة ضعف فيس بوك الحالية هو تطبيقها للهواتف الذكية، [حيث أن ازدياد أعداد مستخدميه يقلل من مداخيل الشركة نظرا لعدم عرض الإعلانات عليه](http://www.it-scoop.com/2012/05/facebook-ipo-zuckerberg-hoodie/).
+للتذكير فإن نقطة ضعف فيس بوك الحالية هو تطبيقها للهواتف الذكية، [حيث أن ازدياد أعداد مستخدميه يقلل من مداخيل الشركة نظرا لعدم عرض الإعلانات عليه](https://www.it-scoop.com/2012/05/facebook-ipo-zuckerberg-hoodie/).

@@ -18,8 +18,8 @@ tags:
 
 
 
-[![صورة تعبر عن الحرب الالكترونية](http://www.it-scoop.com/wp-content/uploads/2012/01/Cyber-war.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/Cyber-war.png)
+[![صورة تعبر عن الحرب الالكترونية](https://www.it-scoop.com/wp-content/uploads/2012/01/Cyber-war.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/Cyber-war.png)
 
 
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 [**إطلاق الإصدار 10 من  Linux Mint المجهز بسطح مكتب KDE**
-](http://www.it-scoop.com/2011/02/linux-mint-10-kde/)
+](https://www.it-scoop.com/2011/02/linux-mint-10-kde/)
 
 
 
@@ -27,7 +27,7 @@ tags:
 
 
 [![](http://www.linuxmint.com/pictures/screenshots/julia/kde/julia.png )
-](http://www.it-scoop.com/2011/02/linux-mint-10-kde/)
+](https://www.it-scoop.com/2011/02/linux-mint-10-kde/)
 
 
 يتضمن هذا الإصدار كلا من :

@@ -14,13 +14,13 @@ tags:
 - Workstation
 ---
 
-[**VMware تطلق  7.1 Workstation  و 3.1 Fusion ، التطبيقان الخاصان بعمل أنظمة تشغيل وهمية**](http://www.it-scoop.com/2010/05/VMware-Workstation7-1-Fusion-3-1)
+[**VMware تطلق  7.1 Workstation  و 3.1 Fusion ، التطبيقان الخاصان بعمل أنظمة تشغيل وهمية**](https://www.it-scoop.com/2010/05/VMware-Workstation7-1-Fusion-3-1)
 
 
 أطلقت شركة VMware الإصدارين 7.1 من Workstation  و 3.1 من Fusion التطبيقان الخاصان بعمل أنظمة تشغيل وهمية  على كل من أنظمة Windows (للأول) و Mac (للثاني) و اللذان  يأتيان ليواكبا التطورات الأخيرة الحاصلة في سوق أنظمة التشغيل و ليركزا على الرسوميات بصورة أكبر.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/vmware-logo.jpg)
-](http://www.it-scoop.com/2010/05/VMware-Workstation7-1-Fusion-3-1)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/vmware-logo.jpg)
+](https://www.it-scoop.com/2010/05/VMware-Workstation7-1-Fusion-3-1)
 
 أكثر ما يميز الإصدار  7.1 من Workstation  هو تحسين دعمه لكل من نظامي Windows 7 و Windows Vista خصوصا ما تعلق بالرسوميات، و هذا ما جعل شركة  Autodesk تدعم هذا الإصدار و توصي باستعمال تطبيقها AutoCAD 2011 على الأنظمة الوهمية الخاصة به.
 

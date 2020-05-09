@@ -15,14 +15,14 @@ tags:
 - Mozilla
 ---
 
-**[Mozilla تطلق أول تحديث لـ 4 Firefox لترقيع 3 ثغرات أمنية]( http://www.it-scoop.com/2011/04/firefox-4-0-1/)**
+**[Mozilla تطلق أول تحديث لـ 4 Firefox لترقيع 3 ثغرات أمنية]( https://www.it-scoop.com/2011/04/firefox-4-0-1/)**
 
 
 أطلقت Mozilla ليلة أمس [أول تحديث](http://www.mozilla.com/en-US/firefox/4.0.1/releasenotes/) (4.0.1) للجيل الرابع من متصفح Firefox و الذي يرقع [3 ثغرات أمنية](http://www.mozilla.org/security/known-vulnerabilities/firefox40.html#firefox4.0.1) اثنتان منها موسومتان بالحرجة Critical.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/04/Mozilla-Firefox4.jpg)
-](http://www.it-scoop.com/2011/04/firefox-4-0-1/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/04/Mozilla-Firefox4.jpg)
+](https://www.it-scoop.com/2011/04/firefox-4-0-1/)
 
 
 كما تم إصدار التحديثين 3.6.17 و 3.5.19  و اللذان يرقعان بدورهما [6 ثغرات أمنية](http://www.mozilla.org/security/known-vulnerabilities/firefox36.html#firefox3.6.17) . و تنصح Mozilla مستخدمي هذين التفرعين بالترقية إلى الإصدار الرابع.

@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/megaupload-shutdown.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/megaupload-shutdown.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/megaupload-shutdown.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/megaupload-shutdown.jpg)
 
 
 

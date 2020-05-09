@@ -15,13 +15,13 @@ tags:
 - ipad
 ---
 
-[**Apple تعلن عن تجاوز مبيعات الـ iPad سقف المليوني جهاز خلال أقل من شهرين**](http://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days)
+[**Apple تعلن عن تجاوز مبيعات الـ iPad سقف المليوني جهاز خلال أقل من شهرين**](https://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days)
 
 
 أعلنت Apple في بيان صحفي نشرته اليوم عن أن مبيعات الـiPad قد استطاعت تجاوز سقف المليوني جهاز خلال أقل من شهرين، و هذا بعد أن تجاوزت سقف المليون قطعة خلال 28 يوم فقط من إطلاقه.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/steve-jobs-ipad.jpg)
-](http://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/steve-jobs-ipad.jpg)
+](https://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days)
 
 لم يكن الـ iPad مسوقا سوى في الولايات المتحدة، إذ لم يتم إطلاقه في تسع دول أخرى سوى يوم الجمعة الماضي، و هو ما قد يكون السبب الرئيسي لتأخر الوصول إلى مليوني جهاز iPad مباع إلى غاية اليوم.
 

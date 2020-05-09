@@ -13,7 +13,7 @@ tags:
 - skype
 ---
 
-**[Skype يعاني حاليا من خلل  لدى تسجيل الدخول، و العمل على حل المشكلة قائم على قدم و ساق](http://www.it-scoop.com/2010/12/skype-signing-in-problems/)**
+**[Skype يعاني حاليا من خلل  لدى تسجيل الدخول، و العمل على حل المشكلة قائم على قدم و ساق](https://www.it-scoop.com/2010/12/skype-signing-in-problems/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/Skype-problem.png)
-](http://www.it-scoop.com/2010/12/skype-signing-in-problems/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Skype-problem.png)
+](https://www.it-scoop.com/2010/12/skype-signing-in-problems/)
 
 
 و قد أقرت Skype بوجود الخلل عبر [تغريدة](http://twitter.com/Skype/statuses/17624508332515328) على حسابها على Twitter نشرت منذ حوالي ساعتين

@@ -15,7 +15,7 @@ tags:
 - RIM
 ---
 
-**[RIM تشتري Cellmania المتخصصة في متاجر التطبيقات](http://www.it-scoop.com/2010/08/rim-cellmania/)**
+**[RIM تشتري Cellmania المتخصصة في متاجر التطبيقات](https://www.it-scoop.com/2010/08/rim-cellmania/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/CellMania-RIM.png)
-](http://www.it-scoop.com/2010/08/rim-cellmania/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/CellMania-RIM.png)
+](https://www.it-scoop.com/2010/08/rim-cellmania/)
 
 
 تطور Cellmania حلولا تسمح لزبائنها بقبول تطبيقات جديدة يتقدم بها المطورون و بيعها للمستخدمين و كل ما يدور في فلكيهما من إدارة للحقوق الرقمية، و فوترتها و ما إلى ذلك.

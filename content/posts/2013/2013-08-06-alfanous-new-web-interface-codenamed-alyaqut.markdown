@@ -17,18 +17,18 @@ tags:
 
 كنا قد أعلنّا قبل حوالي شهرين عن إطلاق نسخة جديدة من محرك البحث القرآني المتقدم "**الفانوس**"، أغلب ما تم إدخاله حينذاك كان من جهة الخادم ووظائف المحرك، مما قد لا يلاحظه المستخدم النهائي العادي، لكن اليوم، أتبعَ فريق **الفانوس** باطن التطوير الذي قام به بظاهر يليق به ويساير متطلبات الويب الحالي، حُلة جديدة سمّوها **الياقوت** ألبسوها إياه، وآثروا أن يخرجوا بها في أيام رمضان المبارك قبل العيد.
 
-[![logo_alfanous_ar](http://www.it-scoop.com/wp-content/uploads/2013/08/logo_alfanous_ar.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/logo_alfanous_ar.png)
+[![logo_alfanous_ar](https://www.it-scoop.com/wp-content/uploads/2013/08/logo_alfanous_ar.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/logo_alfanous_ar.png)
 
 
 
-إذا كنت تجهل حول هذا المحرك القرآني المتقدم، فننصحك أولا [بقراءة مقالنا السابق](http://www.it-scoop.com/2013/06/alfanous-new-back-end-version-2/) عنه.
+إذا كنت تجهل حول هذا المحرك القرآني المتقدم، فننصحك أولا [بقراءة مقالنا السابق](https://www.it-scoop.com/2013/06/alfanous-new-back-end-version-2/) عنه.
 
 لا شك أن الملاحظ لتطور الويب اليوم، قد رأي أن وسائل النفاذ إليه والتصفح فيه قد تباينت سواءا في أحجامها أم في أنواعها، فلم يعد الوصول إلى موقع ما يتم حصرا عبر متصفح من جهاز سطح مكتب بل يتعداه الآن إلى الأجهزة اللوحية والهواتف الذكية بمختلف قياسات شاشاتها. من هذا المنطلق ظهر مفهوم [التصميم المتجاوب](http://en.wikipedia.org/wiki/Responsive_web_design) في عالم تطوير المواقع، وسدًا لهذه الحاجة المتزايدة ومُسايرةً لهذا التوجه جاءت واجهة الفانوس الجديدة ليس فقط لتحسّن المظهر وتزينه بمزيد من البساطة في التصميم وقابلية الوصول، بل ولتجعلته متجاوبا، متكيّفا مع مختلف شاشات أجهزة العصر. مثال ذلك الصورة التالية، وهي لما ستحصل عليه لو تصفحت الموقع من هاتف ذكي:<!-- more -->
 
 
-[![alfanous-responsive](http://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive.png)
+[![alfanous-responsive](https://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive.png)
 
 
 
@@ -38,8 +38,8 @@ tags:
 
 
 
-[![alfanous-responsive-black](http://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive-black.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive-black.png)
+[![alfanous-responsive-black](https://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive-black.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-responsive-black.png)
 
 
 
@@ -49,8 +49,8 @@ tags:
 
 
 
-[![alfanous-no-flash](http://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-no-flash.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-no-flash.png)
+[![alfanous-no-flash](https://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-no-flash.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/08/alfanous-no-flash.png)
 
 
 

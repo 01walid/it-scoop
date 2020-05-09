@@ -12,14 +12,14 @@ tags:
 - Safari
 ---
 
-**[Apple تطلق الإصدار الخامس من المتصفح Safari]( http://www.it-scoop.com/2010/06/apple-releases-safari-5/)**
+**[Apple تطلق الإصدار الخامس من المتصفح Safari]( https://www.it-scoop.com/2010/06/apple-releases-safari-5/)**
 
 
 أطلقت Apple يوم أمس الإصدار الخامس من متصفحها Safari، و الذي يعتبر أسرع بحوالي 30% من الإصدار السابق، كما أنه يدعم الـ HTML5 بشكل أفضل.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/safari-logo-lg.png)
-]( http://www.it-scoop.com/2010/06/apple-releases-safari-5/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/safari-logo-lg.png)
+]( https://www.it-scoop.com/2010/06/apple-releases-safari-5/)
 
 
 الإصدار الجديد يأتي لتأكيد رغبة Apple دعم المعايير الجديدة على غرار الـ HTML5، حيث يدعم هذا الإصدار بعض الخاصائص الجديدة كالـ geolocation و عرض الفيديو بنمط الـ  Fullscreen.

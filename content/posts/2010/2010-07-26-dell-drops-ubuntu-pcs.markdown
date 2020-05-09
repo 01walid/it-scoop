@@ -13,7 +13,7 @@ tags:
 - Ubuntu
 ---
 
-[**Dell  توقف بيع الحواسيب المجهزة بـ Ubuntu على موقعها على الإنترنت**](http://www.it-scoop.com/2010/07/dell-drops-ubuntu-pcs/)
+[**Dell  توقف بيع الحواسيب المجهزة بـ Ubuntu على موقعها على الإنترنت**](https://www.it-scoop.com/2010/07/dell-drops-ubuntu-pcs/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/dell_ubuntu.jpg)
-](http://www.it-scoop.com/2010/07/dell-drops-ubuntu-pcs/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/dell_ubuntu.jpg)
+](https://www.it-scoop.com/2010/07/dell-drops-ubuntu-pcs/)
 
 
 

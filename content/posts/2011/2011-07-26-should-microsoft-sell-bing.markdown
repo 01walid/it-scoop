@@ -14,7 +14,7 @@ tags:
 - Microsoft
 ---
 
-[**هل ستضطر Microsoft لبيع محرك البحث Bing ؟**](http://www.it-scoop.com/2011/07/should-microsoft-sell-bing/)
+[**هل ستضطر Microsoft لبيع محرك البحث Bing ؟**](https://www.it-scoop.com/2011/07/should-microsoft-sell-bing/)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/bing-logo.png)
-](http://www.it-scoop.com/2011/07/should-microsoft-sell-bing/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/bing-logo.png)
+](https://www.it-scoop.com/2011/07/should-microsoft-sell-bing/)
 
 
 

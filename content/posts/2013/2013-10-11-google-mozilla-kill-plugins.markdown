@@ -21,8 +21,8 @@ tags:
 
 
 
-[![Chrome-Firefox](http://www.it-scoop.com/wp-content/uploads/2013/10/Chrome-Firefox.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/10/Chrome-Firefox.jpg)
+[![Chrome-Firefox](https://www.it-scoop.com/wp-content/uploads/2013/10/Chrome-Firefox.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/10/Chrome-Firefox.jpg)
 
 
 

@@ -14,7 +14,7 @@ tags:
 - wikileaks
 ---
 
-**[Amazon ترضخ للضغوط و توقف استضافتها لموقع Wikileaks]( http://www.it-scoop.com/2010/12/wikileaks-amazon-ec2/)**
+**[Amazon ترضخ للضغوط و توقف استضافتها لموقع Wikileaks]( https://www.it-scoop.com/2010/12/wikileaks-amazon-ec2/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/Wikileaks.jpg)
-](http://www.it-scoop.com/2010/12/wikileaks-amazon-ec2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Wikileaks.jpg)
+](https://www.it-scoop.com/2010/12/wikileaks-amazon-ec2/)
 
 
 حاليا الموقع الرئيسي wikileaks.org يستخدم عنوان IP خاص بالمستضيف الفرنسي OVH أما الموقع الفرعي الذي أثار ضجة إعلامية مؤخرا فيحمل عنوان IP خاصا بالسويد.

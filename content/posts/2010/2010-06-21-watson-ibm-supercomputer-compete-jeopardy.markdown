@@ -15,7 +15,7 @@ tags:
 - Watson
 ---
 
-**[IBM تكشف عن Watson حاسوب خارق قادر على الإجابة على جميع الأسئلة المطروحة عليه](http://www.it-scoop.com/2010/06/Watson-IBM-supercomputer-compete-Jeopardy)**
+**[IBM تكشف عن Watson حاسوب خارق قادر على الإجابة على جميع الأسئلة المطروحة عليه](https://www.it-scoop.com/2010/06/Watson-IBM-supercomputer-compete-Jeopardy)**
 
 
 

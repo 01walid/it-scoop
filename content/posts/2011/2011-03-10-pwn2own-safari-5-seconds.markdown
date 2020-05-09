@@ -16,7 +16,7 @@ tags:
 - Safari
 ---
 
-[**مسابقة Pwn2Own : متصفح  Safari يسقط خلال 5 ثواني، Chrome يصمد و Firefox يسخن للدخول إلى الحلبة**](http://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
+[**مسابقة Pwn2Own : متصفح  Safari يسقط خلال 5 ثواني، Chrome يصمد و Firefox يسخن للدخول إلى الحلبة**](https://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/VUPEN-tweet.png)
-]( http://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/VUPEN-tweet.png)
+]( https://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
 
 
 و لم يحتج فريق VUPEN سوى إلى أن يفتح المتصفح صفحة ملغمة معدة خصيصا للحدث و التي تجعله يفتح الآلة الحاسبة التي تقوم بدورها بكتابة ملف على القرص الصلب و من ثم تنفيذ الاستغلال، كل هذا من دون أن يحدث أي انهيار للمتصفح.
@@ -36,8 +36,8 @@ tags:
 
 و لقد سارعت Micrsosoft [للإعلان](http://twitter.com/msftsecresponse/status/45646985998516224) أنها بدأت فعليا في التحقيق في الثغرة المستغلة خلال مسابقة  Pwn2Ownو العمل على توفير ترقيع لها
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/03/msftsecresponse-tweet.png)
-]( http://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/03/msftsecresponse-tweet.png)
+]( https://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
 
 أما البطل للسنة الثانية على التوالي فهو من دون شك متصفح Chrome الذي لم يسجل في مسابقة اختراقه سوى باحث أمني واحد و الذي فضل عدم تجربة حظه (ربما لأنه يعرف أن النتيجة محسومة سلفا).
 

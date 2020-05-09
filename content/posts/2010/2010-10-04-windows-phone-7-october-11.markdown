@@ -22,7 +22,7 @@ tags:
 - Windows Phone 7
 ---
 
-**[Microsoft تحدد الـ 11 من أكتوبر القادم موعدا لإطلاق Windows Phone 7]( http://www.it-scoop.com/2010/10/windows-phone-7-october-11/)**
+**[Microsoft تحدد الـ 11 من أكتوبر القادم موعدا لإطلاق Windows Phone 7]( https://www.it-scoop.com/2010/10/windows-phone-7-october-11/)**
 
 
 
@@ -35,8 +35,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/Windows-Phone-7.jpg)
-]( http://www.it-scoop.com/2010/10/windows-phone-7-october-11/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Windows-Phone-7.jpg)
+]( https://www.it-scoop.com/2010/10/windows-phone-7-october-11/)
 
 
 كما سيكون هذا الموعد فرصة للتعريف بأولى الأجهزة التي ستكون مجهزة بنظام Windows Phone 7   حيث ستطلق T-Mobile  كلا من أجهزة HTC HD7 و LG Optimus T

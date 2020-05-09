@@ -15,11 +15,11 @@ tags:
 - Protocols
 ---
 
-كتبت هذا كرد على مقال [هل أصابت Google في مسألة إيقافها لخدمة Reader؟ وهل سيؤثر ذلك على مستقبل تطبيقاتها المستقبلية مثيلات Keep؟](http://www.it-scoop.com/2013/03/google-reader/) ثم رأينا -أنا وصاحب المقال- أن نفرده في مقالة لظهور أوسع.
+كتبت هذا كرد على مقال [هل أصابت Google في مسألة إيقافها لخدمة Reader؟ وهل سيؤثر ذلك على مستقبل تطبيقاتها المستقبلية مثيلات Keep؟](https://www.it-scoop.com/2013/03/google-reader/) ثم رأينا -أنا وصاحب المقال- أن نفرده في مقالة لظهور أوسع.
 
 
-[![google_reader](http://www.it-scoop.com/wp-content/uploads/2013/03/google_reader.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/google_reader.jpg)
+[![google_reader](https://www.it-scoop.com/wp-content/uploads/2013/03/google_reader.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/google_reader.jpg)
 سأنطلق من دعوى لنكن واقعيين كما في المقال أعلاه..
 
 

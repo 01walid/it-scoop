@@ -18,7 +18,7 @@ tags:
 - WebGL
 ---
 
-**[Google تطلق متصفح جسم الإنسان ، Body Browser](http://www.it-scoop.com/2010/12/google-launches-body-browser/)**
+**[Google تطلق متصفح جسم الإنسان ، Body Browser](https://www.it-scoop.com/2010/12/google-launches-body-browser/)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/Google_Body_Browser-300x195.jpg)
-](http://www.it-scoop.com/2010/12/google-launches-body-browser/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Google_Body_Browser-300x195.jpg)
+](https://www.it-scoop.com/2010/12/google-launches-body-browser/)
 
 
 التطبيق الذي لا يزال في طور Beta، يحوي على شريط بحث ونظام تصفح شبيه ببرنامج Google Earth مما يجعله مألوفا لدى المستخدم النهائي. وقبل أن تتركنا وتذهب لتجربته فنحن نبشرك أنه لا يوجد بعد متصفح في نسخته المستقرة يدعم WebGL -للمعالجة ثلاثية الأبعاد 3D-، إلا إذا استعملت أحد النسخ قبل النهائية من المتصفحات المعروفة مثل Nighty-Builds لـ Chrome OS و نسخ beta من Firefox 4، فقط ؟ لا، مع اتباع [ هذا الدليل ](http://khronos.org/webgl/wiki/Getting_a_WebGL_Implementation)لتفعيل WebGL في هذه النسخ.

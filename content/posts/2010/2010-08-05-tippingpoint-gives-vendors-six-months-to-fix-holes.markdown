@@ -13,7 +13,7 @@ tags:
 - TippingPoint
 ---
 
-**[TippingPoint تمهل الشركات 6 أشهر فقط قبل أن تكشف عن الثغرات التي لم يرقعوها](http://www.it-scoop.com/2010/08/TippingPoint-gives-vendors-six-months-to-fix-holes)**
+**[TippingPoint تمهل الشركات 6 أشهر فقط قبل أن تكشف عن الثغرات التي لم يرقعوها](https://www.it-scoop.com/2010/08/TippingPoint-gives-vendors-six-months-to-fix-holes)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/TippingPoint_logo.jpg)
-](http://www.it-scoop.com/2010/08/TippingPoint-gives-vendors-six-months-to-fix-holes)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/TippingPoint_logo.jpg)
+](https://www.it-scoop.com/2010/08/TippingPoint-gives-vendors-six-months-to-fix-holes)
 
 
 تقوم  TippingPoint بإدارة مشروع Zero Day Initative والذي يعمل كوسيط حيث يقوم بالدفع للباحثين الأمنيين مقابل المعلومات حول الثغرات الأمنية ومن ثم يقوم بتزويد الشركات بهذه المعلومات لإصلاحها.

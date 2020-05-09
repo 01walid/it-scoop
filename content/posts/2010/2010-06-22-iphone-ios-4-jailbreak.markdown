@@ -16,13 +16,13 @@ tags:
 - jailbreak
 ---
 
-**[Apple تطلق رسميا 4iOS و Dev-Team تطلق الـ jailbreak الخاص به بعده بسويعات فقط]( http://www.it-scoop.com/2010/06/iphone-ios-4-jailbreak/)**
+**[Apple تطلق رسميا 4iOS و Dev-Team تطلق الـ jailbreak الخاص به بعده بسويعات فقط]( https://www.it-scoop.com/2010/06/iphone-ios-4-jailbreak/)**
 
 
 أطلقت Apple مساء أمس رسميا الإصدار الرابع من نظام تشغيل iPhone OS و الذي أعيدت تسميته ليصبح iOS4، و لم ينتظر فريق Dev-Team سوى سويعات قليلة حتى أطلق الـ jailbreakالخاص به.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/jailbreak.jpg)
-](http://www.it-scoop.com/2010/06/iphone-ios-4-jailbreak/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/jailbreak.jpg)
+](https://www.it-scoop.com/2010/06/iphone-ios-4-jailbreak/)
 
 الـ jailbreak الذي نشره فريق Dev-Team  المتمثل في تطبيق Redsn0w الخاص بأنظمة Windows و Mac لا يصلح حاليا سوى لكسر حماية النظام على أجهزة Phone 3G و الـ Pod Touch 2G حيث أن العمل لا يزال قائما على قدم و ساق لإنهاء لجعل البرنامج صالحا لباقي الأجهزة.
 

@@ -13,14 +13,14 @@ tags:
 - LinkedIn
 ---
 
-**[LinkedIn تواصل توسعها بشراء ChoiceVendor]( http://www.it-scoop.com/2010/09/linkedin-choicevendor/)**
+**[LinkedIn تواصل توسعها بشراء ChoiceVendor]( https://www.it-scoop.com/2010/09/linkedin-choicevendor/)**
 
 
-تواصل الشبكة الاجتماعية المهنية LinkedIn توسعها، فبعد [شرائها](http://www.it-scoop.com/2010/08/linkedin-acquires-mspoke/) لـ mSpoke  شهر أغسطس الماضي، ها هي اليوم تعلن عن شرائها لشركة أخرى المتمثلة في [ChoiceVendor](http://www.choicevendor.com/).
+تواصل الشبكة الاجتماعية المهنية LinkedIn توسعها، فبعد [شرائها](https://www.it-scoop.com/2010/08/linkedin-acquires-mspoke/) لـ mSpoke  شهر أغسطس الماضي، ها هي اليوم تعلن عن شرائها لشركة أخرى المتمثلة في [ChoiceVendor](http://www.choicevendor.com/).
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/LinkedIn-ChoiceVendor.png)
-]( http://www.it-scoop.com/2010/09/linkedin-choicevendor/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/LinkedIn-ChoiceVendor.png)
+]( https://www.it-scoop.com/2010/09/linkedin-choicevendor/)
 
 
 حسب ما جاء في [البيان الصحفي](http://www.businesswire.com/news/home/20100923005446/en) الذي نشرته  LinkedIn تتخص ChoiceVendor في تقديم خدمة تمسح لمستخدميها بتقييم مستوى الخدمات [B2B ](http://en.wikipedia.org/wiki/Business-to-business) لـ 70 مجالا مختلفا عبر الولايات المتحدة.

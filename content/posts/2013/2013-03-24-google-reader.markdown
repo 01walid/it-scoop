@@ -22,8 +22,8 @@ tags:
 
 
 
-[![google-reader](http://www.it-scoop.com/wp-content/uploads/2013/03/google-reader.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/03/google-reader.png)
+[![google-reader](https://www.it-scoop.com/wp-content/uploads/2013/03/google-reader.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/03/google-reader.png)
 
 
 

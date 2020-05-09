@@ -16,7 +16,7 @@ tags:
 - NOD32 Antivirus 4
 ---
 
-[**ESET تطلق NOD32 Antivirus 4 لأنظمة ... Linux**](http://www.it-scoop.com/2011/04/eset-nod32-antivirus-4-linux/)
+[**ESET تطلق NOD32 Antivirus 4 لأنظمة ... Linux**](https://www.it-scoop.com/2011/04/eset-nod32-antivirus-4-linux/)
 
 
 كشفت ESET المتخصصة في الأمن و الحماية منذ أيام عن [إطلاق](http://www.eset.com/about/press/articles/article/eset-announces-eset-nod32-antivirus-for-linux/) نسخة موجهة لأنظمة Linux من مكافح الفيروسات الذي تنتجه NOD32.
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://static3.int.esetstatic.com/fileيوغرطة بن علي (Youghourta Benali)/Images/INT/Press/2011/EAV-Linux-press-600x380.png )
-](http://www.it-scoop.com/2011/04/eset-nod32-antivirus-4-linux/)
+](https://www.it-scoop.com/2011/04/eset-nod32-antivirus-4-linux/)
 
 و يتوفر NOD32 Antivirus 4 بنسختين، إحداها موجهة للمستخدمين العاديين و الأخرى للشركات. و سيسمح -كما يشير إليه موقع الشركة- بتوفير حماية أكبر لمستخدمي Linux خاصة من البرامج الضارة متعددة المنصات، كما يمكنه أيضا من اكتشاف البرامج الضارة الموجهة لأنظمة أخرى و عدم السماح لها بالانتشار.
 

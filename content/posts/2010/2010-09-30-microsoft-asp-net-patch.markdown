@@ -17,7 +17,7 @@ tags:
 - vulnerability
 ---
 
-**[Microsoft تنشر ترقيعا مستعجلا لثغرة في الـ ASP.Net تمكن من سرقة البيانات](http://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)**
+**[Microsoft تنشر ترقيعا مستعجلا لثغرة في الـ ASP.Net تمكن من سرقة البيانات](https://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)**
 
 
 
@@ -25,10 +25,10 @@ tags:
 
 قامت Microsoft بنشر ترقيع أمني لثغرة تم اكتشافها الأسبوع الماضي تتعلق بالـ ASP.net و التي تسمح بالحصول على صلاحيات المدير و سرقة بيانات المستخدمين و.
 
-[](http://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)
+[](https://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/aspnet-logo.gif)
-](http://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/aspnet-logo.gif)
+](https://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)
 
 تم الإعلان عن الثغرة في الـ 17 من سبتمبر على يد باحثين خلال مؤتمر أمني انعقد في الأرجنتين، و قد استغرقت Microsoft أكثر من 10 أيام لترقيع الثغرة، و على غير عادتها فإن الترقيع غير متوفر مباشرة من خلال Windows Update و إنما تطلب Microsoft من زبائنها [تحميل](http://www.microsoft.com/technet/security/bulletin/MS10-070.mspx) الترقيع و تنصيبه يدويا.
 

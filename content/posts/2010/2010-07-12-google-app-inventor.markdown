@@ -14,14 +14,14 @@ tags:
 - Google
 ---
 
-[Google تطلق App Inventor لتطوير برامج و ألعاب Android لغير المبرمجين](http://www.it-scoop.com/2010/07/google-app-inventor)
+[Google تطلق App Inventor لتطوير برامج و ألعاب Android لغير المبرمجين](https://www.it-scoop.com/2010/07/google-app-inventor)
 
 
 أطلقت Google اليوم خدمة جديدة تدعى App Inventor تتيح للمستعملين تطوير ألعاب و برامج Android من غير كتابة شفرات برمجية.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/screenshotabout1.png)
-](http://www.it-scoop.com/wp-content/uploads/2010/07/screenshotabout1.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/screenshotabout1.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/07/screenshotabout1.png)
 
 
 

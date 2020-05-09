@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/chrome-hacked-Pwn2Own.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/chrome-hacked-Pwn2Own.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/chrome-hacked-Pwn2Own.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/chrome-hacked-Pwn2Own.jpg)
 
 
 

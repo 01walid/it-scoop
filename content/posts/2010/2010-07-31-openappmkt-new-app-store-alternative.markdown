@@ -19,7 +19,7 @@ tags:
 - OpenAppMkt
 ---
 
-**[OpenAppMkt متجر لتطبيقات iPhone مكتوبة كلية بالـ HTML ينافس الـ AppStore](http://www.it-scoop.com/2010/07/OpenAppMkt-New-App-Store-Alternative)**
+**[OpenAppMkt متجر لتطبيقات iPhone مكتوبة كلية بالـ HTML ينافس الـ AppStore](https://www.it-scoop.com/2010/07/OpenAppMkt-New-App-Store-Alternative)**
 
 
 
@@ -28,7 +28,7 @@ tags:
 هل سيعرف الـ AppStore منافسة قوية في القريب العاجل؟ هذا ما سنعرفه خلال الأسابيع/الشهور القادمة، حيث فتح OpenAppMkt أبوابه منذ أيام قليلة فقط، و ما يميزه عن الـ AppStore هو احتواؤه على تطبيقات للـ iPhone مكتوبة كلية بالـ HTML و ينشر فيها المبرمجون تطبيقاتهم دون الحاجة إلى الحصول على مباركة Apple.
 
 [![](http://static.openappmkt.com/oam-logo1.png  )
-](http://www.it-scoop.com/2010/07/OpenAppMkt-New-App-Store-Alternative)
+](https://www.it-scoop.com/2010/07/OpenAppMkt-New-App-Store-Alternative)
 
 كما أن التطبيقات المتوفرة على الـ OpenAppMkt  يتم تنصيبها بطريقة قانونية على أجهزة الـ iPhone دون الحاجة إلى كسر حماية الجهاز أو ما يعرف بالـ jailbreak. مما يعني  أنه على Apple إيجاد صيغة جديدة لقوانينها لمنع الـ OpenAppMkt من منافسة الـ AppStore، أو لعرقلته.
 

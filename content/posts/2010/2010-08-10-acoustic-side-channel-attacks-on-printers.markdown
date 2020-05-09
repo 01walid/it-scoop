@@ -16,7 +16,7 @@ tags:
 - Usenix Security
 ---
 
-**[دراسة أمنية تكشف عن إمكانية سرقة البيانات بمجرد الاستماع إلى صوت الطابعة التي تطبعها](http://www.it-scoop.com/2010/08/acoustic-side-channel-attacks-on-printers)**
+**[دراسة أمنية تكشف عن إمكانية سرقة البيانات بمجرد الاستماع إلى صوت الطابعة التي تطبعها](https://www.it-scoop.com/2010/08/acoustic-side-channel-attacks-on-printers)**
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/dot-matrix-printer.jpg)
-](http://www.it-scoop.com/2010/08/acoustic-side-channel-attacks-on-printers)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/dot-matrix-printer.jpg)
+](https://www.it-scoop.com/2010/08/acoustic-side-channel-attacks-on-printers)
 
 
 الطابعات المعنية بالأمر هي الطابعات النقطية فقط dot-matrix printer  المعروفة بإصدارها لأصوات لدى الطباعة، حيث عمد الباحثون الأمنيون إلى طباعة ملايين الكلمات الموجودة في القواميس و تسجيل الصوت الذي يصدر عن كل كلمة و إدخالها في قاعدة بيانات كبيرة.

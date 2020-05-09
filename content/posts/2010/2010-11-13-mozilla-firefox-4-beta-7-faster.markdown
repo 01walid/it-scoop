@@ -12,7 +12,7 @@ tags:
 - Firefox 4 Beta 7
 ---
 
-**[Mozilla تزيد من سرعة متصفحها Firefox 4 Beta 7، لكن Chrome و Opera لا يزالان في المقدمة](http://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)**
+**[Mozilla تزيد من سرعة متصفحها Firefox 4 Beta 7، لكن Chrome و Opera لا يزالان في المقدمة](https://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)**
 
 
 
@@ -20,12 +20,12 @@ tags:
 ما زالت حرب المتصفحات مستعرة حيث استطاعت Mozilla أن ترفع من قدرة متصفحها Firefox بإصداره 4 beta 7 فيما يخص محرك JavaScript، لكن المتصفح للأسف ما زال يحتاج للكثير حتى يستطيع اللحاق بمنافسيه Chrome و Opera.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/12-11-2010-11-41-37_sm.png)
-](http://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/12-11-2010-11-41-37_sm.png)
+](https://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)
 
 يقدم Firefox 4 beta 7 العديد من التحسينات على الإصدار 3.6.12 ويظهر هذا واضحاً في اختبار القدرة SunSpider JavaScript benchmark والذي يظهر تحسناً في الأداء. لكن مع هذا ما يزال Firefox خلف Opera و Chrome في الترتيب.
 
-[](http://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)
+[](https://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)
 
 يقول Adrian Kingsley صاحب المقالة الأصلية على موقع CNet الإخباري بأنه قام بوضع IE8 في اللائحة فقط للضحك :)
 

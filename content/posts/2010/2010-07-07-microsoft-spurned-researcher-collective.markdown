@@ -15,18 +15,18 @@ tags:
 - MSRC
 ---
 
-**[باحثون أمنيون يعلنون عن تنظيم  MSRC المناهض لـ Microsoft  ردا على انتقاداتها لبعض مكتشفي الثغرات الأمنية](http://www.it-scoop.com/2010/07/Microsoft-Spurned-Researcher-Collective)**
+**[باحثون أمنيون يعلنون عن تنظيم  MSRC المناهض لـ Microsoft  ردا على انتقاداتها لبعض مكتشفي الثغرات الأمنية](https://www.it-scoop.com/2010/07/Microsoft-Spurned-Researcher-Collective)**
 
 
 
 
-أعلن باحثون أمنيون لم يكشفوا عن هوياتهم بعد عن إنشائهم لتنظيم جديد  أطلقوا عليه اسم Microsoft Spurned Researcher Collective (جماعة الباحثين المرفوضين من طرف Microsoft)، و هذا لاستنكارهم  لإعلان Microsoft الذي يشير إلى أن  أكثر من 10 آلاف جهاز قد تعرضت للهجوم بسبب إعلان Travis Ormandy  (العامل لدى Google) عن [ثغرة قام باكتشافها دون أن يعطي الوقت اللازم لـ Microsoft لتصحيحها](http://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw).
+أعلن باحثون أمنيون لم يكشفوا عن هوياتهم بعد عن إنشائهم لتنظيم جديد  أطلقوا عليه اسم Microsoft Spurned Researcher Collective (جماعة الباحثين المرفوضين من طرف Microsoft)، و هذا لاستنكارهم  لإعلان Microsoft الذي يشير إلى أن  أكثر من 10 آلاف جهاز قد تعرضت للهجوم بسبب إعلان Travis Ormandy  (العامل لدى Google) عن [ثغرة قام باكتشافها دون أن يعطي الوقت اللازم لـ Microsoft لتصحيحها](https://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw).
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/Patch-tuesday.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/04/Patch-tuesday.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Patch-tuesday.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/04/Patch-tuesday.jpg)
 
 
 

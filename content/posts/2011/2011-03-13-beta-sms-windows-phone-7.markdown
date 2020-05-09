@@ -14,14 +14,14 @@ tags:
 - Windows Phone 7
 ---
 
-[**Beta SMS : تطبيق لإرسال رسائل SMS مجانية أو بأسعار منخفضة على الـ Windows Phone 7 بأيادي جزائرية**](http://www.it-scoop.com/2011/03/beta-sms-windows-phone-7/)
+[**Beta SMS : تطبيق لإرسال رسائل SMS مجانية أو بأسعار منخفضة على الـ Windows Phone 7 بأيادي جزائرية**](https://www.it-scoop.com/2011/03/beta-sms-windows-phone-7/)
 
 
 أطلق المطور الجزائري [فخرو مرطاني](https://twitter.com/#!/martani_net) تطبيق Beta SMS الذي يوفر لمستخدمي أنظمة Windows Phone 7 إرسال رسائل نصية SMS مجانية أو بأسعار جد تنافسية.
 
 
 [![](http://lh6.ggpht.com/_MIqc395dv38/TXuNu8n7E6I/AAAAAAAACnU/2Lqvrsl3-Gs/s1600/s1%5B2%5D.png)
-](http://www.it-scoop.com/2011/03/beta-sms-windows-phone-7/)
+](https://www.it-scoop.com/2011/03/beta-sms-windows-phone-7/)
 
 
 يعتمد تطبيق Beta SMS على خدمات الـ VoIP و BetaMax  المعروفة بأسعارها التنافسية مقارنة بطرق التواصل التقليدية عبر الهواتف. و يتيح حاليا التعامل مع 15 مزود خدمات VoIP / BetaMax   أمثال Voip Discount وWebCallDirec. و بطبيعة الحال يتوجب امتلاك حساب على الخدمات المدعومة حاليا للاستفادة من التطبيق.

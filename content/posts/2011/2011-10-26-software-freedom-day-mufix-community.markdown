@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/software-freedom-day-mufix-community.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/10/software-freedom-day-mufix-community.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/software-freedom-day-mufix-community.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/10/software-freedom-day-mufix-community.png)
 
 
 

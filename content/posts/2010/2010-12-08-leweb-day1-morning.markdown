@@ -13,12 +13,12 @@ tags:
 - LeWeb 2010
 ---
 
-**[التغطية المباشرة من المجلة التقنية لـ LeWeb'10.](http://www.it-scoop.com/2010/12/leweb-day1-morning)**
+**[التغطية المباشرة من المجلة التقنية لـ LeWeb'10.](https://www.it-scoop.com/2010/12/leweb-day1-morning)**
 
 
 
 
-**[اليوم الأول](http://www.it-scoop.com/2010/12/leweb-day1-morning)**
+**[اليوم الأول](https://www.it-scoop.com/2010/12/leweb-day1-morning)**
 
 
 

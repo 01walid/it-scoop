@@ -13,7 +13,7 @@ tags:
 - Worm
 ---
 
-**[روابط Goo.gl خبيثة تنتشر على حسابات Twitter](%20http://www.it-scoop.com/2010/12/twitter-worm-goo-gl/)**
+**[روابط Goo.gl خبيثة تنتشر على حسابات Twitter](%20https://www.it-scoop.com/2010/12/twitter-worm-goo-gl/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)  
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)  
 
 
 
@@ -51,20 +51,20 @@ tags:
 
 
 
-[](http://www.it-scoop.com/wp-content/uploads/2010/12/twitter_malware.jpg)  
+[](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter_malware.jpg)  
 
 
 
 
 
-![](http://www.it-scoop.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
+![](https://www.it-scoop.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
 
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/twitter_malware.jpg)
-](%20http://www.it-scoop.com/2010/12/twitter-worm-goo-gl/)  
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter_malware.jpg)
+](%20https://www.it-scoop.com/2010/12/twitter-worm-goo-gl/)  
 
 
 

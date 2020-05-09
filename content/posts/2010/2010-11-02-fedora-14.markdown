@@ -14,7 +14,7 @@ tags:
 - Linux
 ---
 
-**[إطلاق الإصدارة الجديدة رقم 14 لتوزيعة Fedora](http://www.it-scoop.com/2010/11/fedora-14)**
+**[إطلاق الإصدارة الجديدة رقم 14 لتوزيعة Fedora](https://www.it-scoop.com/2010/11/fedora-14)**
 
 
 منذ قليل [انطلقت ](http://fedoraproject.org/wiki/Fedora_14_announcement?stF14)الإصدارة الجديدة من توزيعة  Linux Fedora ذات الرقم  14 والاسم   Laughlin وقد تم إطلاقها قبل الموعد المحدد بساعات .
@@ -22,8 +22,8 @@ tags:
 ولمن لا يعرف Fedora فهي إحدى التوزيعات الكبيرة لنظام Linux الرائع ,موجهة للمستخدم النهائي وتحتوي دائما على أحدث البرامج في كل المجالات . علما أنه يتم إطلاق إصدارة جديدة كل 6 أشهر.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/800px-Fedora-14-installationmedia-321.png)
-](http://www.it-scoop.com/2010/11/fedora-14)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/800px-Fedora-14-installationmedia-321.png)
+](https://www.it-scoop.com/2010/11/fedora-14)
 
 
 جاءت هذه الإصدارة الجديدة بميزات عديدة منها :
@@ -38,7 +38,7 @@ tags:
 
 بالنسبة للبرمجة نجد Ruby 1.8.7 , Python  2.7 ,Perl 5.12 , NetBeans 6.9 ودعم ل Perl 6
 
-أما الحدث الأهم الذي يرافق إطلاق Fedora 14 فهو إطلاقها في Amazon EC2 للأنظمة السحابية وقد تم ذلك الآن ,يمكنك معرفة المزيد عن هذا في الخبر الذي نشرناه سابقا [هنا](http://www.it-scoop.com/2010/10/fedora-cloud-computing/)
+أما الحدث الأهم الذي يرافق إطلاق Fedora 14 فهو إطلاقها في Amazon EC2 للأنظمة السحابية وقد تم ذلك الآن ,يمكنك معرفة المزيد عن هذا في الخبر الذي نشرناه سابقا [هنا](https://www.it-scoop.com/2010/10/fedora-cloud-computing/)
 
 رابط تحميل هذه الإصدارة من [هنا](http://fedoraproject.org/en/get-fedora) ,لمعلومت أكثر عنا من [هنا](http://fedoraproject.org/wiki/Releases/14/FeatureList) ,  معلومات للراغبين في التحديث من إصدار سابق [هنا ](http://fedoraproject.org/wiki/Upgrading)
 

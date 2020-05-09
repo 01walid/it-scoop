@@ -15,13 +15,13 @@ tags:
 - Windows Phone 7
 ---
 
-**[صدور Theme لاستعمال واجهة Windows Phone 7 على أجهزة iPhone ](http://www.it-scoop.com/2011/01/os7-windows-phone-7-theme-iphone)**
+**[صدور Theme لاستعمال واجهة Windows Phone 7 على أجهزة iPhone ](https://www.it-scoop.com/2011/01/os7-windows-phone-7-theme-iphone)**
 
 
 هل سبق لك و أن فكرت في كيفية الاستفادة من خصائص الـ iPhone و من واجهة Windows Phone 7 العلمية في آن واحد ؟ الأمر أصبح ممكنا الآن بفضل جهود أحد أعضاء موقع Modmyi و الذي استطاع كتابة Theme لنظام iOS و الذي سماه OS7 لجعل واجهات أجهزة الـ iPhone تبدو مثل نظيراتها على Windows Phone 7.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/theme-windows-phone-7-pour-iphone-os7.png)
-](http://www.it-scoop.com/2011/01/os7-windows-phone-7-theme-iphone/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/theme-windows-phone-7-pour-iphone-os7.png)
+](https://www.it-scoop.com/2011/01/os7-windows-phone-7-theme-iphone/)
 
 
 

@@ -13,13 +13,13 @@ tags:
 - RUST
 ---
 
-**[RUST: لغة البرمجة الخاصة بـ Mozilla و المنافسة للغة البرمجة Go](http://www.it-scoop.com/2010/12/mozilla-rust/)**
+**[RUST: لغة البرمجة الخاصة بـ Mozilla و المنافسة للغة البرمجة Go](https://www.it-scoop.com/2010/12/mozilla-rust/)**
 
 
 تعكف Mozilla حاليا على العمل على لغة برمجة جديدة خاصة بها أطلقت عليها اسم الكود RUST و التي يراد بها منافسة لغة برمجة GO الخاصة بمنافسها المباشر (في سوق المتصفحات)  Google .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/rust_code-sample_1110.png)
-](http://www.it-scoop.com/2010/12/mozilla-rust/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/rust_code-sample_1110.png)
+](https://www.it-scoop.com/2010/12/mozilla-rust/)
 
 لغة RUST شبيهة بلغة Go حيث أن كلاهما multi paradigm يعني أنهما تقبلان البرمجة الكائنية Object oriented، إجرائية procedural و وظيفية functional كما أنها معدة خصيصا لاستغلال قوة الأجهزة الحديثة و خاصة المعالجات متعددة الأنوية.
 
@@ -31,4 +31,4 @@ To design and implement a safe, concurrent, practical, static systems language.
 
 RUST متوفرة للتحميل من [هنا](https://github.com/graydon/rust/).
 
-في رأيك، إلى أين تود Mozilla الوصول بهذه اللغة ؟ و هل يمكنها أن تقنع المطورين باستخدامها؟ خاصة إذا ما علمنا أن نجم GO قل أفل بعد أن سطع طيلة أشهر خلت (حسب ترتيب [TIOBE](http://www.it-scoop.com/tag/tiobe/) للغات البرمجة الأكثر شعبية)
+في رأيك، إلى أين تود Mozilla الوصول بهذه اللغة ؟ و هل يمكنها أن تقنع المطورين باستخدامها؟ خاصة إذا ما علمنا أن نجم GO قل أفل بعد أن سطع طيلة أشهر خلت (حسب ترتيب [TIOBE](https://www.it-scoop.com/tag/tiobe/) للغات البرمجة الأكثر شعبية)

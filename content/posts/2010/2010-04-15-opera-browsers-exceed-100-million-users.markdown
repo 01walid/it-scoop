@@ -13,14 +13,14 @@ tags:
 - Opera
 ---
 
-[**متصفح Opera يكسر حاجز 100 مليون بمستخدميه**](http://www.it-scoop.com/2010/04/opera-browsers-exceed-100-million-users/)
+[**متصفح Opera يكسر حاجز 100 مليون بمستخدميه**](https://www.it-scoop.com/2010/04/opera-browsers-exceed-100-million-users/)
 
 
 هناك عبارة تقول "الـ 100 مليون الأولى هي الأصعب" وفيما يبدو أن Opera تؤمن بهذه العبارة عندما أعلنت في خبر رسمي على موقعها بأن متصفحها Opera قد كسر حاجز الـ 100 مليون مستخدم حول العالم، 50 مليون مستخدم منهم على أجهزة مكتبية تستخدم Windows, Mac, Linux أما الـ 50 مليون مستخدم الباقين فهم مستخدمي Opera Mini المخصص للأجهزة المحمولة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/opera-logo.jpg)
-](http://www.it-scoop.com/2010/04/opera-browsers-exceed-100-million-users/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/opera-logo.jpg)
+](https://www.it-scoop.com/2010/04/opera-browsers-exceed-100-million-users/)
 
 
 يقول Jon von Tetzchner، أحد مؤسسي متصفح Opera

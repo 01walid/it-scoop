@@ -26,8 +26,8 @@ tags:
 
 
 
-[![adobe flex logo](http://www.it-scoop.com/wp-content/uploads/2011/11/adobe-flex-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/11/adobe-flex-logo.png)
+[![adobe flex logo](https://www.it-scoop.com/wp-content/uploads/2011/11/adobe-flex-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/11/adobe-flex-logo.png)
 
 
 

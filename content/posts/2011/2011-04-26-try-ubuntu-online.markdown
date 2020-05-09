@@ -12,13 +12,13 @@ tags:
 - Ubuntu
 ---
 
-[**جرب Ubuntu مباشرة من خلال المتصفح**](http://www.it-scoop.com/2011/04/try-ubuntu-online/)
+[**جرب Ubuntu مباشرة من خلال المتصفح**](https://www.it-scoop.com/2011/04/try-ubuntu-online/)
 
 
 بعد أن أوقفت برنامج توزيع أقراص Ubuntu المجانية، فكرت Canonical في طريقة جديدة تسمح لمن يود اكتشاف و تجربة Ubuntu بالقيام ذلك مباشرة من خلال المتصفح.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu-300x79.png)
-](http://www.it-scoop.com/2011/04/try-ubuntu-online/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu-300x79.png)
+](https://www.it-scoop.com/2011/04/try-ubuntu-online/)
 
 و تأتي هذه الخطوة أياما قليلة فقط قبيل إطلاق الإصدار 11.04 ، إلا أنه و بسبب الإقبال الذي (سـ)ـتعرفه  الخدمة الجديدة فقد تم تحديد المدة المسموح بها لكل مستخدم بـ 15 دقيقة فقط.
 

@@ -16,15 +16,15 @@ tags:
 - socialDeck
 ---
 
-**[Google تسجل سادس عملية شراء لها خلال شهر بضمها socialDeck المتخصصة في الألعاب]( http://www.it-scoop.com/2010/09/google-socialdeck/)**
+**[Google تسجل سادس عملية شراء لها خلال شهر بضمها socialDeck المتخصصة في الألعاب]( https://www.it-scoop.com/2010/09/google-socialdeck/)**
 
 
 حطمت Google رقمها القياسي السابق المسجل في شهر أبريل و الذي كان شراءها لـ 5 شركات في شهر واحد، ليصل إلى 6 شركات في شهر أغسطس، و ذلك في سعيها لإطلاق شبكتها الاجتماعية Google Me.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/google-socialdeck.jpg)
-]( http://www.it-scoop.com/2010/09/google-socialdeck/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/google-socialdeck.jpg)
+]( https://www.it-scoop.com/2010/09/google-socialdeck/)
 
-فبعد شراء كل من [Slide](http://www.it-scoop.com/2010/08/google-slide/)، [jambool](http://www.it-scoop.com/2010/08/google-jambool-socia-gold/) ، [instantiations](http://www.instantiations.com/)، [Like.com](http://www.it-scoop.com/2010/08/google-like-com/)، [angstro](http://www.it-scoop.com/2010/08/google-angstro/) قامت Google بشراء شركة socialDeck المتخصصة هي أيضا في الألعاب و خاصة على هواتف الـ iPhone و الـ BlackBerry مقابل مبلغ لم يتم الكشف عنه.
+فبعد شراء كل من [Slide](https://www.it-scoop.com/2010/08/google-slide/)، [jambool](https://www.it-scoop.com/2010/08/google-jambool-socia-gold/) ، [instantiations](http://www.instantiations.com/)، [Like.com](https://www.it-scoop.com/2010/08/google-like-com/)، [angstro](https://www.it-scoop.com/2010/08/google-angstro/) قامت Google بشراء شركة socialDeck المتخصصة هي أيضا في الألعاب و خاصة على هواتف الـ iPhone و الـ BlackBerry مقابل مبلغ لم يتم الكشف عنه.
 
 الإعلان لم يتم على صفحات إحدى مدونات Google بعد، و إنما نجده على صفحة موقع socialDeck الرئيسية، و التي أشارت إلى ذلك قائلة:
 

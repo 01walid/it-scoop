@@ -24,13 +24,13 @@ tags:
 - Swing
 ---
 
-**[حملة مشروع jkoala لإحياء الـ Java على أنظمة Apple](http://www.it-scoop.com/2010/10/jkoala-project-to-keep-java-development-on-the-mac)**
+**[حملة مشروع jkoala لإحياء الـ Java على أنظمة Apple](https://www.it-scoop.com/2010/10/jkoala-project-to-keep-java-development-on-the-mac)**
 
 
-كنا قد كتبنا سابقا عن محن Java لهذا العام، ومن ذلك، ما فاجأت به Apple  الجميع  مؤخرا، [حين قررت إسقاط الدعم الرسمي منها للـ Java](http://www.it-scoop.com/2010/10/apple-not-committing-to-java-support/)، لكن يبدو أن محبي فنجان القهوة الساخنة لا يتخلون عنها ويريدون احتساءها على حواسيبهم على اختلاف أنظمتهم، وبحل وصفتها ستكون دواءً فعالاً لصداع الرأس الناتج عن Steve Jobs.
+كنا قد كتبنا سابقا عن محن Java لهذا العام، ومن ذلك، ما فاجأت به Apple  الجميع  مؤخرا، [حين قررت إسقاط الدعم الرسمي منها للـ Java](https://www.it-scoop.com/2010/10/apple-not-committing-to-java-support/)، لكن يبدو أن محبي فنجان القهوة الساخنة لا يتخلون عنها ويريدون احتساءها على حواسيبهم على اختلاف أنظمتهم، وبحل وصفتها ستكون دواءً فعالاً لصداع الرأس الناتج عن Steve Jobs.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/javacoffeecup.jpg)
-](http://www.it-scoop.com/2010/10/jkoala-project-to-keep-java-development-on-the-mac)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/javacoffeecup.jpg)
+](https://www.it-scoop.com/2010/10/jkoala-project-to-keep-java-development-on-the-mac)
 
 لم ينتظر Emmanuel Puybaret تحرك Oracle، بل قرر بنفسه قيادة هذه الحملة،  وسد رمق مدمني القهوة:) بوصفة مفتوحة المصدر فأطلق مشروع JKoala الذي يهدف إلى إكمال دعم Open Java Development Kit أو OpenJDK مفتوح المصدر على أنظمة الـ Macs حيث أن هذا الأخير لا يزال يفتقر إلى عملية دمج مع الواجهة الرسومية لأنظمة MAC OS X، فكان هذا المشروع لإضافة الطبقة الرسومية AWT / Swing لنظام Mac OS X / Cocoa  والمساعدة لإكمال دعم OpenJDK  في إطار زمني يسمح باستعماله في Mac OS X 10.7 "Lion,".
 

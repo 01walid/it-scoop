@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/foursquare-Promoted-Updates.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/foursquare-Promoted-Updates.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/foursquare-Promoted-Updates.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/foursquare-Promoted-Updates.jpg)
 
 
 

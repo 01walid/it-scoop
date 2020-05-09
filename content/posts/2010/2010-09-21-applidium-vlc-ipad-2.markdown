@@ -19,18 +19,18 @@ tags:
 - VLC
 ---
 
-**[VLC لأجهزة الـ iPad رسميا على الـ AppStore](http://www.it-scoop.com/2010/09/applidium-vlc-ipad-2/)**
+**[VLC لأجهزة الـ iPad رسميا على الـ AppStore](https://www.it-scoop.com/2010/09/applidium-vlc-ipad-2/)**
 
 
 
 
-بعد أن تم [إنهاء](http://www.it-scoop.com/2010/09/applidium-vlc-ipad) العمل عليه منذ  حوالي أسبوعين و تقديمه لـApple  لتوافق عليه،  ها هي شركة التفاحة المقضومة تعطي ضوءها الأخضر للإصدار الخاص بالـ iPad من قارئ الوسائط المتعددة VLC و السماح بتوفيره للتحميل المجاني على الـ AppStore.
+بعد أن تم [إنهاء](https://www.it-scoop.com/2010/09/applidium-vlc-ipad) العمل عليه منذ  حوالي أسبوعين و تقديمه لـApple  لتوافق عليه،  ها هي شركة التفاحة المقضومة تعطي ضوءها الأخضر للإصدار الخاص بالـ iPad من قارئ الوسائط المتعددة VLC و السماح بتوفيره للتحميل المجاني على الـ AppStore.
 
 
 
 
 [![](http://applidium.com/system/screenshots/17/original/vlc.jpg)
-](http://www.it-scoop.com/2010/09/applidium-vlc-ipad-2/)
+](https://www.it-scoop.com/2010/09/applidium-vlc-ipad-2/)
 
 
 

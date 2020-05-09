@@ -13,13 +13,13 @@ tags:
 - Zuckerberg
 ---
 
-[**الأخوان Winklevoss يسقطان الدعوة المرفوعة ضد Zuckerberg بتهمة سرقة فكرة Facebook**](http://www.it-scoop.com/2011/06/winklevoss-facebook-zuckerberg-2)
+[**الأخوان Winklevoss يسقطان الدعوة المرفوعة ضد Zuckerberg بتهمة سرقة فكرة Facebook**](https://www.it-scoop.com/2011/06/winklevoss-facebook-zuckerberg-2)
 
 
 هي الحلقة الأخيرة من مسلسل Winklevoss  ضد Zuckerberg من دون شك، حيث [قرر](http://www.theaustralian.com.au/news/world/winklevoss-twins-end-their-legal-battle-against-facebook-founder-mark-zuckerberg/story-e6frg6so-1226080509481) الأخوان التخلي عن الدعوة المرفوعة ضد غريمهما، و هذا بعد أن أوصلاها إلى المحكمة العليا.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/facebook-connectu.jpg)
-](http://www.it-scoop.com/2011/06/winklevoss-facebook-zuckerberg-2)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/facebook-connectu.jpg)
+](https://www.it-scoop.com/2011/06/winklevoss-facebook-zuckerberg-2)
 
 
 

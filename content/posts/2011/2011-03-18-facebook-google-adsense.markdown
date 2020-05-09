@@ -9,7 +9,7 @@ categories:
 - Web
 ---
 
-[**Facebook تطلب من مطوري تطبيقاتها التخلي عن Google AdSense**](http://www.it-scoop.com/2011/03/facebook-google-adsense/ )
+[**Facebook تطلب من مطوري تطبيقاتها التخلي عن Google AdSense**](https://www.it-scoop.com/2011/03/facebook-google-adsense/ )
 
 
 
@@ -19,8 +19,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/facebook_vs_google-300x225.jpg)
-](http://www.it-scoop.com/2011/03/facebook-google-adsense/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/facebook_vs_google-300x225.jpg)
+](https://www.it-scoop.com/2011/03/facebook-google-adsense/ )
 
 
 هذا ما [أشار إليه](http://www.insidefacebook.com/2011/03/16/drop-adsense-approved-ad-networks/) موقع inside facebook، و الحجة التي تعتمدها Facebook هذه المرة هو أن Google AdSense لا ينتمي إلى [قائمة الشبكات الإعلانية الـ 72](http://developers.facebook.com/adproviders/) المخول لها بالنشاط على صفحاتها، و هي القائمة التي تحتوي الشبكات التي وافقت على الشروط التي وضعتها Facebook شهر ديسمبر الماضي و التي لم ترق لـ Google و شبكتها الإعلانية.

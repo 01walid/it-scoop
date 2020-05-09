@@ -14,13 +14,13 @@ tags:
 - sony
 ---
 
-[**Sony تقرر إيقاف تسويق أقراص  floppy disk في اليابان خلال عام، لكن التسويق يبقى متواصلا في الهند**](http://www.it-scoop.com/2010/04/Sony-stop-floppy-disk-production-Japan-next-year)
+[**Sony تقرر إيقاف تسويق أقراص  floppy disk في اليابان خلال عام، لكن التسويق يبقى متواصلا في الهند**](https://www.it-scoop.com/2010/04/Sony-stop-floppy-disk-production-Japan-next-year)
 
 
 أعلنت Sony عن قرارها إيقاف تسويق أقراص floppy disk ذات ثلاث إنشات و نصف في اليابان ابتداءً من السادس من مارس 2011.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/floppy.jpg)
-](http://www.it-scoop.com/2010/04/Sony-stop-floppy-disk-production-Japan-next-year)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/floppy.jpg)
+](https://www.it-scoop.com/2010/04/Sony-stop-floppy-disk-production-Japan-next-year)
 
 Sony و التي سوقت أولى أقراص floppy disk في اليابان سنة 1983 استطاعت بين ما يزيد عن 47 مليون وحدة منها سنة 2000.
 

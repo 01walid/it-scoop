@@ -12,7 +12,7 @@ tags:
 - Tumblr
 ---
 
-[**شبكة التدوين المصغر Tumblr ستحصل على تمويل يرفع قيمتها إلى 800 مليون دولار**](http://www.it-scoop.com/2011/08/tumblr-800-million-dollars/)
+[**شبكة التدوين المصغر Tumblr ستحصل على تمويل يرفع قيمتها إلى 800 مليون دولار**](https://www.it-scoop.com/2011/08/tumblr-800-million-dollars/)
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo.png)
-](http://www.it-scoop.com/2011/08/tumblr-800-million-dollars/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo.png)
+](https://www.it-scoop.com/2011/08/tumblr-800-million-dollars/)
 
 
 

@@ -13,7 +13,7 @@ tags:
 - The C Programming Language
 ---
 
-[**عالم البرمجة يفقد Dennis Ritchie مطور لغة C البرمجية**](http://www.it-scoop.com/2011/10/dennis-ritchie/)
+[**عالم البرمجة يفقد Dennis Ritchie مطور لغة C البرمجية**](https://www.it-scoop.com/2011/10/dennis-ritchie/)
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/10/dennis_ritchie.jpg)
-](http://www.it-scoop.com/2011/10/dennis-ritchie/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/10/dennis_ritchie.jpg)
+](https://www.it-scoop.com/2011/10/dennis-ritchie/)
 
 
 

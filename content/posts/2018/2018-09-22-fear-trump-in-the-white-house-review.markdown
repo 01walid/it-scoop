@@ -16,13 +16,13 @@ categories:
 
 
 
-هذا ثالث كتاب أقرأه حول البيت الأبيض في زمن ترامب. الكتاب الأول "[نار وغضب](http://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/)" كان مُمتعًا بحكم أنه اعتمد أسلوب نقل الأخبار (وربما بعض الطرائف) حول ترامب. الكتاب الثاني "[ولاء أعلى](http://www.it-scoop.com/2018/08/a-higher-loyalty-truth-lies-and-leadership-review/)" كان مُحاولة كاتبه تبييض صورته ورفضه تحمل أية مسؤولية في وصول ترامب إلى سدّة الحكم. أما هذا الكتاب فقد يُصبح مصدرًا من مصادر كتابة التاريخ لاحقًا، حيث تميّز بالرّصانة وحاول نقل الأوضاع كما هي، بل وحتى تجنيب تصوير أي "شخصية" في الكتاب بصورة أسوأ مما هي عليه.
+هذا ثالث كتاب أقرأه حول البيت الأبيض في زمن ترامب. الكتاب الأول "[نار وغضب](https://www.it-scoop.com/2018/01/fire-and-fury-inside-the-trump-white-house/)" كان مُمتعًا بحكم أنه اعتمد أسلوب نقل الأخبار (وربما بعض الطرائف) حول ترامب. الكتاب الثاني "[ولاء أعلى](https://www.it-scoop.com/2018/08/a-higher-loyalty-truth-lies-and-leadership-review/)" كان مُحاولة كاتبه تبييض صورته ورفضه تحمل أية مسؤولية في وصول ترامب إلى سدّة الحكم. أما هذا الكتاب فقد يُصبح مصدرًا من مصادر كتابة التاريخ لاحقًا، حيث تميّز بالرّصانة وحاول نقل الأوضاع كما هي، بل وحتى تجنيب تصوير أي "شخصية" في الكتاب بصورة أسوأ مما هي عليه.
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/09/fear-trump-in-the-white-house.jpg)
-](http://www.it-scoop.com/2018/09/fear-trump-in-the-white-house-review/fear-trump-in-the-white-house/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/09/fear-trump-in-the-white-house.jpg)
+](https://www.it-scoop.com/2018/09/fear-trump-in-the-white-house-review/fear-trump-in-the-white-house/)
 
 
 

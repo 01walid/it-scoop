@@ -14,13 +14,13 @@ tags:
 - Siri
 ---
 
-[**Apple تشتري شركة Siri صاحبة تطبيق Siri Assistant المتخصص في البحث الصوتي**](http://www.it-scoop.com/2010/04/apple-acquires-siri/)
+[**Apple تشتري شركة Siri صاحبة تطبيق Siri Assistant المتخصص في البحث الصوتي**](https://www.it-scoop.com/2010/04/apple-acquires-siri/)
 
 
 تواصل Apple عمليات شراء الشركات الناشئة، و هذه المرة ضمت إليها شركة Siri صاحبة تطبيق Siri Assistant المتخصص في البحث عن طريق الصوت في صفقة يعتقد المحللون أن قيمتها ستكون ما بين 100 و 200 مليون دولار.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/siri-logo.jpeg)
-](http://www.it-scoop.com/2010/04/apple-acquires-siri/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/siri-logo.jpeg)
+](https://www.it-scoop.com/2010/04/apple-acquires-siri/)
 
 تطبيق Siri Assistant و المتوفر حاليا في الولايات المتحدة فقط، يقوم على أساس أن يطرح عليه المستخدم أسئلة و يتولى هو البحث عن إجابة، حيث يعتمد على مواقع متخصصة للقيام بذلك،حيث تظهر الفيديو التعريفية بالتطبيق (انظر أدناه) كيف يقوم المستخدم بطرح أسئلة عن  أقرب مطعم، أو دور العرض التي تعرض فيلما معينا، و ما إلى ذلك من أسئلة الحياة اليومية، و كيف يقوم التطبيق بالإجابة عليها.
 

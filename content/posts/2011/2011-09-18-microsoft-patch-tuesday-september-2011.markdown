@@ -14,7 +14,7 @@ tags:
 - Windows
 ---
 
-[**Microsoft ترقع ثغرة في غاية الخطورة تمس جميع إصدارات Windows**](http://www.it-scoop.com/2011/09/microsoft-patch-tuesday-september-2011)
+[**Microsoft ترقع ثغرة في غاية الخطورة تمس جميع إصدارات Windows**](https://www.it-scoop.com/2011/09/microsoft-patch-tuesday-september-2011)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/broken-microsoft.jpg)
-](http://www.it-scoop.com/2011/09/microsoft-patch-tuesday-september-2011)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/broken-microsoft.jpg)
+](https://www.it-scoop.com/2011/09/microsoft-patch-tuesday-september-2011)
 
 
 

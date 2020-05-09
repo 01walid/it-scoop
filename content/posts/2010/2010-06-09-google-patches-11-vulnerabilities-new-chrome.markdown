@@ -16,7 +16,7 @@ tags:
 - vulnerability
 ---
 
-**[Google ترقع 11 ثغرة في متصفح Chrome، إحداها تمكن من تجاوز الـ Sandbox على Linux](http://www.it-scoop.com/2010/06/Google-patches-11-vulnerabilities-new-Chrome)**
+**[Google ترقع 11 ثغرة في متصفح Chrome، إحداها تمكن من تجاوز الـ Sandbox على Linux](https://www.it-scoop.com/2010/06/Google-patches-11-vulnerabilities-new-Chrome)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 قامت Google بنشر تحديث للإصدار الخامس من متصفحها Google Chrome يقوم بترقيع 11 ثغرة ساهمت العديد من الأطراف في اكتشافها، و من بينها ثغرة تسمح بتجاوز الـ Sandbox في النسخة الخاصة بأنظمة Linux.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
-](http://www.it-scoop.com/2010/06/Google-patches-11-vulnerabilities-new-Chrome)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
+](https://www.it-scoop.com/2010/06/Google-patches-11-vulnerabilities-new-Chrome)
 
 9 من الثغرات المكتشفة وصفت درجة خطورتها بالكبيرة و الاثنتان الباقيتان وصفت خطورتهما بالمتوسطة. و ساهم في اكتشافها كل من الفريق الأمني الخاص بـ Google، شركة Apple بحكم استعمالها لنفس محرك WebKit على متصفح Safari، إضافة إلى باحثان أمنيان مستقلان،  تلقى أحدهما مبلغ 500 دولار مقابل الثغرة المكتشفة، و الثاني مبلغ 2000 دولار و هي المكافئة التي تجاوزت سقف 1337  دولار التي رصدتها Google لمكتشفي الثغرات على متصفحها.
 

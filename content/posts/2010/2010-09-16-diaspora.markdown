@@ -13,18 +13,18 @@ tags:
 - facebook
 ---
 
-**[نشر الشفرة المصدرية لـ Diaspora، الشبكة الاجتماعية الموزعة و مفتوحة المصدر](http://www.it-scoop.com/2010/09/diaspora/)**
+**[نشر الشفرة المصدرية لـ Diaspora، الشبكة الاجتماعية الموزعة و مفتوحة المصدر](https://www.it-scoop.com/2010/09/diaspora/)**
 
 
 
 
-كما كان [منتظرا](http://www.it-scoop.com/2010/08/diaspora-september-15/)، أطلق فريق عمل [Diaspora](http://www.joindiaspora.com/) ،الشبكة الاجتماعية الموزعة و مفتوحة المصدر  الشفرة  المصدرية الأولية لها.
+كما كان [منتظرا](https://www.it-scoop.com/2010/08/diaspora-september-15/)، أطلق فريق عمل [Diaspora](http://www.joindiaspora.com/) ،الشبكة الاجتماعية الموزعة و مفتوحة المصدر  الشفرة  المصدرية الأولية لها.
 
 
 
 
 [![](http://www.joindiaspora.com/images/screenshots/stream.png)
-](http://www.it-scoop.com/2010/09/diaspora/)
+](https://www.it-scoop.com/2010/09/diaspora/)
 
 
 التوزيع هنا يقصد به أن تقوم الشبكة على مبدأ عمل الـP2P  حيث أنه لن يتم حفظ البيانات على خادم واحد أو خوادم تنتمي إلى هئية معينة مثلما هو الحال مع Facebook، و إنما سيستضيف الأعضاء بياناتهم و بيانات من يودون من أصدقائهم على خوادمهم الخاصة، أو على خوادم معينة يختارونها.

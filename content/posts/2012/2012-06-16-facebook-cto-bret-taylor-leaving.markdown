@@ -20,8 +20,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/Bret-Taylor-facebook-cto.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/Bret-Taylor-facebook-cto.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/Bret-Taylor-facebook-cto.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/Bret-Taylor-facebook-cto.jpg)
 
 
 

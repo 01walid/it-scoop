@@ -17,8 +17,8 @@ tags:
 
 
 
-[![رسم بياني حول أطوال التغريدات المنشورة على تويتر](http://www.it-scoop.com/wp-content/uploads/2012/01/most-tweets-posted-are-approximately-30-characters-long.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/most-tweets-posted-are-approximately-30-characters-long.png)
+[![رسم بياني حول أطوال التغريدات المنشورة على تويتر](https://www.it-scoop.com/wp-content/uploads/2012/01/most-tweets-posted-are-approximately-30-characters-long.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/most-tweets-posted-are-approximately-30-characters-long.png)
 
 
 

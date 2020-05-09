@@ -14,7 +14,7 @@ tags:
 - Mobile Applications
 ---
 
-**[Gartner: توقعات بتجاوز سوق تطبيقات الهواتف حاجز 15 مليار دولار خلال 2011](http://www.it-scoop.com/2011/01/mobile-application-store-revenue-to-surpass-15-billion-2011)**
+**[Gartner: توقعات بتجاوز سوق تطبيقات الهواتف حاجز 15 مليار دولار خلال 2011](https://www.it-scoop.com/2011/01/mobile-application-store-revenue-to-surpass-15-billion-2011)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/phone-apps.jpg)
-](http://www.it-scoop.com/2011/01/mobile-application-store-revenue-to-surpass-15-billion-2011)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/phone-apps.jpg)
+](https://www.it-scoop.com/2011/01/mobile-application-store-revenue-to-surpass-15-billion-2011)
 
 
 أما فيما يخص العوائد المالية فلقد سجلت هذه التطبيقات  ما يقدر بـ 5.2 مليار دولار خلال 2010، و بالرغم من أن التوقعات تشير إلى أن التطبيقات المجانية ستبقى في الطليعة بنسبة تقدر بـ 81% من حجم هذا السوق إلا أن مجمل المداخيل سيصل إلى 15.1 مليار دولار خلال هذا العام.

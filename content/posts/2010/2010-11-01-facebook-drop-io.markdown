@@ -13,7 +13,7 @@ tags:
 - facebook
 ---
 
-**[Facebook تضع يدها على خدمة حفظ و تشارك الملفات Drop.io](http://www.it-scoop.com/2010/11/facebook-drop-io/)**
+**[Facebook تضع يدها على خدمة حفظ و تشارك الملفات Drop.io](https://www.it-scoop.com/2010/11/facebook-drop-io/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://drop.io/images/homepageLogo3.gif)
-](http://www.it-scoop.com/2010/11/facebook-drop-io/)
+](https://www.it-scoop.com/2010/11/facebook-drop-io/)
 
 
 

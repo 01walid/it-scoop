@@ -14,7 +14,7 @@ tags:
 - Google
 ---
 
-[**Google تعلن عن**** Chrome Web Store**** سوق تطبيقات جديد لمتصفح Chrome**](http://www.it-scoop.com/2010/05/google-web-app-store/)
+[**Google تعلن عن**** Chrome Web Store**** سوق تطبيقات جديد لمتصفح Chrome**](https://www.it-scoop.com/2010/05/google-web-app-store/)
 
 
 
@@ -22,7 +22,7 @@ tags:
 خلال مؤتمر I/O الذي انطلق أمس و يتواصل لمدة يومين، قامت Google بالإعلان على العديد من الخدمات و التقنيات الجديدة التي أطلقتها أو التي تنوي إطلاقها، و التي من بينها Chrome Web Store** ** و المتثمل في متجر لتطبيقات Chrome، على شاكلة متجر تطبيقات Android أو الـ App Store الخاص بـ Apple.
 
 [![](http://code.google.com/intl/fr/chrome/apps/images/launcher.png)
-](http://www.it-scoop.com/2010/05/google-web-app-store/)
+](https://www.it-scoop.com/2010/05/google-web-app-store/)
 
 يسمح المتجر للمطورين بعرض تطبيقاتهم مجانا ، أو بيعها و الحصول على مقابل لها بواسطة Checkout  خدمة الدفع عبر الإنترنت الخاصة بـ Google .
 

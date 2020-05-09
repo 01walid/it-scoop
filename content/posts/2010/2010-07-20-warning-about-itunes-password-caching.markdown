@@ -14,7 +14,7 @@ tags:
 - Security
 ---
 
-**[ نشر تنبيه لمستخدمي iTunes من ميزة حفظ كلمات السر](http://www.it-scoop.com/2010/07/warning-about-itunes-password-caching)**
+**[ نشر تنبيه لمستخدمي iTunes من ميزة حفظ كلمات السر](https://www.it-scoop.com/2010/07/warning-about-itunes-password-caching)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/itunes-logo.jpg)
-](http://www.it-scoop.com/2010/07/warning-about-itunes-password-caching)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/itunes-logo.jpg)
+](https://www.it-scoop.com/2010/07/warning-about-itunes-password-caching)
 يروى الناشر Adam Engst قصة مصمم Mike Rohde الذي يدخل إلى iTunes عبر جهازه iPad. يشتري برنامجاً ومن ثم أثناء قيامه بتحميله، يقوم ابنه ذو السبعة أعوام، بنفسه، بالدخول من غير قصد لشراء برامج كلفتها المئات من الدولارات. :D .
 
 

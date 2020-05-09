@@ -13,14 +13,14 @@ tags:
 - Google TV
 ---
 
-**[Google Tv في الولايات المتحدة الأسابيع القليلة المقبلة والعالم أجمع خلال 2011](http://www.it-scoop.com/2010/09/google-tv-this-fall-in-usa/)**
+**[Google Tv في الولايات المتحدة الأسابيع القليلة المقبلة والعالم أجمع خلال 2011](https://www.it-scoop.com/2010/09/google-tv-this-fall-in-usa/)**
 
 
 ستشرع Google  في إطلاق منصتها التلفزية Google Tv  في الولايات المتحدة الأمريكية خلال الأسابيع القليلة المقبلة،  والتي من خلالها يمكن لأجهزة التلفاز المذمجة بهذه الخدمة، الاتصال بالإنترنت وتحميل المحتوى كالأفلام وغيرها ...
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/google-tv.jpg)
-](http://www.it-scoop.com/2010/09/google-tv-this-fall-in-usa/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/google-tv.jpg)
+](https://www.it-scoop.com/2010/09/google-tv-this-fall-in-usa/)
 
 
 
@@ -40,4 +40,4 @@ tags:
 
 لا تأبى هذه الشركات إلا تنويع نشاطاتها، فلو تلاحظ عزيزي القارئ أن آبل قد جاءت بخدمة  Apple TV لمزامنة واستئجار الأفلام، وكذا Amazon بخدمة VoD مدفوعة وتوفيرها سواء على موقعها أو على أجهزة تلفاز متصلة بالأنترنت، كذلك فعلت Microsoft مع أجهزة الـ Xbox، فكيف تفسر هذا الاهتمام المفاجئ بقطاع التلفزة ؟ وماهي آفاقه في عالمنا العربي مع تدني سرعات الأنترنت؟
 
-وهل Google TV سبب [دعم Youtube للفيديو عالي الدقة](http://www.it-scoop.com/2010/07/youtube-4k/) لغرض دمجه بالخدمة ؟
+وهل Google TV سبب [دعم Youtube للفيديو عالي الدقة](https://www.it-scoop.com/2010/07/youtube-4k/) لغرض دمجه بالخدمة ؟

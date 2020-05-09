@@ -15,13 +15,13 @@ tags:
 - skype
 ---
 
-[**Mozilla توقف إضافة Skype لمتصفح Firefox بسبب الانهيارات التي تسببها**](http://www.it-scoop.com/2011/01/mozilla-skype-firefox-addon/)
+[**Mozilla توقف إضافة Skype لمتصفح Firefox بسبب الانهيارات التي تسببها**](https://www.it-scoop.com/2011/01/mozilla-skype-firefox-addon/)
 
 
 قررت Mozilla [إيقاف ](http://blog.mozilla.com/addons/2011/01/20/blocking-the-skype-toolbar-in-firefox/)إضافة Skype لمتصفح Firefox و التي تسبب في أكثر من 40 ألفا انهيارا في الفترة الماضية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/skype-add-on-firefox-extension.jpg)
-](http://www.it-scoop.com/2011/01/mozilla-skype-firefox-addon/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/skype-add-on-firefox-extension.jpg)
+](https://www.it-scoop.com/2011/01/mozilla-skype-firefox-addon/)
 
 و تأتي هذه الإضافة مضمنة مع إصدار Windows من Skype حيث تسمح بتسهيل الاتصال عبر هذا التطبيق بالأرقام الظاهرة على الصفحات المستعرضة، إلا أن المشاكل التي سببتها مؤخرا دفعت بـ Mozilla  إلى إيقافها و إخطار المستخدمين بذلك، مع ترك الخيار لهم في إعادة تفعيلها من عدمه.
 

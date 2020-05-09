@@ -13,7 +13,7 @@ tags:
 - Mark Zuckerberg
 ---
 
-**[مليار دولار و مليار مستخدم ... قريبا على الـ Facebook](http://www.it-scoop.com/2010/06/Facebook-aiming-for-1-billion-users)**
+**[مليار دولار و مليار مستخدم ... قريبا على الـ Facebook](https://www.it-scoop.com/2010/06/Facebook-aiming-for-1-billion-users)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/zuckerberg-facebook.jpg)
-](http://www.it-scoop.com/2010/06/Facebook-aiming-for-1-billion-users)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/zuckerberg-facebook.jpg)
+](https://www.it-scoop.com/2010/06/Facebook-aiming-for-1-billion-users)
 
 
 و  نقلت جريدة الـ Guardian البريطانية عنه فإن تحقيق ذلك قبل نهاية السنة الجارية أشبه بالمستحيل لكنه آت لا محالة.

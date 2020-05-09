@@ -48,12 +48,12 @@ tags:
 
 أعود الآن للقول، بشكل مثير للسخرية، البارحة وصلتني رسالة تنبيه بأن هناك مشاركة جديدة في مدوّنتي الشخصية في آخر موضوع نشرته "[Perhaps the blog is dead, but..](http://xacker.wordpress.com/2009/11/23/perhaps-the-blog-is-dead-but/)" لأجد المشاركة التالية:
 
-![](http://www.it-scoop.com/wp-content/uploads/2009/11/untitled.PNG)
+![](https://www.it-scoop.com/wp-content/uploads/2009/11/untitled.PNG)
 
 
 وفي محاولة لرؤية موقع صاحب المشاركة hXXp://gnom.cc فوجئت بأن الموقع مستضاف لدى.. نعم، Servage.net - وقد تم إيقاف حسابه :D
 
-![](http://www.it-scoop.com/wp-content/uploads/2009/11/untitled2.PNG)
+![](https://www.it-scoop.com/wp-content/uploads/2009/11/untitled2.PNG)
 
 
 إن دل هذا على شئ إنما يدل على أن الحملة ما زالت قائمة لكن يتم اتخاذ الإجراءات المضادة تجاهها.

@@ -16,13 +16,13 @@ tags:
 - Sudoku
 ---
 
-**[Google Goggles ليس مجرد تطبيق للبحث المرئي و إنما أداة لحل للـ Sudoku أيضا](http://www.it-scoop.com/2011/01/google-goggles-sudoku/)**
+**[Google Goggles ليس مجرد تطبيق للبحث المرئي و إنما أداة لحل للـ Sudoku أيضا](https://www.it-scoop.com/2011/01/google-goggles-sudoku/)**
 
 
 أطلقت Google اليوم التحديث 1.3  لتطبيقها Google Goggles على هواتف Android و iPhone و الذي أضافت إليه العديد من التحسينات التي تجعل التطبيق أفضل بكثير.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/sudoku-goggles.png)
-](http://www.it-scoop.com/2011/01/google-goggles-sudoku/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/sudoku-goggles.png)
+](https://www.it-scoop.com/2011/01/google-goggles-sudoku/)
 
 من بين هذه التحسينات نجد قراءة الـ barcode و الـ QR code  بسرعة فائقة، و تعرفه على الإعلانات المطبوعة، لكن الإضافة التي ستسيل الكثير من الحبر هي خاصية حل جداول لعبة Sudoku بسرعة كبيرة.
 

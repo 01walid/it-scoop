@@ -20,8 +20,8 @@ tags:
 
 
 
-[![جوجل تصدر ترقيعا جديدا لمتصفح كروم](http://www.it-scoop.com/wp-content/uploads/2012/01/google-Chrome-Patch.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/google-Chrome-Patch.jpg)
+[![جوجل تصدر ترقيعا جديدا لمتصفح كروم](https://www.it-scoop.com/wp-content/uploads/2012/01/google-Chrome-Patch.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/google-Chrome-Patch.jpg)
 
 
 

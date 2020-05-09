@@ -16,7 +16,7 @@ tags:
 - Firefox 7 Aurora
 ---
 
-[**Mozilla تكشف عن Firefox 6 Beta و تبدأ التحضير لـ Firefox 7**](http://www.it-scoop.com/2011/07/firefox-6-beta-firefox-7-aurora)
+[**Mozilla تكشف عن Firefox 6 Beta و تبدأ التحضير لـ Firefox 7**](https://www.it-scoop.com/2011/07/firefox-6-beta-firefox-7-aurora)
 
 
 
@@ -26,8 +26,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/mozilla-firefox.jpg)
-](http://www.it-scoop.com/2011/07/firefox-6-beta-firefox-7-aurora)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/mozilla-firefox.jpg)
+](https://www.it-scoop.com/2011/07/firefox-6-beta-firefox-7-aurora)
 
 
 

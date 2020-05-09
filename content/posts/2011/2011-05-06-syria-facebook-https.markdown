@@ -16,7 +16,7 @@ tags:
 ---
 
 [**أنباء عن تزوير شهادة الـ SSL الخاصة بالـ Facebook في سوريا**
-](http://www.it-scoop.com/2011/05/syria-facebook-https/ )
+](https://www.it-scoop.com/2011/05/syria-facebook-https/ )
 
 
 أفادت [بعض التقارير](https://www.eff.org/deeplinks/2011/05/syrian-man-middle-against-facebook) أن وزارة الاتصال السورية تقوم بتزوير شهادات HTTPS الخاصة بشبكة Facebook الاجتماعية مما يجعل حسابات مستخدمي Facebook السوريين غير آمنة و إمكانية الوصول إلى كلمات سر حساباتهم جد واردة.
@@ -26,7 +26,7 @@ tags:
 
 
 [![](http://img834.imageshack.us/img834/1117/22209019565753636891521.jpg)
-](http://www.it-scoop.com/2011/05/syria-facebook-https/ )
+](https://www.it-scoop.com/2011/05/syria-facebook-https/ )
 
 
 

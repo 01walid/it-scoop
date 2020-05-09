@@ -12,13 +12,13 @@ tags:
 - youtube
 ---
 
-[**Youtube يطفئ شمعته الخامسة، و يتجاوز حاجز ملياري مشاهدة يومية**](http://www.it-scoop.com/2010/05/youtube-turns-five/)
+[**Youtube يطفئ شمعته الخامسة، و يتجاوز حاجز ملياري مشاهدة يومية**](https://www.it-scoop.com/2010/05/youtube-turns-five/)
 
 
 احتفل موقع مشاركة الفيديو عبر الإنترنت Youtube بإكماله سنته الخامسة و تجاوز حاجز ملياري مشاهدة يومية، و هذا في ظل جملة من التغييرات و التحسينات التي طرأت على الموقع خلال السنوات الخمس الماضية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo.jpg)
-](http://www.it-scoop.com/2010/05/youtube-turns-five/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/youtube-logo.jpg)
+](https://www.it-scoop.com/2010/05/youtube-turns-five/)
 
 كما يعرف الموقع إضافة  أكثر من 24 ساعة من الفيديوهات كل دقيقة، و هو ما سمح للموقع تسجيل أكثر من ملياري مشاهدة يومية و هو ما يمثل ما يقارب ضعف مقدار مشاهدة أكبر ثلاث قنوات تلفزيونية أمريكية في أوقات الذروة حسب ما ذُكر على مدونة Youtube الرسمية.
 

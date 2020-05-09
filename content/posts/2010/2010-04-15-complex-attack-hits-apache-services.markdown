@@ -16,14 +16,14 @@ tags:
 - JIRA
 ---
 
-[**هجوم معقّد يصيب خدمات Apache.org**](http://www.it-scoop.com/2010/04/Complex-Attack-Hits-Apache-Services)
+[**هجوم معقّد يصيب خدمات Apache.org**](https://www.it-scoop.com/2010/04/Complex-Attack-Hits-Apache-Services)
 
 
 أعلنت Apache Software Foundation (ASF) بأن عدداً  من خدماتها تعرضت لمحاولات اختراق معقّدة أدت في نهاية المطاف إلى اختراق أحد خوادمها كليّاً وآخر بشكل جزئي. عدد غير قليل من hash كلمات السر غير الآمنة تعرض للسرقة من أجهزة المنظمة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/apache_logo_.png)
-](http://www.it-scoop.com/2010/04/Complex-Attack-Hits-Apache-Services)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/apache_logo_.png)
+](https://www.it-scoop.com/2010/04/Complex-Attack-Hits-Apache-Services)
 
 
 بدأ الهجوم حسب التصريحات في 5 أبريل/نيسان عندما قام أحدهم بإنشاء صفحة خطأ وهمية في [JIRA](http://www.atlassian.com/software/jira/)، وهو أحد حلول إدارة المشاريع المطوّر من قبل شركة تدعى [Atlassian](http://www.atlassian.com) والذي يستخدم من قبل ASF. هذه الصفحة الدخيلة احتوت على رابط TinyURL مختصر، والذي إذا تم فتحه، يقوم باستغلال ثغرة XSS غير معلن عنها في JIRA الأمر الذي يسمح من خلاله بسرقة الكوكيز الخاصة بالـ session للمستخدمين المتصلين.

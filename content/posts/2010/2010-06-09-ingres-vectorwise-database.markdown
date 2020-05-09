@@ -13,7 +13,7 @@ tags:
 - VectorWise
 ---
 
-**[إطلاق Ingres VectorWise أسرع بـ 70 مرة من جميع قواعد البيانات المنافسة](http://www.it-scoop.com/2010/06/ingres-vectorwise-database/)**
+**[إطلاق Ingres VectorWise أسرع بـ 70 مرة من جميع قواعد البيانات المنافسة](https://www.it-scoop.com/2010/06/ingres-vectorwise-database/)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/vectorwise.png)
-](http://www.it-scoop.com/2010/06/ingres-vectorwise-database/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/vectorwise.png)
+](https://www.it-scoop.com/2010/06/ingres-vectorwise-database/)
 
 
 Ingres VectorWise مفتوحة المصدر والمنشورة تحت رخصة GPL، توفر أداء يقدر ما بين 10 إلى 70 مرة أسرع من جميع أنظمة إدارة قواعد البيانات الأخرى، و هو الأمر الذي دعمته ردود فعل مشتركي الإصدار التجريبي منه، و يرجع ذلك إلى كتابة Ingres VectorWise بطريقة ليستفيد إلى أقصى حد من قوة المعالجات الحديثة، حيث ساهمت Intel و بشكل كبير في تطويره لجعله متوافقا مع معالجاتها. حيث يشير Marcin Zukowski الـ CEO و أحد مؤسسي الشركة إلى استعمال تقنيات كانت -إلى وقت قريب- حكرا على تطبيقات معالجة الفيديوهات و الألعاب.

@@ -16,13 +16,13 @@ tags:
 - Windows
 ---
 
-[**Google تتخلص داخليا من أنظمة Windows تدريجيا، و ذلك لأسباب أمنية**](http://www.it-scoop.com/2010/06/google-bans-windows/)
+[**Google تتخلص داخليا من أنظمة Windows تدريجيا، و ذلك لأسباب أمنية**](https://www.it-scoop.com/2010/06/google-bans-windows/)
 
 
 ذكرت جريدة Financial Times البريطانية الشهيرة عن أن Google أصبحت تطلب من موظفيها التوقف عن استعمال أنظمة Windows  على أجهزتهم و ذلك لأسباب أمنية.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/Google-VS-Microsoft.jpg)
-](http://www.it-scoop.com/2010/06/google-bans-windows/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Google-VS-Microsoft.jpg)
+](https://www.it-scoop.com/2010/06/google-bans-windows/)
 
 حسب نفس الجريدة، فإن هذا القرار تم اتخاذه ابتداءً من شهر يناير المنصرم، و هذا بعيد الهجمات التي تعرض لها محرك البحث من طرف جهات صينية خلال نهاية العام الماضي و التي استغلت ثغرات موجودة في نظام Windows XP و متصفح Internet Explorer 6 للحصول على بيانات حساسة.
 

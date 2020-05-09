@@ -20,8 +20,8 @@ tags:
 
 
 
-[![dyalna-arabic](http://www.it-scoop.com/wp-content/uploads/2013/06/dyalna-arabic.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/06/dyalna-arabic.png)
+[![dyalna-arabic](https://www.it-scoop.com/wp-content/uploads/2013/06/dyalna-arabic.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/06/dyalna-arabic.png)
 
 
 
@@ -36,7 +36,7 @@ tags:
 
 
 
-تجدر الإشارة إلى أن موقع Bloginy (أحد أقسام موقع ديالنا الحالي) هو الذي نظم مبادرة [يوم التدوين الجزائري](http://www.it-scoop.com/2012/12/dzblogday-2013/) طيلة السنوات الثلاثة الماضية، والتي هدفت إلى تجميع المُدونين الجزائرين للكتابة في يوم واحد حول موضوع يعالج أحد المظاهر أو المشاكل التي تخص المُجتمع الجزائري.
+تجدر الإشارة إلى أن موقع Bloginy (أحد أقسام موقع ديالنا الحالي) هو الذي نظم مبادرة [يوم التدوين الجزائري](https://www.it-scoop.com/2012/12/dzblogday-2013/) طيلة السنوات الثلاثة الماضية، والتي هدفت إلى تجميع المُدونين الجزائرين للكتابة في يوم واحد حول موضوع يعالج أحد المظاهر أو المشاكل التي تخص المُجتمع الجزائري.
 
 
 

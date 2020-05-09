@@ -22,8 +22,8 @@ tags:
 
 
 
-[caption id="attachment_12662" align="aligncenter" width="540"][![share_of_web_browsers](http://www.it-scoop.com/wp-content/uploads/2013/11/share_of_web_browsers.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/share_of_web_browsers.jpg) حصص مُختلف المُتصفحات حسب إحصائيات StatCounter[/caption]
+[caption id="attachment_12662" align="aligncenter" width="540"][![share_of_web_browsers](https://www.it-scoop.com/wp-content/uploads/2013/11/share_of_web_browsers.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/share_of_web_browsers.jpg) حصص مُختلف المُتصفحات حسب إحصائيات StatCounter[/caption]
 
 
 في سباقها لأسر قلوب المُستخدمين اختار كل مُتصفح مجالا مُعينا للتركيز عليه: البساطة على مُتصفح Safari، الأمن وحماية خصوصية المُستخدم على فيرفوكس إلى جانب الأداء العالي والأجهزة النقالة لمُتصفح Opera. خيار Google كان جعل مُتصفح Chrome مُتصفحا غنيا. منذ سنوات والحديث حول دمج مُتصفح Chrome ونظام Chrome OS مُتواصل، والخواص الجديدة التي تم الكشف عنها خلال الأشهر الماضية تُساهم في إبقاء هذا الحديث مُتقدا، خاصة مع إضافة نظام للتنبيهات إلى المُتصفح ([Chrome 28 arrives with Blink, rich notifications for apps and extensions on Windows; Mac and Linux coming soon](http://thenextweb.com/google/2013/07/09/chrome-28-arrives-with-rich-notifications-for-apps-and-extensions-on-windows-mac-and-linux-coming-soon/) ) إضافة إلى خاصية أكثر أهمية ويتعلق الأمر بـ [packaged apps](http://blog.chromium.org/2013/02/chrome-app-launcher-developer-preview.html) .
@@ -46,8 +46,8 @@ tags:
 
 
 
-[caption id="attachment_12663" align="aligncenter" width="540"][![Chrome-app-launcher](http://www.it-scoop.com/wp-content/uploads/2013/11/Chrome-app-launcher.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/Chrome-app-launcher.jpg) مُشغل تطبيقات كروم على نظام Mac OS[/caption]
+[caption id="attachment_12663" align="aligncenter" width="540"][![Chrome-app-launcher](https://www.it-scoop.com/wp-content/uploads/2013/11/Chrome-app-launcher.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/Chrome-app-launcher.jpg) مُشغل تطبيقات كروم على نظام Mac OS[/caption]
 
 
 ولدى الاحتفال بمرور 5 سنوات على إطلاق المُتصفح خلال شهر سبتمبر الفارط، قام فريق تطوير Chrome بتضمين الـ packaged apps في [الإصدار ](http://chrome.blogspot.co.uk/2013/09/a-new-breed-of-chrome-apps.html)[30 ](http://chrome.blogspot.co.uk/2013/09/a-new-breed-of-chrome-apps.html)[من المُتصفح](http://chrome.blogspot.co.uk/2013/09/a-new-breed-of-chrome-apps.html)، وتمت إعادة تسيمتها بـ Chrome Apps مع المُحافظة على نفس الخواص: تشغيل التطبيقات في نوافذ مُستقلة، تشغيل التطبيقات في وضع offline بشكل آلي، إمكانية تشغيل التطبيق مُباشرة من شريط التطبيقات في نظام التشغيل... عدد التطبيقات المعنية بالأمر ليس بالكبير، لكن من المُحتمل أن يتغير الوضع مع مرور الوقت. من بين التطبيقات التي تم إطلاقها حينها نجد كل من [The Economist ](https://chrome.google.com/webstore/detail/the-economist/gebjgjhbjedcomcajgpodjgfjgkepgpl), [Pocket ](https://chrome.google.com/webstore/detail/pocket/mjcnijlhddpbdemagnpefmlkjdagkogk), [500px ](https://chrome.google.com/webstore/detail/500px/egpociadnldbkfkjpmjoaibnbcoeplja), [Lucid Chart](https://chrome.google.com/webstore/detail/lucidchart-diagram-app/djejicklhojeokkfmdelnempiecmdomj) إضافة إلى بعض الألعاب مثل [Cracking Sands ](https://chrome.google.com/webstore/detail/cracking-sands-racing/pnafpgbiiobelphegdbieldnmojicndb/), [Tank Riders ](https://chrome.google.com/webstore/detail/tank-riders/gdmmodjlfegeieihcdcgcalkgmhgmiae), [Spelunky ](https://chrome.google.com/webstore/detail/spelunky-html5/mhagnkphcmpkmabhocgimoncfaihkpof/), [They Need to be Fed ](https://chrome.google.com/webstore/detail/they-need-to-be-fed/madbiikglegjjjgpokagkobjaioeekpd). كما نجد تطبيقات لا تحتاج إلى نوافذ لتشغيلها مثل [Pixlr Touch Up ](https://chrome.google.com/webstore/detail/pixlr-touch-up/jklljiahjgoglchglekebfljnmbaleig/), [Any.DOأ](https://chrome.google.com/webstore/detail/anydo/ocgddccilgpeepgglnlpchkpgamkgmld)و [Wunderlist](https://chrome.google.com/webstore/detail/wunderlist-for-chrome/ojcflmmmcfpacggndoaaflkmcoblhnbh).
@@ -55,8 +55,8 @@ tags:
 
 
 
-[caption id="attachment_12664" align="aligncenter" width="540"][![Wunderlist](http://www.it-scoop.com/wp-content/uploads/2013/11/Wunderlist.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/Wunderlist.jpg) تطبيق Wunderlist كمثال عن تطبيق Chrome apps[/caption]
+[caption id="attachment_12664" align="aligncenter" width="540"][![Wunderlist](https://www.it-scoop.com/wp-content/uploads/2013/11/Wunderlist.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/Wunderlist.jpg) تطبيق Wunderlist كمثال عن تطبيق Chrome apps[/caption]
 
 
 مفهوم إضافات ومُلحقات المُتصفحات ليس جديدا، لكن ما قامت به Google هنا لا يتعلق بذلك وإنما بأمر مُختلف تماما، فمع تطبيقات Chrome apps قامت Google بتحويل مُتصفحها إلى بيئة لتنفيذ التطبيقات بطريقة مُماثلة لما هو عليه الحال مع Java مثلا. لشركات أخرى تجارب مُماثلة لا يُمكن وصفها بالناجحة مثلما هو الحال مع موزيلا وتقنية XulRunner وMicrosoft وتقنية Silverlight. تبدو التطبيقات المُتوفرة حاليا على مُتصفح Chrome مُقنعة إلى حد كبير رغم أنه لا مجال لمقارنتها مع تطبيقات ضخمة كتطبيق Photoshop مثلا، لكن صغر هذه التطبيقات لا يُشكل في حقيقة الأمر مشكلا ويكفي أن نُلقي نظرة على التطبيقات الخفيفة التي تُدر ملايين الدولارات سنويا على SalesForce لدحض الأمر.
@@ -79,8 +79,8 @@ tags:
 
 
 
-[caption id="attachment_12665" align="aligncenter" width="540"][![QuickOffice](http://www.it-scoop.com/wp-content/uploads/2013/11/QuickOffice.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/QuickOffice.jpg) تحرير ملفات حزمة أوفيس المكتبية باستخدام Chrome و QuickOffice[/caption]
+[caption id="attachment_12665" align="aligncenter" width="540"][![QuickOffice](https://www.it-scoop.com/wp-content/uploads/2013/11/QuickOffice.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/QuickOffice.jpg) تحرير ملفات حزمة أوفيس المكتبية باستخدام Chrome و QuickOffice[/caption]
 
 
 ما بين هذا واستقالة Steve Balmer من منصبه، Microsoft تمر حاليا في مرحلة لا تُحسد عليها.

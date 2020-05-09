@@ -16,7 +16,7 @@ tags:
 - NYTimes App for iPad
 ---
 
-**[صحيفة New York Times تطلق تطبيقها الجديد على الـ iPad بشكل مجاني إلى غاية نهاية السنة فقط](http://www.it-scoop.com/2010/10/nytimes-app-for-ipad)**
+**[صحيفة New York Times تطلق تطبيقها الجديد على الـ iPad بشكل مجاني إلى غاية نهاية السنة فقط](https://www.it-scoop.com/2010/10/nytimes-app-for-ipad)**
 
 
 
@@ -27,7 +27,7 @@ tags:
 
 
 [![](http://www.nytimes.com/services/mobile/images/landing-ipad-20101015.png )
-](http://www.it-scoop.com/2010/10/nytimes-app-for-ipad)
+](https://www.it-scoop.com/2010/10/nytimes-app-for-ipad)
 
 
 توفر الجريدة هذا الإصدار الجديد بشكل مجاني و سيكون كذلك إلى غاية مطلع العام القادم.

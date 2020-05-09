@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/appstore.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/appstore.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/appstore.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/appstore.jpg)
 
 
 

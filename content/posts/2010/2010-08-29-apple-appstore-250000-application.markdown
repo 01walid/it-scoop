@@ -17,13 +17,13 @@ tags:
 - iPhone
 ---
 
-**[أنباء عن وصول عدد تطبيقات الـ AppStore إلى 250 ألف تطبيق](http://www.it-scoop.com/2010/08/apple-appstore-250000-application)**
+**[أنباء عن وصول عدد تطبيقات الـ AppStore إلى 250 ألف تطبيق](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)**
 
 
 لم ترد بعد أية أنباء رسمية من طرف Apple حول الأمر، لكن الخبر مصدره موقع [148Apps ](http://148apps.biz/)و الذي يشير إلى أن الـ AppStore قد تجاوز حاجز الـ 250 ألف تطبيق .
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/Apple-appStore.jpg)
-](http://www.it-scoop.com/2010/08/apple-appstore-250000-application)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Apple-appStore.jpg)
+](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)
 
 يأتي هذا الانجاز بعد عامين و 49 يوما من إطلاق الـ AppStore، و شارك في كتابة هذا العدد الكبير من التطبيقات 50304 مطورا، أي بمعدل يقارب 5 تطبيقات لكل مطور.
 
@@ -31,7 +31,7 @@ tags:
 
 
 [![](http://148apps.biz/appstorestats/appCategoryGraph.png)
-](http://www.it-scoop.com/2010/08/apple-appstore-250000-application)
+](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)
 
 
 أما من حيث طريقة توزيع التطبيقات فنجد أن 70% من التطبيقات تجارية.
@@ -42,4 +42,4 @@ tags:
 
 
 [![](http://148apps.biz/appstorestats/appCountGraph.png )
-](http://www.it-scoop.com/2010/08/apple-appstore-250000-application)
+](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)

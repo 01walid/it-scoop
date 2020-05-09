@@ -15,7 +15,7 @@ tags:
 - VLC
 ---
 
-**[قارئ VLC يصل إلى أجهزة الـ iPhone](http://www.it-scoop.com/2010/10/vlc-iphone/)**
+**[قارئ VLC يصل إلى أجهزة الـ iPhone](https://www.it-scoop.com/2010/10/vlc-iphone/)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://a1.phobos.apple.com/us/r1000/057/Purple/20/3f/8a/mzl.phgjaqup.320x480-75.jpg )
-](http://www.it-scoop.com/2010/10/vlc-iphone/)
+](https://www.it-scoop.com/2010/10/vlc-iphone/)
 
 سيتيح قارئ VLC لمستخدمي الـ iPhone قراءة بعض أنواع الفيديوهات التي لم يكونوا قادرين على مشاهدتها من قبل على  هواتفهم على غرار ملفات DivX  و Xvid، كما أنه يوفر إمكانية حذف الملفات مباشرة من التطبيق من دون المرور عبر الـ iTunes.
 

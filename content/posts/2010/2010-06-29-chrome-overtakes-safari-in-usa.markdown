@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/StatCounter-jan2jun2010.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/StatCounter-jan2jun2010.png)
 ](it-scoop.com/2010/06/chrome-overtakes-safari-in-usa)
 
 

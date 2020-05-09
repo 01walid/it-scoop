@@ -21,7 +21,7 @@ tags:
 
 قامت شركة Novell الراعية لمشروع Mono بإطلاق الإصدار 2.4.3  منه.
 
-![mono_logo](http://www.it-scoop.com/wp-content/uploads/2009/12/mono_logo.png)
+![mono_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/mono_logo.png)
 
 
 يأتي الإصدار الجديد ليصحح أكثر من 110 علة تم اكتشافها في الإصدار 2.4.2 و ليقدم العديد من المزايا الجديدة مثل  تحسين استعمال الذاكرة الحية و تسهيل عملية إدارة الوحدة الخاصة بـ Apache. و تحسين دعم كل من  Mono Debugger، Windows Forms , ASP.NET و  ADO.NET

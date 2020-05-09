@@ -18,8 +18,8 @@ tags:
 - Zvelo
 ---
 
-ذكرت مصادر إعلامية بأن استخدام حافظات (wallets) هواتف Google الذكية لتخزين المعلومات السرية فيها، قد تكون عرضة لكسر كلمة السر المستخدمة والتي يكون الغرض منها منع اللصوص من الحصول على هذه المعلومات في حال سرقة أو فقدان الهاتف. [![](http://www.it-scoop.com/wp-content/uploads/2012/02/google-wallet-hacked.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/google-wallet-hacked.jpg)
+ذكرت مصادر إعلامية بأن استخدام حافظات (wallets) هواتف Google الذكية لتخزين المعلومات السرية فيها، قد تكون عرضة لكسر كلمة السر المستخدمة والتي يكون الغرض منها منع اللصوص من الحصول على هذه المعلومات في حال سرقة أو فقدان الهاتف. [![](https://www.it-scoop.com/wp-content/uploads/2012/02/google-wallet-hacked.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/google-wallet-hacked.jpg)
 
 
 

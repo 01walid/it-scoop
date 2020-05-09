@@ -14,7 +14,7 @@ tags:
 - oracle
 ---
 
-**[بسبب تعنت Oracle، الـOGB  يعلن رسميا عن موت نظام تشغيل OpenSolaris](http://www.it-scoop.com/2010/08/open-solaris-board-resigns/)**
+**[بسبب تعنت Oracle، الـOGB  يعلن رسميا عن موت نظام تشغيل OpenSolaris](https://www.it-scoop.com/2010/08/open-solaris-board-resigns/)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/opensolaris-logo.gif)
-](http://www.it-scoop.com/2010/08/open-solaris-board-resigns/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/opensolaris-logo.gif)
+](https://www.it-scoop.com/2010/08/open-solaris-board-resigns/)
 
 
 القرار لم يأت من عدم، فلقد هدد الـ OGB بحل نفسه منتصف يوليو الماضي  إن لم تقم Oracle بتعيين عميل يتولى الربط بينهم و بين فريق تطوير Solaris  قبل الـ 16 من أغسطس. لكن Oracle فضلت عدم التحرك للاستجابة لمطالبهم، بل أعلنت أن طريقة تطوير النظام بنفس الأسلوب المتبع من طرف Sun لا يخدم مصالحها.

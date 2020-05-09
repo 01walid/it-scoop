@@ -20,13 +20,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/google-maps-logo.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/google-maps-logo.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/google-maps-logo.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/google-maps-logo.jpg)
 
 
 
 
-قبل [هذا الإعلان](http://googlegeodevelopers.blogspot.com/2012/06/lower-pricing-and-simplified-limits.html)، كان يجب على كل تطبيق يستغل خدمة Google Maps ويتجاوز حاجز 25 ألف تحميل للخرائط يوميا بدفع 4 دولارات لكل 1000 تحميل إضافي فوق هذا الحد، وهو ما دفع بالعديد من الخدمات، أمثال [Foursquare](http://www.it-scoop.com/2012/03/foursquare-openstreetmap/) و[ويكيبيديا](http://www.it-scoop.com/2012/04/wikipedia-openstreetmap/) إلى الانتقال إلى خدمات أخرى، لكن الأمر أصبح مختلفا الآن حيث أصبح السعر الآن 0.5 دولار فقط.
+قبل [هذا الإعلان](http://googlegeodevelopers.blogspot.com/2012/06/lower-pricing-and-simplified-limits.html)، كان يجب على كل تطبيق يستغل خدمة Google Maps ويتجاوز حاجز 25 ألف تحميل للخرائط يوميا بدفع 4 دولارات لكل 1000 تحميل إضافي فوق هذا الحد، وهو ما دفع بالعديد من الخدمات، أمثال [Foursquare](https://www.it-scoop.com/2012/03/foursquare-openstreetmap/) و[ويكيبيديا](https://www.it-scoop.com/2012/04/wikipedia-openstreetmap/) إلى الانتقال إلى خدمات أخرى، لكن الأمر أصبح مختلفا الآن حيث أصبح السعر الآن 0.5 دولار فقط.
 
 
 

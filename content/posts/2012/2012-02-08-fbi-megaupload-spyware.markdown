@@ -15,13 +15,13 @@ tags:
 - Spyware
 ---
 
-يتدافع إلى أذهان من تابعوا [قضية موقع megaupload](http://www.it-scoop.com/2012/01/megaupload-shutdown/) المشهور تساؤلٌ يبدو منطقياً إلى حد كبير، حيث كانت مسألة تقديم القضاء الأمريكي "لمحادثات" تمت بين مدراء megaupload عبر Skype في عام 2007 مبعثاً للجدل، حيث تدور هذه المحادثات حول Kim Dotcom وهو مؤسس megaupload وتقول بأنه "ليس في مأمن مع أمواله" وأن "الوضع الحالي خطيرٌ نوعاً ما".
+يتدافع إلى أذهان من تابعوا [قضية موقع megaupload](https://www.it-scoop.com/2012/01/megaupload-shutdown/) المشهور تساؤلٌ يبدو منطقياً إلى حد كبير، حيث كانت مسألة تقديم القضاء الأمريكي "لمحادثات" تمت بين مدراء megaupload عبر Skype في عام 2007 مبعثاً للجدل، حيث تدور هذه المحادثات حول Kim Dotcom وهو مؤسس megaupload وتقول بأنه "ليس في مأمن مع أمواله" وأن "الوضع الحالي خطيرٌ نوعاً ما".
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/02/megaupload-closed.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/02/megaupload-closed.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/02/megaupload-closed.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/02/megaupload-closed.png)
 
 
 

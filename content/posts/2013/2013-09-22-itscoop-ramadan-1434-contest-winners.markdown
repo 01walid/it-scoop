@@ -14,13 +14,13 @@ tags:
 - مسابقة رمضان
 ---
 
-يسعدني أن أعلن عن نتائج مسابقة رمضان على المجلة التقنية والتي كانت تهدف هذا العام إلى تشجيع المُطورين الجزائريين على كتابة تطبيقات لنظام Android. [مسابقة هذا العام](http://www.it-scoop.com/2013/07/itscoop-ramadan-1434/) كان تهدف إلى توفير أفضل تطبيق إخباري لتصفح وقراءة ما يُنشر في الصحافة والمواقع الإلكترونية الجزائرية.
+يسعدني أن أعلن عن نتائج مسابقة رمضان على المجلة التقنية والتي كانت تهدف هذا العام إلى تشجيع المُطورين الجزائريين على كتابة تطبيقات لنظام Android. [مسابقة هذا العام](https://www.it-scoop.com/2013/07/itscoop-ramadan-1434/) كان تهدف إلى توفير أفضل تطبيق إخباري لتصفح وقراءة ما يُنشر في الصحافة والمواقع الإلكترونية الجزائرية.
 
 
 
 
- [![itscoop-contest](http://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
+ [![itscoop-contest](https://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/07/itscoop-contest.jpg)
 
 
 
@@ -48,7 +48,7 @@ tags:
 
 
 
- للتذكير، ستحصل التطبيقات الفائزة على أجهزة لوحية [Legend Pad10″](http://afak-algerie.com/fr/produit/tablette-legend-pad10/) بقيمة 28 ألف دينار جزائري، إضافة إلى مبالغ مالية تتراوح ما بين 40 ألفا و10 آلاف دينار جزائري (تفاصيل ذلك في [نص المسابقة](http://www.it-scoop.com/2013/07/itscoop-ramadan-1434/)).
+ للتذكير، ستحصل التطبيقات الفائزة على أجهزة لوحية [Legend Pad10″](http://afak-algerie.com/fr/produit/tablette-legend-pad10/) بقيمة 28 ألف دينار جزائري، إضافة إلى مبالغ مالية تتراوح ما بين 40 ألفا و10 آلاف دينار جزائري (تفاصيل ذلك في [نص المسابقة](https://www.it-scoop.com/2013/07/itscoop-ramadan-1434/)).
 
 
 

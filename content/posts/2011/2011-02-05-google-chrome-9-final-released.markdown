@@ -26,8 +26,8 @@ tags:
 
 لا ليست النسخة التاسعة من متصفح Internet Explorer ولم نخطئ في العنوان:) إنما هو متصفح Google Chrome الرشيق يواصل التسلق بسرعة ومزاحمة من يكبره سنا، فقد أ[علنت](http://chrome.blogspot.com/2011/02/dash-of-speed-3d-and-apps.html) Google أن حديث السن قد وصل إلى النسخة 9، ومعه الكثير من الميزات، التحسينات والاضافات.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/google-chrome.jpg)
-]( http://www.it-scoop.com/2011/02/google-chrome-9-final-released/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/google-chrome.jpg)
+]( https://www.it-scoop.com/2011/02/google-chrome-9-final-released/)
 
 ركزت هذه النسخة على السرعة، الـ 3D والتطبيقات، ... أما الأولى، فقد تم زرع ما أطلق عليه Chrome Instant وهي محاكاة لخاصية محرك البحث Google Instant لكن على شريط العنوان أعلى المتصفح، حيث ومن الآن فصاعدا يمكن للمتصفح "تخمين" الموقع المراد التوجه إليه بمجرد كتابة الحروف الأولى منه، فقط؟ ..لا، بل ويبدأ في تحميله ويظهر لك بالتزامن مع كتابتك له، فـ Google تريد هذه العبارة المتداولة أن تكون لسان حالك (“Look, Mom - no enter key!”) :) طبعا البعض لا يحب من يملي عليه أعماله، وإلا فيمكن تفعليها [من هنا](http://www.google.com/support/chrome/bin/answer.py?answer=177873):).
 

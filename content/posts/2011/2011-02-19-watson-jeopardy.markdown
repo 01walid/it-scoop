@@ -14,14 +14,14 @@ tags:
 - Watson
 ---
 
-**[Watson حاسب IBM "الذكي" الذي استطاع التفوق على الذكاء البشري في مسابقة Jeopardy](http://www.it-scoop.com/2011/02/watson-jeopardy/)**
+**[Watson حاسب IBM "الذكي" الذي استطاع التفوق على الذكاء البشري في مسابقة Jeopardy](https://www.it-scoop.com/2011/02/watson-jeopardy/)**
 
 
-هل تذكرون[Watson](http://www.it-scoop.com/2010/06/watson-ibm-supercomputer-compete-jeopardy/) حاسب IBM العملاق الذي صممته خصيصا للإجابة على الأسئلة التي تطرح عليه ؟ فبعد Deep Blue الذي استطاع أن يهزم بطل الشطرنج Garry Kasparov سنة 1997، يأتي Watson ليتحدى الذكاء البشري من جديد و يفوز بمسابقة Jeopardy أمام أفضل متنافسين في المسابقة.
+هل تذكرون[Watson](https://www.it-scoop.com/2010/06/watson-ibm-supercomputer-compete-jeopardy/) حاسب IBM العملاق الذي صممته خصيصا للإجابة على الأسئلة التي تطرح عليه ؟ فبعد Deep Blue الذي استطاع أن يهزم بطل الشطرنج Garry Kasparov سنة 1997، يأتي Watson ليتحدى الذكاء البشري من جديد و يفوز بمسابقة Jeopardy أمام أفضل متنافسين في المسابقة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/watson-Jeopardy.jpg)
-](http://www.it-scoop.com/2011/02/watson-jeopardy/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/watson-Jeopardy.jpg)
+](https://www.it-scoop.com/2011/02/watson-jeopardy/)
 
 
 و يقوم مبدأ المسابقة على معرفة السؤال بعد الاستماع لإجابته ، و بالرغم من أن Watson لا يملك أي اتصال إنترنت، إلا أنه يملك قواعد بيانات ضخمة إضافة إلى قدرة رهيبة لتحليل الصوت البشري و استخلاص المعلومات منه و من ثم تحليلها و الإجابة عنها، كل هذا في زمن قياسي.

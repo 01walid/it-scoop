@@ -18,7 +18,7 @@ tags:
 - ipad
 ---
 
-**[خرق أمني لدى AT&T يؤدي إلى سرقة بيانات 114,067 مستخدم لشبكة 3G في الولايات المتحدة الأمريكية](http://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)**
+**[خرق أمني لدى AT&T يؤدي إلى سرقة بيانات 114,067 مستخدم لشبكة 3G في الولايات المتحدة الأمريكية](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)**
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ipad-iLeak.jpg)
-](http://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad-iLeak.jpg)
+](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
 
@@ -37,8 +37,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ileakinside3.jpg)
-](http://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ileakinside3.jpg)
+](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
 و[وفقاً لشبكة Gawker الإخبارية](http://gawker.com/5559346/) التي تلقت بلاغاً من المخترقين، فإن القائمة التي حصلت عليها تضم:
@@ -49,8 +49,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ileak_inside2.jpg)
-](http://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ileak_inside2.jpg)
+](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
 وفقاً للبيانات المرسلة إلى Gawker من قبل المخترقين الذين تسللوا إلى شبكة AT&T واستطاعوا سرقتها فإن  ما لا يقل عن 114,000 حساب تعرضت للاختراق، دون أن ننسى أنه من المحتمل أن تكون هناك بيانات سرية خاصة بكل فرد يملك iPad مشترك في خدمة 3G في الولايات المتحدة قد تعرضت للسرقة أيضاً.
@@ -64,8 +64,8 @@ tags:
 استطاعت مجموعة Goatse الأمنية الحصول على البيانات من خلال سكربت موجود على موقع AT&T, والذي يمكن لأي كان الوصول إليه على الانترنت. السكربت، عندما يتم تزويده بـ ICC-ID (Integrated Circuit Card ID) - في هذه الحالة الرقم التسلسلي للرقاقة الالكترونية المدمجة المستخدمة في أجهزة iPad – كجزء من عملية طلب HTTP، فإنه سيعيد عنوان البريد الالكتروني الخاص بصاحب هذا الجهاز، فيما يبدو أن الغرض منه أن يكون رد AJAX ضمن تطبيق الويب.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ipad_sim_icc_id.jpg)
-](http://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad_sim_icc_id.jpg)
+](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
 الباحثون في Goatse استطاعوا تخمين عدد كبير من أرقام ICC-ID من خلال النظر إلى جزء من الأرقام المعروفة [كالمنشورة من قبل محبّي هذه الأدوات على Flicker مثلاً](http://www.flickr.com/photos/kalleboo/4662852294/) ومواقع الإنترنت الأخرى.
@@ -75,8 +75,8 @@ tags:
 نهاية، قامت المجموعة بكتابة سكربت PHP ليقوم بأتمتة عملية حصد وجمع هذه البيانات. يقول أحد أعضاء المجموعة بأن السكربت تمت مشاركته مع جهات أخرى قبل أن تقوم AT&T بإغلاق الثغرة، ومن غير المعروف فعلياً الأيدي التي وقع فيها قبل أن تتصرف الشركة بسرعة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/ileak_inside1.jpg)
-](http://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ileak_inside1.jpg)
+](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
 بصراحة هذا أحد أكبر الإحراجات التي تتعرض لها Apple – لا يمكن أن نلقي اللوم عليها لكنها تتحمل جزءً كبيراً منه لكون المستخدمين مرغمين على إدخال عناوين البريد الالكتروني الخاصة بهم حين التسجيل بخدمة 3G لدى مزود خدمة مثل AT&T دون أن يكون لهم حق رفض هذا الأمر.

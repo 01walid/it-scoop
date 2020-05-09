@@ -24,8 +24,8 @@ tags:
 حسنا إذا كنت شحيحا في موارد جهازك، تركز على إنتاجيتك - من جماعة الـ Minimalist - أومن النوع الذي يحب مداعبة النواة البطريق بفأر سريع مرح، خفيف الظل، أوهممت لأن تكون كذلك، فهذا الخبر حتما يهمك، فبعد حوالي عامين من التطوير، [أعلن](http://www.xfce.org/about/news/?post=1295136000) الفريق العامل على XForms Common Environment عن إطلاقه للإصدارة 4.8 التي طال انتظارها من سطح مكتبهم Xfce "الخفيف" الموجه لأنظمة Gnu/Linux، ومعه عدد جيد من التحسنات وإصلاح للعلل.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/01/Xfce_logo.png)
-](http://www.it-scoop.com/2011/01/xfce-desktop-moves-to-version-4-8)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/01/Xfce_logo.png)
+](https://www.it-scoop.com/2011/01/xfce-desktop-moves-to-version-4-8)
 
 
 

@@ -14,13 +14,13 @@ tags:
 - Visual studio 2010
 ---
 
-[**Microsoft تكشف عن عروض جديدة للانتقال إلى Visual Studio 2010 وتهدي اشتراكا تجريبيا لمدة سنة في الـ Essentials MSDN**](http://www.it-scoop.com/2010/03/microsoft-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b9%d8%b1%d9%88%d8%b6-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84-%d8%a5%d9%84%d9%89-visual-studio-2010-%d9%88/)
+[**Microsoft تكشف عن عروض جديدة للانتقال إلى Visual Studio 2010 وتهدي اشتراكا تجريبيا لمدة سنة في الـ Essentials MSDN**](https://www.it-scoop.com/2010/03/microsoft-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b9%d8%b1%d9%88%d8%b6-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84-%d8%a5%d9%84%d9%89-visual-studio-2010-%d9%88/)
 
 
 أعلنت Microsoft عن أحدث عروضها المتعلقة بـ Visual Studio 2010 ، حيث أتاحت إمكانية تحديث النسخ القديمة من الـ IDE بأسعار منخفضة.
 
 [![](http://www.microsoft.com/visualstudio/en-us/content/images/vs2010_logo.png)
-](http://www.it-scoop.com/2010/03/microsoft-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b9%d8%b1%d9%88%d8%b6-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84-%d8%a5%d9%84%d9%89-visual-studio-2010-%d9%88/)
+](https://www.it-scoop.com/2010/03/microsoft-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b9%d8%b1%d9%88%d8%b6-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a7%d9%86%d8%aa%d9%82%d8%a7%d9%84-%d8%a5%d9%84%d9%89-visual-studio-2010-%d9%88/)
 
 العرض الأول يخص  شراء نسخة من Visual Studio 2010 و التي سيرافقها اشتراك تجريبي لمدة سنة في الـ Essentials MSDN مما يعني إتاحة كل من Windows 7 Ultimate،Windows Server 2008 Enterprise Edition R2 وSQL Server 2008 R2 Datacenter إضافة إلى 20 ساعة من استعمال Windows Azure، و هو ما يعتبر عرضا مغرٍ جدا.
 

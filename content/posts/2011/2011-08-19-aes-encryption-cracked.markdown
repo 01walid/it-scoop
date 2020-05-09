@@ -18,7 +18,7 @@ tags:
 - encryption
 ---
 
-[**باحثون أمنيون يكتشفون ثغرة أمنية في خوارزمية التشفير AES**](http://www.it-scoop.com/2011/08/aes-encryption-cracked/)
+[**باحثون أمنيون يكتشفون ثغرة أمنية في خوارزمية التشفير AES**](https://www.it-scoop.com/2011/08/aes-encryption-cracked/)
 
 
 
@@ -28,8 +28,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/password-decrypting.jpg)
-](http://www.it-scoop.com/2011/08/aes-encryption-cracked/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/password-decrypting.jpg)
+](https://www.it-scoop.com/2011/08/aes-encryption-cracked/)
 
 
 

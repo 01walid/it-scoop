@@ -16,7 +16,7 @@ tags:
 - Windows Shortcut Exploit
 ---
 
-**[G Data تطلق أداة مجانية للوقاية من ثغرة Windows shortcut files](http://www.it-scoop.com/2010/07/g-data-fights-windows-security/)**
+**[G Data تطلق أداة مجانية للوقاية من ثغرة Windows shortcut files](https://www.it-scoop.com/2010/07/g-data-fights-windows-security/)**
 
 
 
@@ -27,7 +27,7 @@ tags:
 
 
 [![](http://www.gdata-software.com/uploads/RTEmagicC_G_Data_25Y-Logo_RGB_45.jpg.jpg)
-](http://www.it-scoop.com/2010/07/g-data-fights-windows-security/)
+](https://www.it-scoop.com/2010/07/g-data-fights-windows-security/)
 
 
 

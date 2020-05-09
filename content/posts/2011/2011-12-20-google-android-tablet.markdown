@@ -22,8 +22,8 @@ tags:
 
 
 
-[![رسم تخيلي لجهاز جوجل اللوحي المجهزة بنظام أندوريد (جوجل نكسوس تابلت؟)](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)لم يعط Schmidt أية تفاصيل عن الجهاز اللوحي الجديد، ولا عن طريقة تصنيعه، حيث أن أمام Google حاليا خياران اثنان: إما تكرار تجربتها مع الهواتف الذكية ([Nexus One](http://www.it-scoop.com/tag/nexus-one/)، [Nexus S](http://www.it-scoop.com/2010/12/google-nexus-s-android-2-3-gingerbread/)  و [Galaxy Nexus](http://www.it-scoop.com/2011/10/galaxy-nexus-ice-cream-sandwich/)) وذلك بالاعتماد على شركائها لتصنيع الجهاز، أو أنها ستعتمد على التقنية التي تحصلت عليها من وراء شراء شركة Motorola والتي سبق لها أن صنعت أجهزة لوحية تعتمد على نظام Android كجهاز [Xoom](http://www.it-scoop.com/tag/xoom/).
+[![رسم تخيلي لجهاز جوجل اللوحي المجهزة بنظام أندوريد (جوجل نكسوس تابلت؟)](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Nexus-Tablet.png)لم يعط Schmidt أية تفاصيل عن الجهاز اللوحي الجديد، ولا عن طريقة تصنيعه، حيث أن أمام Google حاليا خياران اثنان: إما تكرار تجربتها مع الهواتف الذكية ([Nexus One](https://www.it-scoop.com/tag/nexus-one/)، [Nexus S](https://www.it-scoop.com/2010/12/google-nexus-s-android-2-3-gingerbread/)  و [Galaxy Nexus](https://www.it-scoop.com/2011/10/galaxy-nexus-ice-cream-sandwich/)) وذلك بالاعتماد على شركائها لتصنيع الجهاز، أو أنها ستعتمد على التقنية التي تحصلت عليها من وراء شراء شركة Motorola والتي سبق لها أن صنعت أجهزة لوحية تعتمد على نظام Android كجهاز [Xoom](https://www.it-scoop.com/tag/xoom/).
 
 
 

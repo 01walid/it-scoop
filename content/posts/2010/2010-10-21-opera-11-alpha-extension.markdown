@@ -14,7 +14,7 @@ tags:
 - Opera 11 Alpha
 ---
 
-**[و أخيرا... Opera 11 في نسخته Alpha يتيح لك استخدام الإضافات](http://www.it-scoop.com/2010/10/opera-11-alpha-extension/)**
+**[و أخيرا... Opera 11 في نسخته Alpha يتيح لك استخدام الإضافات](https://www.it-scoop.com/2010/10/opera-11-alpha-extension/)**
 
 
 
@@ -25,7 +25,7 @@ tags:
 
 
 [![Opera 11 Alpha](http://files.myopera.com/EspenAO/files/opera-11-alpha.jpg)
-](http://www.it-scoop.com/2010/10/opera-11-alpha-extension/)
+](https://www.it-scoop.com/2010/10/opera-11-alpha-extension/)
 
 
 

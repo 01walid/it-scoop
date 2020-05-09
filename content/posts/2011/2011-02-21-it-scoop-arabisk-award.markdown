@@ -23,14 +23,14 @@ tags:
 
 
 
-**[صوتوا للمجلة التقنية في مسابقة أرابيسك لأفضل المدونات العربية](http://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)**
+**[صوتوا للمجلة التقنية في مسابقة أرابيسك لأفضل المدونات العربية](https://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)**
 
 
 بعد أن انتهت فترة الترشيحات في مسابقة أرابيسك لأفضل المدونات العربية تم فتح باب التصويت ليلة أمس، و ندعو الجميع إلى التصويت للمجلة التقنية كأفضل مدونة إخبارية تقنية
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
-](http://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)
+[![](https://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
+](https://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)
 
 
 و تعتمد مسابقة أرابيسك نظاما لتفادي التصويت أكثر من مرة لنفس المدونة حيث أنه يتطلب تسجيل الدخول بأحد الطرق التي توفرها المسابقة (خصوصا بمعرفات الشبكات الاجتماعية) كما أنها تتيح التصويت لأكثر من مدونة في آن واحد.
@@ -39,7 +39,7 @@ tags:
 
 
 [![](http://socialmedia4arab.com/wp-content/uploads/2010/07/header4.png )
-](http://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)
+](https://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)
 
 
 [للتصويت للمجلة التقنية](http://arabisk-award.com/blog.php?id=11)

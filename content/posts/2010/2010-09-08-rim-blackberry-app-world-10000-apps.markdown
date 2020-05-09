@@ -15,13 +15,13 @@ tags:
 - RIM
 ---
 
-**[RIM تعلن عن تجاوز عدد تطبيقات الـ BlackBerry App World حاجز 10 آلاف تطبيق](http://www.it-scoop.com/2010/09/rim-blackberry-app-world-10000-apps)**
+**[RIM تعلن عن تجاوز عدد تطبيقات الـ BlackBerry App World حاجز 10 آلاف تطبيق](https://www.it-scoop.com/2010/09/rim-blackberry-app-world-10000-apps)**
 
 
 بالرغم من أن هذا العدد لا يقارن بعدد تطبيقات الـ AppStore و الـ Android Market، إلا أن RIM أبدت سعادتها بتجاوز عدد تطبيقات متجرها الخاص بتطبيقات BlackBerry -و الذي يعرف بـ BlackBerry App World- حاجز الـ 10 آلاف تطبيق.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/09/bb-app-world.png)
-](http://www.it-scoop.com/2010/09/rim-blackberry-app-world-10000-apps)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/09/bb-app-world.png)
+](https://www.it-scoop.com/2010/09/rim-blackberry-app-world-10000-apps)
 
 لم يتم إطلاق [BlackBerry App World](http://appworld.blackberry.com/webstore/) سوى العام الماضي مما يفسر جزئيا قلة التطبيقات الموجودة فيه مقارنة بنظرائه لدى Google و Apple، و لقد جاء الإعلان عن تجاوزه هذا الحاجز عبر [تغريدة](http://twitter.com/BlackBerry/status/23245247909) على[ حساب Research In Motion على Twitter](http://twitter.com/BlackBerry/status/23245247909).
 

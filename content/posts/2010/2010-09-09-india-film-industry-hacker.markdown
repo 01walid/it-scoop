@@ -14,14 +14,14 @@ tags:
 - Security
 ---
 
-**[في الهند  حماية صناعة الأفلام مسؤولية ... قراصنة الإنترنت](http://www.it-scoop.com/2010/09/india-film-industry-hacker)**
+**[في الهند  حماية صناعة الأفلام مسؤولية ... قراصنة الإنترنت](https://www.it-scoop.com/2010/09/india-film-industry-hacker)**
 
 
 إذا كانت استوديوهات الأفلام في العالم بأسره تلجأ إلى القضاء في حالات النشر غير القانوني لما تنتجه، فالأمر مختلف في الهند، حيث تسعى شركات الإنتاج لتوظيف قراصنة إنترنت Hackers لتولي هذه المهمة.
 
 
 [![](http://images.smh.com.au/2010/09/08/1913366/piracy_lead-420x0.jpg)
-](http://www.it-scoop.com/2010/09/india-film-industry-hacker)
+](https://www.it-scoop.com/2010/09/india-film-industry-hacker)
 
 
 

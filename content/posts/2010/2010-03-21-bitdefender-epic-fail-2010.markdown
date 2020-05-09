@@ -12,14 +12,14 @@ tags:
 - Bitdefender
 ---
 
-[**BitDefender تنشر ترقيعات لتصحيح علة  Bitdefender Epic Fail of 2010 التي سببها تحديث ليلة أمس**](http://www.it-scoop.com/2010/03/bitdefender-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%b9%d9%84%d8%a9-bitdefender-epic-fail-of-2010-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/http://www.it-scoop.com/2010/03/bitdefender-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%b9%d9%84%d8%a9-bitdefender-epic-fail-of-2010-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/)
+[**BitDefender تنشر ترقيعات لتصحيح علة  Bitdefender Epic Fail of 2010 التي سببها تحديث ليلة أمس**](https://www.it-scoop.com/2010/03/bitdefender-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%b9%d9%84%d8%a9-bitdefender-epic-fail-of-2010-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/https://www.it-scoop.com/2010/03/bitdefender-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%b9%d9%84%d8%a9-bitdefender-epic-fail-of-2010-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/)
 
 
 إذا كنت تستعمل أحد أنظمة Windows 64 بت و تستعمل مضاد الفيروسات BitDefender، و إذا ظهرت لديك أية إنذارات تخبرك أن ملفات النظام مصابة بفيروس Trojan.FakeAlert.5 فلا تقم  بإعادة تشغيل الجهاز حتى تزيح المشكل، و تحدث النظام من جديد، فقد نشرت BitDefender  ليلة أمس تحديثا يظهر أن جميع ملفات النظام على أنظمة 64 بت مصابة.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/bitdefender_logo_-300x64.jpg)
-](http://www.it-scoop.com/2010/03/bitdefender-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%b9%d9%84%d8%a9-bitdefender-epic-fail-of-2010-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/bitdefender_logo_-300x64.jpg)
+](https://www.it-scoop.com/2010/03/bitdefender-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7%d8%aa-%d9%84%d8%aa%d8%b5%d8%ad%d9%8a%d8%ad-%d8%b9%d9%84%d8%a9-bitdefender-epic-fail-of-2010-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/)
 
 
 أما إن كنت قد قمت بإعادة تشغيل الجهاز فيجب عليك استعادة النظام باستعمال قرص النظام المنصب على جهازك.

@@ -13,13 +13,13 @@ tags:
 - Google Tasks
 ---
 
-[**خدمة Google Tasks تحصل على API خاصة بها**](http://www.it-scoop.com/2011/05/google-tasks-api/)
+[**خدمة Google Tasks تحصل على API خاصة بها**](https://www.it-scoop.com/2011/05/google-tasks-api/)
 
 
 إن كنت منن يستخدمون Gmail كثيرا فمن دون شك استعملت و لو لمرة واحدة خدمة Google Tasks المضمنة في البريد الالكتروني و التي تسمح بكتابة المهام المراد القيام بها، بشكل مبسط خال من التعقيد. يوم أمس [أعلنت](http://googlesystem.blogspot.com/2011/05/google-tasks-api.html) Google أنها أطلقت أخيرا API خاصة بهذه الخدمة.
 
 [![](http://1.bp.blogspot.com/-Yl92bO2U9yM/TcqfU84N6QI/AAAAAAAAr60/NcF-qllIWTA/s640/tasks-api.png )
-](http://www.it-scoop.com/2011/05/google-tasks-api/)
+](https://www.it-scoop.com/2011/05/google-tasks-api/)
 
 ستفتح هذه الخطوة المجال للعديد من التطبيقات، فعلى سبيل المثال سنشهد من دون شك ظهور إضافات للمتصفحات و برامج البريد الالكتروني تعتمد عليها، إضافة إلى تطبيقات خاصة على الهواتف الذكية، و الذين يضطر مستخدموها حاليا إلى [حفظ صفحة المهام](https://mail.google.com/tasks/ig?pli=1) الخاصة بهم كصفحة على هواتفهم للوصول بشكل سريع إليها.
 

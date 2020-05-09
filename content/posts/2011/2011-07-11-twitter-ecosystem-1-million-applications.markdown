@@ -15,7 +15,7 @@ tags:
 - Twitter Ecosystem
 ---
 
-[**تجاوز تطبيقات Twitter حاجز مليون تطبيق، و تسجيل ميلاد تطبيق جديد كل 1.5 ثانية**](http://www.it-scoop.com/2011/07/twitter-ecosystem-1-million-applications/)
+[**تجاوز تطبيقات Twitter حاجز مليون تطبيق، و تسجيل ميلاد تطبيق جديد كل 1.5 ثانية**](https://www.it-scoop.com/2011/07/twitter-ecosystem-1-million-applications/)
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/07/dev-bird.gif)
-](http://www.it-scoop.com/2011/07/twitter-ecosystem-1-million-applications/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/07/dev-bird.gif)
+](https://www.it-scoop.com/2011/07/twitter-ecosystem-1-million-applications/)
 
 
 

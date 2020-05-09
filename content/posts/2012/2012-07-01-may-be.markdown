@@ -17,8 +17,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/may-be-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/may-be-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/may-be-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/may-be-logo.png)
 
 
 
@@ -28,7 +28,7 @@ tags:
 
 
 
-لكن بماذا تختلف May Be عن خدمات الأسئلة/الأجوبة كـ Quora؟  هناك فرق واحد جوهري، وهو أن May Be تعرض جملة من الخيارات على هيئة "سبر للآراء" مع إمكانية إضافة بعض التعليقات، بدل ترك المجال مفتوحا أمام المجيبين، كما أنه يُتيح إضافة الصور إلى كل خيار، وهو ما يُعطيه لمسة بينتريسية (نسبة إلى [Pinterest](http://www.it-scoop.com/tag/Pinterest/)).
+لكن بماذا تختلف May Be عن خدمات الأسئلة/الأجوبة كـ Quora؟  هناك فرق واحد جوهري، وهو أن May Be تعرض جملة من الخيارات على هيئة "سبر للآراء" مع إمكانية إضافة بعض التعليقات، بدل ترك المجال مفتوحا أمام المجيبين، كما أنه يُتيح إضافة الصور إلى كل خيار، وهو ما يُعطيه لمسة بينتريسية (نسبة إلى [Pinterest](https://www.it-scoop.com/tag/Pinterest/)).
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-للتذكير فلقد قامت Google بشراء شركة  AdMob التي أسسها عمر حموي [شهر نوفمبر 2009](http://www.it-scoop.com/2009/11/google-%d8%aa%d9%84%d8%b9%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-admob/) مُقابل 750 مليون دولار، قبل أن يقرر مؤسسها الخروج من Google لإنشاء "حاضنة مشاريع" (Startup Generator) Churn Labs والتي قرر أيضا [إيقافها](http://techcrunch.com/2012/05/31/churn-lab-shut-down/)للتفرغ لشركته الناشئة الحالية.
+للتذكير فلقد قامت Google بشراء شركة  AdMob التي أسسها عمر حموي [شهر نوفمبر 2009](https://www.it-scoop.com/2009/11/google-%d8%aa%d9%84%d8%b9%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-admob/) مُقابل 750 مليون دولار، قبل أن يقرر مؤسسها الخروج من Google لإنشاء "حاضنة مشاريع" (Startup Generator) Churn Labs والتي قرر أيضا [إيقافها](http://techcrunch.com/2012/05/31/churn-lab-shut-down/)للتفرغ لشركته الناشئة الحالية.
 
 
 

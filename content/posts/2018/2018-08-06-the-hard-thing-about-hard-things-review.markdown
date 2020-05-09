@@ -21,8 +21,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/08/the-hard-thing-about-hard-things.jpg)
-](http://www.it-scoop.com/2018/08/the-hard-thing-about-hard-things-review/the-hard-thing-about-hard-things/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/08/the-hard-thing-about-hard-things.jpg)
+](https://www.it-scoop.com/2018/08/the-hard-thing-about-hard-things-review/the-hard-thing-about-hard-things/)
 
 
 

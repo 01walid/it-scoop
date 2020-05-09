@@ -22,14 +22,14 @@ tags:
 بعد عدٍ تنازلي بدأ تقريبا مع حلول اليوم الأول من **العام الجديد 2013**، تم عرضه على الصفحة الرئيسية لموقع **Ubuntu** والذي أسال الكثير من الحبر على الويب، وأثار العديد من التساؤلات والتوّقعات. كشفت **Canonical** الرّاعي الرّسمي لتوزيعة **Ubuntu** من نظام **Gnu/Linux**، أخيرًا، عن **Ubuntu Phone OS**، فماذا يكون هذا المنتج الجديد؟
 
 
-![Canonical CountDown](http://www.it-scoop.com/wp-content/uploads/2013/01/Canonical-CountDown.png)
+![Canonical CountDown](https://www.it-scoop.com/wp-content/uploads/2013/01/Canonical-CountDown.png)
 
 
 
  **Ubuntu Phone OS**[ هو ما كشفت عنه](http://www.theverge.com/2013/1/2/3827922/ubuntu-phone-os-announcement) Canonical على لسان مؤسسها Mark Shuttleworth، وهو - على غرار **Ubuntu for Android**- نظام Ubuntu معد من الصفر للهواتف الذكية، ميزته أنه متاح للتحميل مجانا ويمكن تركيبه على عدد من الأجهزة المتواجدة حاليا خاصة التي تعمل بنظام Android، ومتطلبات تشغيله متواضعة حيث يكفيه 1Gb من الذكرة مع معالج بدائي من نوع A9 لكي يشتغل وبصفة رشيقة.
 
 
-![Ubuntu Phone OS](http://www.it-scoop.com/wp-content/uploads/2013/01/Ubuntu-Phone-OS.jpg)
+![Ubuntu Phone OS](https://www.it-scoop.com/wp-content/uploads/2013/01/Ubuntu-Phone-OS.jpg)
 
 
 

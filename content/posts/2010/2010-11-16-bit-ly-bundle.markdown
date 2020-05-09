@@ -12,7 +12,7 @@ tags:
 - Bundle
 ---
 
-**[Bit.ly تطلق خدمة Bundle لتجميع الروابط المختصرة في رابط واحد](http://www.it-scoop.com/2010/11/bit-ly-bundle/)**
+**[Bit.ly تطلق خدمة Bundle لتجميع الروابط المختصرة في رابط واحد](https://www.it-scoop.com/2010/11/bit-ly-bundle/)**
 
 
 
@@ -23,7 +23,7 @@ tags:
 
 
 [![](http://bit.ly/s/v151/graphics/bundles_tour/bundle-from-hp.png)
-](http://www.it-scoop.com/2010/11/bit-ly-bundle/)
+](https://www.it-scoop.com/2010/11/bit-ly-bundle/)
 
 
 الخدمة التي [أطلقتها](http://blog.bit.ly/post/1584931022/introducing-bit-ly-bundles) Bit.ly اليوم و التي أًطلق عليها اسم Bundle  تقوم على أساس تجميع أكثر من رابط مقصَّر في رابط واحد، أو بالأحرى في صفحة واحدة ، مما يسهل الوصول إليها و مشاركتها، و خاصة للروابط و الملفات العديدة التي تشكل أجزاء من كل واحد.

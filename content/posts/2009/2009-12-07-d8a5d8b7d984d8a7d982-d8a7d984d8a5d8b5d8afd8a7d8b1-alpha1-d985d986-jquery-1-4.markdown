@@ -19,7 +19,7 @@ tags:
 
 أعلن فريق تطوير jQuery عن إطلاق الإصدار Alpha1 من jQuery 1.4   الموجه طبعا للتجربة فقط رغم الثبات النسبي لها بحكم نجاحها في اجتياز كل اختبارات المتصفحات التي تدعمها.
 
-![jquery_logo](http://www.it-scoop.com/wp-content/uploads/2009/12/jquery_logo-300x73.png)
+![jquery_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/jquery_logo-300x73.png)
 
 
 تأتي هذه الإصدارات بالعديد من التحسينات لكنه لا تزال بعض النقائص و الـ Bugs موجودة.

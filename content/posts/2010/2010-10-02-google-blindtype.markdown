@@ -13,7 +13,7 @@ tags:
 - Google
 ---
 
-**[Google تشتري BlindType  تطبيق لوحة مفاتيح التي تسهل الكتابة على الهواتف الذكية](http://www.it-scoop.com/2010/10/google-blindtype/)**
+**[Google تشتري BlindType  تطبيق لوحة مفاتيح التي تسهل الكتابة على الهواتف الذكية](https://www.it-scoop.com/2010/10/google-blindtype/)**
 
 
 
@@ -27,7 +27,7 @@ tags:
 
 
 [![](http://www.blindtype.com/files/QuickSiteImages/blindTypeLogo.jpg)
-](http://www.it-scoop.com/2010/10/google-blindtype/)
+](https://www.it-scoop.com/2010/10/google-blindtype/)
 
 
 لمن لم يسمع عن هذا التطبيق من قبل (مثلما هو الحال معي :p )  فهو عبارة عن تطبيق يتيح -مثلما هو ظاهر من اسمه-  الكتابة بدون النظر إلى لوحة المفاتيح. قد تتساءل و ما الجديد في ذلك؟ هناك الكثيرون يكتبون بدون النظر إلى لوحات مفاتيحهم. الميزة التي يضيفها هذا التطبيق هو اعتماده على المسافات بين أماكن النقر على الشاشة لتخمين الحروف المراد طباعتها.

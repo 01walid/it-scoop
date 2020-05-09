@@ -16,13 +16,13 @@ tags:
 - ساتوشي ناكاموتو
 ---
 
-منذ أن طفت قضية **Bitcoin** إلى السطح من جديد وأنا أرغب في كتابة شيء مبسط عنها، تناقشت مع [وليد](http://www.it-scoop.com/author/dzgeek/)  حول الأمر لنرى أينا سيكتب عن الأمر لكن التعقيدات التقنية التي ترافق هذه العملة المشفرة دفعت كلانا إلى إرجاء الأمر، إلى أن قرأت مؤخرا مقالين نُشرا على منصة Medium والتي تشرح بشكل مُبسط دون الخوض في أي من تعقيدات تشفير هذه العملة. سأحاول في هذا المقال استعراض زبدة الموضوعين لتبسيط فهم مبدأ عمل هذه العملة على من التبس عليه الأمر (لا تقلق التبس الأمر على الجميع، حتى من كان يُكثر الحديث حولها :) ).
+منذ أن طفت قضية **Bitcoin** إلى السطح من جديد وأنا أرغب في كتابة شيء مبسط عنها، تناقشت مع [وليد](https://www.it-scoop.com/author/dzgeek/)  حول الأمر لنرى أينا سيكتب عن الأمر لكن التعقيدات التقنية التي ترافق هذه العملة المشفرة دفعت كلانا إلى إرجاء الأمر، إلى أن قرأت مؤخرا مقالين نُشرا على منصة Medium والتي تشرح بشكل مُبسط دون الخوض في أي من تعقيدات تشفير هذه العملة. سأحاول في هذا المقال استعراض زبدة الموضوعين لتبسيط فهم مبدأ عمل هذه العملة على من التبس عليه الأمر (لا تقلق التبس الأمر على الجميع، حتى من كان يُكثر الحديث حولها :) ).
 
 
 
 
-[![bitcoin](http://www.it-scoop.com/wp-content/uploads/2013/05/bitcoin.png)
-](http://www.it-scoop.com/wp-content/uploads/2013/05/bitcoin.png)
+[![bitcoin](https://www.it-scoop.com/wp-content/uploads/2013/05/bitcoin.png)
+](https://www.it-scoop.com/wp-content/uploads/2013/05/bitcoin.png)
 
 
 
@@ -37,8 +37,8 @@ tags:
 
 
 
-[![yap-stone-money](http://www.it-scoop.com/wp-content/uploads/2013/05/yap-stone-money.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/05/yap-stone-money.jpg)
+[![yap-stone-money](https://www.it-scoop.com/wp-content/uploads/2013/05/yap-stone-money.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/05/yap-stone-money.jpg)
 
 
 

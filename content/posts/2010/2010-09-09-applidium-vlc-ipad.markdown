@@ -16,14 +16,14 @@ tags:
 - VLC
 ---
 
-**[قارئ الوسائط المتعددة VLC للـ iPad ينتظر موافقة Apple](http://www.it-scoop.com/2010/09/applidium-vlc-ipad)**
+**[قارئ الوسائط المتعددة VLC للـ iPad ينتظر موافقة Apple](https://www.it-scoop.com/2010/09/applidium-vlc-ipad)**
 
 
 أعلنت شركة Applidium البرمجية الفرنسية بأنها أنهت العمل على نسخة قارئ الوسائط المتعددة VLC موجهة لأجهزة الـ iPad و أنها تقدمت بطلب قبوله على  الـ AppStore.
 
 
 [![](http://applidium.com/system/screenshots/17/original/vlc.jpg )
-](http://www.it-scoop.com/2010/09/applidium-vlc-ipad)
+](https://www.it-scoop.com/2010/09/applidium-vlc-ipad)
 
 
 و في [حوار](http://www.clubic.com/tablette-internet-mid/ipad/actualite-363904-multimedia-vlc-ipad-apple.html) أجراه معه الموقع الفرنسي clubic، صرح Romain Goyet المدير التقني لـ Applidium ، أن العمل على إخراج نسخة VLC  خاصة بأجهزة iPad تم بالتعاون المباشر مع فريق عمل VideoLAN  الذي يسهر على هذا التطبيق، و لقد تم نقل جميع الخصائص المعهودة على هذا التطبيق المجاني و مفتوح المصدر في إصدار الـ iPad.

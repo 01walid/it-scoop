@@ -13,7 +13,7 @@ tags:
 - سبيلي
 ---
 
-**[](http://www.it-scoop.com/2010/06/Linux-sabily-manarat-10-04)[إطلاق الإصدار 10.04 من توزيعة سبيلي الإسلامية](http://www.it-scoop.com/2010/06/Linux-sabily-manarat-10-04)**
+**[](https://www.it-scoop.com/2010/06/Linux-sabily-manarat-10-04)[إطلاق الإصدار 10.04 من توزيعة سبيلي الإسلامية](https://www.it-scoop.com/2010/06/Linux-sabily-manarat-10-04)**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 **[![](http://www.sabily.org/website/images/stories/ubuntume.png  )
-](http://www.it-scoop.com/2010/06/Linux-sabily-manarat-10-04)**
+](https://www.it-scoop.com/2010/06/Linux-sabily-manarat-10-04)**
 
 
 سبيلي عبارة عن توزيعة Linux مبنية على Ubuntu لكنها مخصصة للمسلمين حيث تحتوي برامج تهتم بالعبادات و القرآن و اللغة العربية.

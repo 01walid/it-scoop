@@ -13,7 +13,7 @@ tags:
 - Mozilla
 ---
 
-**[Mozilla تطلق التحديث 3.6.6 لمتصفح Firefox](http://www.it-scoop.com/2010/06/mozilla-firefox-3-6-6)**
+**[Mozilla تطلق التحديث 3.6.6 لمتصفح Firefox](https://www.it-scoop.com/2010/06/mozilla-firefox-3-6-6)**
 
 
 
@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/firefox-3.6.png)
-](http://www.it-scoop.com/2010/06/mozilla-firefox-3-6-6)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/firefox-3.6.png)
+](https://www.it-scoop.com/2010/06/mozilla-firefox-3-6-6)
 
 
 تتمثل التحسينات التي تم إدخالها في زيادة الحد الأقصى المسموح به لكل إضافة قبل أن يتم إعلانها كـ"منهارة" حيث أصبحت هذه المدة 45 ثانية. و يرجع ذلك إلى إمكانية بقاء الإضافة بدون أي رد طيلة هذه المدة خاصة على الأجهزة القديمة دون أي تكون الإضافة فعلا متوقفة.

@@ -13,7 +13,7 @@ tags:
 - VeriSign
 ---
 
-[**Symantec تنوي شراء معظم خدمات VeriSign بقيمة 1.28 مليار دولار**](http://www.it-scoop.com/2010/05/symantec-verisign/ )
+[**Symantec تنوي شراء معظم خدمات VeriSign بقيمة 1.28 مليار دولار**](https://www.it-scoop.com/2010/05/symantec-verisign/ )
 
 
 
@@ -23,13 +23,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/Verisign_logo-300x154.jpg)
-](http://www.it-scoop.com/2010/05/symantec-verisign/ )
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Verisign_logo-300x154.jpg)
+](https://www.it-scoop.com/2010/05/symantec-verisign/ )
 
 
 
 
-صفقة Symantec للحصول على معظم خدمات VeriSign الأمنية يأتي بعد أسابيع قليلة من  عملية [شراء  Symantec لكل من  PGP و GuardianEdge](http://www.it-scoop.com/2010/04/symantec-buys-pgp-guardianedge/).
+صفقة Symantec للحصول على معظم خدمات VeriSign الأمنية يأتي بعد أسابيع قليلة من  عملية [شراء  Symantec لكل من  PGP و GuardianEdge](https://www.it-scoop.com/2010/04/symantec-buys-pgp-guardianedge/).
 
 
 

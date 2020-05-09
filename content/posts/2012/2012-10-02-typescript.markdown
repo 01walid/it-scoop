@@ -21,13 +21,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/10/typeScript.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/10/typeScript.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/10/typeScript.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/10/typeScript.png)
 
 
 
 
-قد يبدو للوهلة الأولى بأن هذه العملية ما هي سوى رد على Google التي أطلقت لغة [Dart](http://www.it-scoop.com/tag/dart/)  والتي تهدف إلى حل عدة مشاكل تعاني منها لغة JavaScript خاصة ما تعلق منها بثقل آلتها الافتراضية، لكن لما نرى بأن المشروع يقف وراءه 3 من كبار "أعمدة" لغات البرمجة في الوقت الراهن، ويتعلق الأمر بكل من Anders Hejlsberg الأب الروحي للغة C# (الذي سبق له وأن أبدع Delphi أيضا)، Steve Lucco مطور Chakra الآلة الافتراضية الخاصة بـ JScript و Luke Hoban أحد مختصي لغة JavaScript وأحد العاملين على معيار ECMAScript فإنه يظهر بأن الأمر أكبر من ذلك، ويبدو أن Microsoft عازمة على الذهاب بعيدا "بلغتها البرمجية الجديدة" خاصة وأن JavaScriptأحد اللغات المعتمدة لبناء واجهات تطبيقات WinRT.
+قد يبدو للوهلة الأولى بأن هذه العملية ما هي سوى رد على Google التي أطلقت لغة [Dart](https://www.it-scoop.com/tag/dart/)  والتي تهدف إلى حل عدة مشاكل تعاني منها لغة JavaScript خاصة ما تعلق منها بثقل آلتها الافتراضية، لكن لما نرى بأن المشروع يقف وراءه 3 من كبار "أعمدة" لغات البرمجة في الوقت الراهن، ويتعلق الأمر بكل من Anders Hejlsberg الأب الروحي للغة C# (الذي سبق له وأن أبدع Delphi أيضا)، Steve Lucco مطور Chakra الآلة الافتراضية الخاصة بـ JScript و Luke Hoban أحد مختصي لغة JavaScript وأحد العاملين على معيار ECMAScript فإنه يظهر بأن الأمر أكبر من ذلك، ويبدو أن Microsoft عازمة على الذهاب بعيدا "بلغتها البرمجية الجديدة" خاصة وأن JavaScriptأحد اللغات المعتمدة لبناء واجهات تطبيقات WinRT.
 
 
 

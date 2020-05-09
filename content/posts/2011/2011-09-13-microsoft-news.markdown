@@ -15,20 +15,20 @@ tags:
 - Windows Phone 7
 ---
 
-[لم الدّر المنثور من أخبار Microsoft ](http://www.it-scoop.com/2011/09/microsoft-news)
+[لم الدّر المنثور من أخبار Microsoft ](https://www.it-scoop.com/2011/09/microsoft-news)
 
 
-يطل علينا الأخ والكاتب [محمّد فوّاز عرابي](http://www.it-scoop.com/author/muhammad-fawwaz-orabi/) كل أسبوع ب[مختارات من أخبار Google،](http://www.it-scoop.com/2011/09/google-news-4/) ولإضفاء شيء من التوازن والحياد على المجلة التقنية :) أردت أن أضيف شيئا من أخبار Microsoft، وقد رأيت أن هناك من الأخبار ما يصعب أو لا تستحق أن تفرد بموضوع، لكن مع اجتماعها ولمّها، يحصل الخير الكثير، لذا سأحاول أن آخذكم في جولة أتخللها بشيء من التشويق حتى لا تمل الأنفس مما وجدته وتجمّع من أخبار حول الشركة.
+يطل علينا الأخ والكاتب [محمّد فوّاز عرابي](https://www.it-scoop.com/author/muhammad-fawwaz-orabi/) كل أسبوع ب[مختارات من أخبار Google،](https://www.it-scoop.com/2011/09/google-news-4/) ولإضفاء شيء من التوازن والحياد على المجلة التقنية :) أردت أن أضيف شيئا من أخبار Microsoft، وقد رأيت أن هناك من الأخبار ما يصعب أو لا تستحق أن تفرد بموضوع، لكن مع اجتماعها ولمّها، يحصل الخير الكثير، لذا سأحاول أن آخذكم في جولة أتخللها بشيء من التشويق حتى لا تمل الأنفس مما وجدته وتجمّع من أخبار حول الشركة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/Microsoft-Logo-300x71.jpg)
-](http://www.it-scoop.com/2011/09/microsoft-news)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/Microsoft-Logo-300x71.jpg)
+](https://www.it-scoop.com/2011/09/microsoft-news)
 
 **Windows phone 7**
 
 سنبدأ مع الدروس ومحبي الـ Tutorials ، فإن كنت عازما على التطوير لمنصات الهواتف الذكية، فقد تهمك منصة Windows Phone 7 خاصة مع النسخة الجديدة Mango ، ولعل أحد الأسباب للتوجه لهذه المنصة، هو النجاح المتصاعد لـ windows Phone 7، وكذلك الـMarketplace الجديد نسبيا، مما يعطي الأسبقية لتطبيقاتك خاصة في عالمنا العربي.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/6012.clip_image001_47DD9A7E-300x170.png)
-](http://www.it-scoop.com/2011/09/microsoft-news)إن كنت كذلك فنبشرك أنه تم إطلاق سلسلة من الفيديو ذي حوالي 14 ساعة مجانا، ليس لـwindows phone 7 فقط، بل ولنسخة Mango الجديدة، مقدمة من Chanel9 التابعة لـ Microsoft يمكن تحميلها [من هنا](http://blogs.msdn.com/b/microsoft_press/archive/2011/09/08/mango-jump-start-videos-just-released.aspx).
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/6012.clip_image001_47DD9A7E-300x170.png)
+](https://www.it-scoop.com/2011/09/microsoft-news)إن كنت كذلك فنبشرك أنه تم إطلاق سلسلة من الفيديو ذي حوالي 14 ساعة مجانا، ليس لـwindows phone 7 فقط، بل ولنسخة Mango الجديدة، مقدمة من Chanel9 التابعة لـ Microsoft يمكن تحميلها [من هنا](http://blogs.msdn.com/b/microsoft_press/archive/2011/09/08/mango-jump-start-videos-just-released.aspx).
 
 **Twitter و Bing يتغازلان!**
 <del>عيب</del> أقصد، طريف ما يحدث بين Twitter و Bing أمام الملأ، عبر محادثات لا بل مفاوضات جرت على موقع Twitter نفسه، لخلق جو من التفاوض جديد من نوعه تم من خلاله تمديد العقد لتضمين تغريدات Twitter في محرك البحث Bing، تريد المحادثة باختصار؟ ، تفضل:

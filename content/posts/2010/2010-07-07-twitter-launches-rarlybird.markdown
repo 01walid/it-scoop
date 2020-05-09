@@ -13,7 +13,7 @@ tags:
 - Twitter
 ---
 
-**[Twitter تنشئ حسابا جديدا للترويج للعروض الخاصة](http://www.it-scoop.com/2010/07/twitter-launches-rarlybird/ )**
+**[Twitter تنشئ حسابا جديدا للترويج للعروض الخاصة](https://www.it-scoop.com/2010/07/twitter-launches-rarlybird/ )**
 
 
 
@@ -24,7 +24,7 @@ tags:
 
 
 [![](http://a1.twimg.com/profile_images/1062039885/Earlybird-Avatar.png)
-](http://www.it-scoop.com/2010/07/twitter-launches-rarlybird/)
+](https://www.it-scoop.com/2010/07/twitter-launches-rarlybird/)
 
 
 

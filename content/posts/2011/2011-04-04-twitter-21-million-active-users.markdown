@@ -12,13 +12,13 @@ tags:
 - Twitter
 ---
 
-[**دراسة تكشف أن عدد المستخدمين النشطين لـ Twitter لا يتجاوز 21 مليون من أصل 200 مليون مشترك**](http://www.it-scoop.com/2011/04/twitter-21-million-active-users)
+[**دراسة تكشف أن عدد المستخدمين النشطين لـ Twitter لا يتجاوز 21 مليون من أصل 200 مليون مشترك**](https://www.it-scoop.com/2011/04/twitter-21-million-active-users)
 
 
 كشفت [دراسة](http://www.businessinsider.com/twitter-has-less-than-21-million-active-users-2011-4) أعدها موقع Business Insider أن عدد المغردين النشطين على Twitter بعيد كل البعد عن الـ 200 مليون مشترك التي تتغنى بها إدارة الموقع، إذ لا يكاد يتجاوز 21 مليون عضو.
 
 [![](http://static3.businessinsider.com/image/4d94fd2749e2ae7467120000/sai-chart-twitter-following.gif )
-](http://www.it-scoop.com/2011/04/twitter-21-million-active-users)
+](https://www.it-scoop.com/2011/04/twitter-21-million-active-users)
 
 و تشير الدراسة إلى 56 مليون "مغرد" لا يتابعون أي حساب و أن 90 مليون "مغرد" لا يحظون بأي متابع.
 

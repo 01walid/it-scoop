@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/07/Samsung-Windows-8-Tablet.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/07/Samsung-Windows-8-Tablet.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/07/Samsung-Windows-8-Tablet.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/07/Samsung-Windows-8-Tablet.jpg)
 
 
 
@@ -29,7 +29,7 @@ tags:
 
 
 
-كما تهدف Samsung إلى تجنب ربط مصيرها بنظام واحد وشريك واحد، حيث أنها تملك نظام تشغيل خاص بها، ويتعلق الأمر ب[نظام Bada](http://www.it-scoop.com/tag/Bada/)، إضافة إلى تسويقها لعدة هواتف وأجهزة لوحية تعمل بنظام Android.
+كما تهدف Samsung إلى تجنب ربط مصيرها بنظام واحد وشريك واحد، حيث أنها تملك نظام تشغيل خاص بها، ويتعلق الأمر ب[نظام Bada](https://www.it-scoop.com/tag/Bada/)، إضافة إلى تسويقها لعدة هواتف وأجهزة لوحية تعمل بنظام Android.
 
 
 

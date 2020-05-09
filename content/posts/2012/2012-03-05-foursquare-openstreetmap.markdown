@@ -21,8 +21,8 @@ tags:
 
 
 
-[![شعار خدمة فورسكوير](http://www.it-scoop.com/wp-content/uploads/2012/03/foursquare-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/foursquare-logo.png)
+[![شعار خدمة فورسكوير](https://www.it-scoop.com/wp-content/uploads/2012/03/foursquare-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/foursquare-logo.png)
 
 
 

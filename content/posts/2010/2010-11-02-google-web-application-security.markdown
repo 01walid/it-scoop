@@ -14,13 +14,13 @@ tags:
 - Security
 ---
 
-**[بعد Chrome، اكتشاف الثغرات على باقي تطبيقات Google يدر بدوره أموالا](http://www.it-scoop.com/2010/11/google-web-application-security)**
+**[بعد Chrome، اكتشاف الثغرات على باقي تطبيقات Google يدر بدوره أموالا](https://www.it-scoop.com/2010/11/google-web-application-security)**
 
 
 بعد أن أطلقت حملة  لمنح مكافآت لمكتشفي الثغرات على متصفح Chrome، قررت Google توسيع نطاق "سخائها" إلى أغلب تطبيقاتها على الويب.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/11/google-security.jpg)
-](http://www.it-scoop.com/2010/11/google-web-application-security)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/11/google-security.jpg)
+](https://www.it-scoop.com/2010/11/google-web-application-security)
 
 التطبيقات المعنية حاليا هي كل خدماتها على الويب و ضربت Google الأمثلة التالية:
 

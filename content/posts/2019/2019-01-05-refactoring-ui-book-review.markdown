@@ -15,8 +15,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2019/01/Refactoring-ui.jpg)
-](http://www.it-scoop.com/2019/01/refactoring-ui-book-review/refactoring-ui/)
+[![](https://www.it-scoop.com/wp-content/uploads/2019/01/Refactoring-ui.jpg)
+](https://www.it-scoop.com/2019/01/refactoring-ui-book-review/refactoring-ui/)
 
 
 

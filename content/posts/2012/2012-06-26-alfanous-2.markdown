@@ -17,8 +17,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-logo.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-logo.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-logo.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-logo.png)
 
 
 
@@ -37,15 +37,15 @@ tags:
 
 	  *  ** البحث التسلسلي عن الكلمات:** حيث يستطيع المستخدم أن يعيد البحث من جديد عن أي كلمة يريدها بنقرة واحدة، يهمل الفانوس علامات التشكيل  للحصول على نتائج بحث أوسع تشمل كل التشكيلات المختلفة للكلمة. الصورة التالية توضح إمكانية النقر على أي كلمة من الآيات الناتجة عن البحث، المثال يمثل نتيجة البحث عن كلمة "رب" ومؤشر الفأرة موجود فوق كلمة "السماوات":
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-clickable.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-clickable.png) <!-- more -->
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-clickable.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-clickable.png) <!-- more -->
 
 
 
 	  * **البحث بتشكيل معين للكلمة:** أحيانا يفضل بعض المستخدمين أن يحدد مجال البحث في تشكيل معين للكلمة  لتتبع معاني أو اشتقاقات الكلمة المختلفة، مثلا "من" دون تشكيل تشمل "مَنْ" الاسم و "مِنْ" الحرف و "مَنَّ" الفعل.  أو أيضا  لتتبع إعراب كلمة ما كما في المثال التالي الذي يمثل نتيجة البحث بكلمة "السماء":
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss2.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss2.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss2.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss2.png)
 
 
 
@@ -53,8 +53,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss3.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss3.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss3.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss3.png)
 
 
 
@@ -68,8 +68,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss4.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss4.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss4.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss4.png)
 
 
 
@@ -80,8 +80,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss5.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss5.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss5.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss5.png)
 
 
 
@@ -92,13 +92,13 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss6.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss6.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss6.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/alfanous-ss6.png)
 
 
 
 
-تجدر الإشارة إلى أن مشروع الفانوس فاز بجائزة أحسن موقع ويب من حيث التقنية المستعملة فيه في مسابقة[Algeria Web Awards 2012](http://www.it-scoop.com/2012/04/it-scoop-algeria-web-awards/).
+تجدر الإشارة إلى أن مشروع الفانوس فاز بجائزة أحسن موقع ويب من حيث التقنية المستعملة فيه في مسابقة[Algeria Web Awards 2012](https://www.it-scoop.com/2012/04/it-scoop-algeria-web-awards/).
 
 
 

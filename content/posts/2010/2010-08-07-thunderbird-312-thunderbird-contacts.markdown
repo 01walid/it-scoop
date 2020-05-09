@@ -15,7 +15,7 @@ tags:
 - Thunderbird Contacts
 ---
 
-**[صدور التحديث 3.1.2 لـ Thunderbird ، و إضافة جديدة لإدارة العناوين البريدية](http://www.it-scoop.com/2010/08/thunderbird-312-thunderbird-contacts)**
+**[صدور التحديث 3.1.2 لـ Thunderbird ، و إضافة جديدة لإدارة العناوين البريدية](https://www.it-scoop.com/2010/08/thunderbird-312-thunderbird-contacts)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/thunderbird-logo.png)
-](http://www.it-scoop.com/2010/08/thunderbird-312-thunderbird-contacts)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/thunderbird-logo.png)
+](https://www.it-scoop.com/2010/08/thunderbird-312-thunderbird-contacts)
 
 
 التحديث الجديد و الذي  يعتبر الثاني للفرع 3.1 الذي تم إطلاقه نهاية شهر مايو لا يأتي بمستجدات ، بل يوفر للتطبيق ثباتا أكبر و  تحسينات طفيفة تخص الواجهة الرسومية للتطبيق.

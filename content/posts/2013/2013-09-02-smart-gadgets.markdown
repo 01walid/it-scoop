@@ -23,8 +23,8 @@ tags:
 
 
 
-[![smartthings](http://www.it-scoop.com/wp-content/uploads/2013/09/smartthings.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/09/smartthings.jpg)
+[![smartthings](https://www.it-scoop.com/wp-content/uploads/2013/09/smartthings.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/09/smartthings.jpg)
 
 
 

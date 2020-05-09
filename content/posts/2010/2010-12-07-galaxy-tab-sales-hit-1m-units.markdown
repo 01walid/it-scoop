@@ -15,13 +15,13 @@ tags:
 - Samsung
 ---
 
-**[Samsung  تبيع مليون وحدة من Galaxy Tab  بعد شهرين فقط من إطلاقه](http://www.it-scoop.com/2010/12/galaxy-tab-sales-hit-1m-units/)**
+**[Samsung  تبيع مليون وحدة من Galaxy Tab  بعد شهرين فقط من إطلاقه](https://www.it-scoop.com/2010/12/galaxy-tab-sales-hit-1m-units/)**
 
 
 هل كنت تعتقد أن جهاز الـ iPad لا يمكن مجاراته من حيث المبيعات والعتاد؟ ، حسنا، Samsung أسقطت ذلك، مع جهازها Samsung Galaxy Tab، حيث نجحت مؤخرا في تجاوز حاجز المليون وحدة بيعت فقط خلال شهرين من إطلاق الجهاز!، بل وتأمل بيع 1.5 مليون وحدة قبل نهاية هذا العام.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/12/samsung-galaxy-tab.jpg)
-](http://www.it-scoop.com/2010/12/galaxy-tab-sales-hit-1m-units/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/12/samsung-galaxy-tab.jpg)
+](https://www.it-scoop.com/2010/12/galaxy-tab-sales-hit-1m-units/)
 
 حسب ما [أشار إليه](http://www.computerworld.com/s/article/9199678/Update_Galaxy_Tab_sales_hit_1M_mark) موقع computerworld،  فيبدو أن الجهاز اللوحي الكوري ذي 7 إنشات، قد نجح في كسب جمهور غفير،  فقبل أسبوع مضى فقط ، تم بيع 600.000 وحدة حول العالم، ثم شهدت المبيعات ارتفاعا حادا خاصة في الولايات المتحدة نتيجة Thanksgiving holiday (أو عطلة تقديم الشكر!) ، وكذا توفره لدى 120 مزود خدمة الهاتف في 64 دولة.
 

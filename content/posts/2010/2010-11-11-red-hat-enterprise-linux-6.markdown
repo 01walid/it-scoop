@@ -14,7 +14,7 @@ tags:
 - RedHat6
 ---
 
-**[النسخة النهائية من Red Hat Enterprise Linux 6 أصبحت متاحة الآن](http://www.it-scoop.com/2010/11/red-hat-enterprise-linux-6/)**
+**[النسخة النهائية من Red Hat Enterprise Linux 6 أصبحت متاحة الآن](https://www.it-scoop.com/2010/11/red-hat-enterprise-linux-6/)**
 
 
 
@@ -22,8 +22,8 @@ tags:
 أخيرا بعد طول انتظار أصبحت النسخة 6 من RedHat متاحة الآن وذلك قبل ساعات قليلة. هذه النسخة تحمل شعار (أكثر وثوقية, أكثر شمولية أكثر دعما للمصدر المفتوح ).
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/04/red_hat_logo_big-272x300.jpg)
-](http://www.it-scoop.com/2010/11/red-hat-enterprise-linux-6/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/04/red_hat_logo_big-272x300.jpg)
+](https://www.it-scoop.com/2010/11/red-hat-enterprise-linux-6/)
 
 التحسينات والأشياء الجديدة في هذه النسخة كثيرة جدا منها:
 

@@ -15,12 +15,12 @@ tags:
 - مدونة دروس الويب
 ---
 
-تم مساء اليوم إطلاق مدونة جديدة تنضم إلى سابقتيها ([المجلة التقنية](http://www.it-scoop.com/) و[مدونة الإعلام الاجتماعي](http://socialmedia4arab.com/)) والتي تتخصص هذه المرة في دروس الويب والتي حملت اسم... "**[مدونة دروس الويب](http://www.webtuts.me/)**".
+تم مساء اليوم إطلاق مدونة جديدة تنضم إلى سابقتيها ([المجلة التقنية](https://www.it-scoop.com/) و[مدونة الإعلام الاجتماعي](http://socialmedia4arab.com/)) والتي تتخصص هذه المرة في دروس الويب والتي حملت اسم... "**[مدونة دروس الويب](http://www.webtuts.me/)**".
 
 
 
 
-[![webtuts-logo-200x200](http://www.it-scoop.com/wp-content/uploads/2013/05/webtuts-logo-200x200.png)
+[![webtuts-logo-200x200](https://www.it-scoop.com/wp-content/uploads/2013/05/webtuts-logo-200x200.png)
 ](http://www.webtuts.me/)
 
 

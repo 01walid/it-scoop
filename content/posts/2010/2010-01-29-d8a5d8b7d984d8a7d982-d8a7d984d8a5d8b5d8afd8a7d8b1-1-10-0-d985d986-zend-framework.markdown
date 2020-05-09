@@ -13,13 +13,13 @@ tags:
 - Zend Framework
 ---
 
-[**إطلاق الإصدار 1.10.0  من Zend Framework**](http://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-1-10-0-%d9%85%d9%86-zend-framework/)
+[**إطلاق الإصدار 1.10.0  من Zend Framework**](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-1-10-0-%d9%85%d9%86-zend-framework/)
 
 
 أعلنت شركة Zend Technologies القائمة على تطوير لغة PHP عن إطلاق الإصدار 1.10.0  من إطار العمل Zend Framework.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/01/logo-zend-framework.jpg)
-](http://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-1-10-0-%d9%85%d9%86-zend-framework/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/01/logo-zend-framework.jpg)
+](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-1-10-0-%d9%85%d9%86-zend-framework/)
 
 يأتي الإصدار الجديد بالعديد من المزايا و التي تجدون كامل تفاصيلها في الـ Release Note المبنية أدناه، إضافة إلى إعادة هيكلة للتوثيق المصاحب لها، مما يسهل على المبرمج مهمته أكثر.
 

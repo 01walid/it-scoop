@@ -15,14 +15,14 @@ tags:
 - Firefox Sync
 ---
 
-**[الـ Beta الثامنة لـ Firefox 4 متوفرة للتحميل، و ترقع أزيد من 1400 علة](http://www.it-scoop.com/2010/12/firefox-4-beta-8/)**
+**[الـ Beta الثامنة لـ Firefox 4 متوفرة للتحميل، و ترقع أزيد من 1400 علة](https://www.it-scoop.com/2010/12/firefox-4-beta-8/)**
 
 
 أطلقت Mozilla الـ Beta الثامنة من الإصدار الرابع من متصفح Firefox و الذي طال انتظاره طويلا، و الذي يعلن عن بدأ العد التنازلي للإصدار النهائي للمتصفح، إذ أنه لم يعد يفصلنا عنها سوى إصداري Beta اثنين فقط.
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
-](http://www.it-scoop.com/2010/12/firefox-4-beta-8/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
+](https://www.it-scoop.com/2010/12/firefox-4-beta-8/)
 
 
 لا يأتي هذا الإصدار بخواص جديدة، و إنما يحسن من الخواص التي أضيفت في إصدارات Beta السابقة، فعلى سبيل المثال تم ترقيع ما لا يقل عن [1400](http://www.mozilla.com/en-US/firefox/4.0b8/releasenotes/buglist.html) علة برمجية (1414 على وجه التحديد)، كما تم تحسين أداء مدير الإضافات و دعم محسن للـ WebGL.

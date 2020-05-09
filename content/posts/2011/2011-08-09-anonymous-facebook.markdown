@@ -13,7 +13,7 @@ tags:
 - facebook
 ---
 
-[**Anonymous يحددون الخامس من نوفمبر موعدا لـ"تدمير" Facebook**](http://www.it-scoop.com/2011/08/anonymous-facebook/)
+[**Anonymous يحددون الخامس من نوفمبر موعدا لـ"تدمير" Facebook**](https://www.it-scoop.com/2011/08/anonymous-facebook/)
 
 
 
@@ -23,9 +23,9 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/anonymous.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/08/anonymous.jpg)[
-](http://www.it-scoop.com/2011/08/anonymous-facebook/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/anonymous.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/08/anonymous.jpg)[
+](https://www.it-scoop.com/2011/08/anonymous-facebook/)
 
 
 

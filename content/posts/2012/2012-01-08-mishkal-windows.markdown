@@ -16,8 +16,8 @@ tags:
 
 
 
-[![واجهة مشروع مشكال على نظام Windows](http://www.it-scoop.com/wp-content/uploads/2012/01/mishkal-windows.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/mishkal-windows.png)
+[![واجهة مشروع مشكال على نظام Windows](https://www.it-scoop.com/wp-content/uploads/2012/01/mishkal-windows.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/mishkal-windows.png)
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-وك[إصدار الويب](http://www.it-scoop.com/2011/11/%D9%85%D8%B4%D9%83%D8%A7%D9%84/) فإن إصدار سطح المكتب يقترح تشكيلا آليا للنص، ومن ثمّ يمكن للمستخدم من تصحيح التشكيل وتعديله، حيث يُراد بمشكال حاليا أن يكون مساعدا للتشكيل أكثر من كونه أداة للتشكيل الآلي.
+وك[إصدار الويب](https://www.it-scoop.com/2011/11/%D9%85%D8%B4%D9%83%D8%A7%D9%84/) فإن إصدار سطح المكتب يقترح تشكيلا آليا للنص، ومن ثمّ يمكن للمستخدم من تصحيح التشكيل وتعديله، حيث يُراد بمشكال حاليا أن يكون مساعدا للتشكيل أكثر من كونه أداة للتشكيل الآلي.
 
 
 

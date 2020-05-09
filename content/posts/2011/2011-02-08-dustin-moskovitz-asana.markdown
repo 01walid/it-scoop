@@ -14,13 +14,13 @@ tags:
 - facebook
 ---
 
-**[Dustin Moskovitz شريك Zuckerberg في تأسيس Facebook يكشف عن شركته الناشئة  Asana]( http://www.it-scoop.com/2011/02/dustin-moskovitz-asana/)**
+**[Dustin Moskovitz شريك Zuckerberg في تأسيس Facebook يكشف عن شركته الناشئة  Asana]( https://www.it-scoop.com/2011/02/dustin-moskovitz-asana/)**
 
 
 قد تستغرب إن سمعت أن Zuckerberg لم يكن المؤسس الوحيد للـ Facebook و أنه كان معه شخص آخر يدعى Dustin Moskovitz ساهم بشكل كبير في الخطوات الأولى للموقع، و قد تستغرب أكثر إن عملت أن Moskovitz قد قرر الرحيل عن Facebook سنة 2008  لإطلاق شركته الخاصة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/02/asana-logo.png)
-]( http://www.it-scoop.com/2011/02/dustin-moskovitz-asana/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/02/asana-logo.png)
+]( https://www.it-scoop.com/2011/02/dustin-moskovitz-asana/)
 
 و لقد ظهرت أمس أول ملامح هذه الشركة و التي أطلق عليها اسم Asana و التي لها علاقة بطريقة أو بأخرى بالشبكات الاجتماعية ، حيث توفر تطبيق ويب للعمل الجماعي خاص للشركات (سيتاح للأفراد أيضا لاحقا) و تسهل لهم إدارة المشاريع و المهام بشكل تشاركي.
 

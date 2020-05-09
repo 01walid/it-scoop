@@ -18,8 +18,8 @@ tags:
 
 Google لا تكل ولا تمل من حصد الألقاب والمراكز العليا، اليوم تضيف جوهرة (أو عدة جواهر) أخرى إلى تاجها، حيث يشير[ أحدث تقرير](http://blog.nielsen.com/nielsenwire/online_mobile/nielsens-tops-of-2011-digital/) لشركة Nielsen أن Google هي أكثر علامة تجارية جلبا للزوار في الولايات المتحدة خلال هذا العام.
 
-[![شعار جوجل متوج](http://www.it-scoop.com/wp-content/uploads/2011/12/google-crown.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/12/google-crown.jpg)
+[![شعار جوجل متوج](https://www.it-scoop.com/wp-content/uploads/2011/12/google-crown.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/12/google-crown.jpg)
 يشير هذا التقرير إلى أن Google تجذب ما لا يقل عن 153 مليون زائر فريد شهريا في الولايات المتحدة. أما أقرب منافسيه فهما Facebook التي تجذب أزيد من 137 مليون زائر فريد شهريا و Yahoo ! التي لا تزال قادرة على اجتذاب 130 مليون زائر أمريكي فريد شهريا.
 
 

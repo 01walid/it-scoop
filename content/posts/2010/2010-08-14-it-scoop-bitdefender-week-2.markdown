@@ -13,7 +13,7 @@ tags:
 - it-scoop
 ---
 
-**[مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الثاني)](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/ )**
+**[مسابقة: اربح نسخة bitdefender كل أسبوع طيلة شهر رمضان على المجلة التقنية (الأسبوع الثاني)](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/ )**
 
 
 
@@ -28,7 +28,7 @@ tags:
 
 
 [![](http://it-scoop.com/rsc/bitDefender_250_250.jpg )
-](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/)
+](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/)
 
 
 
@@ -62,8 +62,8 @@ tags:
 الخبر الذي يجب أن تكتب تعليقا عليه هو الظاهر في الصورة التالية:
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/08/it-scoopBitDefender22.png)
-](http://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/08/it-scoopBitDefender22.png)
+](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-2/)
 
 
 

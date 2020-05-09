@@ -14,7 +14,7 @@ tags:
 - internet explorer
 ---
 
-[**الدراسة التي تدعي أن مستخدمي Internet Explorer أغبى من غيرهم لا أساس لها من الصحة**](http://www.it-scoop.com/2011/08/aptiquant-research-internet-explorer-hoax)
+[**الدراسة التي تدعي أن مستخدمي Internet Explorer أغبى من غيرهم لا أساس لها من الصحة**](https://www.it-scoop.com/2011/08/aptiquant-research-internet-explorer-hoax)
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/08/browsers2.jpg)
-](http://www.it-scoop.com/2011/08/aptiquant-research-internet-explorer-hoax)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/08/browsers2.jpg)
+](https://www.it-scoop.com/2011/08/aptiquant-research-internet-explorer-hoax)
 
 
 

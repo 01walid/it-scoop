@@ -22,8 +22,8 @@ tags:
 
 
 
- [![social-apps](http://www.it-scoop.com/wp-content/uploads/2013/11/social-apps.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2013/11/social-apps.jpg)
+ [![social-apps](https://www.it-scoop.com/wp-content/uploads/2013/11/social-apps.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2013/11/social-apps.jpg)
 
 
 

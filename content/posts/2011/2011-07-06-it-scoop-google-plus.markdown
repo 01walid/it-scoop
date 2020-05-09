@@ -11,7 +11,7 @@ tags:
 - Google
 ---
 
-[**تابعوا المجلة التقنية على Google+**](http://www.it-scoop.com/2011/07/it-scoop-google-plus/ ‎)
+[**تابعوا المجلة التقنية على Google+**](https://www.it-scoop.com/2011/07/it-scoop-google-plus/ ‎)
 
 
 
@@ -27,7 +27,7 @@ tags:
 
 
 [![](http://it-scoop.com/rsc/banners/336x280.png)
-](http://www.it-scoop.com/2011/07/it-scoop-google-plus/ ‎)
+](https://www.it-scoop.com/2011/07/it-scoop-google-plus/ ‎)
 
 
 
@@ -42,7 +42,7 @@ tags:
 
 
 
-كما يمكنكم إبداء آرائكم و اقتراحاتكم بخصوص الأخبار التي تنشر على المجلة التقنية مباشرة عبر التعليقات أو عبر مراسلتنا باستخدام [هذا النموذج](http://www.it-scoop.com/contact-us/).
+كما يمكنكم إبداء آرائكم و اقتراحاتكم بخصوص الأخبار التي تنشر على المجلة التقنية مباشرة عبر التعليقات أو عبر مراسلتنا باستخدام [هذا النموذج](https://www.it-scoop.com/contact-us/).
 
 
 

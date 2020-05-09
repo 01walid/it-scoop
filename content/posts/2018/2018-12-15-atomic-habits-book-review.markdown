@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/12/atomic-habits.jpg)
-](http://www.it-scoop.com/2018/12/atomic-habits-book-review/atomic-habits/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/12/atomic-habits.jpg)
+](https://www.it-scoop.com/2018/12/atomic-habits-book-review/atomic-habits/)
 
 
 

@@ -15,13 +15,13 @@ tags:
 - Page Speed Service
 ---
 
-[**آخر أخبار Google: خدمة لتسريع تحميل صفحات موقعك، انخفاض في زيارات Google+، إطلاق تصميم جديد للبحث مناسب للأجهزة اللوحيّة والمزيد!**](http://www.it-scoop.com/2011/07/google-news/)
+[**آخر أخبار Google: خدمة لتسريع تحميل صفحات موقعك، انخفاض في زيارات Google+، إطلاق تصميم جديد للبحث مناسب للأجهزة اللوحيّة والمزيد!**](https://www.it-scoop.com/2011/07/google-news/)
 
 
 لا يمرّ أسبوع دون أن نسمع خبرًا يتعلّق بـGoogle بشكل أو بآخر، وهذا الأسبوع كان غنيًّا بأخبار الشّركة...
 
-[![](http://www.it-scoop.com/wp-content/uploads/2009/11/google_logo-300x125.jpg)
-](http://www.it-scoop.com/2011/07/google-news/)
+[![](https://www.it-scoop.com/wp-content/uploads/2009/11/google_logo-300x125.jpg)
+](https://www.it-scoop.com/2011/07/google-news/)
 
 
 

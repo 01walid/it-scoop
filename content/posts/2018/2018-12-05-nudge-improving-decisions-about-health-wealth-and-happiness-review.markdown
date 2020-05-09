@@ -16,8 +16,8 @@ categories:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2018/12/nudge.jpg)
-](http://www.it-scoop.com/2018/12/nudge-improving-decisions-about-health-wealth-and-happiness-review/nudge/)
+[![](https://www.it-scoop.com/wp-content/uploads/2018/12/nudge.jpg)
+](https://www.it-scoop.com/2018/12/nudge-improving-decisions-about-health-wealth-and-happiness-review/nudge/)
 
 
 

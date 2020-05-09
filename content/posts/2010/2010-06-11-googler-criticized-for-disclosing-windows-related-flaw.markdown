@@ -17,7 +17,7 @@ tags:
 - vulnerability
 ---
 
-**[Microsoft تنتقد Google بسبب قيام Tavis بنشر تفاصيل ثغرة أمنية مع الاستغلال قبل تصحيحها](http://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw)**
+**[Microsoft تنتقد Google بسبب قيام Tavis بنشر تفاصيل ثغرة أمنية مع الاستغلال قبل تصحيحها](https://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw)**
 
 
 
@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/06/weaklink-300x195.jpg)
-](http://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/06/weaklink-300x195.jpg)
+](https://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw)
 
 
 

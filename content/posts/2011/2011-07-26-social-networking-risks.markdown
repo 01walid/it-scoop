@@ -11,7 +11,7 @@ tags:
 - social media
 ---
 
-[**مقال: التواصل الاجتماعي دون أخطار**](http://www.it-scoop.com/2011/07/social-networking-risks/)
+[**مقال: التواصل الاجتماعي دون أخطار**](https://www.it-scoop.com/2011/07/social-networking-risks/)
 
 
 

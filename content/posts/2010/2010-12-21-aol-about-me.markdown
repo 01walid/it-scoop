@@ -13,13 +13,13 @@ tags:
 - AOL
 ---
 
-**[بعد أربعة أيام فقط على إطلاقها الرسمي، AOL تشتري خدمة about.me](http://www.it-scoop.com/2010/12/aol-about-me/)**
+**[بعد أربعة أيام فقط على إطلاقها الرسمي، AOL تشتري خدمة about.me](https://www.it-scoop.com/2010/12/aol-about-me/)**
 
 
 لم تمض سوى 4 أيام عن الإطلاق الرسمي لخدمة about.me حتى سال لعاب AOL من جديد و [قررت](http://tonyconrad.wordpress.com/2010/12/20/booyah/) شراء الخدمة قبل أن يقوى عودها و تكلفها "ثروة" أكبر لشرائها.
 
 [![](http://tctechcrunch.files.wordpress.com/2010/12/aboutmetony2.png )
-](http://www.it-scoop.com/2010/12/aol-about-me/)
+](https://www.it-scoop.com/2010/12/aol-about-me/)
 
 خدمة about.me تقدم خدمة بسيطة جدا ، لكنها مهمة في نظر الكثيرين، حيث تمكن كل مشترك من عمل صفحة خاصة به (مثل [هذه البطاقة](http://about.me/tonyconrad) الخاصة بمؤسس الخدمة) أقرب ما تكون إلى الـ business card حيث تحتوي على روابط إلى حسابات المشترك على الشبكات الاجتماعية، مواقعه، أو حتى خلاصات RSS لمدوناته. كما يمكن الموقع من تتبع النقرات و عددها، و وجهاتها.
 

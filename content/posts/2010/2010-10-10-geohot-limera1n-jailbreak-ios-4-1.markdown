@@ -20,7 +20,7 @@ tags:
 - Ultrasn0w
 ---
 
-**[Geohot ينشر Limera1n   الـ jailbreak الخاص بنظام iOS 4.1](http://www.it-scoop.com/2010/10/geohot-limera1n-jailbreak-ios-4-1)**
+**[Geohot ينشر Limera1n   الـ jailbreak الخاص بنظام iOS 4.1](https://www.it-scoop.com/2010/10/geohot-limera1n-jailbreak-ios-4-1)**
 
 
 
@@ -30,8 +30,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/limera1n-jailbreak.jpg)
-](http://www.it-scoop.com/2010/10/geohot-limera1n-jailbreak-ios-4-1)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/limera1n-jailbreak.jpg)
+](https://www.it-scoop.com/2010/10/geohot-limera1n-jailbreak-ios-4-1)
 
 
 

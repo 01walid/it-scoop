@@ -12,7 +12,7 @@ tags:
 - Bitdefender
 ---
 
-[**Bitdefender تحتفل بعيد ميلادها العاشر وتكشف رسميا عن هويتها وشعارها الجديدين**](http://www.it-scoop.com/2011/09/bitdefender-10th-anniversary‏/)
+[**Bitdefender تحتفل بعيد ميلادها العاشر وتكشف رسميا عن هويتها وشعارها الجديدين**](https://www.it-scoop.com/2011/09/bitdefender-10th-anniversary‏/)
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/Bitdefender-Red.png)
-](http://www.it-scoop.com/2011/09/bitdefender-10th-anniversary%E2%80%8F/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/Bitdefender-Red.png)
+](https://www.it-scoop.com/2011/09/bitdefender-10th-anniversary%E2%80%8F/)
 
 
 
@@ -48,8 +48,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2011/09/Bitdefender_avatar_web.png)
-](http://www.it-scoop.com/2011/09/bitdefender-10th-anniversary%E2%80%8F/)
+ [![](https://www.it-scoop.com/wp-content/uploads/2011/09/Bitdefender_avatar_web.png)
+](https://www.it-scoop.com/2011/09/bitdefender-10th-anniversary%E2%80%8F/)
 
 
 
@@ -60,7 +60,7 @@ tags:
 
 
 [
-](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0241.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0241.jpg)
 
 
 
@@ -70,20 +70,20 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0239.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0239.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0239.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0239.jpg)
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0245.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0245.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0245.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0245.jpg)
 
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0246.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0246.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0246.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0246.jpg)
 
 
 

@@ -13,13 +13,13 @@ tags:
 - Windows Mobile
 ---
 
-[**Android يتقدم بخطى ثابتة في الولايات المتحدة، و Windows Mobile يتراجع**](http://www.it-scoop.com/2010/03/android-%d9%8a%d8%aa%d9%82%d8%af%d9%85-%d8%a8%d8%ae%d8%b7%d9%89-%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9/)
+[**Android يتقدم بخطى ثابتة في الولايات المتحدة، و Windows Mobile يتراجع**](https://www.it-scoop.com/2010/03/android-%d9%8a%d8%aa%d9%82%d8%af%d9%85-%d8%a8%d8%ae%d8%b7%d9%89-%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9/)
 
 
 إذا صدقت آخر إحصائيات ComScore  فإن نظام تشغيل Android المقدم من طرف Google يتقدم بخطى ثابتة نحو نسبة 10% من إجمالي سوق أنظمة تشغيل الهواتف الذكية في الولايات المتحدة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/03/smartphones.jpg)
-](http://www.it-scoop.com/2010/03/android-%d9%8a%d8%aa%d9%82%d8%af%d9%85-%d8%a8%d8%ae%d8%b7%d9%89-%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/03/smartphones.jpg)
+](https://www.it-scoop.com/2010/03/android-%d9%8a%d8%aa%d9%82%d8%af%d9%85-%d8%a8%d8%ae%d8%b7%d9%89-%d8%ab%d8%a7%d8%a8%d8%aa%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9/)
 
 حسب هذه الإحصائيات فإن الصدارة لا تزال خالصة لشركة RIM بفضل أجهزة الـ Blackberry بنسبة 43% يليها نظام iPhone OS بنسبة 25,1%.
 

@@ -13,13 +13,13 @@ tags:
 - أوقات الصلاة
 ---
 
-**[Google تعلن عن إضافة مواقيت الصلاة إلى نتائج البحث](http://www.it-scoop.com/2011/04/islamic-prayer-times-google-search)**
+**[Google تعلن عن إضافة مواقيت الصلاة إلى نتائج البحث](https://www.it-scoop.com/2011/04/islamic-prayer-times-google-search)**
 
 
 أعلنت Google عبر مدونتها الموجهة للمستخدمين العرب عن توفير [خاصية البحث](http://google-arabia.blogspot.com/2011/04/islamic-prayer-times-in-search.html) عن مواقيت الصلاة مباشرة عبر محرك البحث الخاص بها.
 
 [![](https://lh5.googleusercontent.com/ZHqthImKYdzGjZqtQVDRSAvarp1SMEJe62lO-a8o1iZRVgimwntyT76u6bl2B9IXocmmvBPELIDXE3rCRz4e0G4cB9BE0h0YlYEyr-sZbbz8cd1IZZo )
-](http://www.it-scoop.com/2011/04/islamic-prayer-times-google-search)
+](https://www.it-scoop.com/2011/04/islamic-prayer-times-google-search)
 
 الخاصية التي يظهر و كأنها لم تفعل حاليا بشكل كامل (الرابط المذكور في تدوينة Google لا يظهر بعد النتائج التي يفترض به إظهارها و المبنية في الصورة)، تمكن بمجرد كتابة اسم المدينة مرفقا بـ "أوقات الصلاة" حتى تظهر مواقيت الصلاة مباشرة على صفحة البحث (و ليس كنتيجة بحث) مثلما توضحه الصورة المبينة أعلاه.
 

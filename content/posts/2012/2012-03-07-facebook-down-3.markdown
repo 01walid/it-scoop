@@ -17,8 +17,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/03/Facebook-down.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/03/Facebook-down.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/03/Facebook-down.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/03/Facebook-down.jpg)
 
 
 

@@ -13,13 +13,13 @@ tags:
 - Yahoo
 ---
 
-**[Facebook يتجاوز Yahoo و يحل ثالثا في ترتيب المواقع الأكثر زيارة](http://www.it-scoop.com/2010/12/comscore-facebook-yahoo-third-largest-website)**
+**[Facebook يتجاوز Yahoo و يحل ثالثا في ترتيب المواقع الأكثر زيارة](https://www.it-scoop.com/2010/12/comscore-facebook-yahoo-third-largest-website)**
 
 
 نشر مكتب الدراسات ComScore إحصائياته بخصوص المواقع الأكثر زيارة خلال شهر نوفمبر المنصرم و التي بينت أن Facebook قد تجاوز للمرة الأولى Yahoo من حيث عدد الزيارات (الفردية) محتلا بذلك المرتبة الثالثة عالميا.
 
 [![](http://tctechcrunch.files.wordpress.com/2010/12/fb-vs-yahoo-nov-2010.png )
-](http://www.it-scoop.com/2010/12/comscore-facebook-yahoo-third-largest-website)
+](https://www.it-scoop.com/2010/12/comscore-facebook-yahoo-third-largest-website)
 
 و تشير الدراسة إلى أن Facebook سجل نموا يقدر بأكثر من 50% خلال عام واحد، حيث قفز عدد زياراته الفردية من 400 مليون زيارة فردية خلال شهر نوفمبر من العام الماضي مقابل 600 مليون لـ Yahoo  خلال نفس الفترة، ليصل إلى 648 مليون زيارة فردية خلال نفس الشهر من العام الجاري مقابل 630 مليون زيارة فردية لـ Yahoo خلال نفس الفترة.
 

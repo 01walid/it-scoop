@@ -14,7 +14,7 @@ tags:
 - Zuckerberg
 ---
 
-**[أمريكي يدعي امتلاك 84% من قيمة Facebook ويقاضي Zuckerberg لإثبات ذلك](http://www.it-scoop.com/2010/07/Man-claims-own-84-percent-Facebook)**
+**[أمريكي يدعي امتلاك 84% من قيمة Facebook ويقاضي Zuckerberg لإثبات ذلك](https://www.it-scoop.com/2010/07/Man-claims-own-84-percent-Facebook)**
 
 
 
@@ -24,8 +24,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
-](http://www.it-scoop.com/2010/07/Man-claims-own-84-percent-Facebook)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
+](https://www.it-scoop.com/2010/07/Man-claims-own-84-percent-Facebook)
 
 
 الرجل الذي يدعى Paul Ceglia يدعي أنه وقع عقدا مع Mark Zuckerberg يقوم بمقتضاه بتصميم موقع TheFacebook.com سنة 2003 ( و الذي أصبح Facebook لاحقا)، يحصل بمقتضاه على 1000 دولار و 50% من قيمة الشركة، إضافة إلى 1%  عن كل يوم تأخير منذ بداية سنة 2004 الذي تم تحديده كموعد لإطلاق الموقع، و بما أن الموقع لم ينطلق سوى في الـ 4 من فبراير أي بتأخر34 يوم فإنه و حسب حسابات المدعي يصبح مالكا لـ 84% من قيمة الموقع.

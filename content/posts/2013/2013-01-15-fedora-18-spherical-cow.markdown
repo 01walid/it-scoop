@@ -17,7 +17,7 @@ tags:
 
 بعد تردد وتأخر دام بضع أسابيع،  أطلق مجتمع **Fedora** اليومَ، الإصدارة **18** من البنت المدللة لـ **Red Hat**، والتي تحمل هذه المرة اسم:** Spherical Cow**، طبعا مع ميزات مثيرة للاهتمام.
 
-![Fedora](http://www.it-scoop.com/wp-content/uploads/2013/01/Fedora.jpg)
+![Fedora](https://www.it-scoop.com/wp-content/uploads/2013/01/Fedora.jpg)
 
 
 من أبرز ما تحمله[ الإصدارة الجديدة](http://fedorapeople.org/groups/docs/release-notes/en-US/):

@@ -12,7 +12,7 @@ tags:
 - N2V
 ---
 
-[**N2V تطلق موقعا يجمع إحصاءات الإنترنت العربية في مكان واحد**](http://www.it-scoop.com/2011/08/discover-digital-arabia/)
+[**N2V تطلق موقعا يجمع إحصاءات الإنترنت العربية في مكان واحد**](https://www.it-scoop.com/2011/08/discover-digital-arabia/)
 
 
 
@@ -22,8 +22,8 @@ tags:
 
 
 
-[![discover digital arabia](http://www.it-scoop.com/wp-content/uploads/2011/08/discoverdigitalarabia.png)
-](http://www.it-scoop.com/2011/08/discover-digital-arabia/)
+[![discover digital arabia](https://www.it-scoop.com/wp-content/uploads/2011/08/discoverdigitalarabia.png)
+](https://www.it-scoop.com/2011/08/discover-digital-arabia/)
 
 
 

@@ -18,8 +18,8 @@ tags:
 
 يبدو أن Windows 8 لم يغيّر فقط في المظهر وتجربة الإستخدام، فبعد أسلوب الإقلاع الجديد، طريقة الولوج وحفظ إعدادات المستخدم Picture Passwords، المزامنة، قابلية كتابة التطبيقات بلغات الويب، وغيرها، يأتي دور نظام الملفات الجديد، الذي قد يعرفه بعض ممن استخدم النظام تحت اسم Protogon، لكن الشركة [بدأت بالكشف عن مزايا النظام الجديد](http://blogs.msdn.com/b/b8/archive/2012/01/16/building-the-next-generation-file-system-for-windows-refs.aspx) وبدأت بالإسم ReFS إختصارًا لـِ Resilient File System أي نظام الملفات المرن فما الذي يميّز هذا الجديد؟
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/01/8015.NTFS-and-ReFS-file-systems_64354781.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/01/8015.NTFS-and-ReFS-file-systems_64354781.jpg)تم تصميم ReFS أوّلا ليُلبيَ حاجات التخزين على Windows التي نواجهها في الوقت الحاضر، بوضع 5 أهداف أساسية يلزم بُلوغها، وهي:
+[![](https://www.it-scoop.com/wp-content/uploads/2012/01/8015.NTFS-and-ReFS-file-systems_64354781.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/01/8015.NTFS-and-ReFS-file-systems_64354781.jpg)تم تصميم ReFS أوّلا ليُلبيَ حاجات التخزين على Windows التي نواجهها في الوقت الحاضر، بوضع 5 أهداف أساسية يلزم بُلوغها، وهي:
 
 
 

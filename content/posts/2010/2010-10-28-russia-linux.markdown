@@ -15,7 +15,7 @@ tags:
 - ٌrussia
 ---
 
-**[روسيا تريد التخلص من تبعية Microsoft بتطوير نظام تشغيل خاص بها](http://www.it-scoop.com/2010/10/russia-linux/)**
+**[روسيا تريد التخلص من تبعية Microsoft بتطوير نظام تشغيل خاص بها](https://www.it-scoop.com/2010/10/russia-linux/)**
 
 
 
@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/10/rusflag.jpg)
-](http://www.it-scoop.com/2010/10/russia-linux/)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/10/rusflag.jpg)
+](https://www.it-scoop.com/2010/10/russia-linux/)
 
 
 و تعتزم روسيا إنفاق ما قيمته 150 مليون روبية روسية (4.3 مليون دولار) خلال العام القادم على تطوير هذا النظام. و في [تصريح](http://www.google.com/hostednews/afp/article/ALeqM5ghjg_tT6QzNQjXXT5HCKrIvCUMKQ?docId=CNG.649f81a02bcbfc0e7603d630f2ab1828.511) لوكالة الأنباء الفرنسية قالـ(ت)  llia Ponomarev أن النظام سيكون مبنيا على نواة Linux لكنه لن يتم الاعتماد على أية من التوزيعات الحالية.

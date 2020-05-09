@@ -15,13 +15,13 @@ tags:
 ---
 
 **[عندما يصبح بروتوكول Skype مفتوح المصدر... بفضل الهندسة العكسية
-](http://www.it-scoop.com/2011/06/skype-opensource/)**
+](https://www.it-scoop.com/2011/06/skype-opensource/)**
 
 
 قام باحث مستقل يدعى Efim Bushmanov بنشر [مشروع ](http://skype-open-source.blogspot.com/2011/06/skype-protocol-reverse-engineered.html)قام من خلاله بتحليل عمل (هندسة عكسية) بروتوكول برنامج Skype الشهير للاتصالات.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2011/06/skype_logo_cracked.jpg)
-](http://www.it-scoop.com/2011/06/skype-opensource/)
+[![](https://www.it-scoop.com/wp-content/uploads/2011/06/skype_logo_cracked.jpg)
+](https://www.it-scoop.com/2011/06/skype-opensource/)
 
 يقول Bushmanov بأنه أراد نشر هذا العمل بالتزامن مع الضجة الإعلامية حول شراء Microsoft  لـ Skype  ويرغب في إيجاد أصدقاء قادرين على التعاون معه في إنهاء التحليل الكامل لبروتوكول Skype، كما يتمنى أن يكون Skype مفتوح المصدر.
 

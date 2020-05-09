@@ -16,13 +16,13 @@ tags:
 - Tabnabbing
 ---
 
-[**الكشف عن Tabnabbing نوع جديد من الـ Phishing الذي يعتمد على الـ Tabs الخاصة بالمتصفحات**](http://www.it-scoop.com/2010/05/Tabnabbing-new-Type-of-Phishing-Attack)
+[**الكشف عن Tabnabbing نوع جديد من الـ Phishing الذي يعتمد على الـ Tabs الخاصة بالمتصفحات**](https://www.it-scoop.com/2010/05/Tabnabbing-new-Type-of-Phishing-Attack)
 
 
 كشف Aza Raskin المطور لدى Mozilla عن نوع جديد من الـ Phishing و الذي أًطلق عليه اسم Tabnabbing و الذي يعتمد حسب ما يدل عليه اسمه على الـ Tabs التي أصبحت من ركائز المتصفحات الحديثة.
 
-[![](http://www.it-scoop.com/wp-content/uploads/2010/05/phishing.jpg)
-](http://www.it-scoop.com/2010/05/Tabnabbing-new-Type-of-Phishing-Attack)
+[![](https://www.it-scoop.com/wp-content/uploads/2010/05/phishing.jpg)
+](https://www.it-scoop.com/2010/05/Tabnabbing-new-Type-of-Phishing-Attack)
 
 مبدأ عمل التقنية الجديد بسيط جدا، حيث أن أكثرنا يفتح أكثر من Tab في نفس النافذة (إن لم نقل العشرات) ، و يكفي أن تكون إحدى الصفحات المفتوحة محقونة بشيفرة JavaScript معينة و التي بمجرد أن يتم  الانتقال إلى Tab آخر تقوم بتغيير محتوى الصفحة إلى صفحة مشابهة لصفحة بداية Gmail أو Facebook أو أي من المواقع الشهيرة و التي يحتمل أن تكون الضحية من مستعمليها.
 

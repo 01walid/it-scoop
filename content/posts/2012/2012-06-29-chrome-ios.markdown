@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/app-google-chrome.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/app-google-chrome.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/app-google-chrome.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/app-google-chrome.jpg)
 
 
 
@@ -34,8 +34,8 @@ tags:
 
 
 
- [![](http://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-keyboard.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-keyboard.png)
+ [![](https://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-keyboard.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-keyboard.png)
 
 
 
@@ -45,8 +45,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-tabs.png)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-tabs.png)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-tabs.png)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-tabs.png)
 
 
 
@@ -56,8 +56,8 @@ tags:
 
 
 
-[![](http://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-incognito.jpg)
-](http://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-incognito.jpg)
+[![](https://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-incognito.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2012/06/chrome-ios-incognito.jpg)
 
 
 
