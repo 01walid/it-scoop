@@ -1,0 +1,41 @@
+---
+author: يوغرطة بن علي (Youghourta Benali)
+date: 2012-03-07 07:39:51+00:00
+draft: false
+title: Facebook يتوقف لحوالي ساعتين هذا الصباح في العديد من الدول
+type: post
+url: /2012/03/facebook-down-3/
+categories:
+- Web
+tags:
+- Down
+- facebook
+---
+
+ظهرت العديد من التقارير الإخبارية السريعة التي تُشير إلى توقف شبكة Facebook عن العمل في العديد من الدول وخاصة الأوروبية منذ الساعة السادسة وعشرين دقيقة من صباح اليوم بتوقيت جرينيتش.
+
+
+
+
+[![](http://www.it-scoop.com/wp-content/uploads/2012/03/Facebook-down.jpg)
+](http://www.it-scoop.com/wp-content/uploads/2012/03/Facebook-down.jpg)
+
+
+
+
+يمكن تأكيد ذلك من خلال [البحث عن Facebook على شبكة تويتر](https://twitter.com/#%21/search/%23facebook) (لا يوجد أفضل من تويتر لتقصي الأخبار الساخنة)، حيث أن هناك مئات التغريدات بمختلف اللغات التي تؤكد ذلك، إلا أن أغلبها يتركز في أوروبا بشكل عام ( فرنسا، إسبانيا، ألمانيا، بريطانيا...) مما يُعطي الانطباع بأن المشكل محلي فقط.
+
+
+
+
+لم تظهر بعد أي تقارير تقنية حول الأمر، لكن النسخة الفرنسية من موقع ZdNet [تُرجح](http://www.zdnet.fr/blogs/infra-net/panne-geante-de-facebook-ce-matin-un-incident-lie-au-dns-39769358.htm) أن يكون الخلل متعلقا باسم النطاق.
+
+
+
+
+**تحديث**: Facebook يعود للعمل من جديد
+
+
+
+
+في أي بلد أنت؟ هل تعمل الشبكة لديك؟

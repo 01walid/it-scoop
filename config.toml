@@ -1,0 +1,29 @@
+baseURL = "https://www.it-scoop.com"
+title = "المجلة التقنية"
+theme = "it-scoop"
+languageCode = "ar-dz"
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "ar"
+SectionPagesMenu = "main"
+Paginate = 10
+
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+[languages]
+  [languages.ar]
+    languagedirection = "rtl"
+    weight = 2
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "معنا للخبر التقني معنى"
+  facebook = "https://www.facebook.com/ITscoopMagazine"
+  twitter = "https://twitter.com/it_scoop_com"
+  recent_posts_number = 10

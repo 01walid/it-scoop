@@ -1,0 +1,34 @@
+---
+author: يوغرطة بن علي (Youghourta Benali)
+date: 2010-03-14 18:00:58+00:00
+draft: false
+title: MSI تطلق Notebook بشاشة ذات 17 بوصة
+type: post
+url: /2010/03/msi-%d8%aa%d8%b7%d9%84%d9%82-notebook-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-%d8%b0%d8%a7%d8%aa-17-%d8%a8%d9%88%d8%b5%d8%a9/
+categories:
+- عتاد
+tags:
+- GE700
+- MSI
+- Notebook
+---
+
+[**MSI تطلق Notebook بشاشة ذات 17 بوصة**](http://www.it-scoop.com/2010/03/msi-%d8%aa%d8%b7%d9%84%d9%82-notebook-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-%d8%b0%d8%a7%d8%aa-17-%d8%a8%d9%88%d8%b5%d8%a9/)
+
+
+كشف المصنع التايواني MSI النقاب عن جهاز GE700  مجهز بشاشة ذات 17,3  بوصة و يبلغ وزنه 3,2 كليلوغراما.
+
+
+[![](http://eu.msi.com/uploads/prod_b__20100225102332.jpg)
+](http://www.it-scoop.com/2010/03/msi-%d8%aa%d8%b7%d9%84%d9%82-notebook-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-%d8%b0%d8%a7%d8%aa-17-%d8%a8%d9%88%d8%b5%d8%a9/)
+
+
+جهاز GE700 يعتمد على معالج Intel Core i5   و ذواكر DDR3 إضافة إلى بطاقة رسومية ATI Radeon HD 5730.
+
+أما فيما يخص التخزين، فهو يمتلك قرصا صلبا ذي 500 Gb إضافة إلى قارئ بطاقات الذاكرة.
+
+و من ناحية الاتصال، فإن جهاز GE700 يمتلك كلا من اتصال Gigabit LAN ،WiFi 802.11n والـ Bluetooth 2.1.
+
+لم تعلن MSI عن أسعار الجهاز الجديد و لا عن موعد إطلاقه
+
+يمكن الإطلاع على المزيد من التفاصيل من [هنا](http://eu.msi.com/index.php?func=proddesc&maincat_no=135&cat2_no=271&prod_no=2021)
