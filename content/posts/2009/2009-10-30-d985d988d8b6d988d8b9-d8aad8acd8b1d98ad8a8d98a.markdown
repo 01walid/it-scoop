@@ -1,11 +1,12 @@
 ---
 author: يوغرطة بن علي (Youghourta Benali)
 date: 2009-10-30 17:45:13+00:00
+draft: true
 title: موضوع تجريبي
 type: post
 url: /2009/10/%d9%85%d9%88%d8%b6%d9%88%d8%b9-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a/
 categories:
-- عام
+  - عام
 ---
 
 أهلا و سهلا بك في الموضوع التجريبي
