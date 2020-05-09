@@ -54,7 +54,7 @@ tags:
 
 3. **[Tweet Button](http://drupal.org/project/tweetbutton)** : تقوم هذه الإضافة بتوفير زر تشارك Twitter الرسمي بأشكاله الثلاثة (الزر الكامل، الزر الصغير بعداد أو بدونه).
 
-[![](http://drupal.org/files/images/tweet_button_0.png)
+[![](https://www.drupal.org/files/images/tweet_button_0.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة للإصدارين 6 و 7 من Drupal.
@@ -65,28 +65,28 @@ tags:
 
 5. **[SexyBookmarks](http://drupal.org/project/sexybookmarks)** : تمكن هذه الإضافة -مثل مثيلتها على Wordpress و التي تحمل نفس الاسم- من توفير آلية تشارك المواضيع/الصفحات  على أكثر من شبكة اجتماعية في آن واحد.
 
-[![](http://drupal.org/files/images/SexyBookmarks.png)
+[![](https://www.drupal.org/files/images/SexyBookmarks.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة فقط للإصدار 6 من Drupal.
 
 6. **[ShareThis](http://drupal.org/project/sharethis)**: تقوم بنفس عمل الإضافة السابقة، إلا أنها تظهر خيارات التشارك في قائمة منسدلة ، عكس  SexyBookmarks التي تظهرها مباشرة على الصفحة.
 
-[![](http://drupal.org/files/images/sharethis_drupal_module.png)
+[![](https://www.drupal.org/files/images/sharethis_drupal_module.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة فقط للإصدار 6 من Drupal.
 
 7. [**AddToAny Share/Bookmark Button**](http://drupal.org/project/addtoany) تقوم بنفس عمل إضافة ShareThis و تزيد عليها إمكانية إضافة المواضيع/ الصفحات إلى المفضلة.
 
-[![](http://drupal.org/files/images/addtoany.png)
+[![](https://www.drupal.org/files/images/addtoany.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة للإصدارات 5، 6 و 7 من Drupal
 
 8. [**Twitter**](http://drupal.org/project/twitter) : تسمح هذه الإضافة باستظهار آخر التغريدات مباشرة على مواقع Drupal و تسمح بجلب تغريدات أكثر من حساب في آن واحد.
 
-[![](http://drupal.org/files/images/twitter_0.png)
+[![](https://www.drupal.org/files/images/twitter_0.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة فقط للإصدار 6 من Drupal.
@@ -94,7 +94,7 @@ tags:
 9. [**Socialite**](http://drupal.org/project/socialite) : تسمح هذه الإضافة باستظهار قائمة تشمل حسابات الموقع على الشبكات الاجتماعية
 
 
-[![](http://drupal.org/files/images/socialite.png)
+[![](https://www.drupal.org/files/images/socialite.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 
@@ -103,7 +103,7 @@ tags:
 10. [**Follow**](http://drupal.org/project/follow) :  تقوم بنفس عمل الإصدار السابق، إلا أنها متوفرة بإصدار نهائي على Drupal 6  و بإصدار قيد التطوير لـ Drupal 7 (و Drupal 5 أيضا).
 
 
-[![](http://drupal.org/files/images/follow.preview.png)
+[![](https://www.drupal.org/files/images/follow.preview.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 
@@ -113,21 +113,21 @@ tags:
 
 12. [**Vote Up/Down**](http://drupal.org/project/vote_up_down) : توفر هذه الإضافة آلية لتقييم التعليقات التي يتركها الزوار على مقالات الموقع.
 
-[![](http://drupal.org/files/images/vud-widgets.png)
+[![](https://www.drupal.org/files/images/vud-widgets.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة فقط للإصدار 6 من Drupal.
 
 13. [**Facebook-Style Statuses**](http://drupal.org/project/facebook_status) : تسمح هذه الإضافة لأعضاء مواقع Drupal بالحصول على صفحات تشابه حسابات Twitter أو جدران Facebook حيث يصبح بإمكانهم تحديث حالاتهم الشخصية أو تشارك بعض المعلومات على حساباتهم الشخصية على الموقع.
 
-[![](http://drupal.org/files/images/facebook_status_block_0.png)
+[![](https://www.drupal.org/files/images/facebook_status_block_0.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة للإصدارين 5 و 6 من Drupal.
 
 14. [**Shoutbox**](http://drupal.org/project/shoutbox): إضافة مماثلة لـ Facebook-Style Statuses و هي أقرب ما تكون من Twitter أكثر منها إلى Facebook.
 
-[![](http://drupal.org/files/images/screenshot_003_0.png)
+[![](https://www.drupal.org/files/images/screenshot_003_0.png)
 ](https://socialmedia4arab.com/2011/01/15-drupal-plugins-social-media/)
 
 الإضافة متوفرة للإصدارات 4، 5 و 6 من Drupal.
