@@ -19,8 +19,8 @@ tags:
 
 
 
-[![](mishkal_alpha_smpl.png?w=450&h=294)
-](http://tahadz.files.wordpress.com/2011/11/mishkal_alpha_smpl.png)
+[![](mishkal_alpha_smpl.png)
+](mishkal_alpha_smpl.png)
 
 
 
@@ -54,8 +54,8 @@ tags:
 
 
 
- [![](mixkal.jpg?w=450&h=260)
-](http://tahadz.files.wordpress.com/2011/07/mixkal.jpg)
+ [![](mixkal.jpg)
+](mixkal.jpg)
 
 
 
