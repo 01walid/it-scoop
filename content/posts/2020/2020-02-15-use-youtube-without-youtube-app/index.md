@@ -14,8 +14,7 @@ categories:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png)
-](https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/newpipe/)
+[![](newPipe.png)](newPipe.png)
 
 
 
