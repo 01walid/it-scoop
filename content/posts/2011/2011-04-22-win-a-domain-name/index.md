@@ -45,7 +45,7 @@ categories:
 
 
 
-![Sans titre](Sans%20titre_thumb%5B2%5D.png?imgmax=800)
+![Sans titre](Sans%20titre_thumb%5B2%5D.png)
 
 
 

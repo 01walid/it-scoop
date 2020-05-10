@@ -50,5 +50,5 @@ tags:
 <!-- more -->
 
 
-![](bd-google_instant.jpg?w=400&h=496)
+![](bd-google_instant.jpg)
 
