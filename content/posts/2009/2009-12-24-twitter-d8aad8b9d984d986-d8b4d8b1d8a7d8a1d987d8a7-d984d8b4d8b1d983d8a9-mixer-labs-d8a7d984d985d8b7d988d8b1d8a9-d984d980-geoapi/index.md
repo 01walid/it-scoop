@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://djug.developpez.com/rsc/GEOApi.jpg)
+[![](GEOApi.jpg)
 ](https://www.it-scoop.com/2009/12/twitter-%d8%aa%d8%b9%d9%84%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-mixer-labs-%d8%a7%d9%84%d9%85%d8%b7%d9%88%d8%b1%d8%a9-%d9%84%d9%80-geoapi/)
 
 

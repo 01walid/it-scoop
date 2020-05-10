@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/The-Beatles.png)
+[![](The-Beatles.png)
 ](https://www.it-scoop.com/2010/11/apple-the-beatles-itunes/)
 
 

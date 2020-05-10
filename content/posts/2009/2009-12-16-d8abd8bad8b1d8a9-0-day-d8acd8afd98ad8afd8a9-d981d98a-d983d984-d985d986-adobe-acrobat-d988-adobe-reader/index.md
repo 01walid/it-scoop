@@ -22,7 +22,7 @@ tags:
 
 تم مؤخرا اكتشاف ثغرة 0-day في كل من Adobe Acrobat  برنامج تحريرملفات PDF  و Adobe Readerبرنامج قراءة ملفات PDF .
 
-[![Adobe-logo](https://www.it-scoop.com/wp-content/uploads/2009/12/Adobe-logo.png)
+[![Adobe-logo](Adobe-logo.png)
 ](https://www.it-scoop.com/2009/12/%d8%ab%d8%ba%d8%b1%d8%a9-0-day-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d9%83%d9%84-%d9%85%d9%86-adobe-acrobat-%d9%88-adobe-reader/)
 
 أكدت Adobe على مدونتها وجود الثغرة في الإصدارات 9,2  و الإصدارات السابقة لها ، لكنها لا تشير إلا أية وسائل حماية مؤقتة، مما يجعل المستخدمين أمام خيار واحد و هو استعمال برامج بديلة كـ Foxit reader.

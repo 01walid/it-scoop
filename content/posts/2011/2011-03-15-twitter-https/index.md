@@ -19,7 +19,7 @@ tags:
 أعلنت Twitter منذ قليل عن [توفيرها](http://blog.twitter.com/2011/03/making-twitter-more-secure-https.html) لحماية إضافية لمشتركيها و ذلك بتوفير خيار استعمال بروتوكول HTTPS بشكل قياسي.
 
 
-[![](https://1.bp.blogspot.com/-94DBI5ebfYM/TX-2sapayLI/AAAAAAAAAL4/mVI270fzofs/s1600/Always%2Buse%2BHTTPS.png )
+[![](Always%2Buse%2BHTTPS.png )
 ](https://www.it-scoop.com/2011/03/twitter-https/)
 
 

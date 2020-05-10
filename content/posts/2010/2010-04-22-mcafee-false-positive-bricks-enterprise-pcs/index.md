@@ -21,7 +21,7 @@ tags:
 
 أعلنت McAffe عن أن التحديث الذي نشرته أمس لبرنامجها VirusScan Enterprise 8.7i SP3 يحتوي على خطأ جسيم، و تنصح زبائنها بعدم تنصيبه.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/McAfeeVirusScanEnterprise.jpg)
+[![](McAfeeVirusScanEnterprise.jpg)
 ](https://www.it-scoop.com/2010/04/McAfee-false-positive-bricks-enterprise-PCs)
 
 التحديث الأمني المنشور أمس يسبب False positive (و هو ما يعني إعلان بعض الملفات على أنها مصابة و هي سليمة) و سبب مشاكل جسيمة في آلاف الأجهزة المستعملة في الشركات حول العالم، بحكم أن برنامج  VirusScan Enterprise 8.7i SP3 موجه للشركات.

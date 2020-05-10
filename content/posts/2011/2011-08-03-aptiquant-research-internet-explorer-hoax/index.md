@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/browsers2.jpg)
+[![](browsers2.jpg)
 ](https://www.it-scoop.com/2011/08/aptiquant-research-internet-explorer-hoax)
 
 

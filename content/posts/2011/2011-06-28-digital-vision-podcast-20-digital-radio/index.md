@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/WebRadio.png)
+[![](WebRadio.png)
 ](https://www.it-scoop.com/2011/06/digital-vision-podcast-20-digital-radio)
 
 

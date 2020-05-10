@@ -19,7 +19,7 @@ tags:
 
 بعد أن [أطلقت](https://www.it-scoop.com/2011/02/the-daily-ipad-newspaper/) -رفقة News Corp - جريدة The Daily المتوفرة حصريا على الـ iPad، [أعلنت ](http://www.apple.com/pr/library/2011/02/15appstore.html)Apple يوم أمس عن توفير آليات الاشتراك على متجرها AppStore لفائدة التطبيقات التي تود تقديم محتوى بمقابل مادي على غرار الجرائد و المجلات.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/apple-ipad.jpg)
+[![](apple-ipad.jpg)
 ](https://www.it-scoop.com/2011/02/apple-launches-subscriptions-on-the-app-store/)
 
 و قد عمدت Apple إلى فرض قيود عديدة على من التطبيقات التي تبيع المحتوى على متجرها، حيث أنها ستقتطع 30% من عوائد كل اشتراك ، لكنها أرادت أن تظهر في مظهر حسن بإعلانها أن لكل بائع حرية تحديد الثمن ، كمل أنها لن تقتطع هذه النسبة إلا في الاشتراكات التي تتم عبر متجرها، و يحتفظ كل بائع بكامل قيمة الاشتراك إن باعه خارج الـ AppStore.

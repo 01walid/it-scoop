@@ -20,7 +20,7 @@ tags:
 
 
 
-[![الكشف عن خدمة WordAds الإعلانية الخاصة بمدونات Wordpress.com والمنافسة لإعلانات AdSense  ](https://www.it-scoop.com/wp-content/uploads/2011/11/wordpress-Federated-Media.jpg)
+[![الكشف عن خدمة WordAds الإعلانية الخاصة بمدونات Wordpress.com والمنافسة لإعلانات AdSense  ](wordpress-Federated-Media.jpg)
 ](https://www.it-scoop.com/2011/11/wordads/)
 
 

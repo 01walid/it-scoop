@@ -19,7 +19,7 @@ tags:
 
 أعلنت Sony عن قرارها إيقاف تسويق أقراص floppy disk ذات ثلاث إنشات و نصف في اليابان ابتداءً من السادس من مارس 2011.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/floppy.jpg)
+[![](floppy.jpg)
 ](https://www.it-scoop.com/2010/04/Sony-stop-floppy-disk-production-Japan-next-year)
 
 Sony و التي سوقت أولى أقراص floppy disk في اليابان سنة 1983 استطاعت بين ما يزيد عن 47 مليون وحدة منها سنة 2000.

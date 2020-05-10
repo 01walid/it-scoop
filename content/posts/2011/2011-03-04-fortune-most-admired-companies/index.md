@@ -22,7 +22,7 @@ tags:
 
 نشرت Fortune [قائمتها السنوية](http://money.cnn.com/magazines/fortune/mostadmired/2011/full_list/) لأكثر الشركات العالمية إثارة للإعجاب  (World's Most Admired Companies) و التي تحتل فيها Apple المرتبة الأولى للسنة الرابعة على التوالي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/apple_logo.jpg)
+[![](apple_logo.jpg)
 ](https://www.it-scoop.com/2011/03/fortune-most-admired-companies/)
 
 و حصلت الشركات التقنية على 4 مراكز من ضمن الـ 10 الأولى و يخص الأمر – إضافة إلى Apple- كلا من Google التي حلت ثانيا، Amazon.com التي حلت سابعا و Microsoft التي حلت تاسعا. في حين تعتبر Facebook الغائب الأكبر عن القائمة.

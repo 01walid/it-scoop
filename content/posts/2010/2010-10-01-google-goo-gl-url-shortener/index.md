@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/goo.gl_.jpg)
+[![](goo.gl_.jpg)
 ](https://www.it-scoop.com/2010/10/google-goo-gl-url-shortener/)
 
 

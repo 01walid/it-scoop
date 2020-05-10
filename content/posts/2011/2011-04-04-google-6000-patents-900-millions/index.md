@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/google-dollar.jpg)
+[![](google-dollar.jpg)
 ](https://www.it-scoop.com/2011/04/google-6000-patents-900-million)
 
 

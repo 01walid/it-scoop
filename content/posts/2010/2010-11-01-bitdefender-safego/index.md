@@ -43,13 +43,13 @@ tags:
 
 
 
-[](https://www.it-scoop.com/2010/11/bitdefender-safego)[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Safego.png)
+[](https://www.it-scoop.com/2010/11/bitdefender-safego)[![](Safego.png)
 ](https://www.it-scoop.com/2010/11/bitdefender-safego/ )
 
 
 Safego في نسخته التجريبية الحالية يقتصر على شبكة Facebook فقط، و يتولى مهمة تحليل ما يتم نشره على حائط Wall المستخدم، رسائله الخاصة و التعليقات، و لهذا لاكتشاف أية  منشورات تمت من طرف تطبيقات ضارة و التي بدأت تعرف انتشارا متزايدا عبر الشبكات الاجتماعية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/safego-facebook.jpg)
+[![](safego-facebook.jpg)
 ](https://www.it-scoop.com/2010/11/bitdefender-safego)
 
 و حسب البيان الصحفي الخاص بهذا التطبيق (و الذي تلقينا نسخة منه) ، يوفر تطبيق Safego الحماية لمستخدميه حتى و لو لم يكونوا متصلين، مما يجنب أصدقاء مستخدمي Safego أية مشاكل تنتج عن نشر البرامج الضارة أي روابط، صور أو فيديوهات على حوائطهم  من دون علمهم.

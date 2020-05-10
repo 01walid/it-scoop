@@ -18,7 +18,7 @@ tags:
 
 أكد Sanjay Jha مدير قسم الهواتف لدى Motorola أن شركته تُحضر جهازا جديدا لـ Google يعمل بنظام Android و الذي سيتم تسويقه جنبا إلى جنب مع Nexus One   بنفس الطريقة أي عبر الموقع الخاص بذلك.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/motorola_shadow_450.jpg)
+[![](motorola_shadow_450.jpg)
 ](https://www.it-scoop.com/2010/01/google-%d8%aa%d9%8f%d8%ad%d8%b6%d8%b1-%d9%81%d8%b9%d9%84%d9%8a%d8%a7-%d9%84%d8%ac%d9%87%d8%a7%d8%b2-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%8f%d8%b5%d9%86%d9%91%d9%8e%d8%b9-%d9%85%d9%86-%d8%b7%d8%b1%d9%81/)
 
 كما يشير إلى أن Motorola تعتزم إطلاق ما لا يقل عن 20 جهازا يعمل بنظام Android خلال العام الجاري، و هو الأمر الذي يُعطي الانطباع أن Motorola أحسنت الاختيار بعد أن رمت بكل ثقلها لاعتماد نظام Android  حيث أنها تمكنت من بيع ما لا يقل عن مليوني قطعة من كل من جهازي Droid و Cliq و نظيريهما الأوروبيين Milestone وDext .

@@ -1,0 +1,490 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<title>The New York Times: Digital and Home Delivery Subscriptions</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="sourceApp" content="MOPS" />
+<meta name="description" content="Discover the value of independent Times journalism today." />
+
+    <link rel="canonical" href="https://www.nytimes.com/subscription" />
+
+<link rel="shortcut icon" href="//static01.nyt.com/favicon.ico" />
+<meta property="og:title" content="The New York Times: Digital and Home Delivery Subscriptions" />
+    <meta property="og:url" content="https://www.nytimes.com/subscription/variants/variant-31.html" />
+<meta property="og:image" content="https://mwcm.nyt.com/.resources/mkt-wcm/dist/libs/assets/img/meta-og-image-fallback.jpg" />
+<meta property="og:type" content="product" />
+<meta property="og:description" content="Discover the value of independent Times journalism today." />
+
+
+<script defer src="https://mwcm.nyt.com/.resources/mkt-wcm/dist/common.js"></script>
+<script defer src="https://mwcm.nyt.com/.resources/mkt-wcm/dist/templates/pages/lp/gemini/js/src/main.js"></script>
+<link rel="stylesheet" href="https://mwcm.nyt.com/.resources/mkt-wcm/dist/templates/pages/lp/gemini/css/main.css" type="text/css" />
+
+
+
+<script type="text/json" id="mwcm-server-data">
+{ "env": "prod", "isAuthor": false, "isEditMode": false, "isPreview": true, "isAuthorPreview": false, "templateBuildId": "1529", "creativeUuid": "909a279c-e7d2-41b0-ba96-4a9891bca6d4", "offers": [{"promoOptions":[{"billingTiers":[{"durationDays":28,"recurrence":13,"totalPrice":2,"tierNumber":1},{"durationDays":28,"recurrence":-1,"totalPrice":8,"tierNumber":2}],"productCode":"XPASS","pmPromoCode":null,"segmentId":2,"promoCode":"20000215740","currencyCode":"USD","productType":"DIGI","productName":"Basic Digital Access"}]}], "features": { "instance": {"FF-CMOTS-1053--throw-missing-mustache-value-exceptions":true,"FF-CMOTS-2140--speedUpAbra":true,"FF-HD-273--home-delivery-message":true,"FF-CMOTS-1047--displayAllProductsOnGBB3":false,"FF-MWCM-3856":true,"FF-VG-167--update-redeem-form-behavior":true,"FF-MWCM-4490--propensityPrice":true,"FF-CMOTS-1053--throw-rendering-exceptions":true,"FF-MWCM-4267-JSON-KIDD-MODEL-TARGETING":true,"FF-MWCM-3867--lifetimeCap":false,"FF-MWCM-4477--currencyOnAuthor":true,"FF-CMOTS-2100--ccpaOptOut":true,"FF-MWCM-3733--requestFeatureFlags":true,"FF-MWCM-3874-JSON-KIDD":true,"FF-MWCM-3858--dayTimeParting":true,"FF-CMOTS-1197--cig-fastly-caching":true,"FF-CMOTS-2274--REFERER-TARGETING":true,"FF-CMOTS-883--PCI-WORKFLOW":false,"FF-CMOTS-897--marketing-services-caching":false,"FF-MWCM-3866--previousExperiments":true,"FF-CMOTS-224--hd-auxProductMapping":true,"FF-MWCM-3720":true,"FF-MWCM-4439--CIG-IP-SEGMENTS":true,"FF-MWCM-4467--abraPreview":true,"FF-MWCM-3866--modifyCookie":false,"FF-CMOTS-92--targetingExposureSegments":true,"FF-MWCM-3868--modifyCookie":false,"FF-CMOTS-1727--CIG-ENABLE-COOKIE-LOGS":false,"FF-MWCM-3868--sessionCap":false,"FF-CMOTS-315--defaultTraitResolution":true}, "codebase": {"auxProductMapping": "FF-CMOTS-224--hd-auxProductMapping","displayAllProducts": "FF-CMOTS-1047--displayAllProductsOnGBB3","codeRedeemApi": "FF-VG-167--update-redeem-form-behavior","ccpaEnabled": "FF-CMOTS-2100--ccpaOptOut","speedUpAbra": "FF-CMOTS-2140--speedUpAbra","onboardingRedirect": "FF-MOBCO-1321--onboarding-redirects","cookieBannerEnabled": "FF-CMOTS-2373--cookieBanner-phase1","hasHDMessageEnabled": "FF-HD-273--home-delivery-message"} }, "abraTests": [], "linksInNewTab": false, "userInfoUrl": "https://www.nytimes.com/svc/web-products/userinfo-v3.json", "sumoLogicUrl": "https://collectors.sumologic.com/receiver/v1/http/ZaVnC4dhaV0-HeboJ6818lTuKxRBececk4jDqTCENG6P3EEnbph5RHWdBPvQT3HRVFQSGDmsPzXTyYrsnJS80IznOeaWt-m6EIiNmwnfwv6WiKXpRRMNYg==", "sumoLogicHostName": "https://mwcm-pub.prd.nytimes.com" }</script>
+<script type="text/javascript">
+    !function(){var o,e=function(){var o,e=[],t=[{"promoOptions":[{"billingTiers":[{"durationDays":28,"recurrence":13,"totalPrice":2,"tierNumber":1},{"durationDays":28,"recurrence":-1,"totalPrice":8,"tierNumber":2}],"productCode":"XPASS","pmPromoCode":null,"segmentId":2,"promoCode":"20000215740","currencyCode":"USD","productType":"DIGI","productName":"Basic Digital Access"}]}];for(o=0;o<t.length;o++)e=e.concat(t[o].promoOptions);return e}();if(0!==e.length){var t={marketing:{type:"products",template:'mkt-wcm:pages/lp/gemini/template/main',creative:"909a279c-e7d2-41b0-ba96-4a9891bca6d4",promoDescription:'',offers:[]}};for(o=0;o<e.length;o++)t.marketing.offers.push({productCode:e[o].productCode,promoCode:e[o].promoCode,currencyCode:e[o].currencyCode,productType:e[o].productType,productName:e[o].productName});window.dataLayer=window.dataLayer||[],window.dataLayer.push(t)}}();
+</script>
+
+<script src="https://cdn.optimizely.com/public/3013110282/s/landing_prod.js"></script>
+    <script type="text/json" id="abra-data" data-host-url="//et.nytimes.com/">
+        [
+  [
+    "MKT_dfp_intl_pricing_low_conv",
+    [
+      [
+        1431655766,
+        "0_control",
+        1
+      ],
+      [
+        1431655765,
+        "1_25cents",
+        1
+      ],
+      [
+        1431655765,
+        "2_50cents",
+        1
+      ]
+    ]
+  ],
+  [
+    "MKT_dfp_intl_pricing_med_conv",
+    [
+      [
+        1431655766,
+        "0_control",
+        1
+      ],
+      [
+        1431655765,
+        "1_50cents",
+        1
+      ],
+      [
+        1431655765,
+        "2_75cents",
+        1
+      ]
+    ]
+  ],
+  [
+    "ALTA_Articles_Remaining",
+    [
+      [
+        2147483648,
+        "0_Control",
+        1
+      ],
+      [
+        2147483648,
+        "1_NoCopy",
+        1
+      ]
+    ]
+  ],
+  [
+    "MKT_Gemini_LP_p3",
+    [
+      [
+        4294967296,
+        "4_gem_typu",
+        0
+      ]
+    ]
+  ],
+  [
+    "GAMES_TP15_MarketingLP",
+    [
+      [
+        2147483648,
+        "1_control_LP_control_payflow",
+        1
+      ],
+      [
+        2147483648,
+        "2_test_LP_control_payfow",
+        1
+      ]
+    ]
+  ],
+  [
+    "MKT_intl_price_exp",
+    [
+      [
+        2147483648,
+        "0_control",
+        1
+      ],
+      [
+        2147483648,
+        "1_monthly_exp",
+        1
+      ]
+    ]
+  ],
+  [
+    "SA_Referral_DFP_April2020_Test",
+    [
+      [
+        2147483648,
+        "1_yellow_evergreen",
+        1
+      ],
+      [
+        2147483648,
+        "2_yellow_moment",
+        1
+      ]
+    ]
+  ],
+  [
+    "MKT_Gemini_Messaging_0320",
+    [
+      [
+        477218589,
+        "0_control",
+        1
+      ],
+      [
+        477218588,
+        "1_digiaccess",
+        1
+      ],
+      [
+        477218589,
+        "2_digi_web_app",
+        1
+      ],
+      [
+        477218588,
+        "3_digiaccess_Times",
+        1
+      ],
+      [
+        477218589,
+        "4_digi_support_long",
+        1
+      ],
+      [
+        477218588,
+        "5_digi_web_app_support",
+        1
+      ],
+      [
+        477218589,
+        "6_digi_support_short",
+        1
+      ],
+      [
+        477218588,
+        "7_digiaccess_Times_support",
+        1
+      ],
+      [
+        477218589,
+        "8_journalism_digi_access",
+        1
+      ]
+    ]
+  ],
+  [
+    "MKT_byob_cooking",
+    [
+      [
+        4294967296,
+        null,
+        0
+      ]
+    ]
+  ],
+  [
+    "MKT_timeout_lp_0520",
+    [
+      [
+        2147483648,
+        "0_control",
+        0
+      ],
+      [
+        2147483648,
+        "1_noreauth",
+        0
+      ]
+    ]
+  ],
+  [
+    "MKT_timeout_pw_0520",
+    [
+      [
+        2147483648,
+        "0_control",
+        0
+      ],
+      [
+        2147483648,
+        "1_noreauth",
+        0
+      ]
+    ]
+  ]
+]
+    </script>
+    <script>
+        (function() {
+            window.NYTD = window.NYTD || {};
+            if (typeof window.NYTD.Abra !== 'undefined') {
+                return;
+            }
+            window.NYTD.Abra=function(t){"use strict";function e(t){var e=r[t];return e&&e[1]||null}function n(t,e){if(t){var n,r,o=e[0],i=e[1],c=0,u=0;if(1!==i.length||4294967296!==i[0])for(n=a(t+" "+o)>>>0,c=0,u=0;r=i[c++];)if(n<(u+=r[0]))return r}}function a(t){for(var e,n,a,r,o,i,c,u=0,h=0,l=[],s=[e=1732584193,n=4023233417,~e,~n,3285377520],f=[],p=t.length;h<=p;)f[h>>2]|=(h<p?t.charCodeAt(h):128)<<8*(3-h++%4);for(f[c=p+8>>2|15]=p<<3;u<=c;u+=16){for(e=s,h=0;h<80;e=[0|[(i=((t=e[0])<<5|t>>>27)+e[4]+(l[h]=h<16?~~f[u+h]:i<<1|i>>>31)+1518500249)+((n=e[1])&(a=e[2])|~n&(r=e[3])),o=i+(n^a^r)+341275144,i+(n&a|n&r|a&r)+882459459,o+1535694389][0|h++/20],t,n<<30|n>>>2,a,r])i=l[h-3]^l[h-8]^l[h-14]^l[h-16];for(h=5;h;)s[--h]=s[h]+e[h]|0}return s[0]}var r,o={};return t.dataLayer=t.dataLayer||[],e.init=function(e){var a,o,i,c,u,h,l,s,f,p,d=[],v=[],m=(t.document.cookie.match(/(?:^|;) *nyt-a=([^;]*)/)||[])[1],b=(t.document.cookie.match(/(?:^|;) *ab7=([^;]*)/)||[])[1],g=(t.location.search.match(/(?:^\?|&)abra=([^&]*)/)||[])[1];if(r)throw new Error("can't init twice");for(r={},u=(decodeURIComponent(b||"")+"&"+decodeURIComponent(g||"")).split("&"),a=u.length-1;a>=0;a--)h=u[a].split("="),h.length<2||(l=h[0])&&!r[l]&&(s=h[1]||null,r[l]=[,s,1],s&&d.push(l+"="+s),v.push({test:l,variant:s||"0"}));for(a=0;a<e.length;a++)i=e[a],(o=i[0])in r||(c=n(m,i)||[],c[0],f=c[1],p=!!c[2],r[o]=c,f&&d.push(o.replace(/[^\w-]/g)+"="+(""+f).replace(/[^\w-]/g)),p&&v.push({test:o,variant:f||"0"}));d.length&&t.document.documentElement.setAttribute("data-nyt-ab",d.join(" ")),v.length&&t.dataLayer.push({event:"ab-alloc",abtest:{batch:v}})},e.reportExposure=function(e,n){if(!o[e]){o[e]=1;var a=r[e];if(a){var i=a[1];a[2]&&t.dataLayer.push({event:"ab-expose",abtest:{test:e,variant:i||"0"}})}n&&t.setTimeout(function(){n(null)},0)}},e}(this);
+            var configEl = document.querySelector('#abra-data');
+            var abraConfig = [];
+            try {
+                abraConfig = window.JSON.parse(configEl.innerHTML.trim());
+            } catch (e) {}
+            window.NYTD.Abra.init(abraConfig, configEl.dataset.hostUrl);
+        })();
+    </script>
+
+
+    <script type="text/javascript">
+        var script = document.createElement('script');
+        script.src = 'https://a1.nyt.com/analytics/json-kidd.min.js';
+        script.async = true;
+        document.head.appendChild(script);
+    </script>
+
+
+<script type="text/javascript">
+    try{var observer=new window.PerformanceObserver(function(e){for(var r=e.getEntries(),
+    a=0;a<r.length;a+=1){var n=r[a],t={};t[n.name]=Math.round(n.startTime+n.duration),
+    (window.dataLayer=window.dataLayer||[]).push({event:"performance",pageview:{performance:t}})}});
+    observer.observe({entryTypes:["paint"]})}catch(e){}
+</script>
+
+</head>
+<body class="template-gemini ">
+    <div class="page" data-config-template-id="mkt-wcm:pages/lp/gemini/template/main" data-config-gift-flag="false" data-config-edu-flag="false" data-config-disable-apple-pay="false" data-config-disable-apple-pay="false" data-google-pay-button="false">
+<div class="banner__container">
+    <a data-content-placement="1" class="banner__container__closeAsset" id="closeCross">
+        <svg xmlns:xlink="http://www.w3.org/1999/xlink" class="lrgCloseBtn" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 19 18" style="enable-background:new 0 0 15 15; width: 12px; height: 12px; fill: #9B9B9B;" xml:space="preserve"><path class="" d="M9.2,6.9L2.4,0.1L0.3,2.2L7.1,9l-6.8,6.8l2.1,2.1l6.8-6.8l6.8,6.8l2.1-2.1L11.3,9l6.8-6.8L16,0.1L9.2,6.9z"/></svg>
+    </a>
+
+    <div class="banner__container__copy">
+        We use cookies and similar technologies to recognize your repeat visits and preferences, as well as to measure the effectiveness of campaigns and analyze traffic. To learn
+        more about cookies, including how to disable them, view our <a href="https://nytimes.com/cookie-policy" id="cookie_policy" target="_blank">Cookie Policy</a>.<br>
+        By clicking “I accept” or “X” on this banner or using our site, you consent to the use of cookies unless you have disabled them.
+    </div>
+
+    <div class="banner__container__cta">
+        <button class="banner__container__cta--accept">I ACCEPT</button>
+    </div>
+</div>
+
+<div class="creative-override" data-config-component-id="mkt-wcm:components/lp/creativeOverride/template/main" data-component-uuid="6634a3a1-07cc-4dfb-9a3a-104b7fd587a5">
+    <style>
+        .no-widows {
+  white-space: nowrap; }
+
+@media (min-width: 768px) {
+  .subscriptionSearch__secondaryOfferLink__link {
+    font-size: 13px; } }
+
+@media (min-width: 1440px) {
+  .subscriptionSearch__secondaryOfferLink__link {
+    font-size: 14px; } }
+
+    </style>
+    <script data-creative-override-js type="x-custom-javascript">
+        function (assets) {
+    NYTD.Abra.reportExposure('MKT_Gemini_Messaging_0320');
+}
+    </script>
+    <script data-creative-override-assets type="application/json">
+        {}
+    </script>
+</div>
+
+        <div class="gemini__pageContent">
+            <div class="page__content">
+                <div class="page__top_wrapper">
+
+
+
+  <div class="geminiBundle " data-config-component-id="mkt-wcm:components/lp/geminiBundle/template/main" data-config-template-id="mkt-wcm:pages/lp/gemini/template/main" data-promo-code="20000215740" data-component-uuid="3088bc78-c0fc-40cf-aa47-142977aebab7" cms:edit>
+    <div class="geminiBundle__wrap">
+      <a href="https://www.nytimes.com/">
+        <img class="geminiBundle__logo" alt="The New York Times" src="https://mwcm.nyt.com/.resources/mkt-wcm/dist/libs/assets/img/logo-nyt-header.svg"/>
+      </a>
+      <div class="productHeader__wrap">
+<div class="productGBB__title" data-config-component-id="mkt-wcm:components/lp/productGBBTitle/template/main">
+    <p><p>Enjoy unlimited digital access to <span class="no-widows">The Times.</span></p></p>
+</div>
+    <h2 class="header__title header__subTitle" style="max-width: 100%;"><p><p>Support <span class="no-widows">independent journalism.</span></p></p></h2>
+
+
+<div class="productGBB__teaser " data-config-component-id="mkt-wcm:components/lp/productGBBTeaser/template/main">
+    <div class="productGBB__teaser--main productGBB__teaser--newStyle"><p><del aria-label="Normal price: $2" role="text">$2</del> <ins aria-label="Sale price: $0.5" role="text">$0.50</ins>/week</p></div>
+    	<div class="productGBB__teaser--details"><p>Billed as <del aria-label="Normal price: $8" role="text">$8</del> <ins aria-label="Sale price: $2">$2</ins> every 4 weeks for <span class="no-widows">one year.</span></p></div>
+</div>
+
+<span class="plain_text"><style type="text/css">
+.cancel-message {
+	text-transform: none;
+}
+@media (min-width: 768px) {
+	.cancel-message {
+		font-size: 18px;
+	}
+}
+</style> 
+<p><span class="cancel-message">You can cancel anytime.</span></p></span>
+      </div>
+      <div class="buttonSection__wrap">
+
+
+
+    <div class="legal" data-config-component-id="mkt-wcm:components/lp/legalContentSelection/template/main">
+        <div class="wrap">
+                <div class="legal__applePayCopy legal__hidden"><p><strong>No commitment required. Cancel anytime.</strong></p>
+
+<p>Your payment method will automatically be charged in advance every 4 weeks. You will be charged the introductory rate for the introductory period, and thereafter will be charged the standard rate. All subscriptions renew automatically. You can cancel anytime. Mobile apps are not supported on all devices. These offers are not available for current subscribers. Other restrictions and taxes may apply. Offers and pricing are subject to change without notice.</p>
+</div>
+        </div>
+    </div>
+
+
+
+
+<div class="productGBB__button__wrap" data-config-component-id="mkt-wcm:components/lp/productGBBButton/template/main">
+      <a class="productGBB__button productGBB__button--containerSizing productGBB__button--active" href="https://myaccount.nytimes.com/get-started?OC=20000215740&campaignId=6WFJF">
+        <p>Subscribe Now</p>
+      </a>
+    <div class="applePayHolder">
+        <div class="applePayHolder__wrap">
+            <div style="display: none" class="url">https://myaccount.nytimes.com</div>
+            <div class="applePayButtonHolder">
+                <div type="submit" class="applePayButtonHolder__buttonWithText">
+                    <span class="applePayButtonHolder__buttonWithText__text" style="font-weight:normal">Buy with</span>
+                    <span class="applePayButtonHolder__buttonWithText__logo"></span>
+                </div>
+                <div class="applePayButtonHolder__errorContainer"></div>
+            </div>
+        </div>
+    </div>
+</div>        <div class="secondaryOffer__wrap">
+    
+
+
+
+
+
+<a class="subscriptionSearch__secondaryOfferLink__link " href="/subscription/education?campaignId=6JQ7F" style="" data-display-mobile-secondary-menu="showInMobileSecondaryMenu">
+  Student? Get a special rate<span class="subscriptionSearch__secondaryOfferLink__link--tag"> </span>
+</a>
+    <span class="gemini_offers_spacing">•</span>
+
+
+
+
+<a class="subscriptionSearch__secondaryOfferLink__link " href="https://subscribe.inyt.com/?campaignId=6JQ7J" style="" data-display-mobile-secondary-menu="showInMobileSecondaryMenu">
+  Interested in digital + print?<span class="subscriptionSearch__secondaryOfferLink__link--tag"> </span>
+</a>
+        </div>
+      </div>
+    </div>
+  </div>
+                </div>
+
+                <div class="mobile_phone_image"></div>
+
+                <div class="main__legalWrapper">
+
+
+
+    <div class="legal" data-config-component-id="mkt-wcm:components/lp/legalContentSelection/template/main">
+        <div class="wrap">
+                <div class="legal__copy "><p><strong>No commitment required. Cancel anytime.</strong></p>
+
+<p>Your payment method will automatically be charged in advance every 4 weeks. You will be charged the introductory rate for the introductory period, and thereafter will be charged the standard rate. All subscriptions renew automatically. You can cancel anytime. Mobile apps are not supported on all devices. These offers are not available for current subscribers. Other restrictions and taxes may apply. Offers and pricing are subject to change without notice.</p>
+</div>
+        </div>
+    </div>
+                </div>
+            </div>
+
+<section class="geminiFooter">
+
+  <header class="geminiFooter__header">
+    <h5 class="geminiFooter__heading geminiFooter__heading--image" id="geminiFooter__heading--mission"<a href="https://www.nytimes.com/"><img class="geminiFooter__logo" alt="The New York Times" src="https://mwcm.nyt.com/.resources/mkt-wcm/dist/libs/assets/img/logo_nyt_white.svg" /></a></h5>
+    <p class="geminiFooter__mission gemini_mission"  aria-labelledby="geminiFooter__heading--mission">
+      We believe that great journalism has the power to make each reader’s life richer and more fulfilling, and all of society stronger <span class="nowrap">and more just.</span>
+    </p>
+  </header>
+
+  <div class="geminiFooter__details">
+
+<div class="surveyLink__holder" data-config-component-id="mkt-wcm:pages/lp/gemini/template/main">
+  <div class="surveyLink__wrap">
+        <div class="surveyLink--text">Not ready to subscribe?</div>
+        <a class="surveyLink--link" href="http://nyt.qualtrics.com/jfe/form/SV_6xph8FSrgDdOgap?">Tell us why.</a>
+  </div>
+  <hr class="surveyLink__ruler">
+</div>
+    <div class="geminiFooter__copyright">©2020 The New York Times Company</div>
+  </div>
+
+  <footer class="geminiFooter__links">
+    <div class="geminiFooter__listGroup">
+      <h6 class="geminiFooter__listHeading geminiFooter__heading--about col_header" id="geminiFooter__heading--about">About</h6>
+      <ul class="geminiFooter__list" aria-labelledby="geminiFooter__heading--about">
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link showMedium" target="_blank" rel="noopener noreferrer" href="https://www.nytco.com/">The New York Times <span class="showXLInline">Company</span></a>
+        </li>
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link" target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/privacy">Privacy Policy</a>
+        </li>
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link" target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a>
+        </li>
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link" target="_blank" rel="noopener noreferrer" href="https://nytimesgroupsubscriptions.com/?Pardot_Campaign_Code_Form_Input=74KRY">Group Subscriptions</a>
+        </li>
+      </ul>
+    </div>
+    <div class="geminiFooter__listGroup">
+      <h6 class="geminiFooter__listHeading" id="geminiFooter__heading--help">Help</h6>
+      <ul class="geminiFooter__list" aria-labelledby="geminiFooter__heading--help">
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link showMedium" target="_blank" rel="noopener noreferrer" href="https://www.nytimes.com/content/help/account/purchases/subscriptions-and-purchases.html">Frequently Asked<span class="showLargeInline"> Questions</span></a>
+        </li>
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link" target="_blank" rel="noopener noreferrer" href="https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-us">Contact Us</a>
+        </li>
+        <li class="geminiFooter__listItem">
+          <a class="geminiFooter__link showMedium" target="_blank" rel="noopener noreferrer" href="https://myaccount.nytimes.com/membercenter/feedback.html">Feedback</a>
+        </li>
+        <li class="geminiFooter__listItem">
+<a class="ccpaOptOut" role="button" tabindex="0" style="display:none">Do not sell my personal information</a>
+<div class="ccpaSnackbar ccpaSnackbarHidden" role="status" style="display:none"></div>        </li>
+      </ul>
+    </div>
+  </footer>
+
+</section>
+        </div>
+
+    </div>
+
+<script type="application/json" id="targeting-info">
+  {"pages":{"creative":{"path":"/creatives/lp/inyt/flagship-international-ROW-Europe-UK-India-2.0/variants/variant-1","audienceName":"Weekly","pagePath":"/creatives/lp/inyt/flagship-international-ROW-Europe-UK-India-2.0/variants/variant-1","isPageVariant":true,"segments":[{"name":"0_control","description":"","path":"/ABRA/MKT_intl_price_exp/0_control"}]},"subscription":{"path":"/subscription/variants/variant-31","audienceName":"INTL-Rollout-India-ROW-Low-50cents","pagePath":"/subscription/variants/variant-31","isPageVariant":true,"segments":[{"name":"India","description":"Audience coming from IND","path":"/Geo/Countries/India"},{"name":"International Price Test Rollout Low Price Segment","description":"","path":"/Geo/Groups/International-Price-Test-Rollout-Low-Price-Segment"}]}},"components":[],"matched":[{"path":"/subscription/variants/variant-31","audienceName":"INTL-Rollout-India-ROW-Low-50cents","pagePath":"/subscription/variants/variant-31","isPageVariant":true,"segments":[{"name":"India","description":"Audience coming from IND","path":"/Geo/Countries/India"},{"name":"International Price Test Rollout Low Price Segment","description":"","path":"/Geo/Groups/International-Price-Test-Rollout-Low-Price-Segment"}]},{"path":"/creatives/lp/inyt/flagship-international-ROW-Europe-UK-India-2.0/variants/variant-1","audienceName":"Weekly","pagePath":"/creatives/lp/inyt/flagship-international-ROW-Europe-UK-India-2.0/variants/variant-1","isPageVariant":true,"segments":[{"name":"0_control","description":"","path":"/ABRA/MKT_intl_price_exp/0_control"}]}],"marketingCampaign":{"name":"INYT-ROW-Low-BAU-Weekly","segments":[{"name":"International Price Test Rollout Low Price Segment","description":"","path":"/Geo/Groups/International-Price-Test-Rollout-Low-Price-Segment"},{"name":"0_control","description":"","path":"/ABRA/MKT_intl_price_exp/0_control"}]}}
+</script>
+    <script>document.getElementsByTagName('body')[0].dataset.googlePayButton = 'false'</script>
+</body>
+</html>

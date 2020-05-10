@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/google-new.png)
+[![](google-new.png)
 ]( https://www.it-scoop.com/2010/09/google-new/)
 
 

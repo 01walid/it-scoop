@@ -1,0 +1,1257 @@
+<!DOCTYPE html>
+<!-- homepage: gig_application_layout@7.0.63 60f1ee9-->
+<html lang="en">
+<head data-app="homepage" data-country="US" data-lang="en" data-locale="en_US"
+      data-header="default"
+      data-brand="groupon" data-domain=".groupon.com" data-gdpr="false"
+>
+  <meta charset="utf-8">
+
+  <meta http-equiv="x-dns-prefetch-control" content="on">
+  <link rel="preconnect" href="https://www2.grouponcdn.com" crossorigin>
+  <link rel="preconnect" href="https://www1.grouponcdn.com" crossorigin>
+  <link rel="preconnect" href="https://img.grouponcdn.com" crossorigin>
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/Groupon-ff21916cbd.woff2" crossorigin type="font/woff2" as="font" >
+  <link rel="preload" as="font" crossorigin type="font/woff2" href="https://www2.grouponcdn.com/layout/assets/OpenSansRegular-4511fb0ce0.woff2">
+<link rel="preload" as="font" crossorigin type="font/woff2" href="https://www2.grouponcdn.com/layout/assets/OpenSansSemiBold-ae379b1027.woff2">
+<link rel="preload" as="font" crossorigin type="font/woff2" href="https://www2.grouponcdn.com/layout/assets/OpenSansLight-2fd0ffaf77.woff2">
+  <link href="https://www2.grouponcdn.com/layout/assets/desktop-grpn-v7.0-d96d9f615c.css" rel="preload" as="style" >
+    <link href="https://www2.grouponcdn.com/layout/assets/desktop-grpn-v7.0-d96d9f615c.css" rel="stylesheet" >
+    <link rel="preload" href="https://www2.grouponcdn.com/browse/assets/home_desktop-84083d65d5.css" as="style">
+    <link rel="stylesheet" href="https://www2.grouponcdn.com/browse/assets/home_desktop-84083d65d5.css">
+  
+
+
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/head.load-1187ba6a3dcb.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/optimize-suite-v2-4c80dba856ef.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-core-v7.0-ceb086a667a7.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-preact-c2f8861ab62a.js" as="script">
+    
+    <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-preact-redesign-header-f25986bbbf1d.js" as="script">
+  <link rel="preload" href="https://www2.grouponcdn.com/layout/assets/desktop-misc-v7-94560f2c7204.js" as="script">
+    <link rel="preload" href="/browse/js/locale.js?country=US&locale=en_US&brand=groupon&version=473d761a48" as="script">
+  <script>
+    (function () {
+      if(document.head.append) {
+        var dep = {"jquery":"https://www2.grouponcdn.com/layout/assets/jquery-b73a91cd2ff4.js","hogan":"https://www2.grouponcdn.com/layout/assets/hogan-bb816386afe4.js","underscore":"https://www2.grouponcdn.com/layout/assets/underscore-7953b235a5be.js","modernizr":"https://www2.grouponcdn.com/layout/assets/modernizr-58bc7d84905e.js"};
+        "".split(',').forEach(function(i) {
+          if (dep[i]) {
+            var link = document.createElement('link');
+            link.rel = 'preload';
+            link.as = 'script';
+            link.href = dep[i];
+            document.head.append(link);
+          }
+        });
+      }
+    }())
+  </script>
+
+  <link rel="preload" href="https://www2.grouponcdn.com/browse/assets/home_desktop-2e415da7e2.js" as="script">
+  
+  
+
+  <script id="css-var-fallback">
+    (function(){
+      "use strict";
+      var isEdge, supported;
+      isEdge = !!navigator.appVersion.match(/edge\/1[2-5]/i);
+      supported = window.CSS && window.CSS.supports && window.CSS.supports('(--foo: red)') && !isEdge;
+      if (!supported) {
+        var s = document.createElement('script');
+        s.src = 'https://www2.grouponcdn.com/layout/assets/grpn-css-var-polyfill-345fab6778a0.js';
+        document.head.appendChild(s);
+      }
+    })()
+  </script>
+
+  <meta name="theme-color" content="#53A318">
+  <meta name="description" content="Discover &amp; Save with Over 300k of the Best Deals and Things to Do Near You. Shopping online is easy - buy coupon deals now and instantly redeem your discount online or in-person with our app.">
+
+
+      <link rel="canonical" href="https://www.groupon.com">
+
+
+
+
+      <link rel="alternate" hreflang="en-AU" href="https://www.groupon.com.au">
+      <link rel="alternate" hreflang="en-NZ" href="https://www.grouponnz.co.nz">
+      <link rel="alternate" hreflang="en-IE" href="https://www.groupon.ie">
+      <link rel="alternate" hreflang="en-GB" href="https://www.groupon.co.uk">
+      <link rel="alternate" hreflang="it-IT" href="https://www.groupon.it">
+      <link rel="alternate" hreflang="fr-CA" href="https://www.groupon.ca">
+      <link rel="alternate" hreflang="en-CA" href="https://www.groupon.ca">
+      <link rel="alternate" hreflang="fr-FR" href="https://www.groupon.fr">
+      <link rel="alternate" hreflang="de-DE" href="https://www.groupon.de">
+      <link rel="alternate" hreflang="es-ES" href="https://www.groupon.es">
+      <link rel="alternate" hreflang="pl-PL" href="https://www.groupon.pl">
+      <link rel="alternate" hreflang="nl-BE" href="https://www.groupon.be">
+      <link rel="alternate" hreflang="fr-BE" href="https://www.groupon.be">
+      <link rel="alternate" hreflang="nl-NL" href="https://www.groupon.nl">
+      <link rel="alternate" hreflang="ja-JP" href="https://www.groupon.jp">
+      <link rel="alternate" hreflang="en-US" href="https://www.groupon.com">
+      <link rel="alternate" hreflang="en-AE" href="https://www.groupon.ae">
+      <link rel="alternate" hreflang="x-default" href="https://www.groupon.com">
+
+
+
+
+
+
+      <meta name="csrf-token" content="zbYmhSjj-6BwMDObQFdZ-t5daFq8TD973pbI">
+
+  
+
+  <link rel="alternate"  href="android-app://com.groupon/groupon/dispatch/us">
+  <link rel="alternate"  href="ios-app://352683833/groupon/dispatch/us">
+
+  <meta property="al:android:app_name" content="Groupon">
+  <meta property="al:android:url" content="groupon://dispatch/us">
+  <meta property="al:android:package" content="com.groupon">
+
+  <meta property="al:ios:app_name" content="Groupon" />
+  <meta property="al:ios:url" content="groupon://dispatch/us">
+  <meta property="al:ios:app_store_id" content="352683833" />
+
+
+
+<link rel="manifest" href="/layout/manifest.json">
+
+  <meta name="google" content="nositelinkssearchbox" />
+
+  <meta name="request-id" content="aec5061f-5a36-40e6-ad21-a7eb56fedf83">
+
+  <meta property="fb:app_id" content="7829106395">
+  <meta property="og:site_name" content="Groupon">
+
+    <meta property="og:locale" content="en_US">
+
+    <meta property="og:title" content="Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off">
+
+    <meta property="og:url" content="https://www.groupon.com/">
+
+
+
+
+
+
+  <script id="dyn-config">
+  (function () {
+  window.remoteUrl = 'https://www2.grouponcdn.com/layout/assets';
+if (remoteUrl.substr(-1) !== '/') remoteUrl += '/';
+window.BOOMR = { t_lstart: +new Date() };
+(function(event) {
+  window.addEventListener(event, function() { window.BOOMR.t_lonload = +new Date(); }, false);
+})('onpagehide' in window ? 'pageshow' : 'load');
+window.applicationConfig = {};
+window.Groupon || (window.Groupon = {});
+  window.Groupon.Performance = {
+    pageReady: function(allow) {
+      var locked = true;
+      if (!locked || allow) {
+        if (typeof BOOMR.page_ready === 'function') {
+          BOOMR.page_ready();
+        } else if (BOOMR && !BOOMR.t_done) {
+          BOOMR.t_done = new Date().getTime();
+        }
+      }
+    }
+  };
+  window.googletag || (window.googletag = {});
+  
+window.Optimize = {
+  appConfig: {"page":{"id":"5ec6a017-4855-4c6a-86a0-174855dc6aee-1589097601049-TH0","app":"pull","channel":"main","country":"US","lang":"en","locale":"en_US","brand":"groupon","division":null,"parentEventId":null,"parentPageId":null,"url":"https%3A%2F%2Fwww.groupon.com%2F","requestId":"aec5061f-5a36-40e6-ad21-a7eb56fedf83","bindingsVersion":"4.5.1","type":"homepage\/index"},"session":{"id":"5ec6a017-4855-4c6a-86a0-174855dc6aee","referral":{"source":"direct"}},"user":{"browserId":"121210c0-168f-16dd-a180-5cd91d9054ee","consumerId":null,"consumerIdSource":null,"lat":null,"lng":null,"loggedIn":false,"scid":null,"visit":null,"platform":"desktop","updatedParser":true,"userAgent":"python-requests\/2.20.1","os":"other","browser":"other","browserVersion":"other","device":"other","deviceType":"desktop","requestedWith":""},"cookieDomain":".groupon.com","seed":"5ec6a017-4855-4c6a-86a0-174855dc6aee","browse":{"page_type":"browse\/deals\/index"},"home":{"page_type":"homepage\/index"},"touch_featured":{"page_type":"homepage\/index"},"touch_nearby":{"page_type":"nearby\/deals\/index"},"touch_page":{"page_type":"browse\/deals\/index"},"tracking":{"secureStorageEnabled":false},"advancedAnalytics":{"enabled":false,"serverDimensions":{}}},
+  appName: "homepage",
+  channel: "main",
+  cookieDomain: ".groupon.com",
+  pageType: "homepage/index",
+  
+  
+  
+  layoutConfig: {"suiteData":{"config":{"googleAnalyticsTrackingId":"UA-62974313-1","unthrottleGoogleAnalytics":false},"division":"chicago","country":"US","channel":"main","cookieDomain":".groupon.com","appName":"homepage"}},
+  delayBloodhound: true
+};
+Optimize.finchConfig = (function () {
+  var appConfig = {};
+  var layoutConfig = {};
+
+  appConfig = {"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"pull-touch-recently-viewed":{"experiments":{"PullTouchRecentlyViewed":{"name":"PullTouchRecentlyViewed","tracking":true,"variants":["ShowWidget"],"variant_settings":{"Control":null,"ShowWidget":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"pull-touch-recently-viewed","diversion_type":"ConsumerIdDiversion"},"ION-9185-HomepagePaginationV2":{"experiments":{"ION-9185-HomepagePaginationV2":{"name":"ION-9185-HomepagePaginationV2","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showHomepagePaginationV2":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ION-9185-HomepagePaginationV2","diversion_type":"CookieDiversion"},"TTD_CustomerReviewPopUpWeb_Q218_1":{"experiments":{"TTD_CustomerReviewPopUpWeb_Q218_1":{"name":"TTD_CustomerReviewPopUpWeb_Q218_1","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showTTDTopRatedCarousel":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"TTD_CustomerReviewPopUpWeb_Q218_1","diversion_type":"CookieDiversion"},"ION-9728-PullPreloadNextPageDealsBucketOnFrontend":{"experiments":{"ION-9728-PullPreloadNextPageDealsBucketOnFrontend":{"name":"ION-9728-PullPreloadNextPageDealsBucketOnFrontend","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->preloadNextPageDeals":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ION-9728-PullPreloadNextPageDealsBucketOnFrontend","diversion_type":"CookieDiversion"},"ION-9455-affinity-based-app-download-touch":{"experiments":{"ION-9455-affinity-based-app-download-touch":{"name":"ION-9455-affinity-based-app-download-touch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showAffinityAppDownloadCard":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"ION-9455-affinity-based-app-download-touch","diversion_type":"CookieDiversion"},"ION-9838-BCookieRVDDesktop":{"experiments":{"ION-9838-BCookieRVDDesktop":{"name":"ION-9838-BCookieRVDDesktop","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showBCookieBottomRVDDesktop":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ION-9838-BCookieRVDDesktop","diversion_type":"CookieDiversion"},"ION-9773-ShowGrouponPlusPencilBanner":{"experiments":{"ION-9773-ShowGrouponPlusPencilBanner":{"name":"ION-9773-ShowGrouponPlusPencilBanner","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showGrouponPlusBannerAboveTheFold":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ION-9773-ShowGrouponPlusPencilBanner","diversion_type":"CookieDiversion"},"ION-9919-OpenInAppOnSearch-finch":{"experiments":{"ION-9919-OpenInAppOnSearch-finch":{"name":"ION-9919-OpenInAppOnSearch-finch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showOpenInAppButtonOnSearch":true,"pull->useBranchIODeepLink":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"bdbad0e0-2fc6-4706-a524-3695f559afc8","diversion_type":"CookieDiversion"},"ION-9919-OpenInAppOnEmailLandingPage-finch":{"experiments":{"ION-9919-OpenInAppOnEmailLandingPage-finch":{"name":"ION-9919-OpenInAppOnEmailLandingPage-finch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showOpenInAppButtonOnSmuggledDeal":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"50e1f2fc-a7c0-41d6-a077-6d495c4636e4","diversion_type":"CookieDiversion"},"ION-10178-ShowLinkOnRvdDesktop":{"experiments":{"ION-10178-ShowLinkOnRvdDesktop":{"name":"ION-10178-ShowLinkOnRvdDesktop","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showLinkOnRvdDesktop":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ION-10178-ShowLinkOnRvdDesktop","diversion_type":"CookieDiversion"},"LS-4925-Disable-Search-Desktop":{"experiments":{"LS-4925-Disable-Search-Desktop":{"name":"LS-4925-Disable-Search-Desktop","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4925-Disable-Search-Desktop","diversion_type":"CookieDiversion"},"LS-4925-Disable-Search-Touch":{"experiments":{"LS-4925-Disable-Search-Touch":{"name":"LS-4925-Disable-Search-Touch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4925-Disable-Search-Touch","diversion_type":"CookieDiversion"},"TTD_AudienceOccasionsTouch_Q318_2":{"experiments":{"TTD_AudienceOccasionsTouch_Q318_2":{"name":"TTD_AudienceOccasionsTouch_Q318_2","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showTargetedAudienceOccasionsOnTouch":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ad2cb282-9870-473d-ab1d-9cbeec59b6b1","diversion_type":"CookieDiversion"},"ION-10394-ScrollDepthOnBrowse":{"experiments":{"ION-10394-ScrollDepthOnBrowse":{"name":"ION-10394-ScrollDepthOnBrowse","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->addScrollDepthOnBrowse":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"ION-10394-ScrollDepthOnBrowse","diversion_type":"CookieDiversion"},"ION-10734-Scroll-To-Dismiss-Intercept-Touch":{"experiments":{"ION-10734-Scroll-To-Dismiss-Intercept-Touch":{"name":"ION-10734-Scroll-To-Dismiss-Intercept-Touch","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->scrollToCloseIntercept":true}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"ION-10734-Scroll-To-Dismiss-Intercept-Touch","diversion_type":"CookieDiversion"},"TTD_YMALForDealViews_Q119_2":{"experiments":{"TTD_YMALForDealViews_Q119_2":{"name":"TTD_YMALForDealViews_Q119_2","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->TTDshowYMALCarousel":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"TTD_YMALForDealViews_Q119_2","diversion_type":"CookieDiversion"},"LS-5996_RemoveAppModal_USCA":{"experiments":{"LS-5996_RemoveAppModal_USCA":{"name":"LS-5996_RemoveAppModal_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-5996_RemoveAppModal_USCA","diversion_type":"CookieDiversion"},"ION-11499-RevampedMap":{"experiments":{"ION-11499-RevampedMap":{"name":"ION-11499-RevampedMap","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showRevampedMap":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"1838540b-275a-4dfc-8450-68f2d81929dd","diversion_type":"CookieDiversion"},"shell_exp_testing":{"experiments":{"shell_exp_testing":{"name":"shell_exp_testing","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"shell_exp_testing","diversion_type":"CookieDiversion"},"geekon-maps":{"experiments":{"geekon-maps":{"name":"geekon-maps","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{"pull->showGeekonMapView":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"geekon-maps","diversion_type":"CookieDiversion"},"shell_desktop_v2":{"experiments":{"shell_desktop_v2":{"name":"shell_desktop_v2","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"shell_desktop_v2","diversion_type":"CookieDiversion"},"shell_touch_v2":{"experiments":{"shell_touch_v2":{"name":"shell_touch_v2","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"shell_touch_v2","diversion_type":"CookieDiversion"},"web-project-taco":{"experiments":{"web-project-taco":{"name":"web-project-taco","tracking":false,"variants":["Control","Treatment"],"guards":[{"name":"inDivision","parameters":{"divisions":["london","long-island","new-york","houston"]}}],"variant_settings":{"Control":null,"Treatment":{"pull->enableTaco":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"web-project-taco","diversion_type":"CookieDiversion"},"20-05_touch_AddToCart_NA":{"experiments":{"20-05_touch_AddToCart_NA":{"name":"20-05_touch_AddToCart_NA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"20-05_touch_AddToCart_NA","diversion_type":"CookieDiversion"}};
+  layoutConfig = {"api-mobile-iphone-rtrGoods1408ZA":{"experiments":{"rtrGoods1408ZA":{"name":"rtrGoods1408ZA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"api-mobile-iphone-rtrGoods1408ZA","diversion_type":"CookieDiversion"},"sms-download-link-experiment":{"experiments":{"sms-download-link-experiment":{"name":"sms-download-link-experiment","tracking":true,"variants":["control","sms_download_link"],"variant_settings":{"control":null,"sms_download_link":null},"control":"control","bucket_min":0,"bucket_max":249,"buckets":"0..249"}},"bucketing_salt":"sms-download-link-experiment","diversion_type":"CookieDiversion"},"OptimizeSuiteGALoadLater":{"experiments":{"OptimizeSuiteGALoadLater":{"name":"OptimizeSuiteGALoadLater","tracking":false,"variants":["injectOnPageload"],"variant_settings":{"Control":null,"injectOnPageload":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"OptimizeSuiteGALoadLater","diversion_type":"CookieDiversion"},"LS-4100-intentmedia-gtm":{"experiments":{"LS-4100-intentmedia-gtm":{"name":"LS-4100-intentmedia-gtm","tracking":true,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4100-intentmedia-gtm","diversion_type":"CookieDiversion"},"LS-4925-Disable-Search-Desktop":{"experiments":{"LS-4925-Disable-Search-Desktop":{"name":"LS-4925-Disable-Search-Desktop","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4925-Disable-Search-Desktop","diversion_type":"CookieDiversion"},"LS-4925-Disable-Search-Touch":{"experiments":{"LS-4925-Disable-Search-Touch":{"name":"LS-4925-Disable-Search-Touch","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-4925-Disable-Search-Touch","diversion_type":"CookieDiversion"},"LS-4989-Search-Icon-Touch":{"experiments":{"LS-4989-Search-Icon-Touch":{"name":"LS-4989-Search-Icon-Touch","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-4989-Search-Icon-Touch","diversion_type":"CookieDiversion"},"GoodsTouchRemoveCartSummary_US":{"experiments":{"GoodsTouchRemoveCartSummary_US":{"name":"GoodsTouchRemoveCartSummary_US","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"GoodsTouchRemoveCartSummary_US","diversion_type":"CookieDiversion"},"LS-5320-Groupon-Select-Flyout-Signup":{"experiments":{"LS-5320-Groupon-Select-Flyout-Signup":{"name":"LS-5320-Groupon-Select-Flyout-Signup","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5320-Groupon-Select-Flyout-Signup","diversion_type":"CookieDiversion"},"LS-5826-CurrentLocationLink-USCA":{"experiments":{"LS-5826-CurrentLocationLink-USCA":{"name":"LS-5826-CurrentLocationLink-USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"9e9795b0-fd31-42c5-822d-c833025b35ac","diversion_type":"CookieDiversion"},"LS-5944-SelectHamburgerBanner-US":{"experiments":{"LS-5944-SelectHamburgerBanner-US":{"name":"LS-5944-SelectHamburgerBanner-US","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5944-SelectHamburgerBanner-US","diversion_type":"CookieDiversion"},"LS-5953_ImproveBrowseLocation_USCA":{"experiments":{"LS-5953_ImproveBrowseLocation_USCA":{"name":"LS-5953_ImproveBrowseLocation_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5953_ImproveBrowseLocation_USCA","diversion_type":"CookieDiversion"},"LS-5958_NewDesktopHeader_USCA":{"experiments":{"LS-5958_NewDesktopHeader_USCA":{"name":"LS-5958_NewDesktopHeader_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5958_NewDesktopHeader_USCA","diversion_type":"CookieDiversion"},"LS-6055_GrouponLogoRedirect_USCA":{"experiments":{"LS-6055_GrouponLogoRedirect_USCA":{"name":"LS-6055_GrouponLogoRedirect_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"cc5d7968-f019-4fdb-a7d8-ffd35d4d3ae4","diversion_type":"CookieDiversion"},"LS-6113_GoodsImproveLocation_Touch_USCA":{"experiments":{"LS-6113_GoodsImproveLocation_Touch_USCA":{"name":"LS-6113_GoodsImproveLocation_Touch_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6113_GoodsImproveLocation_Touch_USCA","diversion_type":"CookieDiversion"},"LS-6257_MoviesIcon_US":{"experiments":{"LS-6257_MoviesIcon_US":{"name":"LS-6257_MoviesIcon_US","tracking":false,"variants":["Treatment"],"variant_settings":{"Treatment":null,"Control":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6257_MoviesIcon_US","diversion_type":"CookieDiversion"},"LS-6173_HamburgerCarousel_Touch_USCA":{"experiments":{"LS-6173_HamburgerCarousel_Touch_USCA":{"name":"LS-6173_HamburgerCarousel_Touch_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6173_HamburgerCarousel_Touch_USCA","diversion_type":"CookieDiversion"},"19_01_Touch_uCart_US":{"experiments":{"19_01_Touch_uCart_US":{"name":"19_01_Touch_uCart_US","tracking":true,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"02d3a5b1-f695-4712-b15a-aba337920d45","diversion_type":"CookieDiversion"},"19_01_Web_uCart_US":{"experiments":{"19_01_Web_uCart_US":{"name":"19_01_Web_uCart_US","tracking":true,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"19_01_Web_uCart_US","diversion_type":"CookieDiversion"},"LS-6110_Travel2Hotels_Touch_All":{"experiments":{"LS-6110_Travel2Hotels_Touch_All":{"name":"LS-6110_Travel2Hotels_Touch_All","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6110_Travel2Hotels_Touch_All","diversion_type":"CookieDiversion"},"LS-6110_Travel2Hotels_Desktop_All":{"experiments":{"LS-6110_Travel2Hotels_Desktop_All":{"name":"LS-6110_Travel2Hotels_Desktop_All","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6110_Travel2Hotels_Desktop_All","diversion_type":"CookieDiversion"},"LS-6236-DoNotSell":{"experiments":{"LS-6236-DoNotSell":{"name":"LS-6236-DoNotSell","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6236-DoNotSell","diversion_type":"CookieDiversion"},"LS-5898_GetawaysImproveLocation_Desktop_USCA":{"experiments":{"LS-5898_GetawaysImproveLocation_Desktop_USCA":{"name":"LS-5898_GetawaysImproveLocation_Desktop_USCA","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5898_GetawaysImproveLocation_Desktop_USCA","diversion_type":"CookieDiversion"},"LS-5898_GetawaysImproveLocation_Touch_USCA":{"experiments":{"LS-5898_GetawaysImproveLocation_Touch_USCA":{"name":"LS-5898_GetawaysImproveLocation_Touch_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-5898_GetawaysImproveLocation_Touch_USCA","diversion_type":"CookieDiversion"},"LS-6113_GoodsImproveLocation_Desktop_USCA":{"experiments":{"LS-6113_GoodsImproveLocation_Desktop_USCA":{"name":"LS-6113_GoodsImproveLocation_Desktop_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6113_GoodsImproveLocation_Desktop_USCA","diversion_type":"CookieDiversion"},"LS-6555_SelectinHeader_Desktop":{"experiments":{"LS-6555_SelectinHeader_Desktop":{"name":"LS-6555_SelectinHeader_Desktop","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"540e6184-39ce-49cd-b3db-326b8054311c","diversion_type":"CookieDiversion"},"LS-6606_UpdatedDesktopIAM_US":{"experiments":{"LS-6606_UpdatedDesktopIAM_US":{"name":"LS-6606_UpdatedDesktopIAM_US","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-6606_UpdatedDesktopIAM_US","diversion_type":"CookieDiversion"},"LS-6646-Do-Not-Sell-XHR":{"experiments":{"LS-6646-Do-Not-Sell-XHR":{"name":"LS-6646-Do-Not-Sell-XHR","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-6646-Do-Not-Sell-XHR","diversion_type":"CookieDiversion"},"LS-6645-Disable-Right-To-Forget-XHR":{"experiments":{"LS-6645-Disable-Right-To-Forget-XHR":{"name":"LS-6645-Disable-Right-To-Forget-XHR","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-6645-Disable-Right-To-Forget-XHR","diversion_type":"CookieDiversion"},"LS-6644-Disable-Cart-Size-XHR":{"experiments":{"LS-6644-Disable-Cart-Size-XHR":{"name":"LS-6644-Disable-Cart-Size-XHR","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-6644-Disable-Cart-Size-XHR","diversion_type":"CookieDiversion"},"web_MinimalSearch_USCA":{"experiments":{"web_MinimalSearch_USCA":{"name":"web_MinimalSearch_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"web_MinimalSearch_USCA","diversion_type":"CookieDiversion"},"19-16_touch_GuestCheckoutHalfSheet_NA":{"experiments":{"19-16_touch_GuestCheckoutHalfSheet_NA":{"name":"19-16_touch_GuestCheckoutHalfSheet_NA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"726f9498-2382-476c-89b9-491a268af7cc","diversion_type":"CookieDiversion"},"20-01_touch_GuestCheckoutHalfSheetv2_NA_old":{"experiments":{"20-01_touch_GuestCheckoutHalfSheetv2_NA_old":{"name":"20-01_touch_GuestCheckoutHalfSheetv2_NA_old","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"20-01_touch_GuestCheckoutHalfSheetv2_NA_old","diversion_type":"CookieDiversion"},"LS-6560_MinimalSearch_Touch_USCA":{"experiments":{"LS-6560_MinimalSearch_Touch_USCA":{"name":"LS-6560_MinimalSearch_Touch_USCA","tracking":false,"variants":["Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-6560_MinimalSearch_Touch_USCA","diversion_type":"CookieDiversion"},"web-project-taco":{"experiments":{"web-project-taco":{"name":"web-project-taco","tracking":false,"variants":["Control","Treatment"],"guards":[{"name":"inDivision","parameters":{"divisions":["london","long-island","new-york","houston"]}}],"variant_settings":{"Control":null,"Treatment":{"pull->enableTaco":true}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"web-project-taco","diversion_type":"CookieDiversion"},"MIA_Revamp_US":{"experiments":{"MIA_Revamp_US":{"name":"MIA_Revamp_US","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Treatment","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"MIA_Revamp_US","diversion_type":"CookieDiversion"},"20-01_touch_GuestCheckoutHalfSheetv2_NA":{"experiments":{"20-01_touch_GuestCheckoutHalfSheetv2_NA":{"name":"20-01_touch_GuestCheckoutHalfSheetv2_NA","tracking":true,"variants":["Control"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"20-01_touch_GuestCheckoutHalfSheetv2_NA","diversion_type":"CookieDiversion"},"LS-7023_ExploreCategories_NA_Touch":{"experiments":{"LS-7023_ExploreCategories_NA_Touch":{"name":"LS-7023_ExploreCategories_NA_Touch","tracking":false,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"LS-7023_ExploreCategories_NA_Touch","diversion_type":"CookieDiversion"},"20-05_touch_AddToCart_NA":{"experiments":{"20-05_touch_AddToCart_NA":{"name":"20-05_touch_AddToCart_NA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":null,"Treatment":null},"control":"Control","bucket_min":0,"bucket_max":999,"buckets":"0..999"}},"bucketing_salt":"20-05_touch_AddToCart_NA","diversion_type":"CookieDiversion"},"LS-7036_TicketsEventsPage_Touch_USCA":{"experiments":{"LS-7036_TicketsEventsPage_Touch_USCA":{"name":"LS-7036_TicketsEventsPage_Touch_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-7036_TicketsEventsPage_Touch_USCA","diversion_type":"CookieDiversion"},"LS-7181_RemoveIAMBrowse_Touch_USCA":{"experiments":{"LS-7181_RemoveIAMBrowse_Touch_USCA":{"name":"LS-7181_RemoveIAMBrowse_Touch_USCA","tracking":true,"variants":["Control","Treatment"],"variant_settings":{"Control":{},"Treatment":{}},"control":"Control","bucket_min":9999,"bucket_max":9999,"buckets":"9999..9999"}},"bucketing_salt":"LS-7181_RemoveIAMBrowse_Touch_USCA","diversion_type":"CookieDiversion"}};
+  for (var key in layoutConfig) {
+    if(layoutConfig.hasOwnProperty(key)) {
+      appConfig[key] = layoutConfig[key];
+    }
+  }
+  return appConfig;
+})();
+window.googletag || (window.googletag = {});
+window.googletag.cmd || (googletag.cmd = []);
+
+})();
+  </script>
+  <script id="boomr-loader">
+  (function() {
+    window.applicationConfig = {};
+    if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+      return;
+    }
+    if (window.parent && (window.parent.window.BOOMR && window.parent.window.BOOMR.snippetExecuted)) {
+      return;
+    }
+
+    window.BOOMR = window.BOOMR || {};
+    window.BOOMR.snippetStart = new Date().getTime();
+    window.BOOMR.snippetExecuted = true;
+    window.BOOMR.snippetVersion = 12;
+    window.BOOMR.url = "https://www2.grouponcdn.com/layout/assets/boomerang-sls-83c1a5002f6a.js";
+    var
+        where = document.currentScript || document.getElementsByTagName("script")[0],
+        promoted = false,
+        LOADER_TIMEOUT = 3000;
+
+    function promote() {
+      if (promoted) {
+        return;
+      }
+
+      var script = document.createElement("script");
+      script.id = "boomr-scr-as";
+      script.src = window.BOOMR.url;
+      script.async = true;
+      where.parentNode.appendChild(script);
+
+      promoted = true;
+    }
+
+    function iframeLoader(wasFallback) {
+      promoted = true;
+      var dom, doc = document, bootstrap, iframe, iframeStyle, win = window;
+      window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+
+      bootstrap = function(parent, scriptId) {
+        var script = doc.createElement("script");
+        script.id = scriptId || "boomr-if-as";
+        script.src = window.BOOMR.url;
+
+        BOOMR_lstart = new Date().getTime();
+
+        parent = parent || doc.body;
+        parent.appendChild(script);
+      };
+
+      iframe = document.createElement("IFRAME");
+      iframe.src = "about:blank";
+      iframe.title = "";
+      iframe.role = "presentation";
+      iframe.loading = "eager";
+      iframeStyle = (iframe.frameElement || iframe).style;
+      iframeStyle.width = 0;
+      iframeStyle.height = 0;
+      iframeStyle.border = 0;
+      iframeStyle.display = "none";
+      where.parentNode.appendChild(iframe);
+
+      try {
+        win = iframe.contentWindow;
+        doc = win.document.open();
+      } catch (e) {
+        dom = document.domain;
+        iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+        win = iframe.contentWindow;
+        doc = win.document.open();
+      }
+
+      if (dom) {
+        doc._boomrl = function() {
+          this.domain = dom;
+          bootstrap();
+        };
+        doc.write("<bo" + "dy onload='document._boomrl();'>");
+      } else {
+        win.addEventListener("load", function() {
+          bootstrap();
+        }, false);
+      }
+      doc.close();
+    }
+    var link = document.createElement("link");
+    if (link.relList &&
+        typeof link.relList.supports === "function" &&
+        link.relList.supports("preload") &&
+        ("as" in link)) {
+      window.BOOMR.snippetMethod = "p";
+      link.href = window.BOOMR.url;
+      link.rel = "preload";
+      link.as = "script";
+      link.addEventListener("load", promote);
+      link.addEventListener("error", function() {
+        iframeLoader(true);
+      });
+
+      setTimeout(function() {
+        if (!promoted) {
+          iframeLoader(true);
+        }
+      }, LOADER_TIMEOUT);
+      BOOMR_lstart = new Date().getTime();
+      where.parentNode.appendChild(link);
+    } else {
+      iframeLoader(false);
+    }
+
+    function boomerangSaveLoadTime(e) {
+      window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+    }
+
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  })();
+</script>
+  
+
+      <script>
+        window.googletag = window.googletag || {};
+        googletag.cmd = googletag.cmd || [];
+      </script>
+      <meta name="ai-v1">
+        <meta name="ai-slot" data-apif="ai-featured-desktop-728x90-inline-0">
+        <meta name="ai-slot" data-apif="ai-featured-desktop-728x90-bottompage-0">
+        <meta name="ai-app-name" data-app-name="featured">
+        <meta name="ai-division" data-division="chicago">
+        <meta name="ai-dfp-manual">
+
+        <meta name="ai-base-url" data-base-url="https://ai.groupondata.com/ai/api/v1/placement">
+
+
+  <link type="application/opensearchdescription+xml" rel="search" title="Groupon" href="/layout/opensearch.xml?brand=groupon&country=US&locale=en_US" />
+    <title>Groupon® Official Site | Online Shopping Deals and Coupons | Save Up to 70% off</title>
+
+  <link rel="apple-touch-icon" sizes="76x76" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-76x76-13990cf550.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-152x152-ed288e134e.png">
+  <meta name="msapplication-config" content="/groupon/browserconfig.xml">
+  <link rel="icon" type="image/png" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-96x96-65e46e4853.png" sizes="96x96">
+  <link rel="shortcut icon" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-966d694a73.ico">
+  <link rel="mask-icon" href="https://www2.grouponcdn.com/layout/assets/grpn-favicon-319296fcd8.svg" color="#53a318">
+  
+  <script id="preact-config">
+    "function"!=typeof Object.assign&&Object.defineProperty(Object,"assign",{value:function(e,t){"use strict";if(null==e)throw new TypeError("Cannot convert undefined or null to object");for(var n=Object(e),r=1;r<arguments.length;r++){var o=arguments[r];if(null!=o)for(var c in o)Object.prototype.hasOwnProperty.call(o,c)&&(n[c]=o[c])}return n},writable:!0,configurable:!0});
+    function initReduxState(window) {
+      var state = {"app":{"appName":"homepage","brand":{"isGroupon":true,"title":"Groupon"},"country":"US","lang":"en","mobile":false,"googleClientId":"169314272487.apps.googleusercontent.com","facebookAppId":"7829106395","assets":{"selectFlyout":"https:\u002F\u002Fwww2.grouponcdn.com\u002Flayout\u002Fassets\u002Fselect_flyout_ij-6fdaac4447.png","selectFlyoutLoggedIn":"https:\u002F\u002Fwww2.grouponcdn.com\u002Flayout\u002Fassets\u002Fselect_flyout_logged_in-8d9813c5fa.png"}},"flags":{"disableNotificationsOnDesktop":false,"enablePrivacyCenter":false,"showMyLinkedDealsLink":true,"showMyProfile":true,"showGiftCards":true,"showReferAFriend":true,"showMerchantCenterLink":true,"showCart":true,"cartWidgetUrl":"\u002Fcart","showTtdAndBeautyNav":true,"desktopRedesign2019US":true,"showLiteheaderLinks":true},"t":{"common":{"close":"close","remove":"Remove","cancel":"Cancel","hide":"Hide","details":"Details"},"form":{"clear":"clear input"},"searchbar":{"dealPlaceholder":"Search Groupon","locationPlaceholder":"Zip Code, Neighborhood, City","nearMe":"Near Me","action":"Search"},"header":{"cart":"Cart","notifications":"Notifications Inbox","categories":"Categories","shopAll":"Shop All","hotelAndTravel":"Hotels & Travel","copyCode":"Copy code","failed":"Failed","copied":"Copied"},"search":{"recentSearches":"Recent Searches","recentLocations":"Recent Locations","currentLocation":"Current Location","popularSearches":"Popular Searches","recommendedSearches":"Based on Your Activity","helperMsg":"Search for deals around an address or attraction","clearAll":"Clear All"},"notifications":{"back":"Back","headline":"Notifications","emptyHeader":"No New Notifications","emptyMessage":"Sign in to get personalized notifications about your deals, cash back, special offers, and more.","noAccountYet":"No account yet?","signIn":"Sign In","signUp":"Sign Up"},"error":{"locationGeneric":"There was an error","badLocation":"We couldn't understand that location. Try another ZIP\u002FPostal Code, neighborhood or address.","locationAvailability":"We are experiencing difficulty finding your location. [Please check your browser location settings]."},"links":{"headerMerchantLink":"\u002Fmerchant\u002Fjoin?utm_medium=referral&utm_campaign=groupon-header1&utm_source=groupon","myMerchantCenterLink":"https:\u002F\u002Fmerchants.groupon.com\u002F","helpLink":"\u002Fcustomer_support"},"signinFlyout":{"linkText":"Sign In | My Stuff","signedInLink":"My Stuff","myStuff":"Sign in to access your Groupons","email":"Email","password":"Password","rememberMe":"Remember Me","forgotPassword":"Forgot Password?","signIn":"Sign In","signInWith":"Or sign in with","gdprSignInFlyout":"By clicking an option below, I agree to the %link_terms_open%Terms of Use%link_terms_close% and the %link_privacy_open%Privacy Statement%link_privacy_close%","required":"Required","requiredEmail":"Enter Email","requiredPassword":"Enter Password","invalidEmail":"Invalid Email Address","invalidEmailOrPassword":"Incorrect email or password. Try again","unknownError":"There was an unexpected error. Please reload the page and try again.","fbReauthTitle":"Groupon didn't get your email from Facebook, but we need it to sign you up.","fbReauthDesc":"If you'd like to share it with us so you can take advantage of Facebook Login, you can update your Facebook permissions to give us access to your email. If not, you can always sign up for a Groupon account without using Facebook.","fbReauthButton":"Update Facebook Permissions","fbReauthClose":"No, thanks"},"userNav":{"userHeadline":"My Stuff","myGroupons":"My Groupons","myGrouponPlusDeals":"My Groupon+ Deals","myWishlist":"My Wishlist","paymentMethods":"Payment Methods","myAccount":"Account","accountDetails":"Account Details","myEmailSubs":"Subscriptions","privacyCenter":"Privacy Center","privacyCenterLink":"\u002Flegal\u002Fprivacy-center","grouponSelect":"Groupon Select","grouponSelectLink":"\u002Fprograms\u002Fselect\u002Faccount","voucherArchive":"Vouchers bought before May 2017","myReservations":"My Reservations","myCardLinkedDeals":"My Groupon+ Deals","howGrouponWorks":"How Groupon Works","myProfile":"Profile","mySubscriptions":"Subscriptions","myGiftcard":"Redeem Gift Card","referAFriendMessage":"Refer Friends, Get $10*","myMerchantCenter":"My Merchant Center","signIn":"Sign In","signOut":"Sign Out","signUp":"Sign Up","signInFlyoutSignUp":"Not a Member? Sign Up","recentlyViewedDeals":"Recently Viewed","headerMerchant":"Sell","headerMerchantNew":"Sell","help":"Help"},"cart":{"error":"Sorry, we ran into an error getting your cart. Please try again in a few minutes.","desc":"Your Cart","empty":"Your Shopping Cart is Empty!","emptyText":"Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from","emptyTextUniversal":"Time to fill this bad boy with great deals","emptyTextUniversalLink":"like these!","goods":"Groupon Goods","loading":"Loading your cart...","price":"Price","proceed":"Proceed to Checkout","quantity":"Qty","subtotal":"Subtotal","view":"View Cart"}},"location":{"address":"Chicago","division":"chicago","lat":41.88,"lng":-87.624},"navbar":{"primary":[]},"searchLoc":{},"dealSearch":{"query":""},"auth":{"user":null,"error":null}};
+      window.__LS_INITIAL_STATE__ = state;
+      state.flags = Object.assign(state.flags, {
+        
+        
+        
+      });
+
+    }
+    initReduxState(window);
+  </script>
+
+  
+<script>
+
+
+  window.GIG || (window.GIG = {});
+
+  window.GIG.loadGigComponents = function () {
+    return new Promise(
+      (resolve, reject) => {
+      if (typeof window.GIG.components !== 'undefined') {
+        resolve();
+        return;
+      }
+
+      window.addEventListener('loaded-gig-components', () => {
+        resolve();
+      });
+
+      window.addEventListener('failed-gig-components', () => {
+        resolve();
+      })
+    });
+  };
+</script>
+
+  <script id="ls-groupon-config">
+    window.Groupon || (window.Groupon = {});
+      Groupon.division = {"name":"Chicago","id":"chicago","lat":41.88,"lng":-87.624};
+      Groupon.boldChat = {"accountId":"888454639756334259","websiteId":"3958328191494078484","pushData":[["setAccountID","888454639756334259"],["setParameter","WebsiteID","3958328191494078484"]]};
+    Groupon.endpoints = {
+          cart: "/cart/widget",
+          cartSize: "/cart/size",
+        cards: "/layout/calls/cards", 
+    };
+    Groupon.LS = {
+      data: {
+        appName: 'homepage',
+          googleClientId: '169314272487.apps.googleusercontent.com',
+      },
+    };
+  </script>
+  <script>
+  window.Groupon.ads = { url: "https://www2.grouponcdn.com/layout/assets/adframe-6e717fa5a7bf.js" }
+  </script>
+
+  
+  <style id=preact-gig-stylesheet>[stylesheet-group="0"]{}
+html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0);}
+body{margin:0;}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
+input::-webkit-inner-spin-button,input::-webkit-outer-spin-button,input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-webkit-search-results-button,input::-webkit-search-results-decoration{display:none;}
+[stylesheet-group="0.1"]{}
+:focus:not([data-focusvisible-polyfill]){outline: none;}</style>
+</head>
+<body dir="ltr" id="ls-body" class="
+  brand-groupon grpn
+  
+  
+  no-js pull-home-desktop
+    
+    is-web ltr
+    en_US en_XX
+  ">
+
+      <div class="header-v2">
+        <header data-bhw="Header" id="ls-header" class="header header-redesign"><div id="ls-header-wrapper" class="ls-header-wrapper"><div role="presentation" class="ls-skel-header"><div id="user-wrapper" class="user-wrapper page-container"></div><div class="ls-header-top"><div class="ls-header-top-row page-container skel-placeholder skel-icons ls-skel-header-main skel-desktop2019"><a href="/" id="ls-groupon-logo" data-bhw="Logo" title="Groupon" class="ls-groupon-logo"><span class="ax-hidden">Groupon</span><svg width="125" height="21" viewBox="0 0 125 21" xmlns="http://www.w3.org/2000/svg"><path d="M64.324 20.14c-4.428 0-7.099-2.72-7.099-7.604V.32h4.815v12.024c0 2.195.689 3.32 2.309 3.32 1.68 0 2.477-1.097 2.477-3.32V.32h4.785v12.216c0 4.776-2.913 7.605-7.287 7.605zm13.345-6.599v6.28H72.89V.32h6.481c2.064 0 3.63.138 4.947 1.07 1.732 1.207 2.639 3.043 2.639 5.485 0 2.525-1.154 4.61-3.104 5.786-1.237.745-2.775.88-4.809.88h-1.375zm.016-8.746h1.288c2.156 0 3.188.679 3.188 2.356 0 1.816-1.171 2.44-3.576 2.44h-.9V4.795zm35.803 4.165v10.861h-4.792V.32h4.318l7.198 10.836V.32H125V19.82h-4.212l-7.3-10.86zm-67.6 11.5c-2.892 0-5.372-1.058-7.299-3.113-1.848-1.97-2.783-4.41-2.783-7.325 0-2.722 1.046-5.219 2.974-7.137C40.71.972 43.133 0 45.917 0c2.617 0 5.098 1.027 6.997 2.917 1.986 1.97 3.032 4.495 3.032 7.19 0 2.83-.995 5.354-2.839 7.27a9.9 9.9 0 0 1-7.219 3.083zM45.8 4.795c2.75 0 5.032 2.275 5.032 5.122 0 3.182-2.281 5.428-5.087 5.428-2.694 0-5.143-2.356-5.143-5.428 0-2.847 2.284-5.122 5.198-5.122zM97.683 20.46c-2.894 0-5.372-1.058-7.3-3.113-1.848-1.97-2.787-4.41-2.787-7.325 0-2.722 1.046-5.219 2.978-7.137C92.506.972 94.927 0 97.71 0c2.62 0 5.094 1.027 6.999 2.917 1.981 1.97 3.028 4.495 3.028 7.19 0 2.83-.99 5.354-2.837 7.27a9.894 9.894 0 0 1-7.217 3.083zm-.098-15.665c2.754 0 5.036 2.275 5.036 5.122 0 3.182-2.282 5.428-5.086 5.428-2.697 0-5.144-2.356-5.144-5.428 0-2.847 2.283-5.122 5.194-5.122zM2.745 17.33C.925 15.365 0 12.93 0 10.024a9.95 9.95 0 0 1 2.937-7.118C4.838.998 7.233 0 9.977 0c4.135 0 7.749 2.575 9.3 6.786H13.89c-1.194-1.276-2.447-1.913-3.968-1.913-2.826 0-5.055 2.352-5.055 5.178 0 3.129 2.391 5.536 5.055 5.536 1.796 0 3.4-.94 4.35-2.657H8.758V9h11.011c.025.439.053.886.053 1.298 0 2.216-.544 4.098-1.66 5.761a9.965 9.965 0 0 1-8.237 4.401c-2.855 0-5.274-1.082-7.179-3.13zm23.122-3.788v6.28H21.1V.32h6.468c2.053 0 3.612.138 4.931 1.07 1.726 1.207 2.63 3.043 2.63 5.459 0 3.153-1.644 5.514-4.41 6.281l4.767 6.691h-5.892l-3.727-6.28zm.028-8.746h1.328c2.124 0 3.148.679 3.148 2.356 0 1.816-1.162 2.44-3.536 2.44h-.94V4.795z" fill="#FFF" fill-rule="evenodd" class="groupon-logo"></path></svg></a><div class="skel-button skel-category-btn"></div><div class="skel-button ls-skel-flex1"></div><div class="skel-button ls-skel-flex1"></div><div class="skel-button skel-submit-btn"></div><div class="skel-icon skel-push-right"></div><div class="skel-icon"></div><div class="skel-button skel-signin-btn"></div></div></div></div><nav id="ls-channel-nav" class="ls-channel-nav"></nav></div></header>
+      </div>
+
+
+      <div id="ls-in-app-messages" class="page-container ls-iam" ></div>
+    
+
+
+              <main id="pull-home-desktop-container">
+      <div data-bhw="BrowseHeader">
+      <span class="tracking-only" data-bhc="page_context:landing"></span>
+    </div>
+     <!-- Card UI version ^6.51.2 -->
+      <div id="main-feed" data-bhw="HomeDesktopCards">
+        <div class="main-page-header">
+        <span class="main-page-header-title">Hi there,</span>
+        <span class="main-page-header-subtitle">here's what's trending today</span>
+      </div>      <div id="small-featured" class="card-ui-container cards-slot cardsHtml cui-three-up" data-is-lazy-loaded="false" data-is-cached="">    <figure class="card-ui cui-c-udc price-badge-filled-background left-aligned-card is-goods has-additional-discount-percent"
+      data-pingdom-info="purchasable-deal"
+      
+        data-bhc="deal:e6577743-52c3-4dc2-ab8c-d6cdcba051da"
+  data-bhd="{&quot;body&quot;:[{&quot;type&quot;:&quot;badge&quot;,&quot;content&quot;:{&quot;uuid&quot;:&quot;3f2dc18f-02fb-41c6-a850-6e14a4e0ae7d&quot;,&quot;badgeType&quot;:&quot;NEW&quot;,&quot;displayLocation&quot;:&quot;RIBBON&quot;}},{&quot;type&quot;:&quot;title&quot;,&quot;content&quot;:&quot;Galaxy by Harvic Men&#39;s 100% Cotton Belted Cargo Shorts (Sizes 30-48)&quot;},{&quot;type&quot;:&quot;price&quot;,&quot;content&quot;:&quot;$68 $19.99&quot;},{&quot;type&quot;:&quot;discount_percentage&quot;,&quot;content&quot;:70},{&quot;type&quot;:&quot;DealCardUrgency&quot;,&quot;content&quot;:&quot;Sellingfast&quot;}],&quot;cardUUID&quot;:&quot;e6577743-52c3-4dc2-ab8c-d6cdcba051da&quot;,&quot;cardSubtype&quot;:&quot;GOODS&quot;,&quot;cardView&quot;:&quot;left-aligned&quot;}"
+  
+  data-bh-viewport="respect"
+>
+
+        
+      <div class="cui-content ">
+        <a
+            href="https://www.groupon.com/deals/gg-cm-men-s-galaxy-by-harvic-classic-fit-belted-cotton-cargo-shorts-sizes-30-48"
+      >
+          <div class="cui-udc-image-container rounded-corners">
+        <div class="cui-udc-image-overlay"></div>
+            <div class="cui-image-lazy-container cui-image-hover-zoom">
+        <img class="cui-svg-placeholder" type="image/svg+xml" height="211" width="349" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' height='211' width='349'%2F%3E" alt="image placeholder">
+        <img class="cui-image "
+        src="//img.grouponcdn.com/deal/27FEqVbNifHHbDetf2KSgvRFLWPj/27-2048x1229/v1/c349x211q85.jpg"
+        srcset="//img.grouponcdn.com/deal/27FEqVbNifHHbDetf2KSgvRFLWPj/27-2048x1229/v1/c349x211q85.jpg, //img.grouponcdn.com/deal/27FEqVbNifHHbDetf2KSgvRFLWPj/27-2048x1229/v1/c349x211q85.jpg 2x"
+        alt="Galaxy by Harvic Men&#39;s 100% Cotton Belted Cargo Shorts (Sizes 30-48)">
+      </div>
+
+              <div class="cui-badge prominent-badge c-bg-accent c-txt-white"
+        >
+              <svg aria-hidden="true" class="badge-icon" viewBox="0 0 16 16">
+            <path fill="rgba(255,255,255,1)" d="M1 8a7 7 0 1 1 14 0A7 7 0 0 1 1 8zm6.99-4.2c0-.26-.26-.47-.58-.47-.32 0-.58.21-.58.47v4.43c0 .2.14.36.34.43l3.46 1.61c.28.13.63.05.8-.17.15-.22.06-.5-.22-.64L8 7.96V3.8z"/>
+          </svg>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          <div class="cui-badge-label">NEW</div>
+      </div>
+      </div>
+      
+          <div class="cui-udc-details
+            cui-udc-left-aligned-details
+            ">
+
+              <div class="cui-single-section ">
+           <div class="cui-udc-title should-truncate">
+     Galaxy by Harvic Men's 100% Cotton Belted Cargo Shorts (Sizes 30-48)
+   </div>
+ 
+ 
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          </div>
+  
+  
+    <div class="cui-bottom-body">
+      
+    
+      <div class="cui-combined-section ">
+          
+      
+      
+
+      
+      
+       <div class="cui-price" data-pingdom-id="deal-price">
+           <div
+            class="cui-price-original c-txt-gray-dk
+ ">$68</div>&nbsp;
+          <div class="cui-price-discount c-txt-price
+">$19.99</div>
+        </div>
+
+      
+      
+      
+      
+      
+      
+      
+            
+      
+      
+
+      
+      
+      
+       <div class="cui-promotions">
+   <div class="cui-detail-badge cui-discount-badge ">70% OFF</div>
+ </div>
+ 
+      
+      
+      
+      
+      
+      
+        </div>
+            <div class="cui-single-section ">
+          
+      
+      
+
+      
+      
+      
+      
+       <div class="cui-urgency-message" data-bhc="">
+   Selling fast!
+ </div>
+
+      
+      
+      
+      
+      
+          </div>
+    
+    
+      </div>
+  </div>
+
+    
+                </a>
+
+          
+      </div>
+    </figure>
+     <figure class="card-ui cui-c-udc price-badge-filled-background left-aligned-card is-goods has-additional-value-message"
+      data-pingdom-info="purchasable-deal"
+      
+        data-bhc="deal:084850f9-2016-4635-a711-be6c047d6fa0"
+  data-bhd="{&quot;body&quot;:[{&quot;type&quot;:&quot;title&quot;,&quot;content&quot;:&quot;Aduro Sync-Buds True Wireless Earbuds with Wireless Charging Case&quot;},{&quot;type&quot;:&quot;price&quot;,&quot;content&quot;:&quot;$79.99 $19.99&quot;},{&quot;type&quot;:&quot;urgency-pricing&quot;,&quot;content&quot;:&quot;Ends Tomorrow $17.99&quot;},{&quot;type&quot;:&quot;DealCardUrgency&quot;,&quot;content&quot;:&quot;Sellingfast&quot;}],&quot;cardUUID&quot;:&quot;084850f9-2016-4635-a711-be6c047d6fa0&quot;,&quot;cardSubtype&quot;:&quot;GOODS&quot;,&quot;cardView&quot;:&quot;left-aligned&quot;}"
+  
+  data-bh-viewport="respect"
+>
+
+        
+      <div class="cui-content ">
+        <a
+            href="https://www.groupon.com/deals/gg-cm-aduro-sync-buds-true-wireless-earbuds-with-wireless-charging-case"
+      >
+          <div class="cui-udc-image-container rounded-corners">
+        <div class="cui-udc-image-overlay"></div>
+            <div class="cui-image-lazy-container cui-image-hover-zoom">
+        <img class="cui-svg-placeholder" type="image/svg+xml" height="211" width="349" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' height='211' width='349'%2F%3E" alt="image placeholder">
+        <img class="cui-image "
+        src="//img.grouponcdn.com/deal/3kM9eFrZ8d44Mwj74CYbkWYezY1f/3k-2048x1229/v1/c349x211q85.jpg"
+        srcset="//img.grouponcdn.com/deal/3kM9eFrZ8d44Mwj74CYbkWYezY1f/3k-2048x1229/v1/c349x211q85.jpg, //img.grouponcdn.com/deal/3kM9eFrZ8d44Mwj74CYbkWYezY1f/3k-2048x1229/v1/c349x211q85.jpg 2x"
+        alt="Aduro Sync-Buds True Wireless Earbuds with Wireless Charging Case">
+      </div>
+
+              </div>
+      
+          <div class="cui-udc-details
+            cui-udc-left-aligned-details
+            ">
+
+              <div class="cui-single-section ">
+           <div class="cui-udc-title should-truncate">
+     Aduro Sync-Buds True Wireless Earbuds with Wireless Charging Case
+   </div>
+ 
+ 
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          </div>
+  
+  
+    <div class="cui-bottom-body">
+      
+    
+      <div class="cui-combined-section ">
+          
+      
+      
+
+      
+      
+       <div class="cui-price" data-pingdom-id="deal-price">
+           <div
+            class="cui-price-original c-txt-gray-dk
+ ">$79.99</div>&nbsp;
+          <div class="cui-price-discount 
+cui-verbose-urgency-pricing
+
+">$19.99</div>
+        </div>
+
+      
+      
+      
+      
+      
+      
+      
+            
+      
+      
+
+      
+      
+      
+           <div class="cui-promotions cui-verbose-urgency-promotion-row">
+       <div class="cui-urgent cui-offer">
+         <div class="cui-verbose-urgency-text">Ends Tomorrow&nbsp;</div>
+         
+         <div class="cui-verbose-urgency-price ">$17.99</div>
+       </div>
+     </div>
+ 
+      
+      
+      
+      
+      
+      
+        </div>
+            <div class="cui-single-section ">
+          
+      
+      
+
+      
+      
+      
+      
+       <div class="cui-urgency-message" data-bhc="">
+   Selling fast!
+ </div>
+
+      
+      
+      
+      
+      
+          </div>
+    
+    
+      </div>
+  </div>
+
+    
+                </a>
+
+          
+      </div>
+    </figure>
+     <figure class="card-ui cui-c-udc price-badge-filled-background left-aligned-card is-occasions has-additional-discount-percent"
+      data-pingdom-info="purchasable-deal"
+      
+        data-bhc="deal:ac7935bc-ebc8-483e-99b0-1bd71c7b0ad3"
+  data-bhd="{&quot;body&quot;:[{&quot;type&quot;:&quot;badge&quot;,&quot;content&quot;:{&quot;uuid&quot;:&quot;84fbb816-3fec-4693-b0a6-ec2f9fb4e400&quot;,&quot;badgeType&quot;:&quot;TRENDING&quot;,&quot;displayLocation&quot;:&quot;RIBBON&quot;}},{&quot;type&quot;:&quot;title&quot;,&quot;content&quot;:&quot;Blooms Today&quot;},{&quot;type&quot;:&quot;rating&quot;,&quot;content&quot;:{&quot;showingNumericRating&quot;:true,&quot;numeric_value&quot;:&quot;3.65&quot;,&quot;count&quot;:&quot;31,784&quot;}},{&quot;type&quot;:&quot;price&quot;,&quot;content&quot;:&quot;$40 $20&quot;},{&quot;type&quot;:&quot;discount_percentage&quot;,&quot;content&quot;:50},{&quot;type&quot;:&quot;subtitle&quot;,&quot;content&quot;:&quot;$40 Toward Flowers and Shipping&quot;}],&quot;cardUUID&quot;:&quot;ac7935bc-ebc8-483e-99b0-1bd71c7b0ad3&quot;,&quot;cardSubtype&quot;:&quot;OCCASIONS&quot;,&quot;cardView&quot;:&quot;left-aligned&quot;}"
+  
+  data-bh-viewport="respect"
+>
+
+        
+      <div class="cui-content ">
+        <a
+            href="https://www.groupon.com/deals/blooms-today-national"
+      >
+          <div class="cui-udc-image-container rounded-corners">
+        <div class="cui-udc-image-overlay"></div>
+            <div class="cui-image-lazy-container cui-image-hover-zoom">
+        <img class="cui-svg-placeholder" type="image/svg+xml" height="211" width="349" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' height='211' width='349'%2F%3E" alt="image placeholder">
+        <img class="cui-image "
+        src="//img.grouponcdn.com/deal/3aiEBCLJ4PsVoJR8SjTUq1PBQzW9/3a-960x582/v1/c349x211q85.jpg"
+        srcset="//img.grouponcdn.com/deal/3aiEBCLJ4PsVoJR8SjTUq1PBQzW9/3a-960x582/v1/c349x211q85.jpg, //img.grouponcdn.com/deal/3aiEBCLJ4PsVoJR8SjTUq1PBQzW9/3a-960x582/v1/c349x211q85.jpg 2x"
+        alt="50% Off Flowers from Blooms Today with Shipping Included">
+      </div>
+
+              <div class="cui-badge prominent-badge c-bg-accent c-txt-white"
+        >
+          
+      
+          <svg aria-hidden="true" class="badge-icon" viewBox="0 0 16 16">
+            <path fill="rgba(255,255,255,1)" d="M15.38 2.51l-6.02 1.5a.5.5 0 0 0-.23.85l1.37 1.37-2.52 2.52-2.33-2.33a.25.25 0 0 0-.36 0L.07 11.64c-.1.1-.1.26 0 .36L1.5 13.4c.05.05.11.08.18.08.06 0 .13-.03.18-.08L5.47 9.8l2.33 2.33c.1.1.26.1.36 0L12.27 8l1.37 1.37a.5.5 0 0 0 .84-.23l1.5-6.02a.5.5 0 0 0-.6-.6z"/>
+          </svg>
+      
+      
+      
+      
+      
+      
+      
+          <div class="cui-badge-label">TRENDING</div>
+      </div>
+      </div>
+      
+          <div class="cui-udc-details
+            cui-udc-left-aligned-details
+            ">
+
+              <div class="cui-single-section ">
+           <div class="cui-udc-title one-line-truncate">
+     Blooms Today
+   </div>
+ 
+ 
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          </div>
+  
+  
+        <div class="cui-single-section ">
+        
+      
+      
+
+      
+      
+      
+      
+           <div class="cui-review-rating">
+
+        <div class="numeric-count">
+          3.6
+        </div>
+        <ul class="rating rating-numeric">
+            <li><span class="full-star"></span></li>
+            <li><span class="full-star"></span></li>
+            <li><span class="full-star"></span></li>
+            <li><span class="half-star"></span></li>
+            <li><span class="empty-star"></span></li>
+        </ul>
+    
+          <div class="rating-count">
+            (31,784)
+          </div>
+    
+    </div>
+
+      
+      
+      
+      
+      
+          </div>
+  
+  
+    <div class="cui-bottom-body">
+      
+    
+      <div class="cui-combined-section ">
+          
+      
+      
+
+      
+      
+       <div class="cui-price" data-pingdom-id="deal-price">
+           <div
+            class="cui-price-original c-txt-gray-dk
+ ">$40</div>&nbsp;
+          <div class="cui-price-discount c-txt-price
+">$20</div>
+        </div>
+
+      
+      
+      
+      
+      
+      
+      
+            
+      
+      
+
+      
+      
+      
+       <div class="cui-promotions">
+   <div class="cui-detail-badge cui-discount-badge ">50% OFF</div>
+ </div>
+ 
+      
+      
+      
+      
+      
+      
+        </div>
+            <div class="cui-single-section ">
+                <div class="cui-udc-subtitle one-line-truncate">
+        $40 Toward Flowers and Shipping
+      </div>
+  
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+          </div>
+    
+    
+      </div>
+  </div>
+
+    
+                </a>
+
+          
+      </div>
+    </figure>
+</div>      <div id="featured-merchandising" class="card-ui-container cards-slot cui-two-up" data-is-lazy-loaded="false" data-is-cached="true"><figure class="card-ui cui-c-compound 
+  
+  
+  
+  
+  
+  
+  
+  " data-embed-loader-path="/default-embedded-cards-data-path" data-csrf="5wnDfSIx-cTchSVIupphkYQ8ZLCDyjVNbHWA"   data-bhc="compound:fa91119f-29c6-4342-8003-bd84d2811ab5"
+  data-bhd="{&quot;cardName&quot;:&quot;homepage_flexibleHome_featuredMerchandisingContainer&quot;,&quot;cardUUID&quot;:&quot;fa91119f-29c6-4342-8003-bd84d2811ab5&quot;,&quot;templateView&quot;:&quot;ContainerCardView&quot;,&quot;templateUUID&quot;:&quot;dceeeab7-175e-4923-b84f-f238e00abb41&quot;}"
+  data-bhw="CompoundCollection"
+  data-bh-viewport="respect"
+>
+    <div class="cui-content-holder">
+      <div class="cui-cards-wrapper ">
+        <div class="cui-content       "
+        >
+          <figure class="card-ui cui-c-collection cui-c-udc small-featured-collection "   data-bhc="collection:6d28269c-5c4a-476c-8a75-c6b015316bc9"
+  data-bhd="{&quot;cardName&quot;:&quot;homepage_MothersDayGiftShop_DT_P1_20200507&quot;,&quot;cardUUID&quot;:&quot;6d28269c-5c4a-476c-8a75-c6b015316bc9&quot;,&quot;templateView&quot;:&quot;SolidCollectionTileView&quot;,&quot;templateUUID&quot;:&quot;1fd7ff5a-4f3c-4fdd-ab0f-39e3bf0c5db7&quot;}"
+  
+  data-bh-viewport="respect"
+>
+  <a href="/landing/mothers-day" style="background-color: #FFE4B2;" class="cui-content rounded-corners c-txt-white ">
+    <figcaption class="small-featured-figcaption">
+      <div class="small-featured-title" style="color:var(--color-white);">Spoil Mom Now</div>
+      <div class="small-featured-description" style="color:var(--color-white);">Awesome Gift Ideas You Can Send Right Away</div>
+    </figcaption>
+    <div class="small-featured-btn" >Shop Deals</div>
+    <div class="small-featured-image cui-image lazy-load" data-original="https://img.grouponcdn.com/sparta/3q7MkPsq9qfC79JCbMpRZFPxgyLZ/3q-644x240.jpg" alt="Spoil Mom Now"></div>
+  </a>
+</figure> <figure class="card-ui cui-c-collection cui-c-udc small-featured-collection "   data-bhc="collection:c3f1359c-4d0f-4086-8e0d-56f82d10089f"
+  data-bhd="{&quot;cardName&quot;:&quot;homepage_DealoftheDay_20200507_DT_P2&quot;,&quot;cardUUID&quot;:&quot;c3f1359c-4d0f-4086-8e0d-56f82d10089f&quot;,&quot;templateView&quot;:&quot;SolidCollectionTileView&quot;,&quot;templateUUID&quot;:&quot;1fd7ff5a-4f3c-4fdd-ab0f-39e3bf0c5db7&quot;}"
+  
+  data-bh-viewport="respect"
+>
+  <a href="/landing/deal-of-the-day" style="background-color: #FFFFFF;" class="cui-content rounded-corners c-txt-white ">
+    <figcaption class="small-featured-figcaption">
+      <div class="small-featured-title" style="color:var(--color-black);">Deal of the Day </div>
+      <div class="small-featured-description" style="color:var(--color-black);">Save on This Great Deal Before it's Gone</div>
+    </figcaption>
+    <div class="small-featured-btn" >See The Deal</div>
+    <div class="small-featured-image cui-image lazy-load" data-original="https://img.grouponcdn.com/sparta/2qa3VJVWUKiTZvxVrpV3xLhQYbyZ/2q-644x240.jpg" alt="Deal of the Day "></div>
+  </a>
+</figure>
+        </div>
+      </div>
+    </div>
+    
+</figure>
+</div>      <div id="card-shells" class="card-ui-container cards-slot cui-four-up" data-is-lazy-loaded="true" data-is-cached=""><figure class="card-ui cui-c-udc cui-shell-card">
+  <div class="cui-content">
+    <div class="cui-shell-image" ></div>
+    <div class="cui-shell-details" >
+      <div class="cui-shell-info"></div>
+      <div class="cui-shell-info-short"></div>
+      <div class="cui-shell-pricing"></div>
+    </div>
+  </div>
+</figure>
+ <figure class="card-ui cui-c-udc cui-shell-card">
+  <div class="cui-content">
+    <div class="cui-shell-image" ></div>
+    <div class="cui-shell-details" >
+      <div class="cui-shell-info"></div>
+      <div class="cui-shell-info-short"></div>
+      <div class="cui-shell-pricing"></div>
+    </div>
+  </div>
+</figure>
+ <figure class="card-ui cui-c-udc cui-shell-card">
+  <div class="cui-content">
+    <div class="cui-shell-image" ></div>
+    <div class="cui-shell-details" >
+      <div class="cui-shell-info"></div>
+      <div class="cui-shell-info-short"></div>
+      <div class="cui-shell-pricing"></div>
+    </div>
+  </div>
+</figure>
+ <figure class="card-ui cui-c-udc cui-shell-card">
+  <div class="cui-content">
+    <div class="cui-shell-image" ></div>
+    <div class="cui-shell-details" >
+      <div class="cui-shell-info"></div>
+      <div class="cui-shell-info-short"></div>
+      <div class="cui-shell-pricing"></div>
+    </div>
+  </div>
+</figure>
+</div>  </div>
+      <div class="pull-footer" data-bhw="StaticWidget" data-bhc="staticWidgetType:BrowseLocations" data-bh-viewport="respect">
+    <h3>POPULAR THINGS NEARBY</h3>
+    <div class="dotted-line"></div>
+    <section>
+        <a href="/local/restaurants" data-bhc="path:/local/restaurants">Restaurants Near Me</a>
+        <a href="/local/pizza-near-me" data-bhc="path:/local/pizza-near-me">Pizza Near Me</a>
+        <a href="/local/movies" data-bhc="path:/local/movies">Movie Theater Near Me</a>
+        <a href="/local/chinese-restaurants" data-bhc="path:/local/chinese-restaurants">Chinese Food Near Me</a>
+        <a href="/local/nail-salons" data-bhc="path:/local/nail-salons">Nail Salon Near Me</a>
+        <a href="/local/car-wash" data-bhc="path:/local/car-wash">Car Wash Near Me</a>
+        <a href="/local/bars" data-bhc="path:/local/bars">Bars Near Me</a>
+        <a href="/local/hair-salons" data-bhc="path:/local/hair-salons">Hair Salons Near Me</a>
+        <a href="/local/sushi" data-bhc="path:/local/sushi">Sushi Near Me</a>
+        <a href="/local/things-to-do" data-bhc="path:/local/things-to-do">Things To Do Near Me</a>
+        <a href="/local/barber-shop" data-bhc="path:/local/barber-shop">Barber Shop Near Me</a>
+        <a href="/local/gyms" data-bhc="path:/local/gyms">Gyms Near Me</a>
+        <a href="/local/ice-cream" data-bhc="path:/local/ice-cream">Ice Cream Near Me</a>
+        <a href="/local/wineries" data-bhc="path:/local/wineries">Wineries Near Me</a>
+        <a href="/local/dentist" data-bhc="path:/local/dentist">Dentist Near Me</a>
+        <a href="/local/thai-restaurants" data-bhc="path:/local/thai-restaurants">Thai Food Near Me</a>
+        <a href="/local/flowers" data-bhc="path:/local/flowers">Florist Near Me</a>
+        <a href="/local/bakeries" data-bhc="path:/local/bakeries">Bakery Near Me</a>
+        <a href="/local/coffee-shops" data-bhc="path:/local/coffee-shops">Coffee Shops Near Me</a>
+        <a href="/local/oil-change" data-bhc="path:/local/oil-change">Oil Change Near Me</a>
+        <a href="/local/bbq-restaurants" data-bhc="path:/local/bbq-restaurants">BBQ Near Me</a>
+        <a href="/local/haircut" data-bhc="path:/local/haircut">Haircut Near Me</a>
+        <a href="/local/theater-and-shows" data-bhc="path:/local/theater-and-shows">Theaters Near Me</a>
+        <a href="/local/diners" data-bhc="path:/local/diners">Diners Near Me</a>
+        <a href="/local/tattoo" data-bhc="path:/local/tattoo">Tattoo Shops Near Me</a>
+        <a href="/local/breweries" data-bhc="path:/local/breweries">Breweries Near Me</a>
+        <a href="/local/bowling" data-bhc="path:/local/bowling">Bowling Near Me</a>
+        <a href="/local/seafood-restaurants" data-bhc="path:/local/seafood-restaurants">Seafood Near Me</a>
+        <a href="/local/golf" data-bhc="path:/local/golf">Golf Courses Near Me</a>
+        <a href="/local/italian-restaurants" data-bhc="path:/local/italian-restaurants">Italian Restaurants Near Me</a>
+        <a href="/local/chiropractor" data-bhc="path:/local/chiropractor">Chiropractor Near Me</a>
+        <a href="/local/massage" data-bhc="path:/local/massage">Massage Near Me</a>
+        <a href="/local/sports-bars" data-bhc="path:/local/sports-bars">Sports bar Near Me</a>
+        <a href="/local/water-parks" data-bhc="path:/local/water-parks">Water Parks Near Me</a>
+        <a href="/local/indian-restaurants" data-bhc="path:/local/indian-restaurants">Indian Restaurants Near Me</a>
+        <a href="/local/steakhouse-restaurants" data-bhc="path:/local/steakhouse-restaurants">Steakhouse Near Me</a>
+        <a href="/local/salons" data-bhc="path:/local/salons">Salons Near Me</a>
+        <a href="/local/dermatologist" data-bhc="path:/local/dermatologist">Dermatologist Near Me</a>
+        <a href="/local/burgers" data-bhc="path:/local/burgers">Burgers Near Me</a>
+        <a href="/local/mexican-restaurants" data-bhc="path:/local/mexican-restaurants">Mexican Restaurants Near Me</a>
+    </section>
+  </div>
+  <div class="pull-footer" data-bhw="StaticWidget" data-bhc="staticWidgetType:BrowseCoupons" data-bh-viewport="respect">
+    <h3>COUPONS &amp; PROMO CODES FOR YOUR FAVORITE BRANDS</h3>
+    <div class="dotted-line"></div>
+    <section>
+        <a href="/coupons/hr-block" data-bhc="path:/coupons/hr-block">H&amp;R Block Coupons</a>
+        <a href="/coupons/turbotax" data-bhc="path:/coupons/turbotax">Turbotax Service Codes</a>
+        <a href="/coupons/quickbooks" data-bhc="path:/coupons/quickbooks">Quickbooks Coupons</a>
+        <a href="/coupons/e-file" data-bhc="path:/coupons/e-file">E-file.com Coupons</a>
+        <a href="/coupons/1800-flowers" data-bhc="path:/coupons/1800-flowers">1-800-Flowers Coupons</a>
+        <a href="/coupons/amazon" data-bhc="path:/coupons/amazon">Amazon Promo Codes</a>
+        <a href="/coupons/michaels" data-bhc="path:/coupons/michaels">Michaels Coupons</a>
+        <a href="/coupons/container-store" data-bhc="path:/coupons/container-store">The Container Store Coupons</a>
+        <a href="/coupons/m-and-m" data-bhc="path:/coupons/m-and-m">My M&amp;M&#39;s Coupons</a>
+        <a href="/coupons/bath-and-body-works" data-bhc="path:/coupons/bath-and-body-works">Bath &amp; Body Works Coupons</a>
+        <a href="/coupons/macys" data-bhc="path:/coupons/macys">Macy&#39;s Coupons</a>
+        <a href="/coupons/marriott" data-bhc="path:/coupons/marriott">Marriott Coupons</a>
+        <a href="/coupons/walmart" data-bhc="path:/coupons/walmart">Walmart Coupons</a>
+        <a href="/coupons/american-eagle-outfitters" data-bhc="path:/coupons/american-eagle-outfitters">American Eagle Outfitters Coupons</a>
+        <a href="/coupons/samsung" data-bhc="path:/coupons/samsung">Samsung Coupons</a>
+        <a href="/coupons/forever-21" data-bhc="path:/coupons/forever-21">Forever 21 Coupons</a>
+        <a href="/coupons/nike" data-bhc="path:/coupons/nike">Nike Promo Codes</a>
+        <a href="/coupons/target" data-bhc="path:/coupons/target">Target Coupons</a>
+        <a href="/coupons/best-buy" data-bhc="path:/coupons/best-buy">Best Buy Coupons</a>
+        <a href="/coupons/kohls" data-bhc="path:/coupons/kohls">Kohl&#39;s Coupons</a>
+        <a href="/coupons/jcpenney" data-bhc="path:/coupons/jcpenney">JCPenney Coupons</a>
+        <a href="/coupons/ebay" data-bhc="path:/coupons/ebay">eBay Coupons</a>
+        <a href="/coupons/bed-bath-and-beyond" data-bhc="path:/coupons/bed-bath-and-beyond">Bed Bath &amp; Beyond Coupons</a>
+        <a href="/coupons/udemy" data-bhc="path:/coupons/udemy">Udemy Coupons</a>
+        <a href="/coupons/old-navy" data-bhc="path:/coupons/old-navy">Old Navy Coupons</a>
+        <a href="/coupons/ulta-beauty" data-bhc="path:/coupons/ulta-beauty">Ulta Beauty Coupons</a>
+        <a href="/coupons/ancestry" data-bhc="path:/coupons/ancestry">Ancestry.com Coupons</a>
+        <a href="/coupons/asos" data-bhc="path:/coupons/asos">Asos Coupons</a>
+        <a href="/coupons/stubhub" data-bhc="path:/coupons/stubhub">StubHub Coupons</a>
+        <a href="/coupons/lyft" data-bhc="path:/coupons/lyft">Lyft Coupons</a>
+    </section>
+  </div>
+
+  </main>
+
+          <a href="/local/grouber.html" class="ls-hide" aria-hidden="true">
+  Grouber
+</a>
+
+
+
+      <footer id="ls-footer" class="ls-footer"><div class="footer-wrapper page-container"><div class="footer-payload"><div id="ls-footer-sitemap" data-bhw="FooterSitemap" class="footer-sitemap"><div class="ls-footer-sitemap-col footer-links"><div class="ls-footer-sitemap-row"><div role="heading" aria-level="3" class="footer-link-headline">Company</div><a id="ls-footer-about" href="/press/about-groupon" data-bhw="FooterLinkAbout">About Groupon</a><a id="ls-footer-jobs" href="https://www.grouponcareers.com/en-us/" data-bhw="FooterLinkJobs">Jobs</a><a id="ls-footer-blog" href="/blog" data-bhw="FooterLinkBlog">Blog</a><a id="ls-footer-press" href="/press" data-bhw="FooterLinkPress">Press</a><a id="ls-footer-investor_relations" href="http://investor.groupon.com/" data-bhw="FooterLinkInvestorRelations">Investor Relations</a><a id="ls-footer-management_team" href="/press/our-leaders" data-bhw="FooterLinkManagementTeam">Management Team</a><a id="ls-footer-social_innovation" href="https://community.groupon.com/" data-bhw="FooterLinkSocialInnovation">In Your Community</a></div></div><div class="ls-footer-sitemap-col footer-links"><div class="ls-footer-sitemap-row"><div role="heading" aria-level="3" class="footer-link-headline">Work with Groupon</div><a id="ls-footer-join" href="/merchant/join?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkJoin">Join the Groupon Marketplace</a><a id="ls-footer-deal" href="/merchant/join?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkDeal">Run a Groupon Deal</a><a id="ls-footer-merchants" href="/merchant?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" data-bhw="FooterLinkMerchants">Learn About Groupon Merchant</a><a id="ls-footer-affiliates" href="http://www.grouponaffiliate.com/" data-bhw="FooterLinkAffiliates">Affiliate Program</a><a id="ls-footer-vendor_code_of_conduct" href="/legal/vendor-code-of-conduct" data-bhw="FooterLinkVendorCodeOfConduct">Vendor Code of Conduct</a></div></div><div class="ls-footer-sitemap-col footer-links"><div class="ls-footer-sitemap-row"><div role="heading" aria-level="3" class="footer-link-headline">More</div><a id="ls-footer-customer_support" href="/customer_support" data-bhw="FooterLinkCustomerSupport">Customer Support</a><a id="ls-footer-promise" href="/groupon-promise" data-bhw="FooterLinkPromise">Refund Policies</a><a id="ls-footer-faq" href="/faq" data-bhw="FooterLinkFaq">FAQ</a><a id="ls-footer-coupons" href="/coupons" data-bhw="FooterLinkCoupons">Coupon Codes</a><a id="ls-footer-giftcards" href="/giftcards" data-bhw="FooterLinkGiftcards">Gift Cards</a><a id="ls-footer-giftshop" href="/occasion/gift-shop" data-bhw="FooterLinkGiftshop">Gift Shop</a><a id="ls-footer-groupon_select" href="/programs/select" data-bhw="FooterLinkGrouponSelect">Groupon Select</a><a id="ls-footer-students" href="/programs/student" data-bhw="FooterLinkStudents">Students</a></div></div><div class="ls-footer-sitemap-col footer-links"><div role="heading" aria-level="4" class="footer-country-list"><label htmlFor="footer-country-selector" class="footer-link-headline">Groupon Sites</label><div id="country-link-container" class="country-link-container"><div data-bhw="FooterCountryUS" class="first-country-link icon-arrow-down-large downward-chevron">USA</div><div id="country-link-dropdown" class="country-link-dropdown"><a href="https://www.groupon.com" id="ls-footer-US" data-bhw="FooterCountryUS">USA</a><a href="https://www.groupon.co.uk" id="ls-footer-GB" data-bhw="FooterCountryGB">United Kingdom</a><a href="https://www.groupon.fr" id="ls-footer-FR" data-bhw="FooterCountryFR">France</a><a href="https://www.groupon.de" id="ls-footer-DE" data-bhw="FooterCountryDE">Deutschland</a><a href="https://www.groupon.it" id="ls-footer-IT" data-bhw="FooterCountryIT">Italia</a><a href="https://www.groupon.es" id="ls-footer-ES" data-bhw="FooterCountryES">España</a><a href="https://www.groupon.pl" id="ls-footer-PL" data-bhw="FooterCountryPL">Polska</a><a href="https://www.groupon.nl" id="ls-footer-NL" data-bhw="FooterCountryNL">Nederland</a><a href="https://www.groupon.ie" id="ls-footer-IE" data-bhw="FooterCountryIE">Ireland</a><a href="https://www.groupon.ae" id="ls-footer-AE" data-bhw="FooterCountryAE">UAE</a><a href="https://www.groupon.be" id="ls-footer-BE" data-bhw="FooterCountryBE">België</a><a href="https://www.groupon.ca" id="ls-footer-CA" data-bhw="FooterCountryCA">Canada</a><a href="https://www.groupon.com.au" id="ls-footer-AU" data-bhw="FooterCountryAU">Australia</a><a href="https://www.grouponnz.co.nz" id="ls-footer-NZ" data-bhw="FooterCountryNZ">New Zealand</a><a href="https://www.groupon.jp" id="ls-footer-JP" data-bhw="FooterCountryJP">日本</a></div></div></div><div class="ls-footer-sitemap-row"><div role="heading" aria-level="3" class="footer-link-headline">Follow Us</div><a id="ls-footer-facebook" target="_blank" rel="noopener noreferrer" aria-label="Facebook" href="https://www.facebook.com/Groupon.US" data-bhw="FooterLinkFacebook" class="follow-us-link icon-facebook"><span class="ax-hidden">Facebook</span></a><a id="ls-footer-twitter" target="_blank" rel="noopener noreferrer" aria-label="Twitter" href="https://twitter.com/groupon" data-bhw="FooterLinkTwitter" class="follow-us-link icon-twitter"><span class="ax-hidden">Twitter</span></a></div></div></div><div data-bhw="FooterWidgets" class="ls-col footer-widgets"><a href="/mobile?utm_source=gp&amp;utm_medium=footer&amp;utm_campaign=mlusers" id="ls-footer-mobile_ad" title="Groupon for mobile devices" data-bhw="FooterWidgetMobileAd" class="footer-widget footer-widget-mobile"><span class="footer-widget-image"><img height="64" width="47" src="https://www2.grouponcdn.com/layout/assets/footer-i18n-mobile-app-b62e919542.svg" alt="Groupon Mobile App" role="presentation" class="no-bg lazy-wl svg-groupon-mobile" /> </span><span class="footer-widget-headline">Get the Groupon Mobile App <span class="icon-arrow-right-large"></span></span></a><a href="/merchant/join?utm_medium=referral&amp;utm_campaign=groupon-footer&amp;utm_source=groupon" id="ls-footer-groupon_works" title="Groupon Merchant" data-bhw="FooterWidgetGrouponWorks" class="footer-widget footer-widget-works"><span class="footer-widget-image"><img height="16" width="147" src="https://www2.grouponcdn.com/layout/assets/footer-widget-merchant-works-white-ca1a399ab1.svg" alt="Groupon Merchant" role="presentation" class="no-bg lazy-wl svg-groupon-merchant" /> </span><span class="footer-widget-headline">Grow Your Business by Working with Groupon <span class="icon-arrow-right-large"></span></span></a></div></div><div id="ls-footer-gsm" data-bhw="FooterGSM" class="footer-gsm"><div role="heading" aria-level="4">Incredible Deals on Local Experiences</div><p><a id="ls-footer-activities-link" data-bhw="FooterGSMAELinkActivities" href="/local/things-to-do">Things to Do</a> | <a id="ls-footer-kids-link" data-bhw="FooterGSMAELinkKids" href="/local/kids-activities">Kids Activities</a> | <a id="ls-footer-nightlife-link" data-bhw="FooterGSMAELinkNightlife" href="/local/nightlife">Nightlife</a> | <a id="ls-footer-restaurants-link" data-bhw="FooterGSMAELinkRestaurants" href="/local/restaurants">Restaurants</a> | <a id="ls-footer-spas-link" data-bhw="FooterGSMAELinkSpas" href="/local/spa">Spas</a> | <a id="ls-footer-massages-link" data-bhw="FooterGSMAELinkMassages" href="/local/massage">Massages</a> | <a id="ls-footer-hair-link" data-bhw="FooterGSMAELinkHair" href="/local/hair-salons">Hair Salons</a> | <a id="ls-footer-trip-link" data-bhw="FooterGSMAELinkTrip" href="/getaways">Travel</a></p></div><div class="ls-grpn-guide"><a href="/local/city-guide/food-and-drink" data-bhw="FooterGrouponGuide" class="ls-grpn-guide-logo"><svg alt xmlns="http://www.w3.org/2000/svg" width="125" height="20" viewBox="0 0 125 20.3" enableBackground="new 0 0 125 20.3" xmlSpace="preserve"><title id="guide-title">Groupon</title><desc id="guide-logo">Groupon logo</desc><path d="M20 10.2c0 2.2-0.5 4.1-1.7 5.7c-1.9 2.7-5 4.4-8.3 4.4c-2.9 0-5.3-1.1-7.2-3.1C0.9 15.2 0 12.8 0 9.9 c0-2.7 1-5.1 3-7C4.9 1 7.3 0 10.1 0c4.2 0 7.8 2.6 9.4 6.7h-5.4c-1.2-1.3-2.5-1.9-4-1.9C7.2 4.8 5 7.1 5 9.9c0 3.1 2.4 5.5 5.1 5.5 c1.8 0 3.4-0.9 4.4-2.6H8.9V8.9H20C19.9 9.3 20 9.8 20 10.2L20 10.2L20 10.2z M21.2 19.9V0.3h6.5c2 0 3.7 0.1 4.9 1.1 c1.8 1.2 2.6 3 2.6 5.5c0 3.2-1.6 5.5-4.4 6.3l4.8 6.7h-5.9L26 13.6v6.3H21.2z M26.9 9.4c2.4 0 3.5-0.6 3.5-2.4c0-1.6-1-2.3-3.1-2.3 H26v4.7H26.9L26.9 9.4z M38.9 2.9C40.8 1 43.3 0.1 46 0.1c2.6 0 5.1 1 7 2.9c2 1.9 3 4.4 3 7c0 2.8-1 5.3-2.8 7.2 c-1.9 2-4.5 3-7.2 3c-2.9 0-5.3-1-7.3-3c-1.8-2-2.8-4.4-2.8-7.2C36 7.2 37 4.8 38.9 2.9L38.9 2.9L38.9 2.9z M46 15.4 c2.8 0 5.1-2.2 5.1-5.4c0-2.8-2.3-5.1-5-5.1c-2.9 0-5.2 2.3-5.2 5.1C40.9 13 43.3 15.4 46 15.4L46 15.4z M62.1 0.4v12 c0 2.2 0.7 3.3 2.3 3.3c1.7 0 2.5-1.1 2.5-3.3v-12h4.8v12.2c0 4.8-2.9 7.6-7.3 7.6c-4.4 0-7.1-2.7-7.1-7.6V0.3L62.1 0.4L62.1 0.4z M73 19.9V0.3h6.5c2 0 3.7 0.1 4.9 1.1c1.8 1.2 2.6 3 2.6 5.5c0 2.5-1.1 4.6-3.1 5.8c-1.2 0.7-2.8 0.9-4.8 0.9h-1.4v6.3H73L73 19.9z M78.8 9.4c2.4 0 3.5-0.6 3.5-2.4c0-1.6-1-2.3-3.2-2.3h-1.3v4.7H78.8L78.8 9.4z M90.7 2.9C92.5 1 95 0.1 97.8 0.1c2.6 0 5.1 1 7 2.9 c2 1.9 3 4.4 3 7c0 2.8-1 5.3-2.8 7.2c-1.9 2-4.5 3.1-7.2 3.1c-2.9 0-5.3-1-7.3-3c-1.8-2-2.8-4.4-2.8-7.3 C87.7 7.2 88.8 4.8 90.7 2.9L90.7 2.9L90.7 2.9z M97.8 15.4c2.8 0 5.1-2.2 5.1-5.4c0-2.8-2.3-5.1-5-5.1c-2.9 0-5.2 2.3-5.2 5.1 C92.6 13 95.1 15.4 97.8 15.4L97.8 15.4z M108.7 19.9V0.3h4.3l7.2 10.8V0.3h4.8v19.5h-4.2l-7.3-10.8v10.9L108.7 19.9L108.7 19.9z"></path></svg> Guide</a><span class="ls-grpn-guide-txt"><span>for <a id="ls-footer-food-link" href="/local/city-guide/food-and-drink" data-bhw="FooterGrouponGuideLinkFood">Food &amp; Drink</a>, <a id="ls-footer-arts-link" href="/local/city-guide/arts-and-leisure" data-bhw="FooterGrouponGuideLinkArts">Arts &amp; Leisure</a>, <a id="ls-footer-style-link" href="/local/city-guide/style-and-beauty" data-bhw="FooterGrouponGuideLinkStyle">Style &amp; Beauty</a>, and <a id="ls-footer-couponsBlog-link" href="/coupons/blog" data-bhw="FooterGrouponGuideGouponsBlogStyle">Coupons Blog</a></span></span></div><div id="ls-footer-copyright" data-bhw="FooterLegalDocs" class="footer-copyright">© 2020 Groupon, Inc. All Rights Reserved.<span class="footer-copyright-links"><a id="ls-footer-terms_of_use" href="/legal/termsofservice" data-bhw="TermsOfUse">Terms of Use</a><a id="ls-footer-privacy_policy" href="/legal/privacypolicy" data-bhw="PrivacyPolicy">Privacy Statement</a><a id="ls-footer-licenses" href="/legal/licenses" data-bhw="Licenses">Licenses</a><a id="ls-footer-accessibility" href="/legal/accessibility" data-bhw="Accessibility">Accessibility</a></span><span id="ls-do-not-sell"></span></div></div></footer>
+
+
+    <script type="application/ld+json" id="domConfig">{"homeDesktopLazyLoadedCardUiJavascript":"https://www2.grouponcdn.com/browse/assets/home_desktop_lazy_load_card_ui-5fb433f7e9.js","homeDesktopTaxonomyLazyLoadedJavascript":"https://www2.grouponcdn.com/browse/assets/home_desktop_taxonomy_lazy_load-464ee0d93a.js","homeDesktopTaxonomyLazyLoadedCss":"https://www2.grouponcdn.com/browse/assets/home_desktop_taxonomy_lazy_load-0750e756c1.css","showTaxonomyPreferences":false,"appliedFinchSettings":["shell_exp_pull:false","useAsyncCssDesktopHome:false","showProactiveCachedFlexibleHomepageAnonUser:false","showProactiveCachedFlexibleHomepage:false","showEmphasizingPriceForDesktopWithSwapPosition:false","GoodsDesktopUgcRatings_US:false","showXForYStrikethrough:true","showSingleOptionTitleDesktop:false","showTTDTopRatedCarousel:false","showVerboseUrgencyHoursLeftDesktop:true","showVerboseUrgencyDeadlineDesktop:false","useAlternateCDN:false","showEmphasizingPriceForDesktop:false","hideDistanceDesktopHome:false","showRatingsNumberOnDealCardDesktop:true","showMultipleLocationsDesktop:false","showAmountSavedBadgeDesktop:false","showUrgencyMessageLocalDesktop:false","showUrgencyMessagingGoodsDesktop:true","showOneStarRatingDesktop:false","showSelectDayUnenrolled:false","desktop_bookingCTADealCard_HF_INTL:false","showProjectRefreshDesktop:false","showProactiveCachedFlexibleTouchAnonUser:false","showProactiveCachedFlexibleTouch:false"],"csrfToken":"zbYmhSjj-6BwMDObQFdZ-t5daFq8TD973pbI","division":{"id":"chicago","cll":{"lat":"36.900","lng":"7.767","ip":"105.104.41.144"},"ell":{"lat":41.8795,"lng":-87.6243},"country":"US"}}</script>
+
+    <script>
+    window.gtmData = {
+        "data":"{&quot;dl_division&quot;:&quot;chicago&quot;,&quot;dl_category&quot;:&quot;&quot;,&quot;dl_category_sub&quot;:&quot;&quot;,&quot;dl_user_id&quot;:&quot;121210c0-168f-16dd-a180-5cd91d9054ee&quot;,&quot;dl_purchased_groupon&quot;:&quot;&quot;,&quot;dl_channel&quot;:&quot;&quot;}",
+        "enabled":true,
+      "id":"GTM-B76Z",
+      "platform":"Desktop"
+    };
+    </script>
+    
+    <noscript>
+      <iframe height="0" width="0" style="display:none;visibility:hidden" src="//www.googletagmanager.com/ns.html?id=GTM-B76Z">
+      </iframe>
+    </noscript>
+    
+  
+  <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","name":"Groupon","url":"https://www.groupon.com/","potentialAction":{"@type":"SearchAction","target":"https://www.groupon.com/browse?query={search_term_string}","query-input":"required name=search_term_string"}}</script>
+  
+  <script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","legalName":"Groupon","url":"https://www.groupon.com/","logo":"https://s24173.pcdn.co/wp-content/uploads/2017/09/grouponlogo.jpg","sameAs":["https://www.facebook.com/Groupon.US","https://twitter.com/groupon"]}</script>
+  
+      <script id="fb-config">
+        if (typeof window.fbAsyncInit === 'undefined') {
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId            : '7829106395',
+              autoLogAppEvents : true,
+              xfbml            : true,
+              version          : 'v2.9'
+            });
+            if (FB && FB.AppEvents) FB.AppEvents.logPageView();
+          };
+        }
+      </script>
+  
+  <script>
+    (function () {
+      "use strict";
+      var cond_IE11 = !(
+        window.Promise &&
+        window.fetch &&
+        window.URL &&
+        typeof Object.values === 'function'
+      ) , rIC = window.requestIdleCallback
+        , promiseFinally = window.Promise && window.Promise.prototype.finally
+        , cond_safari = !(window.fetch && promiseFinally && typeof Object.entries === 'function')
+        , cond_edge = !(window.AbortController && promiseFinally)
+        , cond_ric = !(rIC && window.IntersectionObserver)
+        , cond_dom4 = !(document.head.closest && Element.prototype.replaceWith && Element.prototype.before && Element.prototype.after);
+      var fn = function() {
+        var files = [];
+        if (cond_IE11) { files.push('https://www2.grouponcdn.com/layout/assets/poly-ie11andr-0f413101a815.js');}
+        else {
+          if (cond_dom4) { files.push('https://www2.grouponcdn.com/layout/assets/poly-dom4-99e40be8ebb2.js');}
+          if (!window.HTMLPictureElement) { files.push('https://www2.grouponcdn.com/layout/assets/poly-picture-a53b13eb0c92.js');}
+          if (cond_ric) { files.push('https://www2.grouponcdn.com/layout/assets/poly-io-ric-beb8f3f5b096.js');}
+          if (cond_safari) {
+            files.push('https://www2.grouponcdn.com/layout/assets/poly-safari-f0bd1979e6d4.js');
+          } else if (cond_edge) { files.push('https://www2.grouponcdn.com/layout/assets/poly-edge-eab55bbe5628.js');}
+        }
+
+        files.push('https://www2.grouponcdn.com/layout/assets/desktop-core-v7.0-ceb086a667a7.js');
+        files.push('https://www2.grouponcdn.com/layout/assets/optimize-suite-v2-4c80dba856ef.js');
+        files.push('https://www2.grouponcdn.com/layout/assets/desktop-preact-c2f8861ab62a.js');
+
+        files.push('/browse/js/locale.js?country=US&locale=en_US&brand=groupon&version=473d761a48');
+          var dep = {"jquery":"https://www2.grouponcdn.com/layout/assets/jquery-b73a91cd2ff4.js","hogan":"https://www2.grouponcdn.com/layout/assets/hogan-bb816386afe4.js","underscore":"https://www2.grouponcdn.com/layout/assets/underscore-7953b235a5be.js","modernizr":"https://www2.grouponcdn.com/layout/assets/modernizr-58bc7d84905e.js"};
+          "".split(',').forEach(function(i) {
+            if (dep[i]) { files.push(dep[i]) }
+          });
+          var gig_js = {"a11y":"https://www2.grouponcdn.com/layout/assets/gig-js-a11y-fdf11bb499e0.js","forms":"https://www2.grouponcdn.com/layout/assets/gig-js-forms-9b73d326bf44.js","helper":"https://www2.grouponcdn.com/layout/assets/gig-js-helper-0099205f6235.js","modals":"https://www2.grouponcdn.com/layout/assets/gig-js-modals-17c4210a99ae.js","tabs":"https://www2.grouponcdn.com/layout/assets/gig-js-tabs-c38620920824.js","tooltips":"https://www2.grouponcdn.com/layout/assets/gig-js-tooltips-df6589dbcdda.js","truncation":"https://www2.grouponcdn.com/layout/assets/gig-js-truncation-b0a284afb4fc.js"};
+          "truncation".split(',').forEach(function(i){
+            if (gig_js[i]) { files.push(gig_js[i]) }
+          });
+        files.push('https://www2.grouponcdn.com/browse/assets/home_desktop-2e415da7e2.js');
+        head.js(files);
+      };
+      var s = document.createElement('script');
+      s.defer = true;
+      s.src = "https://www2.grouponcdn.com/layout/assets/head.load-1187ba6a3dcb.js";
+      s.addEventListener('load', fn, false);
+      document.getElementsByTagName('head')[0].appendChild(s);
+    }());
+  </script>
+
+    <noscript>
+      <a href="http://www.boldchat.com" title="Visitor Monitoring" target="_blank"><img alt="Visitor Monitoring" src="https://vms.boldchat.com/aid//bc.vmi?wdid=" border="0" width="1" height="1" /></a>
+    </noscript>
+
+
+  
+  <div id="subsUI">
+        <link rel="stylesheet" href="https://www2.grouponcdn.com/app/subscriptions/assets/modal_12_groupon-cb38ba2a20.css">
+    <!-- <link rel="stylesheet" href="http://localhost:3090/app/subscriptions/assets/modal_12_groupon.css"> -->
+    <div id='subscribe_modal_container' style='display:none;'>
+        <div id="fb-root"></div>
+    <script id="subs-I18n">
+      (function() {
+        var hasI18n = function(){
+          return typeof window.I18n !== 'undefined' && window.I18n != null
+        };
+        var setSubsI18n = function() {
+          if (hasI18n()) {
+            window.subsI18n = I18n.scoped();
+            window.subsI18n.translations = {
+              "js": {
+                "modules": {
+                  "subscription": {
+                    "subscribe": {
+                      "email_step": {
+                        "suggest_email": "Did you mean {link_open}{suggested_email}{link_close}?"
+                      }
+                    },
+                    "simple_subscription_success": "Thank you for subscribing!",
+                    "subscription_success": "Thank you for subscribing to {division} deals with {email}.",
+                    "subscription_success_subsave": "Thank you for subscribing to {division} deals with {email}. Your $5 savings will be applied at checkout.",
+                    "subscription_failure": "Sorry, we were unable to create your subscription at this time. Please continue to browse our site for great deals, or {link_open}click here{link_close} to try subscribing again.",
+                    "social_subscription_touch_success": "Thank you for subscribing with ",
+                    "social_subscription_touch_failure": "Something went wrong!",
+                    "social_subscription_success": "Thank you for subscribing with {email}",
+                    "social_subscription_failure": "Sorry, we were unable to create your subscription at this time."
+                  }
+                }
+              }
+            };
+            window.subsI18n.translations.js.modules.subscription.subscribe.email_step.suggest_email = window.subsI18n.translations.js.modules.subscription.subscribe.email_step.suggest_email.replace(/{/g, "{{");
+            window.subsI18n.translations.js.modules.subscription.subscribe.email_step.suggest_email = window.subsI18n.translations.js.modules.subscription.subscribe.email_step.suggest_email.replace(/}/g, "}}");
+            window.subsI18n.translations.js.modules.subscription.subscription_success = window.subsI18n.translations.js.modules.subscription.subscription_success.replace(/{/g, "{{");
+            window.subsI18n.translations.js.modules.subscription.subscription_success = window.subsI18n.translations.js.modules.subscription.subscription_success.replace(/}/g, "}}");
+            window.subsI18n.translations.js.modules.subscription.subscription_success_subsave = window.subsI18n.translations.js.modules.subscription.subscription_success_subsave.replace(/{/g, "{{");
+            window.subsI18n.translations.js.modules.subscription.subscription_success_subsave = window.subsI18n.translations.js.modules.subscription.subscription_success_subsave.replace(/}/g, "}}");
+            window.subsI18n.translations.js.modules.subscription.subscription_failure = window.subsI18n.translations.js.modules.subscription.subscription_failure.replace(/{/g, "{{");
+            window.subsI18n.translations.js.modules.subscription.subscription_failure = window.subsI18n.translations.js.modules.subscription.subscription_failure.replace(/}/g, "}}");
+            //window.subsI18n.translations.js.modules.subscription.social_subscription_touch_success = window.subsI18n.translations.js.modules.subscription.social_subscription_touch_success.replace(/{/g, "{{");
+            //window.subsI18n.translations.js.modules.subscription.social_subscription_touch_success = window.subsI18n.translations.js.modules.subscription.social_subscription_touch_success.replace(/}/g, "}}");
+            window.subsI18n.translations.js.modules.subscription.social_subscription_success = window.subsI18n.translations.js.modules.subscription.social_subscription_success.replace(/{/g, "{{");
+            window.subsI18n.translations.js.modules.subscription.social_subscription_success = window.subsI18n.translations.js.modules.subscription.social_subscription_success.replace(/}/g, "}}");
+            window.subsI18n.translations.number = I18n.translations.number;
+            window.subsI18n.scope = [ "js" ];
+
+          } else {
+            setTimeout(setSubsI18n, 250);
+          }
+
+        };
+        setSubsI18n();
+      }
+      )();
+
+    </script>
+        <script>
+            var _csrf = "";
+            var _divisionId = "chicago";
+        </script>
+        <form action="/app/subscriptions/" method="post" id="email_zip" onsubmit="return false">
+            <input type="hidden" name="_csrf" value="" />
+            <input type="hidden" name="double_optin" id="double_optin" />
+            
+            <div id='sub_dlg' class="centered round " data-bhw="SubsForm_Treatment12">
+                <h1>Sign Up!</h1>
+                <h2>Save up to 70% on 1000s of awesome Chicago deals</h2>
+                <div class="message">
+                    <p>Discover top restaurants, spas, things to do & more
+                    <p>Check back every day for new deals near you
+                    <p>Buying is fast, easy, and secure
+                </div>
+                <div class="email border">
+                      <input placeholder="Enter your email address" data-bhw="SubsEmailInput_Treatment12" id="email_id" name="email_address" size="0" title="Enter your email address" type="text">
+                    <button data-bhw="SubsSubmit_Treatment12" id="submit_button" class="btn" type="submit">Continue</button>
+                </div>
+                <div class='dlg_footer'>
+                    <p>
+                            By entering my email above, I agree Groupon can send me emails<br/> for local services, shopping, travel and Groupon updates.<br/>I can unsubscribe any time by contacting Groupon <a class='contactus' target='_blank' id='contactus' href='/pages/contact-us' data-bhw='SubsContactUsLink_FSTreatment12'>here</a>.                    </p>
+                    <p class="legal">
+                        Yes, I want to save money by receiving personalised Groupon emails with awesome deals. By subscribing I agree to the <a class='terms' target='_blank' id='terms' href='/legal/termsofservice' data-bhw='SubsTermsLink_FSTreatment12'>Terms of Use</a> and have read the <a class='terms' target='_blank' id='privacy' href='/legal/privacypolicy' data-bhw='SubsPrivacyLink_FSTreatment12'>Privacy Statement</a>.
+                    </p>
+                    <p>
+                        <a id='nothx' href='#' class='signin' data-bhw='SubsModalNoThanks_Treatment12'> No Thanks</a>
+                    </p>
+                </div>
+            </div>
+        </form>
+    </div>
+
+<script type="text/javascript" src="https://www1.grouponcdn.com/app/subscriptions/assets/email_zip_main_sds-3fdc22b7a0.js"></script>
+<!-- <script type="text/javascript" src="http://localhost:3090/app/subscriptions/assets/email_zip_main_sds.js"></script> -->
+
+    
+  </div>
+    <div id="subsSocialModal"></div>
+
+
+<script type="text/javascript" >var _cf = _cf || []; _cf.push(['_setFsp', true]);  _cf.push(['_setBm', true]); _cf.push(['_setAu', '/resources/073af545761962a89d4e308d2f8432']); </script><script type="text/javascript"  src="/resources/073af545761962a89d4e308d2f8432"></script></body>

@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Skype-problem.png)
+[![](Skype-problem.png)
 ](https://www.it-scoop.com/2010/12/skype-signing-in-problems/)
 
 

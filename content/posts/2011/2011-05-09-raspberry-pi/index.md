@@ -17,7 +17,7 @@ tags:
 
 كشف [David Braben](http://en.wikipedia.org/wiki/David_Braben) الذي اشتهر بكتابته للعبة [Elite](http://en.wikipedia.org/wiki/Elite_(video_game)) الذي ذاع صيتها خلال ثمانينيات القرن الماضي عن [أصغر و أرخص حاسوب](http://www.bbc.co.uk/news/technology-13292450) (Computer) لا يتجاوز حجمه حجم مفاتيح USB و سعره في متناول الجميع... 25 دولار... لا غير.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/Raspberry-Pi.jpg)
+[![](Raspberry-Pi.jpg)
 ](https://www.it-scoop.com/2011/05/raspberry-pi/ )
 
 

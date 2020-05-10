@@ -18,7 +18,7 @@ tags:
 
 لاقت العريضة ضد بيع MySql لـ Oracle رواجا كبيرا ، إذ بلغ عدد الموقعين عليها إلى حد اليوم أكثر من 16000 شخص ،  وهذا منذ بداية الحملة التي يقودها Michael Monty Widenius أحد مؤسسي MySql منذ أواخر ديسمبر الماضي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/mysql-oracle.png)
+[![](mysql-oracle.png)
 ](https://www.it-scoop.com/2010/01/16000-%d8%b4%d8%ae%d8%b5-%d9%8a%d9%88%d9%82%d8%b9%d9%88%d9%86-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d9%8a%d8%b6%d8%a9-%d8%b6%d8%af-%d8%a8%d9%8a%d8%b9-mysql-%d9%84%d9%80-oracle/)
 
 حسب [الإحصائيات](http://helpmysql.org/en/stats) التي يقدمها موقع العريضة ، فإن 93.5% من الموقعين يتمنون أن يتم تحويل MySql إلى طرف آخر ، أو أن تتم مواصلة تطويره تحت رخصة GPL.

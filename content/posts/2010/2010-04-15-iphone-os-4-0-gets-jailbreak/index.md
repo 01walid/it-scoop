@@ -19,7 +19,7 @@ tags:
 
 تم كسر حماية الإصدار 4.0 الجديد من نظام تشغيل iPhone بعد بضع ساعات من إعلان Apple عن طرح النسخة Beta منه للعموم، وتناقلت شبكات torrent ملف باسم iPhone2,1_4.0_8A230m_Restore.ipsw.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/iphone-unlocked1.jpg)
+[![](iphone-unlocked1.jpg)
 ](https://www.it-scoop.com/2010/04/iphone-os-4-0-gets-jailbreak/)
 
 وفقاً للبيانات التي تم تناقلها فإن المسؤول عن هذا العمل يطلق على نفسه اسم [MuscleNerd](http://twitter.com/musclenerd) والمنتمي إلى مجموعة من القراصنة المختصين بعمليات التطوير والتعديل على iPhone تطلق على نفسها اسم iPhone Dev Team، حيث قام بنشر مقطع فيديو على YouTube يظهر بشكل جلي أنه قام بتثبيت برامج غير موافق عليها من قبل Apple على النظام الجديد.

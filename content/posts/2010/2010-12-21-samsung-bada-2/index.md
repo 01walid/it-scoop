@@ -18,7 +18,7 @@ tags:
 
 كشفت Samsung في [مؤتمر](http://www.samsunghub.com/2010/12/20/samsungs-bada-2-0-will-get-improved-ui-nfc-support-plans-to-sell-10m-waves-in-1h-2011/) خاص بالمطورين في كوريا الجنوبية بمناسبة مرور عام على إطلاق نظام التشغيل Bada عن أهم الخصائص التي ستميز الإصدار الثاني من النظام المزمع إطلاقه خلال السداسي الأول من العام القادم.
 
-[![](http://www.samsunghub.com/wp-content/uploads/2010/12/bada-2.jpg )
+[![](bada-2.jpg )
 ](https://www.it-scoop.com/2010/12/samsung-bada-2/)
 
 من المنتظر أن يحمل الإصدار الثاني من Bada في طياته تحسينا للواجهة الرسومية، دعما للـ FlashLite 4 و توفيرا لأدوات التطوير على نظامي Mac و Linux.

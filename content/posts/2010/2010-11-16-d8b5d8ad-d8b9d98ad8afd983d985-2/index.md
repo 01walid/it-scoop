@@ -21,5 +21,5 @@ tags:
 
 أعاده الله علينا و عليكم أعواما عديدة و أزمنة مديدة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/saha-3idkoum.png)
+[![](saha-3idkoum.png)
 ](https://www.it-scoop.com/2010/11/صح-عيدكم-2)

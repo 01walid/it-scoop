@@ -17,7 +17,7 @@ tags:
 
 كما كان منتظرا أطلقت Canonical اليوم الإصدار النهائي من Ubutnu 10.04 LTS و التي تحمل الاسم Lucid Lynx و التي تأتي بالعديد من المزايا الجديدة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu.png)
+[![](new-logo-ubuntu.png)
 ](https://www.it-scoop.com/2010/04/Canonical-releases-Ubuntu-Linux-10-04-LTS)
 
 سمة LTS التي ترافق هذا الإصدار و التي يقصد بها Long Term Support أي أن الدعم الفني لها سيكون ممتدا لـ 3 سنوات كاملة لنسخ الأجهزة المكتبية و 5 سنوات بالنسبة لإصدارة الخوادم

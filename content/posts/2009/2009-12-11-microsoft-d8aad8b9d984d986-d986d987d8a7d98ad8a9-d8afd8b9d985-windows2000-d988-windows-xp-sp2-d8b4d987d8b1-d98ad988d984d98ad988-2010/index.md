@@ -18,7 +18,7 @@ tags:
 
 أعلنت Microsoft أنها ستتوقف عن دعم Windows2000 و Windows XP SP2 ابتداء من 13 يوليو 2010.
 
-![windows_xp_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/windows_xp_logo-300x281.jpg)
+![windows_xp_logo](windows_xp_logo-300x281.jpg)
 
 
 انطلاقا من هذا التاريخ فإن Microsoft  لن تقدم أي مساعدة أو دعم فني و لا حتى تحديثات تخص هذه الأنظمة، مما سيحتم على أصحاب هذه الإصدارات الانتقال إلى إصدارات أحدث من أنظمة Microsoft .

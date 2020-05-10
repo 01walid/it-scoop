@@ -19,7 +19,7 @@ tags:
 
 أجرى موقع Wired الشّهير [مقابلة](http://www.wired.com/magazine/2011/09/ff_google_horowitz/all/1) مع Bradely Horowitz، نائب رئيس قسم المنتجات لدى Google، قال فيها حرفيًّا: Google+ هي Google ذاتها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/google-plus.png)
+[![](google-plus.png)
 ](https://www.it-scoop.com/2011/09/google-plus-is-google-itself/)
 
 

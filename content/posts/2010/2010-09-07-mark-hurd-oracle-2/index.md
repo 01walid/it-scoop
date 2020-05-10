@@ -20,7 +20,7 @@ tags:
 
 أعلنت Oracle عن انضمام Mark Hurd الـ CEO السابق لـ  HP  إلى مجلس إدارتها، و هذا بعد أن [ظهرت](https://www.it-scoop.com/2010/09/mark-hurd-oracle/) سابقا العديد من الأنباء عن احتمال توظيفه في منصب رفيع المستوى في الشركة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/Oracle-Markhurd.jpg)
+[![](Oracle-Markhurd.jpg)
 ](https://www.it-scoop.com/2010/09/mark-hurd-oracle-2/)
 
 المنصب الذي يشغله Mark Hurd هو منصب رئيس (مساعد) و سيخلف Charles Philips الذي استقال من منصبه مؤخرا، و سيكلف بالمبيعات و التسويق.

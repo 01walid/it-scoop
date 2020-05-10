@@ -20,7 +20,7 @@ tags:
 
 بعد أن قامت [بسحب ترقيع تم تضمينه في الـ Patch Tuesday  لشهر أبريل الحالي](../../../../../2010/04/microsoft-pulls-windows-2000-server-patch/)، و ذلك لعدم فاعليته، قامت Microsoft بنشر ترقيع جديد ليعوض الترقيع المسحوب و الموجه لأنظمة Windows 2000 فقط.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Patch-tuesday.jpg)
+[![](Patch-tuesday.jpg)
 ](https://www.it-scoop.com/2010/04/Microsoft-Re-releases-Windows-2000-Patch)
 
 يأتي الترقيع الجديد "الفعال" ليصحح علة في النظام و التي تسبب فيضا في المكدس stack overflow في Windows Media Services و الذي لا يكون منصبا بصورة قياسية على أنظمة Windows 2000، مما يعني أن هذا الترقيع يخص فئة محدودة جدا من مستخدمي أنظمة Windows.

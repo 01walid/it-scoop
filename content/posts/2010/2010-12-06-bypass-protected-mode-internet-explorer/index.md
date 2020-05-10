@@ -21,7 +21,7 @@ tags:
 
 لنتذكر بعض الأحداث من التاريخ التقني سوياً.. وبدقة أكثر، لنتذكر معاً اللحظة التي قامت Microsoft بالإعلان عن توفير النمط المحمي Protected Mode في متصفحها Internet Explorer 7 على نظام التشغيل Windows Vista – الميزة المصممة لحماية أنظمة التشغيل Windows ضد الهجمات التي تحاول استغلال الثغرات في المتصفح أو في ملحقاته وتمنع حقن البرمجية الضارة في الذاكرة وتنفيذها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/Internet_Explorer_7_Logo_red.png)
+[![](Internet_Explorer_7_Logo_red.png)
 ](https://www.it-scoop.com/2010/12/bypass-protected-mode-internet-explorer)
 
 حيث قام باحثون من Verizon Business [بشرح طريقة](http://www.verizonbusiness.com/resources/whitepapers/wp_escapingmicrosoftprotectedmodeinternetexplorer_en_xg.pdf) يمكن من خلالها تجاوز النمط المحمي في متصفح Internet Explorer 7 و 8 بهدف الحصول على صلاحيات مستخدم النظام.
@@ -29,8 +29,8 @@ tags:
 تتطلب هذه الطريقة ثغرة تمكـّن المهاجم من تنفيذ كود برمجي في ذاكرة المتصفح أو في ذاكرة إحدى ملحقاته; وعلى الرغم من أن هذه البرمجية الخبيثة ستعمل فقط ضمن أدنى مستوى وثوقية من المتصفح، فإنها ستكون قادرة على تشغيل مخدم ويب على الجهاز والذي سيكون قادراً على استقبال وإجابة أي أمر على أي منفذ على واجهة loopback الشبكية. من خلال استدعاء الدالة IELauchURL() سيكون بإمكان المهاجم أن يأمر Internet Explorer أن يقوم بفتح رابط ما من خلال هذا المخدم، على سبيل المثال "http://localhost/exploit.html".
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/2e5b122a36014ab6.jpeg)
-](https://www.it-scoop.com/wp-content/uploads/2010/12/2e5b122a36014ab6.jpeg)
+[![](2e5b122a36014ab6.jpeg)
+](2e5b122a36014ab6.jpeg)
 
 
 Localhost عموماً هي جزء من منطقة Intranet المحلية (Local Intranet Zone) وبشكل افتراضي، الوضع المحمي معطـّل من أجل المحتويات الخاصة بهذه المنطقة!

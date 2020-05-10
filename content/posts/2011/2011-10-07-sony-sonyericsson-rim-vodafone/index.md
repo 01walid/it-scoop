@@ -31,7 +31,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/sony-ericsson-logo-300x225.jpg)
+[![](sony-ericsson-logo-300x225.jpg)
 ](https://www.it-scoop.com/2011/10/sony-sonyericsson-rim-vodafone/)
 
 
@@ -69,5 +69,5 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/RIM.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/10/RIM.png)
+[![](RIM.png)
+](RIM.png)

@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/apple-vs-windows.jpg)
+[![](apple-vs-windows.jpg)
 ](https://www.it-scoop.com/2010/10/windows-mac-os-x-os-market-share)
 
 

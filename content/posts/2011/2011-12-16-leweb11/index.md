@@ -17,8 +17,8 @@ tags:
 
 
 
-[![مؤتمر LeWeb'11](https://www.it-scoop.com/wp-content/uploads/2011/12/LeWeb2011.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/LeWeb2011.png)
+[![مؤتمر LeWeb'11](LeWeb2011.png)
+](LeWeb2011.png)
 
 
 

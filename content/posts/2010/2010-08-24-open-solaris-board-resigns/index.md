@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/opensolaris-logo.gif)
+[![](opensolaris-logo.gif)
 ](https://www.it-scoop.com/2010/08/open-solaris-board-resigns/)
 
 

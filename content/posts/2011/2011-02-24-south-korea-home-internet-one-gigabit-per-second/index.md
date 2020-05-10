@@ -18,7 +18,7 @@ tags:
 بعد أن أصبحت البلد الذي يقدم أفضل اتصال بالإنترنت، [تعمل](http://www.nytimes.com/2011/02/22/technology/22iht-broadband22.html?_r=1&ref=technology) كوريا الجنوبية حاليا –حسبما تشير إليه صحيفة الـ new york times -على مشروع ربط كل منزل كوري جنوبي باتصال إنترنت سرعته... 1 Gbits في الثانية.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/internet-korea-300x239.jpg)
+[![](internet-korea-300x239.jpg)
 ](https://www.it-scoop.com/2011/02/south-korea-home-internet-one-gigabit-per-second)
 
 

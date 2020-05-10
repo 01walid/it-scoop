@@ -18,13 +18,13 @@ tags:
 بعد شراء كل من AtlasPost  في تايوان، Beeconomic في سنغافورة  والفيليبين و UbuyIbuy في هونج كونج، تواصل Groupon توسعاتها في السوق الآسيوية [بشرائها](http://www.penn-olson.com/2011/01/26/groupon-malaysia-groupmore/) لـ GroupsMore الماليزية.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/01/GroupsMore.png)
+[![](GroupsMore.png)
 ](https://www.it-scoop.com/2011/01/groupon-malaysia-groupmore/)
 
 
 
 
-[![](http://www.groupon.com/images/groupon/logo_groupon_233x97.png)
+[![](logo_groupon_233x97.png)
 ](https://www.it-scoop.com/2011/01/groupon-malaysia-groupmore/)
 
 

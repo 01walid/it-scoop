@@ -31,7 +31,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/SkySQL-Logo.gif)
+[![](SkySQL-Logo.gif)
 ](https://www.it-scoop.com/2010/10/skysql/)
 
 

@@ -21,7 +21,7 @@ tags:
 أطلقت Mozilla الـ Beta الثامنة من الإصدار الرابع من متصفح Firefox و الذي طال انتظاره طويلا، و الذي يعلن عن بدأ العد التنازلي للإصدار النهائي للمتصفح، إذ أنه لم يعد يفصلنا عنها سوى إصداري Beta اثنين فقط.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
+[![](firefox_logo_3025.jpg)
 ](https://www.it-scoop.com/2010/12/firefox-4-beta-8/)
 
 

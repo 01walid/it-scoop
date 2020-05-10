@@ -17,7 +17,7 @@ tags:
 
 أطلقت Google الشرق الأوسط و شمال إفريقيا برنامجا جديدا يهدف إلى تعيين سفراء لها عبر مختلف الجامعات العربية، و ذلك لتقريب منتجاتها و خدماتها أكثر إلى الطلاب.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/google-students-ambassador.png)
+[![](google-students-ambassador.png)
 ](https://www.it-scoop.com/2011/04/google-students-ambassador/)
 
 و حسب الإعلان الذي ورد على [مدونة Google الرسمية الناطقة باللغة العربية](http://google-arabia.blogspot.com/2011/04/google-ambassador-program.html) فإن برنامج Students Ambassador يهدف إلى تكوين علاقات وصل بينها و بين طلاب هذه الجامعات، و سيحصل "السفراء" على تدريب مكثف و ممتع (حسبما تشير إليه التدوينة)، إضافة إلى تنظيم و استضافة أحداث Google خلال العام الدراسي.

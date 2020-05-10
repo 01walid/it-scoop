@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Heello.jpg)
+[![](Heello.jpg)
 ](https://www.it-scoop.com/2011/08/heello/)
 
 

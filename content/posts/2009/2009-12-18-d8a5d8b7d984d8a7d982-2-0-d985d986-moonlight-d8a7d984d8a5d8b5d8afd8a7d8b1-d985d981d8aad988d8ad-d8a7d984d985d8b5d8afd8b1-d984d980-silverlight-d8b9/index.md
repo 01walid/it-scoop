@@ -22,7 +22,7 @@ tags:
 
 أطلقت شركة Novell الإصدار 2.0 النهائي من Moonlight الإصدار مفتوح المصدر لـ Sliverlight على أنظمة Linux.
 
-[![moonlight-logo](https://www.it-scoop.com/wp-content/uploads/2009/12/moonlight-logo.JPG)
+[![moonlight-logo](moonlight-logo.JPG)
 ](https://www.it-scoop.com/2009/12/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-2-0-%d9%85%d9%86-moonlight-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%85%d9%81%d8%aa%d9%88%d8%ad-%d8%a7%d9%84%d9%85%d8%b5%d8%af%d8%b1-%d9%84%d9%80-silverlight-%d8%b9/)
 
 يأتي هذه الإصدار بعد قرابة عام على إطلاق الإصدار 1.0   في شهر يناير الماضي.

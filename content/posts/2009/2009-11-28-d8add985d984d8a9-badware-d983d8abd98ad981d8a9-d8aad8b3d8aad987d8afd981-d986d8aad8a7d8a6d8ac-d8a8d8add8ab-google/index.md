@@ -21,7 +21,7 @@ tags:
 بشكل مثير للسخرية كنت أقرأ البارحة خبراً حول حملة كثيفة من مجتمع Black-Hat باستخدام برامج Badware (البرامج التي تقوم بانتحال أسماء وشكل برامج شرعية وآمنة وتحاول خداع المستخدمين لتثبيتها على أنظمتهم وما هي في الواقع إلا برامج تجسس) حيث يتم استغلال نتائج بحث Google وبشكل معزول عن الطرق الآلية التي تستخدمها Google في كشف المواقع الخبيثة من خلال شبكة متغيرة من الموجّهات redirectors.
 
 
-![](http://www.google.com/intl/en_ALL/images/logo.gif)
+![](logo.gif)
 
 
 
@@ -30,7 +30,7 @@ tags:
 
 <!-- more -->
 
-[caption id="" align="aligncenter" width="459" caption="صورة للطريقة التي قد يظهر فيها برنامج الحماية المزّيف"]![](http://i.zdnet.com/blogs/november_scareware_blackhat_seo.jpg)
+[caption id="" align="aligncenter" width="459" caption="صورة للطريقة التي قد يظهر فيها برنامج الحماية المزّيف"]![](november_scareware_blackhat_seo.jpg)
 [/caption]
 
 
@@ -48,12 +48,12 @@ tags:
 
 أعود الآن للقول، بشكل مثير للسخرية، البارحة وصلتني رسالة تنبيه بأن هناك مشاركة جديدة في مدوّنتي الشخصية في آخر موضوع نشرته "[Perhaps the blog is dead, but..](http://xacker.wordpress.com/2009/11/23/perhaps-the-blog-is-dead-but/)" لأجد المشاركة التالية:
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/untitled.PNG)
+![](untitled.PNG)
 
 
 وفي محاولة لرؤية موقع صاحب المشاركة hXXp://gnom.cc فوجئت بأن الموقع مستضاف لدى.. نعم، Servage.net - وقد تم إيقاف حسابه :D
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/untitled2.PNG)
+![](untitled2.PNG)
 
 
 إن دل هذا على شئ إنما يدل على أن الحملة ما زالت قائمة لكن يتم اتخاذ الإجراءات المضادة تجاهها.

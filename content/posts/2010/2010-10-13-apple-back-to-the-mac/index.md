@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://www.blogcdn.com/www.engadget.com/media/2010/10/mainimage.jpg )
+[![](mainimage.jpg )
 ](https://www.it-scoop.com/2010/10/apple-back-to-the-mac/)
 
 

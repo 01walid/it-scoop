@@ -19,7 +19,7 @@ tags:
 
 أطلقت Mozilla لفائدة مستعملي متصفحها Firefox تحذيرا من إضافتين تحويان برنامجين ضارين و تطلب منهما عمل مسح للجهاز باستعمال مضادات الفيروسات لإيقاف عملهما.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/firefox-security.jpg)
+[![](firefox-security.jpg)
 ](https://www.it-scoop.com/?p=1866)
 
 الإضافتان المعنيتان بالتحذير هما Sothink Web Video Dowloader 4.0 و Master File، حيث يحوي الأول الـ Troajn المسمى Win32.LDPinch.gen و الذي يقوم بجمع بيانات المستخدم و إرسالها إلى صاحب البرنامج الضار، أما الثاني فيحوي الـ Backdoor المسمى Win32.Bifrose.32.Bifrose و الذي يتيح للمخترقين التحكم الكلي في جهاز الضحية.

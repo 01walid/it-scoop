@@ -21,7 +21,7 @@ tags:
 
 يبدو أن Google تتسلّح لتنافس بشراسة! فقد أعلن Larry Page، الرّئيس التّنفيذيّ لـGoogle عبر [مدوّنتها](http://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html) الرّسميّة أنّ الشّركة توصّلت لاتّفاق مع شركة Motorola يقضي بشراء الأخيرة بمبلغ 12.5 مليار دولار أمريكي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Google-Motorola.jpg)
+[![](Google-Motorola.jpg)
 ](https://www.it-scoop.com/2011/08/google-motorola-mobility/)
 
 يكتب Larry عن نجاح شركة Motorola مع نظام Android وتاريخها العريق في مجال الاتّصالات، فهي أوّل شركة قدّمت هاتفًا محمولاً منذ نحو 30 عامًا (وهو يعني خبرة كبيرة وبراءات اختراع كثيرة [حوالي 17000 براءة اختراع و7500 أخرى معلّقة](http://thenextweb.com/google/2011/08/15/motorola-acquisition-means-google-gets-17000-patents-with-7500-pending)!)، أضف إلى ذلك أنّها من الأعضاء المؤسّسين [للاتّحاد المفتوح للهواتف](https://secure.wikimedia.org/wikipedia/ar/wiki/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD_%D9%84%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81).

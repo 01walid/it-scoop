@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/google_logo-300x125.jpg)
+[![](google_logo-300x125.jpg)
 ](https://www.it-scoop.com/2011/09/dart/)
 
 

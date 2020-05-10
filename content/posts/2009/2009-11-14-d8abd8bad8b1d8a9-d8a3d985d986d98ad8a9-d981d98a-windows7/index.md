@@ -18,7 +18,7 @@ tags:
 
 أعلن الباحث و المختص في مسائل الأمن و الحماية Laurent Gaffié عن اكتشافه لثغرة أمنية  على نظام windows7 الجديد.
 
-![windows-7](https://www.it-scoop.com/wp-content/uploads/2009/11/windows-7.jpg)
+![windows-7](windows-7.jpg)
 
 
 حسب الباحث فإن الثغرة تخص Windows Server Message Block  **SMB** البروتوكول المستعمل في عملية تقاسم الملفات على النظام.

@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](http://www.nytimes.com/services/mobile/images/landing-ipad-20101015.png )
+[![](landing-ipad-20101015.png )
 ](https://www.it-scoop.com/2010/10/nytimes-app-for-ipad)
 
 

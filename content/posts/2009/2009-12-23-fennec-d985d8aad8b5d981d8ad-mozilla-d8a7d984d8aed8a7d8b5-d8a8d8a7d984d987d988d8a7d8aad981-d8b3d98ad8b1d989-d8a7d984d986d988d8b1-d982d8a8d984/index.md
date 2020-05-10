@@ -19,7 +19,7 @@ tags:
 
 حسب Jay Sullivan نائب رئيس قسم الـ Mobile لدى Mozilla فإن أول إصدار للمتصفح Fennec الموجه للهواتف النقالة سيرى النور قبل نهاية العام الحالي.
 
-[![](https://djug.developpez.com/rsc/fennec.png)
+[![](fennec.png)
 ](https://www.it-scoop.com/2009/12/fennec-%d9%85%d8%aa%d8%b5%d9%81%d8%ad-mozilla-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5-%d8%a8%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3%d9%8a%d8%b1%d9%89-%d8%a7%d9%84%d9%86%d9%88%d8%b1-%d9%82%d8%a8%d9%84/)
 
 حسب Sullivan فإن أول إصدار سيكون موجها لأجهزة Nokia N900 قبل أن تلحقه تباعا الإصدارات الخاصة بالأجهزة الأخرى.

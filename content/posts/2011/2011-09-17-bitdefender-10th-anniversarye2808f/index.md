@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/Bitdefender-Red.png)
+[![](Bitdefender-Red.png)
 ](https://www.it-scoop.com/2011/09/bitdefender-10th-anniversary%E2%80%8F/)
 
 
@@ -48,7 +48,7 @@ tags:
 
 
 
- [![](https://www.it-scoop.com/wp-content/uploads/2011/09/Bitdefender_avatar_web.png)
+ [![](Bitdefender_avatar_web.png)
 ](https://www.it-scoop.com/2011/09/bitdefender-10th-anniversary%E2%80%8F/)
 
 
@@ -70,20 +70,20 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0239.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0239.jpg)
+[![](IMG_0239.jpg)
+](IMG_0239.jpg)
 
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0245.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0245.jpg)
+[![](IMG_0245.jpg)
+](IMG_0245.jpg)
 
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0246.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/09/IMG_0246.jpg)
+[![](IMG_0246.jpg)
+](IMG_0246.jpg)
 
 
 

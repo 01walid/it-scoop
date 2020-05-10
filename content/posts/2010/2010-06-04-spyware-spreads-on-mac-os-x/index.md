@@ -18,7 +18,7 @@ tags:
 
 نشرت مجموعة أمنية مختصة تسمى [Intego](http://www.intego.com/) يوم الثلاثاء الماضي قائمة بأسماء التطبيقات المصابة بالبرمجية الخبيثة OSX/OpinionSpy.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Worm-Apple.jpg)
+[![](Worm-Apple.jpg)
 ](https://www.it-scoop.com/2010/06/Spyware-Spreads-On-Mac-OS-X)
 
 نبهت المجموعة بأن البرمجية الخبيثة ليست مضمنة في هذه التطبيقات وإنما يتم تحميلها أثناء عملية التنصيب.

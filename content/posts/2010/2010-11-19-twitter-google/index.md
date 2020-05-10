@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/google-twitter.jpg)
+[![](google-twitter.jpg)
 ](https://www.it-scoop.com/2010/11/twitter-google/)
 
 

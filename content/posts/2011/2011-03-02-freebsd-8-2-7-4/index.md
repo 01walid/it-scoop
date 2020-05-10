@@ -19,7 +19,7 @@ tags:
 
 **[أعلن](http://www.freebsd.org/releases/8.2R/announce.html)** فريق عمل  FreeBSD  عن إطلاق الإصدار 8.2 من FreeBSD   وهو ثالث إصدار  للتفرع  8 ، وعن [إطلاق](http://www.freebsd.org/releases/7.4R/announce.html) الإصدار 7.4 من FreeBSD الذي سيكون آخر إصدار للتفرع 7 .
 
-[![](http://www.freebsd.org/layout/images/logo-red.png )
+[![](logo-red.png )
 ](https://www.it-scoop.com/2011/03/freebsd-8-2-7-4/)
 
 فيما يخص الإصدار 8.2 فأهم ما جاء فيه هو تحسين وظائف الـ  FreeBSD 8.1 إلى جانب تقديم بعض الميزات الجديدة ، نذكر منها :

@@ -22,7 +22,7 @@ tags:
 
 ذكرت العديد من المصادر التقنية الأمريكية و على رأسها [All things digital](http://allthingsd.com/20110530/confirmed-twitter-plans-to-announce-photo-sharing-service-this-week/) التابعة للـ Wall Street Journal  التي أكدت أن Twitter تعتزم إطلاق خدمة تشارك الصور الخاصة بها و سيتولى الإعلان عنها Dick Costolo المدير التنفيذي لشبكة التغريد المصغر خلال مؤتمر D9 الذي سيعقد خلال هذا الأسبوع.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/twitter-t.png)
+[![](twitter-t.png)
 ](https://www.it-scoop.com/2011/05/twitter-photosharing-service/)
 
 و بهذا تكون Twitter قد أكدتها من جديد لمن يود إطلاق شركة ناشئة تعتمد على خدماتها: "إياك أن تفعل ذلك، إن نجح مشروعك سنطلق شبيها له و لن نشتري شركتك"، حيث من المتوقع أن تتأذى بشكل كبير مواقع مثل [Twitpic](http://www.twitpic.com/) أو [Yfrogs](http://yfrog.com/) و التي تتخصص في تقديم خدمة تشارك الصور عبر Twitter و التي بالرغم من حصولها على "مباركة" غير مباشرة من الشركة (إمكانية تشارك الصور مباشرة عبر هذه الخدمات باستخدام تطبيقات Twitter الرسمية على الهواتف الذكية) إلا أنه من المتوقع أن لا يدوم الحال طويلا.

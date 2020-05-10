@@ -19,7 +19,7 @@ tags:
 
 قامت شركة Invision Power المنتجة لمنتديات IP.Board الشهيرة بطرح الإصدار 3.0.5 من نسخة IP.Board الذي يحمل في طيّاته ترقيعات أمنية لثغرتين، الأولى ثغرة SQL injection و Local File Include، الثانية ثغرة XSS قمت بإبلاغهم بها بعد (استمرار) وجودها في الإصدار الأخير 3.0 لمنتديات IP.Board (فهي موجودة في الإصدارات القديمة لكني لم أبلّغ عنها :P).
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/12/untitled.PNG)
+![](untitled.PNG)
 
 
 ثغرة XSS تصيب العديد من منتجات الشركة، IP.Board / IP.Gallery / IP.Community Blog بإصداراتها المختلفة.

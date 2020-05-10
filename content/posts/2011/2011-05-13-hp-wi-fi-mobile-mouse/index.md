@@ -19,7 +19,7 @@ tags:
 [كشفت](http://www.hp.com/hpinfo/newsroom/press/2011/110512xb.html) HP يوم أمس عن أول فأرة لاسلكية تعمل بتقنية الـ Wi-Fi و التي لا تحتاج إلى أي Dongle لتشغيلها مثلما هو عليه الحال مع  مثيلتها التي تستخدم الـ Bluetooth.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/hp-wifi-mouse.jpg)
+[![](hp-wifi-mouse.jpg)
 ]( https://www.it-scoop.com/2011/05/hp-wi-fi-mobile-mouse/)
 
 

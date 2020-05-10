@@ -21,7 +21,7 @@ tags:
 
 للتذكير فإن تنفيذ هجمة من نوع man-in-the-middle (MITM)  يتم عبر استقبال البيانات المتبادلة بين طرفين و تحليلها بغية الحصول على المعلومات الحساسة على غرار كلمات السر.
 
-![MITM](https://www.it-scoop.com/wp-content/uploads/2009/11/MITM.JPG)
+![MITM](MITM.JPG)
 
 
 تمت الدراسة على أربعة الـ Smartphones  الشهيرة و هي l’iPhone 3GS،  Nokia N95،** **HTC Tilt  ، T-Mobile G1.

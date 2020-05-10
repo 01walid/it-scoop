@@ -18,7 +18,7 @@ tags:
 
 أعلنت Mozilla  على لسان Justin Scott بمناسبة مؤتمر ADDonCon المقام مؤخرا عن إمكانية اعتماد إضافات Addon تجارية لمتصفحها Firefox خلال العام القادم.
 
-![mozilla-logo](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+![mozilla-logo](mozilla-logo.png)
 
 
 حسب Justin Scott فإن ما دفع Mozilla للتفكير في هذا الخيار هو الطلبات المتكررة لمطوري إضافات Firefox بافتتاح قسم تجاري.

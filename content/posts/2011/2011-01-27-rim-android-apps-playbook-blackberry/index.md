@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/01/BlackBerry-Android.jpg)
+[![](BlackBerry-Android.jpg)
 ](https://www.it-scoop.com/2011/01/rim-android-apps-playbook-blackberry/)
 
 

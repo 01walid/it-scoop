@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/internet-algerie.jpg)
+[![](internet-algerie.jpg)
 ](https://www.it-scoop.com/2011/07/algeria-5-days-internet-outage/)
 
 

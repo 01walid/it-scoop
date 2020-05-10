@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Android-vulnerabilites.jpg)
+[![](Android-vulnerabilites.jpg)
 ](https://www.it-scoop.com/2010/11/android-froyo-kernel-88-high-risk-defects)
 
 

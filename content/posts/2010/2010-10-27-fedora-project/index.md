@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/fedoraLogo-300x91.jpg)
+[![](fedoraLogo-300x91.jpg)
 ](https://www.it-scoop.com/2010/10/fedora-project/)
 
 

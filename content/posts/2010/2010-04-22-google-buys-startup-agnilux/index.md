@@ -19,7 +19,7 @@ tags:
 
 وضعت شركة Google يدها على شركة Agnilux الناشئة و المتخصصة في تقنيات الخوادم و المعالجات في آن واحد في صفقة لم يتم الكشف عن قيمتها و لا تفاصيلها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/logo-agnilux.png)
+[![](logo-agnilux.png)
 ](https://www.it-scoop.com/2010/04/google-buys-startup-agnilux/)
 
 قام بإنشاء شركةAgnilux  كل من موظفين سابقين لدى Cisco ، TiVo وشركة  PA Semiمصنعة أنصاف النواقل الذي اشترتها Apple سنة 2008 مقابل 278 مليون دولار و المسؤولة عن تصنيع معالجات A4 المستعملة في أجهزة الـ iPad.

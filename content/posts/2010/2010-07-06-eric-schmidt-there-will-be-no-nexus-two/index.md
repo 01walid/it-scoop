@@ -24,7 +24,7 @@ tags:
 صرح Eric Schmidt المدير التنفيذي لـ Google في حوار أجرته معه جريدة Telegraph البريطانية، أنGoogle  لن تنتج هاتف Nexus Two  [عكس ما كان منتظرا](https://www.it-scoop.com/2010/03/nexus-one-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A5%D9%84%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D8%A9-%D8%A3%D9%88%D9%84%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-google/) بسبب أن الهدف المنشود من وراء عملية إنتاج هواتف ذكية قد تم الوصول إليه.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/eric_schmidt.jpg)
+[![](eric_schmidt.jpg)
 ](https://www.it-scoop.com/2010/07/eric-schmidt-there-will-be-no-nexus-two)
 
 يشير Schmidt أن الهدف من وراء خوض Google غمار مغامرة إنتاج هاتف ذكي هو دفع مصنعي الهواتف إلى الرقي بهواتفهم أكثر و اعتماد نظام Android عليها و هو الأمر الذي نراه حاليا حاضرا في العديد من الهواتف، مما يعني أن إنتاج Nexus Two لم يعد ضروريا.

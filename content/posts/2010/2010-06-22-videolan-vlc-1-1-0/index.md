@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://images.videolan.org/images/screenshots/windows-crade.jpg  )
+[![](windows-crade.jpg  )
 ](https://www.it-scoop.com/2010/06/videolan-vlc-1-1-0/)
 
 

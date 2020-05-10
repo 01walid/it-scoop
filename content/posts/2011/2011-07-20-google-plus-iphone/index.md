@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/google-plus-iphone.jpg)
+[![](google-plus-iphone.jpg)
 ](https://www.it-scoop.com/2011/07/google-plus-iphone/)
 
 

@@ -17,7 +17,7 @@ tags:
 
 سيحجز الـ 12 من أبريل من العام الحالي بلا شك مكانا له في التاريخ الرقمي، فبعد [إطلاق Microsoft لأحدث إصدارات Visual Studio و .NET Framework](https://www.it-scoop.com/2010/04/microsoft-launches-visual-studio-2010/)، ها هي Adobe أيضا تطلق حزمتها  CS5 (Creative Suite 5) و التي تأتي بإصدارات جديدة لكل برامج الحزمة، Photoshop ، Premiere، Flash، Illustrator ، After Effects و غيرها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Adobe-cs5.jpg)
+[![](Adobe-cs5.jpg)
 ](https://www.it-scoop.com/2010/04/adobe-launches-adobe-creative-suite-5/)
 
 تأتي هذه الحزمة الجديدة بدعم لمعماريات 64 بت، كما تم الانتقال إلى  إضافة إلى توفرها في 5 إصدارات مختلفة، تتنوع بتنوع الاستعمالات و هي كالتالي:

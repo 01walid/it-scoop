@@ -22,7 +22,7 @@ tags:
 [
 ](https://www.it-scoop.com/wp-content/uploads/2010/04/meizu-mbook.jpg)
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/meizu-mbook1.jpg)
+[![](meizu-mbook1.jpg)
 ](https://www.it-scoop.com/2010/04/meizu-mbook-tablet/)ليست هذه المرة الأولى التي يحاول فيها المصنع Meizu تقليد منتجات Apple، إذ سبق له و أن أنتج جهاز [M8](http://en.meizu.com/m/m8.html) المشابه للـ iPhone.
 
 جهاز mBook يمتاز بشاشة ذات 8.4 بوصة و مجهز بمعالج يصل تردده إلى 1.5 GHz، إضافة إلى كل من تقنيات الاتصال 3G، Wi-Fi و الـ GPS ، و مخرج HDMI لمشاهدة الفيديوهات على شاشات خارجية.

@@ -18,7 +18,7 @@ tags:
 
 أعلنت Google من خلال [منتدى الدعم الخاص بـNexus One](http://www.google.com/support/forum/p/android/label?lid=4a96f6d473819af3&hl=en) اعتزامها لإطلاق Patch لإصلاح المشاكل التي يعاني منها الجهاز خلال الأسابيع القادمة.
 
-[![](http://www.google.com/intl/en/images/logos/nexus_one_logo.gif)
+[![](nexus_one_logo.gif)
 ](https://www.it-scoop.com/2010/01/google-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d9%86%d9%8a%d8%aa%d9%87%d8%a7-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-patch-%d9%84%d9%80-nexus-one-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7/)
 
 المشاكل التي يعاني منها Nexus One حاليا تتعلق أساس بصعوبات في الاتصال بشبكات 3G ، إضافة إلى مشاكل في لوحة المفاتيح الوهمية و التزامن.

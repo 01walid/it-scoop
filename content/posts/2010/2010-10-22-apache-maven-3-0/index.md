@@ -21,7 +21,7 @@ tags:
 إن لم تكن مطورا، و لم تكن الـ Java إحدى لغاتك المفضلة فأخشى أن يكون الخبر مبهما بعض الشيء بالنسبة لك، فقد كشفت مؤسسة Apache عن الإصدار الثالث من أداة الـ Build الشهيرة Maven و التي تأتي بميزات جديدة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/maven-logo.png)
+[![](maven-logo.png)
 ](https://www.it-scoop.com/2010/10/apache-maven-3-0/)
 
 

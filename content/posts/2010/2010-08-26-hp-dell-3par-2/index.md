@@ -19,7 +19,7 @@ tags:
 أعلن مجلس إدارة 3PAR عن أن صفقة شرائه لن تكون من نصيب HP مثلما كان متوقعا و إنما من نصيب Dell و التي زايدت من جديد قاطعة الطريق أمام منافستها.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/HP-Dell-3par.png )
+[![](HP-Dell-3par.png )
 ](https://www.it-scoop.com/2010/08/hp-dell-3par-2)
 
 

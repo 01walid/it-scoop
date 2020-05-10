@@ -20,8 +20,8 @@ tags:
 
 
 
- [![حصص أفضل 5 متصفحات إنترنت في الفترة الممتدة ما بين نوفمبر 2010 ونوفمبر 2011](https://www.it-scoop.com/wp-content/uploads/2011/11/top-5-browsers-nov2010-nov2011-StatCounter.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/top-5-browsers-nov2010-nov2011-StatCounter.png)
+ [![حصص أفضل 5 متصفحات إنترنت في الفترة الممتدة ما بين نوفمبر 2010 ونوفمبر 2011](top-5-browsers-nov2010-nov2011-StatCounter.png)
+](top-5-browsers-nov2010-nov2011-StatCounter.png)
 
 
 

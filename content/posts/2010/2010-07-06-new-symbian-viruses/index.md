@@ -29,7 +29,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/s60v3-virus.jpg)
+[![](s60v3-virus.jpg)
 ](it-scoop.com/2010/07/new-symbian-viruses)
 
 

@@ -26,7 +26,7 @@ tags:
 
 
 
-![](http://static.avast.com/i/logo.png)
+![](logo.png)
 
 
 

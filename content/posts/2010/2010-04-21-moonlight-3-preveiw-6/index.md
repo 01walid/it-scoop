@@ -22,7 +22,7 @@ tags:
 
 العمل على Moonlight  الإصدار مفتوح المصدر لـ Silverlight قائم على قدم و ساق، حيث أعلن Miguel de Icaza القائم على المشروع المدعوم من طرف Novell عن توفر الـ Preview السادس لـ Moonlight 3 و الذي يشمل أغلبية الخواص الموجودة في Silverlight 3 ، و خاصة ما تعلق منها بكتابة تطبيقات تعمل خارج المتصفح.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/moonlight.png)
+[![](moonlight.png)
 ](https://www.it-scoop.com/2010/04/moonlight-3-preveiw-6/)
 
 كما جاء هذا الإصدار بترقيعات للعديد من العلل في الإصدارات السابقة، إضافة إلى التوافق مع متصفح Chrome و هو الأمر الذي كان في السابق مقتصرا على متصفح Firefox

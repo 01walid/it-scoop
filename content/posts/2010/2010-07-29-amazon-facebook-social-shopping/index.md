@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/amazon-logo-300x87.jpg)
+[![](amazon-logo-300x87.jpg)
 ](it-scoop.com/2010/07/amazon-facebook-social-shopping)
 
 

@@ -13,7 +13,7 @@ tags:
 
 في تعاون بين OpenOffice.org و المصنع Warmouse تم الإعلان عن فأرة جديدة تحت اسم OpenOffice Mouse   تحتوي على 18 زرا.
 
-![OOmouse_model](https://www.it-scoop.com/wp-content/uploads/2009/11/OOmouse_model.png)
+![OOmouse_model](OOmouse_model.png)
 
 
 تأتي هذه الفأرة لتسهيل مهام مستعملي البرامج المختلفة التي تحتوي على العديد من الاختصارات على غرار OpenOffice.org.

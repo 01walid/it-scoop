@@ -20,7 +20,7 @@ tags:
 لاحظ العديد من المستخدمين حول العالم يوم أمس الجمعة  توقفا مفاجئا لأشهر مواقع الخدمات التي تقدمها Google و المتمثلة في خدمة التدوين Blogger و موقع مشاركة ملفات الفيديو Youtube، فيما شهد Twitter بدوره اضطرابا على مستوى خاصية تسجيل الدخول و ذلك حوالي الساعة الواحدة بتوقيت غرينتش
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/down-youtube-blogger-twitter.png)
+[![](down-youtube-blogger-twitter.png)
 ](https://www.it-scoop.com/2011/05/friday-13-twitter-blogger-youtube-down/)
 
 

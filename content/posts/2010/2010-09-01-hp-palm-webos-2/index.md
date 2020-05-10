@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/WebOS2.jpg)
+[![](WebOS2.jpg)
 ]( https://www.it-scoop.com/2010/09/hp-palm-webos-2)
 
 

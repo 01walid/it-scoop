@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/dell_ubuntu.jpg)
+[![](dell_ubuntu.jpg)
 ](https://www.it-scoop.com/2010/07/dell-drops-ubuntu-pcs/)
 
 

@@ -18,7 +18,7 @@ tags:
 
 أطلقت اليوم Mozilla الإصدار التجريبي الرابع من متصفحها Firefox3.6
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/mozilla-firefox3.6Beta.jpg)
+![](mozilla-firefox3.6Beta.jpg)
 
 
 يأتي هذا الإصدار لتصحيح [140 علة](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=ALL%20status1.9.2:beta4-fixed) تم اكتشافها في الإصدار Beta3

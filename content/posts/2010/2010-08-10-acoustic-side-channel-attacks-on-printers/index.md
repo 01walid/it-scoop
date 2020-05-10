@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/dot-matrix-printer.jpg)
+[![](dot-matrix-printer.jpg)
 ](https://www.it-scoop.com/2010/08/acoustic-side-channel-attacks-on-printers)
 
 

@@ -17,7 +17,7 @@ tags:
 
 لست وحدك، المشكل ليس في جهازك و لا في المتصفح الذي تستعمله، و لا حتى في اتصال الإنترنت الخاص بك، Facebook فعلا متوقف منذ قليل، و هذا ما أكدت العديد من المصادر على الإنترنت. بما فيها مدونة [TechCrunch ](http://techcrunch.com/2010/09/23/facebook-down/)الشهيرة.
 
-[caption id="attachment_5004" align="aligncenter" width="422" caption="رسالة الخطأ التي تظهر لدى الدخول إلى الـ Facebook"][![](https://www.it-scoop.com/wp-content/uploads/2010/09/facebookd-down.png)
+[caption id="attachment_5004" align="aligncenter" width="422" caption="رسالة الخطأ التي تظهر لدى الدخول إلى الـ Facebook"][![](facebookd-down.png)
 ]( https://www.it-scoop.com/2010/09/facebook-down-2/)[/caption]
 
 المشكل طال أيضا زر Like عبر مختلف مواقع الإنترنت ، و بالتالي تعطل موقع واحد يسبب مشاكل في قسط كبير من الإنترنت.

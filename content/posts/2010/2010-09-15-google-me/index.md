@@ -20,7 +20,7 @@ tags:
 
 بعد أن كان الأمر مجرد [إشاعة](https://www.it-scoop.com/2010/06/rumor-google-to-launch-facebook-like-google-me/) تعتمد على "مصادر موثوقة" أطلقها Kevin Rose أحد مؤسسي Digg.com على حسابه على  Twitter، أكد Eric Schmidt الرئيس التنفيذي لـ Google عزم عملاق البحث لإطلاق Google Me خلال خريف هذا العام من دون أن يعطي تاريخا محددا لذلك.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/Google-Me-mockup1.jpg)
+[![](Google-Me-mockup1.jpg)
 ](https://www.it-scoop.com/2010/09/google-me/)
 
 الملفت للانتباه في [تصريحات](http://www.electricpig.co.uk/2010/09/15/google-me-confirmed-coming-this-autumn-gunning-for-facebook/) Schmidt التي أدلى بها خلال مؤتمر  Google Zeitgeist هو عدم إشارته إلى Google Me   كشبكة اجتماعية جديدة، و إنما كـ  "طبقة اجتماعية"  تُضاف إلى مجمل الخدمات التي تقدمها Google عبر  Youtube و أخواتها.

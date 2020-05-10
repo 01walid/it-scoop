@@ -18,7 +18,7 @@ tags:
 
 قد يكون العنوان مبالغا فيه بعض الشيء (طبعا لجعلكم تنقرون على العنوان لقراءة الخبر :p)  لكن من كان يظن أن Lego لا تزال مجرد ألعاب فقط لا تخص سوى فئة الأطفال الصغار، فأدعوه إلى إعادة النظر و التفكير في الأمر من جديد، خاصة مع التطور الكبير الذي شهدته هذه الألعاب بفضل وحدات التحكم المتطورة الخاصة بها Mindstorm .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/lego-mindstorms-nxt-cpu-brick.jpg)
+[![](lego-mindstorms-nxt-cpu-brick.jpg)
 ]( https://www.it-scoop.com/2010/11/lego-factory-project/)
 
 للتذكير فإن [ترتيب TIOBE للغات البرمجة الأكثر شعبية في العالم لشهر نوفمبر الجاري](https://www.it-scoop.com/2010/11/tiobe-obective-c-nxt-g-go/) سجلت دخول لغة NXT-G التي تستعمل في برمجة روبوتات Lego Mindstorms NXT قائمة الكبار حيث حلت في المرتبة 17.

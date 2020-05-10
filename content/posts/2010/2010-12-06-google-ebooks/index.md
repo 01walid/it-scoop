@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://books.google.com/intl/fr/googlebooks/images/webstore/promos/20101203/promo_960x220_devices.png)
+[![](promo_960x220_devices.png)
 ](https://www.it-scoop.com/2010/12/google-ebooks/)
 
 

@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/mozilla-firefox.jpg)
+[![](mozilla-firefox.jpg)
 ](https://www.it-scoop.com/2010/06/firefox-3-6-4-crash-protection)
 
 

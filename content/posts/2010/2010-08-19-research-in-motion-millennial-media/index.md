@@ -20,7 +20,7 @@ tags:
 
 أوردت جريدة الـ Wall Street Journal خبرا مفاده أن research in motion الكندية المصنعة لهواتف الـ BlackBerry أبدت رغبتها في الحصول على منصتها الإعلانية الخاصة بهواتف الـ BlackBerry.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/millennial-media.gif)
+[![](millennial-media.gif)
 ](https://www.it-scoop.com/2010/08/research-in-motion-millennial-media)
 
 حسب ما أوردته الجريدة، فإن RIM حاولت التقرب من منصة الإعلان على الهواتف [Millennial Media](http://www.millennialmedia.com/) الأمريكية ، لكن المحادثات لم تفض إلى نتيجة حاليا حيث أنه  و بالنظر لصفقات بيع/شراء منصات الإعلانات على الهواتف التي حصلت مؤخرا فإن Millennial Media تطالب بمبلغ يتراوح ما بين 400 و 500 مليون دولار، و هو الثمن الذي استكبرته RIM.

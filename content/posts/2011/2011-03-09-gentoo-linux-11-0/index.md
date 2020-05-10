@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/gentoo-Linux.png)
+[![](gentoo-Linux.png)
 ](https://www.it-scoop.com/2011/03/gentoo-linux-11-0/ )
 
 

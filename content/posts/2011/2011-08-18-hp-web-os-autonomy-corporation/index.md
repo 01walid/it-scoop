@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/HP-Sucks.jpg)
+[![](HP-Sucks.jpg)
 ](https://www.it-scoop.com/2011/08/hp-web-os-autonomy-corporation/)
 
 

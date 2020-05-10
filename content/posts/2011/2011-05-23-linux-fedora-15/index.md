@@ -22,13 +22,13 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/dd.png)
+[![](dd.png)
 ](https://www.it-scoop.com/2011/05/linux-fedora-15/)
 
 وطبعا كعادة Fedora  هنالك الكثير من التحديثات والأشياء الجديدة أهمها :
 من 	ناحية سطح المكتب تم اعتماد [Gnome 3](http://fedoraproject.org/wiki/Features/Gnome3) بشكل افتراضي وهو الإصدار 	الجديد من Gnome  يختلف كثيرا 	عن سابقه  وستلاحظون الفرق في الواجهات 	والتعامل عند استخدامه والصورة التالية تبين شكله .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/Fedora-15-Linux-GNOME-3.jpg)
+[![](Fedora-15-Linux-GNOME-3.jpg)
 ](https://www.it-scoop.com/2011/05/linux-fedora-15/)
 
 

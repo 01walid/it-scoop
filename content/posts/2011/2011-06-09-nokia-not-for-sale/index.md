@@ -21,7 +21,7 @@ tags:
 كثرت مؤخرا الإشاعات التي تشير إلى قرب بيع Nokia إما لـ Microsoft أو Samsung، و لوضع حد لهذه الإشاعات فلا أفضل من تصريح مباشرة من Stephen Elop   مدير Nokia التنفيذي الذي [قالها](http://www.pcmag.com/article2/0,2817,2386653,00.asp) صراحة: "لسنا للبيع".
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/Nokia-logo.jpg)
+[![](Nokia-logo.jpg)
 ](https://www.it-scoop.com/2011/06/nokia-not-for-sale/)
 
 

@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" dir="rtl" lang="ar"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" dir="rtl" lang="ar"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" dir="rtl" lang="ar"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" dir="rtl" lang="ar"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>المجلة التقنية | مقالات تقنية (وغير تقنية) بأسلوبٍ مُبسّط خالٍ من التعقيد، وبلُغةٍ عربيةٍ فصيحةٍ وسَلِسة</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link href="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/img/favicon.ico" rel='shortcut icon' type='image/png'>
+
+  
+<!-- All in One SEO Pack 3.3.2 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="المجلة التقنية: مدوّنة يوغرطة بن علي. مقالات تقنية (وغير تقنية) بأسلوبٍ مُبسّط خالٍ من التعقيد، وبلُغةٍ عربيةٍ فصيحةٍ وسَلِسة" />
+
+<meta name="keywords"  content=",ipad ,iPhone ,symbian ,windows ,office ,mac ,linux ,microsoft ,a ,apple ,smartphone ,security ,hack ,أخبار التقنية ,أخبار , التقنية ,كمبيوتر ,الأخبار التقنية ,المجلة التقنية ,مجلة التقنية ,المجلة تقنية ,الأخبار التقنية ," />
+<link rel="next" href="https://www.it-scoop.com/page/2/" />
+
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.it-scoop.com/#organization","url":"https://www.it-scoop.com/","name":"\u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u062a\u0642\u0646\u064a\u0629","sameAs":[]},{"@type":"WebSite","@id":"https://www.it-scoop.com/#website","url":"https://www.it-scoop.com/","name":"\u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u062a\u0642\u0646\u064a\u0629","publisher":{"@id":"https://www.it-scoop.com/#organization"}},{"@type":"WebPage","@id":"https://www.it-scoop.com/#webpage","url":"https://www.it-scoop.com/","inLanguage":"ar","name":"\u0627\u0644\u0645\u062c\u0644\u0629 \u0627\u0644\u062a\u0642\u0646\u064a\u0629","isPartOf":{"@id":"https://www.it-scoop.com/#website"},"about":{"@id":"https://www.it-scoop.com/#organization"},"description":"\u0645\u064f\u062f\u0648\u0651\u0646\u0629 \u064a\u0648\u063a\u0631\u0637\u0629 \u0628\u0646 \u0639\u0644\u064a"}]}</script>
+<link rel="canonical" href="https://www.it-scoop.com/" />
+			<script type="text/javascript" >
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-10443036-2', 'auto');
+				// Plugins
+				
+				ga('send', 'pageview');
+			</script>
+			<script async src="https://www.google-analytics.com/analytics.js"></script>
+			<!-- All in One SEO Pack -->
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":null}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" href="https://c0.wp.com/c/5.2.4/wp-includes/css/dist/block-library/style-rtl.min.css">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.5">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=5.1.5">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/plugins/wp-syntax/css/wp-syntax.css?ver=1.1">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/css/bootstrap-rtl.min.css?ver=5.2.4">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/css/font-awesome.min.css?ver=5.2.4">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/css/style.css?ver=5.2.4">
+<link rel="stylesheet" href="https://c0.wp.com/p/jetpack/7.9.1/css/jetpack-rtl.css">
+<link rel="stylesheet" href="https://www.it-scoop.com/wp-content/plugins/wp-greet-box/css/style.css?ver=5.2.4">
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type="text/javascript" src="https://www.it-scoop.com/wp-content/plugins/asynchronous-javascript/js/head.load.min.js"></script><script type="text/javascript">head.js({"wp-polyfill-fetch": "https://www.it-scoop.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"},{"wp-polyfill-node-contains": "https://www.it-scoop.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.26.0-0"},{"wp-polyfill-formdata": "https://www.it-scoop.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"},{"wp-polyfill-element-closest": "https://www.it-scoop.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"},{"concatemoji": "https://www.it-scoop.com/wp-includes/js/wp-emoji-release.min.js?ver=5.2.4"},{"jquery-core": "https://c0.wp.com/c/5.2.4/wp-includes/js/jquery/jquery.js"},{"jquery-migrate": "https://c0.wp.com/c/5.2.4/wp-includes/js/jquery/jquery-migrate.min.js"},{"jquery": ""},{"modernizr": "https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/js/vendor/modernizr-2.6.2.min.js"},{"wp_greet_box_functions": "https://www.it-scoop.com/wp-content/plugins/wp-greet-box/js/functions.js?ver=5.2.4"},{"wp_greet_box_js_mode": "https://www.it-scoop.com/wp-content/plugins/wp-greet-box/js/js-mode.js?ver=5.2.4"});</script><link rel='https://api.w.org/' href='https://www.it-scoop.com/wp-json/' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="المجلة التقنية" />
+<meta property="og:description" content="مُدوّنة يوغرطة بن علي" />
+<meta property="og:url" content="https://www.it-scoop.com/" />
+<meta property="og:site_name" content="المجلة التقنية" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="ar_AR" />
+
+<!-- End Jetpack Open Graph Tags -->
+
+  <link rel="alternate" type="application/rss+xml" title="المجلة التقنية Feed" href="https://www.it-scoop.com/feed/">
+</head>
+<body data-rsssl=1 class="rtl home blog">
+
+  <!--[if lt IE 7]><div class="alert">أنت تستعمل نسخة <strong>قديمة</strong> من متصفحك. فضلا <a href="http://browsehappy.com/">قم بتحديث متصفحك</a> لتحظى بتجربة استخدام أفضل.</div><![endif]-->
+  <a class="sr-only" href="#content">تخطى قائمة التصفح</a>
+
+    <!-- Docs master nav -->
+  <header class="navbar navbar-fixed-top bs-docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a rel="home" href="https://www.it-scoop.com" class="navbar-brand">
+        الرئيسية
+      </a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul id="menu-%d8%a7%d9%84%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9" class="nav navbar-nav"><li class="menu-%d8%b9%d9%86-%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d8%a9"><a href="https://www.it-scoop.com/about-us/">عن المجلة التقنية</a></li>
+<li class="menu-%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%8a"><a href="https://www.it-scoop.com/contact-us/">اتصل بي</a></li>
+</ul><!--
+        <ul class="nav navbar-nav navbar-right">
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">شبكة المواقع<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+              <li class="sm4arab-dropdown"><a href="http://socialmedia4arab.com/">مدونة الإعلام الإجتماعي</a></li>
+              <li class="webtutsme-dropdown"><a href="http://www.webtuts.me/">دروس الويب</a></li>
+              <li class="arabicgit-dropdown"><a href="http://www.arabicgit.com/">موقع Arabic Git</a></li>
+            </ul>
+          </li>
+        </ul>
+-->
+    </nav>
+  </div>
+</header>
+
+
+    <!-- Docs page layout -->
+    <div class="isn-header" id="content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="row">
+              <a href="https://www.it-scoop.com/">
+                  <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="img-responsive" width="250" data-src="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/img/logo.svg"><noscript><img class="img-responsive" width="250" src="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/img/logo.svg"></noscript>
+              </a>
+            </div>
+            <div class="row pull-left slogan">
+              معنا للخبر التقني معنى
+            </div>
+          </div>
+
+            <div class="col-md-3">
+
+            <div class="row">
+              <div class="col-md-12 icons">
+                <a href="https://www.it-scoop.com/feed" class="pull-right">
+                  <span class="icon-stack">
+                    <i class="icon-circle icon-stack-base icon-light"></i>
+                    <i class="icon-rss icon-dark"></i>
+                  </span>
+                </a>
+                <a href="https://twitter.com/it_scoop_com" class="custom-icon pull-right">
+                <span class="icon-stack">
+                  <i class="icon-circle icon-stack-base icon-light"></i>
+                  <i class="icon-twitter icon-dark"></i>
+                </span>
+              </a>
+              <a href="https://www.facebook.com/ITscoopMagazine" class="custom-icon pull-right">
+                <span class="icon-stack">
+                  <i class="icon-circle icon-stack-base icon-light"></i>
+                  <i class="icon-facebook icon-dark"></i>
+                </span>
+              </a>
+              <a href="https://plus.google.com/111062057767038678683" class="custom-icon pull-right">
+                <span class="icon-stack">
+                  <i class="icon-circle icon-stack-base icon-light"></i>
+                  <i class="icon-google-plus icon-dark"></i>
+                </span>
+              </a>
+              </div>
+            </div>
+
+            <div class="row"><div class="col-md-12"> 
+              <form role="search" method="get" class="search-form form-inline" action="https://www.it-scoop.com/">
+  <div class="input-group">
+    <input type="search" value="" name="s" class="search-field form-control" placeholder="ابحث عن خبر">
+    <label class="hide">ابحث عن:</label>
+    <span class="input-group-btn">
+      <button type="submit" class="search-submit btn btn-default">ابحث</button>
+    </span>
+  </div>
+</form>
+            </div></div>
+          </div>
+          
+        </div>
+        
+      </div>
+    </div>
+  <div class="wrap container" role="document">
+    <div class="content">
+      <div class="main col-sm-9" role="main">
+        
+
+  <article class="post-20663 post type-post status-publish format-standard has-post-thumbnail hentry category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/" title="كيف أستفيد من يوتيوب دون استخدام تطبيقه الرسمي أو امتلاك حساب على gmail">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="150x83" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABTAQMAAABH6mymAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABVJREFUOMtjYBgFo2AUjIJRMAroCwAGfAAB3YH/0AAAAABJRU5ErkJggg==" width="150" height="83" data-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=150%2C83&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20665" data-permalink="https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/newpipe/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=588%2C327&amp;ssl=1" data-orig-size="588,327" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="newPipe" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=588%2C327&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?w=588&amp;ssl=1 588w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?resize=300%2C167&amp;ssl=1 300w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=150%2C83&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="150" height="83" src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=150%2C83&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20665" data-permalink="https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/newpipe/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=588%2C327&amp;ssl=1" data-orig-size="588,327" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="newPipe" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=300%2C167&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=588%2C327&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?w=588&amp;ssl=1 588w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?resize=300%2C167&amp;ssl=1 300w" data-lazy-sizes="(max-width: 150px) 100vw, 150px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/newPipe.png?fit=150%2C83&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/" title="كيف أستفيد من يوتيوب دون استخدام تطبيقه الرسمي أو امتلاك حساب على gmail">
+					كيف أستفيد من يوتيوب دون استخدام تطبيقه الرسمي أو امتلاك حساب على gmail				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2020-02-15T11:15:29+01:00">
+	<i class="icon-calendar"></i>
+	15/02/2020 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيف: <a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>منذ أن قررت الاستغناء على جوجل وخدماتها على هاتفي واجهتني العديد من التحدّيّات. إحدى هذه التحدّيّات والتي استهلكت مني الكثير من الوقت والجهد لإيجاد حل جيّد لها هو التخلص من تطبيق Youtube وإيجاد طريقة لاستفادة منه دون الحاجة إلى خدمات &hellip; <a href="https://www.it-scoop.com/2020/02/use-youtube-without-youtube-app/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20658 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2020/02/la-vie-secrete-des-ecrivains/" title="كيف ذكّرتني رواية &#8220;الحياة السّرّية للكتّاب&#8221; سبب تجنّبي قراءة الروايات الأدبية">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="101x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAACWAQMAAAD9tNQ7AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="101" height="150" data-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=101%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20659" data-permalink="https://www.it-scoop.com/2020/02/la-vie-secrete-des-ecrivains/la-vie-secrete-des-ecrivains-2/" data-orig-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=318%2C474&amp;ssl=1" data-orig-size="318,474" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="La vie secrète des écrivains" data-image-description="" data-medium-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=201%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=318%2C474&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?w=318&amp;ssl=1 318w, https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?resize=201%2C300&amp;ssl=1 201w" data-lazy-sizes="(max-width: 101px) 100vw, 101px" data-lazy-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=101%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="101" height="150" src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=101%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20659" data-permalink="https://www.it-scoop.com/2020/02/la-vie-secrete-des-ecrivains/la-vie-secrete-des-ecrivains-2/" data-orig-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=318%2C474&amp;ssl=1" data-orig-size="318,474" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="La vie secrète des écrivains" data-image-description="" data-medium-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=201%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=318%2C474&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?w=318&amp;ssl=1 318w, https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?resize=201%2C300&amp;ssl=1 201w" data-lazy-sizes="(max-width: 101px) 100vw, 101px" data-lazy-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2020/02/La-vie-secrète-des-écrivains.jpg?fit=101%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2020/02/la-vie-secrete-des-ecrivains/" title="كيف ذكّرتني رواية &#8220;الحياة السّرّية للكتّاب&#8221; سبب تجنّبي قراءة الروايات الأدبية">
+					كيف ذكّرتني رواية &#8220;الحياة السّرّية للكتّاب&#8221; سبب تجنّبي قراءة الروايات الأدبية				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2020-02-03T12:17:32+01:00">
+	<i class="icon-calendar"></i>
+	03/02/2020 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>أصابتني مؤخّرا وعكة صحّية ألزمتني الفراش والمستشفى لمدّة، لم أستطع حينها قراءة أي من الكتب التي كانت في متناولي، يبدو بأن المرض يؤثّر على التركيز وعلى الرغبة في القراءة بشكل كبير. بحثت عن بدائل لأشغل نفسي ومن بين ما جربته &hellip; <a href="https://www.it-scoop.com/2020/02/la-vie-secrete-des-ecrivains/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20653 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2020/01/amusing-ourselves-to-death-book-review/" title="كيف قضى التلفزيون على رقي الحوار السياسي الأمريكي وجعل العالم أقل ذكاءً. لمحة سريعة حول كتاب Amusing Ourselves to Death">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="98x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACWAQMAAAAfaM9CAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="98" height="150" data-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=98%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20654" data-permalink="https://www.it-scoop.com/2020/01/amusing-ourselves-to-death-book-review/amusing-ourselves-to-death/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=327%2C499&amp;ssl=1" data-orig-size="327,499" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Amusing-Ourselves-to-Death" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=197%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=327%2C499&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?w=327&amp;ssl=1 327w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?resize=197%2C300&amp;ssl=1 197w" data-lazy-sizes="(max-width: 98px) 100vw, 98px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=98%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="98" height="150" src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=98%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20654" data-permalink="https://www.it-scoop.com/2020/01/amusing-ourselves-to-death-book-review/amusing-ourselves-to-death/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=327%2C499&amp;ssl=1" data-orig-size="327,499" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Amusing-Ourselves-to-Death" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=197%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=327%2C499&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?w=327&amp;ssl=1 327w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?resize=197%2C300&amp;ssl=1 197w" data-lazy-sizes="(max-width: 98px) 100vw, 98px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2020/01/Amusing-Ourselves-to-Death.jpg?fit=98%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2020/01/amusing-ourselves-to-death-book-review/" title="كيف قضى التلفزيون على رقي الحوار السياسي الأمريكي وجعل العالم أقل ذكاءً. لمحة سريعة حول كتاب Amusing Ourselves to Death">
+					كيف قضى التلفزيون على رقي الحوار السياسي الأمريكي وجعل العالم أقل ذكاءً. لمحة سريعة حول كتاب Amusing Ourselves to Death				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2020-01-12T19:23:00+01:00">
+	<i class="icon-calendar"></i>
+	12/01/2020 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>يتحدّث كتاب Amusing Ourselves to Death: Public Discourse in the Age of Show Business حول الدّور الذي لعبه التلفزيون في تخفيض مستوى الحوار السياسي الأمريكي وإلحاقه ضررًا بالغًا بذكاء العالم أجمع. الكتاب يركّز بشكل أساسي على أهم خاصّية يتفرّد بها &hellip; <a href="https://www.it-scoop.com/2020/01/amusing-ourselves-to-death-book-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20647 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/12/hype-book-review/" title="الأخبار والنصائح الطّبّيّة، كيف تميّز الصحيح من الخطأ. لمحة سريعة حول كتاب Hype">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="97x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAACWAQMAAAD0X3RBAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="97" height="150" data-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=97%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="Hype: A Doctor&#039;s Guide to Medical Myths, Exaggerated Claims and Bad Advice - How to Tell What&#039;s Real and What&#039;s Not" data-attachment-id="20648" data-permalink="https://www.it-scoop.com/2019/12/hype-book-review/hype/" data-orig-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=450%2C695&amp;ssl=1" data-orig-size="450,695" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Hype" data-image-description="" data-medium-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=194%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=450%2C695&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?w=450&amp;ssl=1 450w, https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?resize=194%2C300&amp;ssl=1 194w" data-lazy-sizes="(max-width: 97px) 100vw, 97px" data-lazy-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=97%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="97" height="150" src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=97%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="Hype: A Doctor&#039;s Guide to Medical Myths, Exaggerated Claims and Bad Advice - How to Tell What&#039;s Real and What&#039;s Not" data-attachment-id="20648" data-permalink="https://www.it-scoop.com/2019/12/hype-book-review/hype/" data-orig-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=450%2C695&amp;ssl=1" data-orig-size="450,695" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Hype" data-image-description="" data-medium-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=194%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=450%2C695&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?w=450&amp;ssl=1 450w, https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?resize=194%2C300&amp;ssl=1 194w" data-lazy-sizes="(max-width: 97px) 100vw, 97px" data-lazy-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/Hype.jpg?fit=97%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/12/hype-book-review/" title="الأخبار والنصائح الطّبّيّة، كيف تميّز الصحيح من الخطأ. لمحة سريعة حول كتاب Hype">
+					الأخبار والنصائح الطّبّيّة، كيف تميّز الصحيح من الخطأ. لمحة سريعة حول كتاب Hype				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-12-28T19:06:21+01:00">
+	<i class="icon-calendar"></i>
+	28/12/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>القهوة مفيدة للصّحّة أم أن القهوة من الأمور التي يجب أن تتجنّبها. هل يجب عليك أن تكثر من أكل الشوكولاطة. أم أنه لا فائدة منها إطلاقًا. ما كمّية الماء التي يجب أن تشربها يوميا؟ وهل هناك أضرار من الإكثار من &hellip; <a href="https://www.it-scoop.com/2019/12/hype-book-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20641 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/12/the-prince-review/" title="الغاية تُبرر الوسيلة، لمحة سريعة على كتاب &#8220;الأمير&#8221;">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="93x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAACWAQMAAACGkBb3AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABdJREFUOMtjYBgFo2AUjIJRMApGweACAAeeAAGSb/lAAAAAAElFTkSuQmCC" width="93" height="150" data-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=93%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20642" data-permalink="https://www.it-scoop.com/2019/12/the-prince-review/the-prince/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=295%2C475&amp;ssl=1" data-orig-size="295,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="the-prince" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=186%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=295%2C475&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?w=295&amp;ssl=1 295w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?resize=186%2C300&amp;ssl=1 186w" data-lazy-sizes="(max-width: 93px) 100vw, 93px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=93%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="93" height="150" src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=93%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20642" data-permalink="https://www.it-scoop.com/2019/12/the-prince-review/the-prince/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=295%2C475&amp;ssl=1" data-orig-size="295,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="the-prince" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=186%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=295%2C475&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?w=295&amp;ssl=1 295w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?resize=186%2C300&amp;ssl=1 186w" data-lazy-sizes="(max-width: 93px) 100vw, 93px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/12/the-prince.jpg?fit=93%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/12/the-prince-review/" title="الغاية تُبرر الوسيلة، لمحة سريعة على كتاب &#8220;الأمير&#8221;">
+					الغاية تُبرر الوسيلة، لمحة سريعة على كتاب &#8220;الأمير&#8221;				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-12-07T16:35:48+01:00">
+	<i class="icon-calendar"></i>
+	07/12/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>من الكُتب التي &#8211;في رأيي&#8211; تفوق شهرتها ما يُمكن استخلاصه منه من فوائد. لم أستطع إكمال الكتاب رغم قِصره النسبي، يُمكن تلخيص ما جاء فيه بالعبارة الشهيرة المُرتبطة باسمه والمُتعلّقة بـ &#8220;الغاية تُبرّر الوسيلة&#8220;. لا أجد بأن قراءة الكتاب في &hellip; <a href="https://www.it-scoop.com/2019/12/the-prince-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20629 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/11/how-not-to-die-book-review/" title="المعدة بيت الداء، أو كيف تتجنب أغلب أمراض العصر الحديث عبر الأكل، لمحة سريعة حول كتاب How Not to Die">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="99x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAACWAQMAAADwqqR8AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="99" height="150" data-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=99%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20630" data-permalink="https://www.it-scoop.com/2019/11/how-not-to-die-book-review/how-not-to-die/" data-orig-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=313%2C475&amp;ssl=1" data-orig-size="313,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="How-not-to-die" data-image-description="" data-medium-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=313%2C475&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?w=313&amp;ssl=1 313w, https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 99px) 100vw, 99px" data-lazy-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=99%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="99" height="150" src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=99%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20630" data-permalink="https://www.it-scoop.com/2019/11/how-not-to-die-book-review/how-not-to-die/" data-orig-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=313%2C475&amp;ssl=1" data-orig-size="313,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="How-not-to-die" data-image-description="" data-medium-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=313%2C475&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?w=313&amp;ssl=1 313w, https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 99px) 100vw, 99px" data-lazy-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/How-not-to-die.jpg?fit=99%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/11/how-not-to-die-book-review/" title="المعدة بيت الداء، أو كيف تتجنب أغلب أمراض العصر الحديث عبر الأكل، لمحة سريعة حول كتاب How Not to Die">
+					المعدة بيت الداء، أو كيف تتجنب أغلب أمراض العصر الحديث عبر الأكل، لمحة سريعة حول كتاب How Not to Die				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-11-18T09:46:08+01:00">
+	<i class="icon-calendar"></i>
+	18/11/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>قالت العرب قديمًا: “المعدة بيت الداء&#8220;، وهذا بالضّبط ما يدور حوله مُحتوى كتاب How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease. كما أنه يدور على فكرة مرافقة لها وهي أن &#8220;المعدة تستطيع أن تكون &hellip; <a href="https://www.it-scoop.com/2019/11/how-not-to-die-book-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20625 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/11/how-democracies-die-book-review/" title="كيف تموت الديمقراطيات؟ ولماذا يُعتبر وصول ترامب إلى سدّة الحكم دليلًا على احتضار الديمقراطية الأمريكية. لمحة سريعة حول كتاب How Democracies Die">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="99x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAACWAQMAAADwqqR8AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="99" height="150" data-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=99%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20626" data-permalink="https://www.it-scoop.com/2019/11/how-democracies-die-book-review/how-democracies-die/" data-orig-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=314%2C475&amp;ssl=1" data-orig-size="314,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="how-democracies-die" data-image-description="" data-medium-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=314%2C475&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?w=314&amp;ssl=1 314w, https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 99px) 100vw, 99px" data-lazy-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=99%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="99" height="150" src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=99%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20626" data-permalink="https://www.it-scoop.com/2019/11/how-democracies-die-book-review/how-democracies-die/" data-orig-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=314%2C475&amp;ssl=1" data-orig-size="314,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="how-democracies-die" data-image-description="" data-medium-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=314%2C475&amp;ssl=1" data-lazy-srcset="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?w=314&amp;ssl=1 314w, https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 99px) 100vw, 99px" data-lazy-src="https://i2.wp.com/www.it-scoop.com/wp-content/uploads/2019/11/how-democracies-die.jpg?fit=99%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/11/how-democracies-die-book-review/" title="كيف تموت الديمقراطيات؟ ولماذا يُعتبر وصول ترامب إلى سدّة الحكم دليلًا على احتضار الديمقراطية الأمريكية. لمحة سريعة حول كتاب How Democracies Die">
+					كيف تموت الديمقراطيات؟ ولماذا يُعتبر وصول ترامب إلى سدّة الحكم دليلًا على احتضار الديمقراطية الأمريكية. لمحة سريعة حول كتاب How Democracies Die				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-11-15T10:24:36+01:00">
+	<i class="icon-calendar"></i>
+	15/11/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>يُعتبر كتاب &#8220;كيف تموت الديمقراطيات&#8221; How Democracies Die دراسة تاريخية لموت عدّة ديمقراطيات في العصر الحديث، مع محاولة استنباط مجموعة من الخصائص المُشتركة فيما بينها، إضافة إلى محاولة استخراج جملة من الخصائص التي تُميّز القادة الذين تموت الديمقراطيات على أيديهم &hellip; <a href="https://www.it-scoop.com/2019/11/how-democracies-die-book-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20617 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/10/the-origins-of-political-order-book-review/" title="ما أسباب استقرار بعض الدول وانهيار أخرى؟ لمحة سريعة حول كتاب The Origins of Political Order">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="101x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAACWAQMAAAD9tNQ7AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="101" height="150" data-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=101%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20618" data-permalink="https://www.it-scoop.com/2019/10/the-origins-of-political-order-book-review/the-origins-of-political-order/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=318%2C474&amp;ssl=1" data-orig-size="318,474" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="The-Origins-of-Political-Order" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=201%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=318%2C474&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?w=318&amp;ssl=1 318w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?resize=201%2C300&amp;ssl=1 201w" data-lazy-sizes="(max-width: 101px) 100vw, 101px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=101%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="101" height="150" src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=101%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20618" data-permalink="https://www.it-scoop.com/2019/10/the-origins-of-political-order-book-review/the-origins-of-political-order/" data-orig-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=318%2C474&amp;ssl=1" data-orig-size="318,474" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="The-Origins-of-Political-Order" data-image-description="" data-medium-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=201%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=318%2C474&amp;ssl=1" data-lazy-srcset="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?w=318&amp;ssl=1 318w, https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?resize=201%2C300&amp;ssl=1 201w" data-lazy-sizes="(max-width: 101px) 100vw, 101px" data-lazy-src="https://i0.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/The-Origins-of-Political-Order.jpg?fit=101%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/10/the-origins-of-political-order-book-review/" title="ما أسباب استقرار بعض الدول وانهيار أخرى؟ لمحة سريعة حول كتاب The Origins of Political Order">
+					ما أسباب استقرار بعض الدول وانهيار أخرى؟ لمحة سريعة حول كتاب The Origins of Political Order				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-10-26T20:22:22+01:00">
+	<i class="icon-calendar"></i>
+	26/10/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>كتاب صعب المراس، طويل ودسم (ومُملّ في بعض الأحيان لكثرة التفاصيل، ولمحاولته أن يكون أكاديميا/ شاملًا للكثير من دقائق الأمور) لكنّه مفيد. يدرس الكاتب فرانسيس فوكوياما Francis Fukuyama مسألة &#8220;ما الذي يجعل الدول مُستقرة&#8221; ويُعبّر عن هذه الفكرة في بداية &hellip; <a href="https://www.it-scoop.com/2019/10/the-origins-of-political-order-book-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20592 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/10/edward-snowden-permanent-record-book-review/" title="لمحة سريعة حول السيرة الذاتية لإدوارد سنودن Permanent Record">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="98x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACWAQMAAAAfaM9CAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="98" height="150" data-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=98%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20594" data-permalink="https://www.it-scoop.com/2019/10/edward-snowden-permanent-record-book-review/permanent-record/" data-orig-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=650%2C1000&amp;ssl=1" data-orig-size="650,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Permanent-Record" data-image-description="" data-medium-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=195%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=650%2C1000&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?w=650&amp;ssl=1 650w, https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?resize=195%2C300&amp;ssl=1 195w" data-lazy-sizes="(max-width: 98px) 100vw, 98px" data-lazy-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=98%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="98" height="150" src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=98%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20594" data-permalink="https://www.it-scoop.com/2019/10/edward-snowden-permanent-record-book-review/permanent-record/" data-orig-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=650%2C1000&amp;ssl=1" data-orig-size="650,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Permanent-Record" data-image-description="" data-medium-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=195%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=650%2C1000&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?w=650&amp;ssl=1 650w, https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?resize=195%2C300&amp;ssl=1 195w" data-lazy-sizes="(max-width: 98px) 100vw, 98px" data-lazy-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/10/Permanent-Record.jpg?fit=98%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/10/edward-snowden-permanent-record-book-review/" title="لمحة سريعة حول السيرة الذاتية لإدوارد سنودن Permanent Record">
+					لمحة سريعة حول السيرة الذاتية لإدوارد سنودن Permanent Record				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-10-06T17:46:20+01:00">
+	<i class="icon-calendar"></i>
+	06/10/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>قبل أن أخوض فيما استخلصته من الكتاب، أود أن أشير إلى أن الأسلوب الذي كُتب به هذا الكتاب أخّاذ. لو لم تكن مُعظم تفاصيل قصّته معروفة من قبل لقلت أنه &#8220;ألّف&#8221; أغلب ما في الكتاب تأليفًا نظرًا لتناسق الأفكار والأحداث &hellip; <a href="https://www.it-scoop.com/2019/10/edward-snowden-permanent-record-book-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+  <article class="post-20582 post type-post status-publish format-standard has-post-thumbnail hentry category-2464 category-1451">
+<div class="row">
+	<div class="col-md-3">
+  		<a href="https://www.it-scoop.com/2019/08/ultralearning-review/" title="عن التّعلم الذاتي المركّز والموجّه، لمحة سريعة حول كتاب Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career">
+    		    			<img data-lazyloaded="1" data-placeholder-resp="99x150" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAACWAQMAAADwqqR8AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAABhJREFUSMdjYBgFo2AUjIJRMApGwSggDAAINAAB4h7CHAAAAABJRU5ErkJggg==" width="99" height="150" data-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=99%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20583" data-permalink="https://www.it-scoop.com/2019/08/ultralearning-review/ultralearning/" data-orig-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=314%2C475&amp;ssl=1" data-orig-size="314,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ultralearning" data-image-description="" data-medium-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=314%2C475&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?w=314&amp;ssl=1 314w, https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 99px) 100vw, 99px" data-lazy-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=99%2C150&amp;ssl=1&amp;is-pending-load=1" data-srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img width="99" height="150" src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=99%2C150&amp;ssl=1" class="img-thumbnail wp-post-image jetpack-lazy-image" alt="" data-attachment-id="20583" data-permalink="https://www.it-scoop.com/2019/08/ultralearning-review/ultralearning/" data-orig-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=314%2C475&amp;ssl=1" data-orig-size="314,475" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ultralearning" data-image-description="" data-medium-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=198%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=314%2C475&amp;ssl=1" data-lazy-srcset="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?w=314&amp;ssl=1 314w, https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 99px) 100vw, 99px" data-lazy-src="https://i1.wp.com/www.it-scoop.com/wp-content/uploads/2019/08/ultralearning.jpg?fit=99%2C150&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></noscript>    			
+    	</a>
+    </div> 
+    <div class="col-md-9">
+	 	<header>
+			<h3 class="entry-title">
+				<a href="https://www.it-scoop.com/2019/08/ultralearning-review/" title="عن التّعلم الذاتي المركّز والموجّه، لمحة سريعة حول كتاب Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career">
+					عن التّعلم الذاتي المركّز والموجّه، لمحة سريعة حول كتاب Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career				</a>
+			</h3>
+			<div class="entry-meta">
+				<time class="published" datetime="2019-08-19T21:58:46+01:00">
+	<i class="icon-calendar"></i>
+	19/08/2019 
+</time> 
+<span class="byline author vcard"> 
+	<i class="icon-pencil"></i>
+	بواسطة  
+	<a href="https://www.it-scoop.com/author/admin/" rel="author" class="fn">
+		يوغرطة بن علي (Youghourta Benali) 	</a> 
+	 <i class="icon-bookmark"></i> ضمن تصنيفي: <a href="https://www.it-scoop.com/category/%d9%83%d9%8f%d8%aa%d8%a8/">كُتب</a> ،<a href="https://www.it-scoop.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/">مقالات</a>.</span>			</div>		
+	  	</header>
+		<div class="entry-summary">
+			<p>من الكتب التي قرأتها لأنه سبق لي أن قرأت مقالات لكاتبها. من الكتب التي أيضا رغبت أن تعجبني كثيرًا لكنني لم أجد ضالتي فيها (أو ربما وجدت بعضًا منها فقط). كتاب يشرح كيف يُمكن لك أن تتعلّم أي مجال/موضوع ترغب &hellip; <a href="https://www.it-scoop.com/2019/08/ultralearning-review/">مستمر</a></p>
+		</div>
+  </div>
+</div>
+<hr>
+</article>
+
+  <nav class="post-nav">
+    <ul class="pager">
+      <li class="previous"><a href="https://www.it-scoop.com/page/2/" >&rarr; المنشورات الأقدم</a></li>
+      <li class="next"></li>
+    </ul>
+  </nav>
+      </div><!-- /.main -->
+            <aside class="sidebar col-sm-3" role="complementary">
+        <section class="widget bfw-3 BFW"><div class="widget-inner"><h3>القائمة البريدية</h3><form id="BFW" action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=it-scoop/Prfa', 'popupwindow', 'scrollbars=yes,width=550,height=520')" target="popupwindow"><input id="BFW_email" type="text" name="email" /><input type="hidden" value="it-scoop/Prfa" name="uri"/><input type="hidden" name="loc" value="en_US"/><input id="BFW_submit" type="submit" value="انضم" /><div id="BFW_stats"><a href="http://feeds.feedburner.com/it-scoop/Prfa"><img data-lazyloaded="1" data-placeholder-resp="88x26" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAaAQMAAAAJywkQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABlBMVEXP1Nv////IR9S9AAAAAWJLR0QB/wIt3gAAAA1JREFUGNNjYBgF5AAAATgAAdLUp8oAAAAASUVORK5CYII=" data-src="https://feeds.feedburner.com/~fc/it-scoop/Prfa?bg=99ccff&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="Feedburner Subscriber Count" /><noscript><img src="https://feeds.feedburner.com/~fc/it-scoop/Prfa?bg=99ccff&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="Feedburner Subscriber Count" /></noscript></a></div>
+</form><div id="BFW_afterform">نرسل لك دوريا آخر المقالات إلى بريدك</div></div></section><section class="widget tag_cloud-4 widget_tag_cloud"><div class="widget-inner"><h3>معرض الوسوم</h3><div class="tagcloud"><a href="https://www.it-scoop.com/tag/adobe/" class="tag-cloud-link tag-link-55 tag-link-position-1" style="font-size: 11.578947368421pt;" aria-label="Adobe (34 عنصر)">Adobe</a>
+<a href="https://www.it-scoop.com/tag/amazon/" class="tag-cloud-link tag-link-671 tag-link-position-2" style="font-size: 9.6842105263158pt;" aria-label="Amazon (22 عنصر)">Amazon</a>
+<a href="https://www.it-scoop.com/tag/android/" class="tag-cloud-link tag-link-48 tag-link-position-3" style="font-size: 16.631578947368pt;" aria-label="Android (103 عناصر)">Android</a>
+<a href="https://www.it-scoop.com/tag/apache/" class="tag-cloud-link tag-link-102 tag-link-position-4" style="font-size: 8pt;" aria-label="Apache (15 عنصر)">Apache</a>
+<a href="https://www.it-scoop.com/tag/apple/" class="tag-cloud-link tag-link-2456 tag-link-position-5" style="font-size: 17.684210526316pt;" aria-label="Apple (131 عنصر)">Apple</a>
+<a href="https://www.it-scoop.com/tag/arabnet/" class="tag-cloud-link tag-link-1124 tag-link-position-6" style="font-size: 9.6842105263158pt;" aria-label="ArabNet (22 عنصر)">ArabNet</a>
+<a href="https://www.it-scoop.com/tag/bitdefender/" class="tag-cloud-link tag-link-444 tag-link-position-7" style="font-size: 10.105263157895pt;" aria-label="Bitdefender (24 عنصر)">Bitdefender</a>
+<a href="https://www.it-scoop.com/tag/blackberry/" class="tag-cloud-link tag-link-401 tag-link-position-8" style="font-size: 9.6842105263158pt;" aria-label="BlackBerry (22 عنصر)">BlackBerry</a>
+<a href="https://www.it-scoop.com/tag/chrome/" class="tag-cloud-link tag-link-98 tag-link-position-9" style="font-size: 14.631578947368pt;" aria-label="chrome (66 عنصر)">chrome</a>
+<a href="https://www.it-scoop.com/tag/facebook/" class="tag-cloud-link tag-link-37 tag-link-position-10" style="font-size: 18.315789473684pt;" aria-label="facebook (150 عنصر)">facebook</a>
+<a href="https://www.it-scoop.com/tag/firefox/" class="tag-cloud-link tag-link-13 tag-link-position-11" style="font-size: 14.315789473684pt;" aria-label="Firefox (62 عنصر)">Firefox</a>
+<a href="https://www.it-scoop.com/tag/flash/" class="tag-cloud-link tag-link-393 tag-link-position-12" style="font-size: 8.6315789473684pt;" aria-label="Flash (17 عنصر)">Flash</a>
+<a href="https://www.it-scoop.com/tag/google/" class="tag-cloud-link tag-link-2462 tag-link-position-13" style="font-size: 22pt;" aria-label="Google (341 عنصر)">Google</a>
+<a href="https://www.it-scoop.com/tag/hp/" class="tag-cloud-link tag-link-45 tag-link-position-14" style="font-size: 10.736842105263pt;" aria-label="HP (28 عنصر)">HP</a>
+<a href="https://www.it-scoop.com/tag/ibm/" class="tag-cloud-link tag-link-112 tag-link-position-15" style="font-size: 9.2631578947368pt;" aria-label="IBM (20 عنصر)">IBM</a>
+<a href="https://www.it-scoop.com/tag/internet-explorer/" class="tag-cloud-link tag-link-25 tag-link-position-16" style="font-size: 9.2631578947368pt;" aria-label="internet explorer (20 عنصر)">internet explorer</a>
+<a href="https://www.it-scoop.com/tag/ios/" class="tag-cloud-link tag-link-611 tag-link-position-17" style="font-size: 11.789473684211pt;" aria-label="iOS (35 عنصر)">iOS</a>
+<a href="https://www.it-scoop.com/tag/ipad/" class="tag-cloud-link tag-link-369 tag-link-position-18" style="font-size: 13.368421052632pt;" aria-label="ipad (50 عنصر)">ipad</a>
+<a href="https://www.it-scoop.com/tag/iphone/" class="tag-cloud-link tag-link-29 tag-link-position-19" style="font-size: 14.736842105263pt;" aria-label="iPhone (68 عنصر)">iPhone</a>
+<a href="https://www.it-scoop.com/tag/it-scoop/" class="tag-cloud-link tag-link-795 tag-link-position-20" style="font-size: 8.8421052631579pt;" aria-label="it-scoop (18 عنصر)">it-scoop</a>
+<a href="https://www.it-scoop.com/tag/java/" class="tag-cloud-link tag-link-194 tag-link-position-21" style="font-size: 11.789473684211pt;" aria-label="Java (35 عنصر)">Java</a>
+<a href="https://www.it-scoop.com/tag/linux/" class="tag-cloud-link tag-link-169 tag-link-position-22" style="font-size: 15.789473684211pt;" aria-label="Linux (87 عنصر)">Linux</a>
+<a href="https://www.it-scoop.com/tag/microsoft/" class="tag-cloud-link tag-link-2460 tag-link-position-23" style="font-size: 18.631578947368pt;" aria-label="Microsoft (160 عنصر)">Microsoft</a>
+<a href="https://www.it-scoop.com/tag/mozilla/" class="tag-cloud-link tag-link-73 tag-link-position-24" style="font-size: 14.210526315789pt;" aria-label="Mozilla (60 عنصر)">Mozilla</a>
+<a href="https://www.it-scoop.com/tag/nokia/" class="tag-cloud-link tag-link-262 tag-link-position-25" style="font-size: 8.6315789473684pt;" aria-label="Nokia (17 عنصر)">Nokia</a>
+<a href="https://www.it-scoop.com/tag/opera/" class="tag-cloud-link tag-link-18 tag-link-position-26" style="font-size: 8.3157894736842pt;" aria-label="Opera (16 عنصر)">Opera</a>
+<a href="https://www.it-scoop.com/tag/oracle/" class="tag-cloud-link tag-link-33 tag-link-position-27" style="font-size: 12.947368421053pt;" aria-label="oracle (46 عنصر)">oracle</a>
+<a href="https://www.it-scoop.com/tag/patch-tuesday/" class="tag-cloud-link tag-link-331 tag-link-position-28" style="font-size: 9.6842105263158pt;" aria-label="Patch Tuesday (22 عنصر)">Patch Tuesday</a>
+<a href="https://www.it-scoop.com/tag/rim/" class="tag-cloud-link tag-link-345 tag-link-position-29" style="font-size: 10.210526315789pt;" aria-label="RIM (25 عنصر)">RIM</a>
+<a href="https://www.it-scoop.com/tag/samsung/" class="tag-cloud-link tag-link-36 tag-link-position-30" style="font-size: 9.8947368421053pt;" aria-label="Samsung (23 عنصر)">Samsung</a>
+<a href="https://www.it-scoop.com/tag/security/" class="tag-cloud-link tag-link-2461 tag-link-position-31" style="font-size: 15.368421052632pt;" aria-label="Security (79 عنصر)">Security</a>
+<a href="https://www.it-scoop.com/tag/skype/" class="tag-cloud-link tag-link-28 tag-link-position-32" style="font-size: 9.0526315789474pt;" aria-label="skype (19 عنصر)">skype</a>
+<a href="https://www.it-scoop.com/tag/smartphone/" class="tag-cloud-link tag-link-65 tag-link-position-33" style="font-size: 10.210526315789pt;" aria-label="SmartPhone (25 عنصر)">SmartPhone</a>
+<a href="https://www.it-scoop.com/tag/sun/" class="tag-cloud-link tag-link-32 tag-link-position-34" style="font-size: 8.3157894736842pt;" aria-label="sun (16 عنصر)">sun</a>
+<a href="https://www.it-scoop.com/tag/twitter/" class="tag-cloud-link tag-link-60 tag-link-position-35" style="font-size: 16.631578947368pt;" aria-label="Twitter (103 عناصر)">Twitter</a>
+<a href="https://www.it-scoop.com/tag/ubuntu/" class="tag-cloud-link tag-link-168 tag-link-position-36" style="font-size: 10.210526315789pt;" aria-label="Ubuntu (25 عنصر)">Ubuntu</a>
+<a href="https://www.it-scoop.com/tag/vulnerability/" class="tag-cloud-link tag-link-189 tag-link-position-37" style="font-size: 11.894736842105pt;" aria-label="vulnerability (36 عنصر)">vulnerability</a>
+<a href="https://www.it-scoop.com/tag/windows/" class="tag-cloud-link tag-link-70 tag-link-position-38" style="font-size: 10.631578947368pt;" aria-label="Windows (27 عنصر)">Windows</a>
+<a href="https://www.it-scoop.com/tag/yahoo/" class="tag-cloud-link tag-link-167 tag-link-position-39" style="font-size: 11.894736842105pt;" aria-label="Yahoo (36 عنصر)">Yahoo</a>
+<a href="https://www.it-scoop.com/tag/youtube/" class="tag-cloud-link tag-link-127 tag-link-position-40" style="font-size: 9.8947368421053pt;" aria-label="youtube (23 عنصر)">youtube</a>
+<a href="https://www.it-scoop.com/tag/%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%a9-%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d8%a9/" class="tag-cloud-link tag-link-5 tag-link-position-41" style="font-size: 9.0526315789474pt;" aria-label="المجلة التقنية (19 عنصر)">المجلة التقنية</a>
+<a href="https://www.it-scoop.com/tag/%d8%ac%d9%88%d8%ac%d9%84/" class="tag-cloud-link tag-link-249 tag-link-position-42" style="font-size: 9.8947368421053pt;" aria-label="جوجل (23 عنصر)">جوجل</a>
+<a href="https://www.it-scoop.com/tag/%d8%b9%d8%b1%d8%a8-%d9%86%d8%aa/" class="tag-cloud-link tag-link-1412 tag-link-position-43" style="font-size: 8.8421052631579pt;" aria-label="عرب نت (18 عنصر)">عرب نت</a>
+<a href="https://www.it-scoop.com/tag/%d9%81%d9%8a%d8%b3-%d8%a8%d9%88%d9%83/" class="tag-cloud-link tag-link-1914 tag-link-position-44" style="font-size: 11.894736842105pt;" aria-label="فيس بوك (36 عنصر)">فيس بوك</a>
+<a href="https://www.it-scoop.com/tag/%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83/" class="tag-cloud-link tag-link-1934 tag-link-position-45" style="font-size: 9.2631578947368pt;" aria-label="فيسبوك (20 عنصر)">فيسبوك</a></div>
+</div></section>      </aside><!-- /.sidebar -->
+          </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+  <footer class="isn-footer content-info" role="contentinfo">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+			  <section class="widget text-27 widget_text"><div class="widget-inner">			<div class="textwidget"><!-- KISSmetrics tracking snippet -->
+<script type="text/javascript">var _kmq = _kmq || [];
+var _kmk = _kmk || '043c3fdfc52db4c9d8bbe0fff046c50ffec23fe5';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script></div>
+		</div></section><section class="widget text-9 widget_text"><div class="widget-inner">			<div class="textwidget"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10443036-2");
+pageTracker._trackPageview();
+} catch(err) {}</script></div>
+		</div></section><section class="widget text-28 widget_text"><div class="widget-inner">			<div class="textwidget"><!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+mixpanel.init("4f923a457d88df4773b8155b2f593f23");
+mixpanel.track(
+    "test",
+    { "param": "test" }
+);
+</script><!-- end Mixpanel -->
+</div>
+		</div></section>			  <a href="https://www.it-scoop.com/">
+                  <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="img-responsive footer-logo" width="80" data-src="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/img/logo.svg"><noscript><img class="img-responsive footer-logo" width="80" src="https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/img/logo.svg"></noscript>
+              </a>
+              محتوى الموقع منشور تحت رخصة المشاع الإبداعي <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" alt="Creative Commons License" style="border-width:0" data-src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /><noscript><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png" /></noscript></a> يُمكنك استخدام محتويات المجلة التقنية بشرط ذكر اسم المؤلف والمجلة التقنية والرابط إلى المقالة المعنية بالأمر، ما لم ينص صاحب المقال على غير ذلك.</a>
+
+			  </p>
+			
+			</div>
+		</div>
+	</div>
+</footer>
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.it-scoop.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"it-scoop"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"ar","ajaxurl":"https:\/\/www.it-scoop.com\/wp-admin\/admin-ajax.php","nonce":"6e0138273c","display_exif":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"\u062a\u0639\u0644\u064a\u0642","post_comment":"\u0623\u0636\u0641 \u062a\u0639\u0644\u064a\u0642\u0627\u064b","write_comment":"\u0627\u0643\u062a\u0628 \u062a\u0639\u0644\u064a\u0642\u0627\u064b...","loading_comments":"\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u062a\u0639\u0644\u064a\u0642\u0627\u062a...","download_original":"\u0639\u0631\u0636 \u0628\u0627\u0644\u062d\u062c\u0645 \u0627\u0644\u0643\u0627\u0645\u0644 <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"\u064a\u0631\u062c\u0649 \u0627\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u0643\u062a\u0627\u0628\u0629 \u0628\u0639\u0636 \u0627\u0644\u0646\u0635\u0648\u0635 \u062f\u0627\u062e\u0644 \u062a\u0639\u0644\u064a\u0642\u0643.","no_comment_email":"\u0631\u062c\u0627\u0621 \u0642\u0645 \u0628\u062a\u0641\u0639\u064a\u0644 \u0628\u0631\u064a\u062f\u0643 \u0627\u0644\u0627\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0644\u0648\u0636\u0639 \u062a\u0639\u0644\u064a\u0642\u0643.","no_comment_author":"\u0631\u062c\u0627\u0621 \u0642\u0645 \u0628\u062a\u0641\u0639\u064a\u0644 \u0623\u0633\u0645\u0643 \u0644\u0648\u0636\u0639 \u062a\u0639\u0644\u064a\u0642\u0643.","comment_post_error":"\u0639\u0641\u0648\u0627\u064b\u060c \u0644\u0643\u0646 \u0647\u0646\u0627\u0643 \u0645\u0634\u0643\u0644\u0629 \u0628\u0646\u0634\u0631 \u062a\u0639\u0644\u064a\u0642\u0643. \u064a\u0631\u062c\u0649 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u0631\u0629 \u0623\u062e\u0631\u0649 \u0644\u0627\u062d\u0642\u0627\u064b.","comment_approved":"\u062a\u0645\u062a \u0627\u0644\u0645\u0648\u0627\u0641\u0642\u0629 \u0639\u0644\u0649 \u062a\u0639\u0644\u064a\u0642\u0643.","comment_unapproved":"\u062a\u0639\u0644\u064a\u0642\u0643 \u0628\u062d\u0627\u062c\u0629 \u0644\u0645\u0648\u0627\u0641\u0642\u0629 \u0627\u0644\u0645\u062f\u064a\u0631.","camera":"\u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627","aperture":"\u0641\u062a\u062d\u0629 \u0627\u0644\u0639\u062f\u0633\u0629","shutter_speed":"\u0633\u0631\u0639\u0629 \u0627\u0644\u063a\u0627\u0644\u0642","focal_length":"\u0627\u0644\u0628\u0639\u062f \u0627\u0644\u0628\u0624\u0631\u064a","copyright":"\u062d\u0642\u0648\u0642 \u0627\u0644\u0646\u0634\u0631","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/www.it-scoop.com\/wp-login.php?redirect_to=https%3A%2F%2Fwww.it-scoop.com%2F2020%2F02%2Fuse-youtube-without-youtube-app%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">\u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a (\u0645\u0637\u0644\u0648\u0628)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">\u0627\u0644\u0627\u0633\u0645 (\u0645\u0637\u0644\u0648\u0628)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">\u0627\u0644\u0645\u0648\u0642\u0639<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/* ]]> */
+</script>
+<script type="text/javascript">head.js({"jetpack-photon": "https://c0.wp.com/p/jetpack/7.9.1/_inc/build/photon/photon.min.js"},{"contact-form-7": "https://www.it-scoop.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.5"},{"disqus_count": "https://www.it-scoop.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17"},{"devicepx": "https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202019"},{"wp-syntax-js": "https://www.it-scoop.com/wp-content/plugins/wp-syntax/js/wp-syntax.js?ver=1.1"},{"grofiles-cards": "https://secure.gravatar.com/js/gprofiles.js?ver=2020Mayaa"},{"wpgroho": "https://c0.wp.com/p/jetpack/7.9.1/modules/wpgroho.js"},{"jetpack-lazy-images": "https://c0.wp.com/p/jetpack/7.9.1/_inc/build/lazy-images/js/lazy-images.min.js"},{"roots_scripts": "https://www.it-scoop.com/wp-content/themes/itscoopnetwork/assets/js/scripts.min.js?ver=2a3e700c4c6e3d70a95b00241a845695"},{"wp-embed": "https://c0.wp.com/c/5.2.4/wp-includes/js/wp-embed.min.js"},{"spin": "https://c0.wp.com/p/jetpack/7.9.1/_inc/build/spin.min.js"},{"jquery.spin": "https://c0.wp.com/p/jetpack/7.9.1/_inc/build/jquery.spin.min.js"},{"jetpack-carousel": "https://c0.wp.com/p/jetpack/7.9.1/_inc/build/carousel/jetpack-carousel.min.js"});</script><script type='text/javascript' src='https://stats.wp.com/e-202019.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.9.1',blog:'10256844',post:'0',tz:'1',srv:'www.it-scoop.com'} ]);
+	_stq.push([ 'clickTrackerInit', '10256844', '0' ]);
+</script>
+
+<script src="https://www.it-scoop.com/wp-content/plugins/litespeed-cache/js/lazyload.min.js"></script></body>
+</html>
+
+<!-- Page generated by LiteSpeed Cache 2.9.9.2 on 2020-05-09 09:21:44 -->

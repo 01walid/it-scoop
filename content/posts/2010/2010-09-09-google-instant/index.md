@@ -19,7 +19,7 @@ tags:
 
 أطلقت google أمس خدمة البحث الفوري على موقعها و التي أطلقت عليها اسم Instant و التي تظهر نتائج البحث قبل أن يكمل الباحث كتابة ما يبحث عنه.
 
-[caption id="attachment_4866" align="aligncenter" width="515" caption="مثال عن المساعدة التي يقدمها Google Instant"][![](https://www.it-scoop.com/wp-content/uploads/2010/09/GoogleInstantAnswer1.jpg)
+[caption id="attachment_4866" align="aligncenter" width="515" caption="مثال عن المساعدة التي يقدمها Google Instant"][![](GoogleInstantAnswer1.jpg)
 ](https://www.it-scoop.com/2010/09/google-instant/)[/caption]
 
 الخاصية الجديدة و التي أتى الإعلان عن خلال مؤتمر Google Search الذي عقدته Google أمس، تسمح حسب Google بربح وقت مهم لدى البحث على موقعها.

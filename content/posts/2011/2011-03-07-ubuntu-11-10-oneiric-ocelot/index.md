@@ -23,7 +23,7 @@ tags:
 كشف  Mark Shuttleworth مؤسس و المدير العام السابق لـ Canonical عن [الاسم الذي سيحمله](http://www.markshuttleworth.com/archives/646) الإصدار القادم (أو بالأحرى الذي بعده) من توزيعة Ubuntu و الذي سيكون Oneiric Ocelot.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu-300x79.png)
+[![](new-logo-ubuntu-300x79.png)
 ](https://www.it-scoop.com/2011/03/ubuntu-11-10-oneiric-ocelot)
 
 
@@ -32,6 +32,6 @@ tags:
 
 أما عن معنى الاسم فهو مكون من قسمين oneiric المشتق من المصدر oneirology و الذي يقصد به دراسة الأحلام . أما ocelot فهو أحد السنوريات التي تعيش في أمريكا الوسطى و الجنوبية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/ocelot.jpg)
+[![](ocelot.jpg)
 ](https://www.it-scoop.com/2011/03/ubuntu-11-10-oneiric-ocelot)
 

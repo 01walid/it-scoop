@@ -156,7 +156,7 @@ tags:
 
 
 
-[![](http://i55.tinypic.com/acqslx.png)
+[![](acqslx.png)
 ](https://socialmedia4arab.com/2011/09/facebook-f8/)
 
 

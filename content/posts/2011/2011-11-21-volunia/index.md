@@ -19,8 +19,8 @@ tags:
 
 
 
-[![Massimo Marchiori](https://www.it-scoop.com/wp-content/uploads/2011/11/Massimo-Marchiori.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/Massimo-Marchiori.jpg)
+[![Massimo Marchiori](Massimo-Marchiori.jpg)
+](Massimo-Marchiori.jpg)
 
 
 

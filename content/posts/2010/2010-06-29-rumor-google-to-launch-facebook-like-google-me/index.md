@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Kevine-Rose-tweet-Google-Me.jpg)
+[![](Kevine-Rose-tweet-Google-Me.jpg)
 ](it-scoop.com/2010/06/Rumor-Google-to-Launch-Facebook-Like-Google-Me)
 
 

@@ -27,14 +27,14 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/google-adsense-logo.gif)
-](https://www.it-scoop.com/wp-content/uploads/2010/10/google-adsense-logo.gif)
+[![](google-adsense-logo.gif)
+](google-adsense-logo.gif)
 
 
 الإعلان جاء عبر [مدونة](http://adsense.blogspot.com/2010/10/western-union-now-launched-in-four.html) AdSense الرسمية، و التي تشير إلى استفادة  3 دول إفريقية أخرى من الخاصية "الجديدة" و هي كل من غانا، كينيا و أوغندا.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/WU-Adsense.png)
+[![](WU-Adsense.png)
 ](https://www.it-scoop.com/2010/10/google-adsense-algeria/)
 
 

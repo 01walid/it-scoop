@@ -16,7 +16,7 @@ tags:
 
 تواصل شبكة التدوين المصغر Twitter صعودها نحو القمة، حيث وصل عدد المسجلين فيه إلى أكثر من 100 مليون ، مع تسجيل 300 ألف اشتراك جديد كل يوم.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo.jpg)
+[![](twitter_logo.jpg)
 ](https://www.it-scoop.com/2010/04/twitter-surpasses-100-million-user/)
 
 بالرغم من كونه لا يزال بعيدا على Facebook و مشتركيها الذين فاقوا الـ 400 مليون، إلا أن 100 مليون مشترك يبقى رقما لا يستهان به خاصة و أن Twitter لم ينطلق سوى منذ أربع سنوات فقط.

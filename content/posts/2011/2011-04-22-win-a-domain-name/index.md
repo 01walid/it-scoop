@@ -45,7 +45,7 @@ categories:
 
 
 
-![Sans titre](http://lh4.ggpht.com/_MIqc395dv38/TZpBuhhDnEI/AAAAAAAACoM/BOlgVrmr6Kk/Sans%20titre_thumb%5B2%5D.png?imgmax=800)
+![Sans titre](Sans%20titre_thumb%5B2%5D.png?imgmax=800)
 
 
 

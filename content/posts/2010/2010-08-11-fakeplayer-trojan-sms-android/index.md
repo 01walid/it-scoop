@@ -31,7 +31,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/android-virus.jpg)
+[![](android-virus.jpg)
 ](https://www.it-scoop.com/2010/08/fakeplayer-trojan-sms-android/)
 
 

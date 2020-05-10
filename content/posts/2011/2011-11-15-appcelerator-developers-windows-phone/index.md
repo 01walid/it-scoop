@@ -27,8 +27,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/11/appcelerator-mobile-developer-report-nov-2011.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/appcelerator-mobile-developer-report-nov-2011.png)
+[![](appcelerator-mobile-developer-report-nov-2011.png)
+](appcelerator-mobile-developer-report-nov-2011.png)
 
 
 

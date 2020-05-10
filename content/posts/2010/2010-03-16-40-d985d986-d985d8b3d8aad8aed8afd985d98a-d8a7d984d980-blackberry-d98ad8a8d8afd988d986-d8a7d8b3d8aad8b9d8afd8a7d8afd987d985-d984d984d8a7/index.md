@@ -20,7 +20,7 @@ tags:
 
 بين استطلاع للرأي قامت به Crowd Science أن 40% من ملاك أجهزة الـ BlackBerry أبدوا استعدادهم للانتقال إلى جهاز الـ iPhone لدى تغييرهم لهواتفهم الذكية،فيما أبدى 32% منهم نيتهم الانتقال إلى جهاز Nexus One.
 
-[![](https://djug.developpez.com/rsc/Blackberry-vs-n1-iphone.jpg)
+[![](Blackberry-vs-n1-iphone.jpg)
 ](https://www.it-scoop.com/2010/03/40-%d9%85%d9%86-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a-%d8%a7%d9%84%d9%80-blackberry-%d9%8a%d8%a8%d8%af%d9%88%d9%86-%d8%a7%d8%b3%d8%aa%d8%b9%d8%af%d8%a7%d8%af%d9%87%d9%85-%d9%84%d9%84%d8%a7/)
 
 حسب John Martin المدير العام لـ Crowd Science فإن هذه الأرقام تعكس نفاد صبر ملاك أجهزة الـ BlackBerry و الذين لم يروا أجهزتهم تتطور منذ إطلاق الـ iPhone.

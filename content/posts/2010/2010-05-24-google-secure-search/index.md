@@ -23,7 +23,7 @@ tags:
 أطلقت Google خدمة البحث المشفر مثلما أشارت  إليه سابقا و ذلك بالاعتماد على بروتوكول SSL (Secure Sockets Layer)، حيث يمكن الوصول إليها بإضافة حرف S إلى http:// في شريط العناوين ليصبح عنوان الموقع [http**s**://www.google.com](https://www.google.com/)
 
 [
-](https://www.it-scoop.com/wp-content/uploads/2010/05/google_security.jpg)[![](https://2.bp.blogspot.com/_7ZYqYi4xigk/S_bPV7vSOoI/AAAAAAAAGJ4/Zu09Uld5Qr4/s400/ssl+search.png)
+](https://www.it-scoop.com/wp-content/uploads/2010/05/google_security.jpg)[![](ssl+search.png)
 ](https://www.it-scoop.com/2010/05/google-secure-search/)
 
 في التدوينة التي تعلن إطلاق الخدمة الجديدة، تشير Google  إلى أن التشفير يوفر حماية لمستخدميها، حيث يصبح من غير الممكن أن تتمكن أطراف أخرى من الوصول إلى عمليات البحث التي يقوم بها المستخدم، إلا أن هذا الأمر "ليس خاليا من الضرائب" حيث أن مزيدا من الحماية يعني مزيدا من الوقت اللازم لتشفير البيانات المتبادلة بين المتصفح و محرك البحث أي زمنا أطول للوصول نتيجة البحث.

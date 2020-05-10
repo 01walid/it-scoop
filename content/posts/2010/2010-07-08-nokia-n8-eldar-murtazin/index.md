@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://www.mobile-review.com/articles/2010/image/birulki-64/12mpx/pic04.jpg)
+[![](pic04.jpg)
 ](https://www.it-scoop.com/2010/07/nokia-n8-eldar-murtazin/)
 
 

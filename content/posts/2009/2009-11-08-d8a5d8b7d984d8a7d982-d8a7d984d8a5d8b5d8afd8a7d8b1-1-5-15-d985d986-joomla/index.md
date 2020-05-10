@@ -13,7 +13,7 @@ tags:
 
 أعلن القائمون على مشروع Joomla   نظام إدارة المحتوى (CMS) الشهير ، عن إطلاق الإصدار 1.5.15   من joomla
 
-![joomla](https://www.it-scoop.com/wp-content/uploads/2009/11/joomla.png)
+![joomla](joomla.png)
 
 
 تأتي هذه الإصدارة المسماة Wojmamni ama mamni ثلاث أشهر منذ  إطلاق الإصدار السابق 1.5.14.

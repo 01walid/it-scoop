@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/lg-vmware.jpg)
+[![](lg-vmware.jpg)
 ](https://www.it-scoop.com/2010/12/lg-vmware-android-virtualization)
 
 

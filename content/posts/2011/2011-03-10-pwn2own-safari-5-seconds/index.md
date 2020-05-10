@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/VUPEN-tweet.png)
+[![](VUPEN-tweet.png)
 ]( https://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
 
 
@@ -36,7 +36,7 @@ tags:
 
 و لقد سارعت Micrsosoft [للإعلان](http://twitter.com/msftsecresponse/status/45646985998516224) أنها بدأت فعليا في التحقيق في الثغرة المستغلة خلال مسابقة  Pwn2Ownو العمل على توفير ترقيع لها
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/msftsecresponse-tweet.png)
+[![](msftsecresponse-tweet.png)
 ]( https://www.it-scoop.com/2011/03/pwn2own-safari-5-seconds/)
 
 أما البطل للسنة الثانية على التوالي فهو من دون شك متصفح Chrome الذي لم يسجل في مسابقة اختراقه سوى باحث أمني واحد و الذي فضل عدم تجربة حظه (ربما لأنه يعرف أن النتيجة محسومة سلفا).

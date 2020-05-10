@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/anonymous-logo-1.jpg)
+[![](anonymous-logo-1.jpg)
 ](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
 
 
@@ -63,10 +63,10 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-074420100-1316925286.png)
-](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](https://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-019864200-1316925774.png)
-](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](https://www.it-scoop.com/wp-content/uploads/2011/09/9-26-2011-8-44-17-AM.png)
-](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](https://www.it-scoop.com/wp-content/uploads/2011/09/post-7008-042922500-1317014573.gif)
+[![](post-7008-074420100-1316925286.png)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](post-7008-019864200-1316925774.png)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](9-26-2011-8-44-17-AM.png)
+](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)[![](post-7008-042922500-1317014573.gif)
 ](https://www.it-scoop.com/2011/09/revolusec-anonymous-syria/)
 
 

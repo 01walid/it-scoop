@@ -24,7 +24,7 @@ tags:
 [](https://www.it-scoop.com/2010/12/apple-ios-jail…-detection-api/)
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/jailbroken-iphone.jpg)
+[![](jailbroken-iphone.jpg)
 ](https://www.it-scoop.com/2010/12/apple-ios-jailbreak-detection-api/)
 
 

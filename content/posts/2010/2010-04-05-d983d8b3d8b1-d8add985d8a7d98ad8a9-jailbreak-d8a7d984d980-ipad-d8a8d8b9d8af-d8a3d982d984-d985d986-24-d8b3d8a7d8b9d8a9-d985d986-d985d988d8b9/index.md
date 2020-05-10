@@ -19,7 +19,7 @@ tags:
 
 أعلن الـ Hacker المعرف في الساحة "الآيفونية" تحت اسم [Musclenerd ](http://twitter.com/Musclenerd)عن تمكنه من كسر حماية جهاز الـ iPad أو ما يعرف بعملية الـ jailbreak بعد أقل من 24 ساعة من موعد إطلاقه الرسمي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/jailbreak-ipad1.jpg)
+[![](jailbreak-ipad1.jpg)
 ](https://www.it-scoop.com/2010/04/%d9%83%d8%b3%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-jailbreak-%d8%a7%d9%84%d9%80-ipad-%d8%a8%d8%b9%d8%af-%d8%a3%d9%82%d9%84-%d9%85%d9%86-24-%d8%b3%d8%a7%d8%b9%d8%a9-%d9%85%d9%86-%d9%85%d9%88%d8%b9/)
 
 تهدف عملية الـ jailbreak  إلى كسر الحماية المفروضة من طرف Apple مما يسمح بتنصيب أية برامج على الجهاز دون أن تكون هذه الأخيرة حاصلة على "مباركة" Apple، حيث تفرض هذه الأخيرة سياسة جد صارمة فيما يخص التطبيقات التي تخص أجهزتها.

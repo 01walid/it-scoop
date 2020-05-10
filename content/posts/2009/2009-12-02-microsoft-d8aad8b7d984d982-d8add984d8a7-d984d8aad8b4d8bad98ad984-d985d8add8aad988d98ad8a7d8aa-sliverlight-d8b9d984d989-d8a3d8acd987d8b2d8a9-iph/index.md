@@ -22,7 +22,7 @@ tags:
 أعلنت Microsoft عن توصلها لمعضلة عدم التمكن من عرض المحتويات الخاصة بـ Silverlight  على أجهزة الـ iPhone .
 
 
-![](https://djug.developpez.com/rsc/Silverlight_logo.jpg)
+![](Silverlight_logo.jpg)
 
 
 
@@ -35,7 +35,7 @@ tags:
 
 تجدر الإشارة إلى أن شركة Adobe  لا تزال تعاني من مشكلة منع Apple لها من عمل نسخة خاصة من برنامج Flash player  لأجهزة الـ iPhone  إذ تكتفي بإظهار  الرسالة التالية  لمستخدمي iPhone  في انتظار التوصل إلى حل توافقي مع Apple  أو التفكير في إيجاد حل من ناحية الخوادم مثلما فعلت Microsoft
 
-![](https://djug.developpez.com/rsc/flash_iphone.jpg)
+![](flash_iphone.jpg)
 
 
 [المصدر](http://www.betanews.com/article/Microsoft-worked-with-Apple-for-Silverlight-on-iPhone-says-Goldfarb/1259185079)

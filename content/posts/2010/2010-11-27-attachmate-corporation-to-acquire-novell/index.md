@@ -20,7 +20,7 @@ tags:
 
 ولو أنه قد تأخرنا بهذا الخبر بعض الشيء، [خاصة بعد العطل الفني الذي حصل معنا](https://www.it-scoop.com/2010/11/%D8%B9%D8%AF%D9%86%D8%A7-%D9%88-%D8%A7%D9%84%D8%B9%D9%88%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF/) مؤخرا، لكنا فضلنا ذكر هذا الخبر لأهميته وتكملة لسلسلة الأخبار التي ذكرناها سابقا بخصوص Novell، ومن ذلك ما أشرنا إليه سابقا عن نية كل من[ VMware  لشراء  قسم SUSE Linux ](https://www.it-scoop.com/2010/09/novell-vmware-suse-linux/)من شركة Novell وكذا الصندوق الاستثماري الأمريكي[ Elliott Associates  لشراء الشركة بأكملها](https://www.it-scoop.com/2010/03/%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D9%8A-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D8%B1%D8%B6-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%B4%D8%B1%D9%83%D8%A9-novell/).  لكن لم يحدث أي من ذلك، إلى أن جاءت شركة البرمجيات  Attachmate Corporation لتخطف الأضواء بإعلانها [أن شركة Novell هي من نصيبها](http://www.novell.com/news/press/novell-agrees-to-be-acquired-by-attachmate-corporation).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/20101122merger.jpg)
+[![](20101122merger.jpg)
 ](https://www.it-scoop.com/2010/11/attachmate-corporation-to-acquire-novell)
 
 أما عن تفاصيل الصفقة، فقد حصلت Novell على ما قيمته $6.10 للسهم الواحد، أي بعلاوة قدرها 28% عن إغلاق اليوم الثاني من شهر مارس الفارط، وكامل الصفقة تعادل ما قيمته 2.2 بليون دولار، يشمل ذلك نظام التشغيل Suse و أدوأت الأمن، المحاكاة الافتراضية، تسيير الخوادم datacenters والعلامات التجارية التابعة لـ Novell.

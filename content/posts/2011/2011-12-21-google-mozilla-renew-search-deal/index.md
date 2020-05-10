@@ -21,8 +21,8 @@ tags:
 
 
 
-[![Google تمدد عقدها مع Mozilla لثلاث سنوات إضافية](https://www.it-scoop.com/wp-content/uploads/2011/12/Mozilla-firefox.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/Mozilla-firefox.png)
+[![Google تمدد عقدها مع Mozilla لثلاث سنوات إضافية](Mozilla-firefox.png)
+](Mozilla-firefox.png)
 
 
 

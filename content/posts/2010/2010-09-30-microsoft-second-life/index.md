@@ -21,7 +21,7 @@ tags:
 أشارت بعض الأنباء على الإنترنت أن Microsoft أصبحت قاب قوسين أو أدنى من وضع يدها على العالم الافتراضي Second Life و الذي ذاع صيته منذ سنوات قبل أن يأفل نجمه لاحقا.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/SecondLife-Logo.jpg)
+[![](SecondLife-Logo.jpg)
 ](https://www.it-scoop.com/2010/09/microsoft-second-life/)
 
 حسب هذه [الأخبار](http://www.techeye.net/internet/microsoft-to-buy-second-life#ixzz111ftKrYZ) و التي مصدرها [هذه التغريدة](http://twitter.com/Tizzers/status/25962920921)، فإن Microsoft تحاول إتمام صفقة الشراء دون أن تصدر أية ضجة، و لقد تم قرن عملية الشراء "المحتملة" مع غلق فرع Linden Lab الشركة المنتجة لـ Second Life أبواب فرعها في انجلترا.

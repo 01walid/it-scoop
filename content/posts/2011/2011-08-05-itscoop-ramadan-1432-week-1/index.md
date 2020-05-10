@@ -51,7 +51,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/hsoubads-250x250.png)
+[![](hsoubads-250x250.png)
 ](https://www.it-scoop.com/2011/08/itscoop-ramadan-1432-week-1/)
 
 

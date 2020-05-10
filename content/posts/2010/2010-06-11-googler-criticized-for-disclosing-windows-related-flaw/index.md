@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/weaklink-300x195.jpg)
+[![](weaklink-300x195.jpg)
 ](https://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw)
 
 

@@ -20,7 +20,7 @@ tags:
 
 أطلقت Adobe الإصدار Preview لتطبيق Wallaby الذي يمكن من تحويل ملفات Flash (صيغة .fla)  إلى تطبيقات HTML5/CSS/JavaScript يمكن استعمالها مباشرة على المتصفح من دون أية إضافات.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/flash-html5.jpg)
+[![](flash-html5.jpg)
 ](https://www.it-scoop.com/2011/03/adobe-wallaby-flash-html-5/)
 
 و حسب Adobe فإن تطبيق Wallaby سيجنب المطورين الساعات و الأيام الطوال التي يقضونها لإعادة كتابة تطبيقات Flash  الخاصة بمواقعهم ليتم استخدامهما من غير الـ Flash (خاصة على أنظمة iOS). و يمكن للمطورين –بعد ذلك- التعديل على الشفرة الناتجة عن عملية التحويل مباشرة دون العودة إلى ملفات Flash.

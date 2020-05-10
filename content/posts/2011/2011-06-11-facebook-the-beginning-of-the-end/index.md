@@ -108,5 +108,5 @@ Twitter صمم منذ البداية ليستعمل على الهواتف و ي�
 
 ملاحظة: هذا المقال منشور تحت رخصة Creative Commons BY-NC (نفس رخصة المقال الأصلي)
 
-[![](http://i.creativecommons.org/l/by-nc/2.5/88x31.png)
+[![](88x31.png)
 ](http://creativecommons.org/licenses/by-nc/2.5/)

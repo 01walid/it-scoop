@@ -23,14 +23,14 @@ tags:
 
 
 
-[![](https://1.bp.blogspot.com/_hcnZ74EIM3A/TFMfdf8quGI/AAAAAAAAABY/WT-FAK2KicU/s1600/recommended_users.png)
+[![](recommended_users.png)
 ](https://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)
 
 
 كما تمت إضافة لسان تبويب جديد في قسم Find People و المسمى Suggestions for you لإظهار كامل قائمة المغردين المقترحين من طرف Twitter، إلى جانب إظهار اقتراحات لحسابات مشابهة لدى زيارة حساب مغرد لا تتابعه بعد.
 
 
-[![](https://3.bp.blogspot.com/_hcnZ74EIM3A/TFMfH5gOP_I/AAAAAAAAABQ/1o2qQ8FQQPI/s1600/similar_users.png)
+[![](similar_users.png)
 ](https://www.it-scoop.com/2010/07/twitter-suggestions-for-you/)
 
 

@@ -19,7 +19,7 @@ tags:
 على هامش المؤتمر العالمي للهواتف النقالة المقام حاليا في برشلونة قامت شركة OpenPeak بطرح جهازها اللوحي الثوري opentablet 7
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/opentablet7-sg.jpg)
+[![](opentablet7-sg.jpg)
 ](https://www.it-scoop.com/2010/02/opentablet-7-%d8%ac%d9%87%d8%a7%d8%b2-%d9%84%d9%88%d8%ad%d9%8a-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-atom/)
 
 

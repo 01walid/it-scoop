@@ -18,8 +18,8 @@ tags:
 
 
 
-[![جهاز كندل فاير Kindle Fire](https://www.it-scoop.com/wp-content/uploads/2011/12/kindle-fire.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/kindle-fire.jpg)
+[![جهاز كندل فاير Kindle Fire](kindle-fire.jpg)
+](kindle-fire.jpg)
 
 
 

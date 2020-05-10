@@ -19,7 +19,7 @@ tags:
 
 أكد  Shantanu Narayen المدير العام لـ Adobe في [حوار](http://video.foxbusiness.com/v/4148785/adobe-ceo-on-creative-suite-5-and-apple) أجرته معه قناة Fox Business أن صدور Flash 10.1 لأنظمة Android، Palm OS و BlackBerry سيشهد تأخرا إلى غاية النصف الثاني من العام الحالي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/flash.jpeg)
+[![](flash.jpeg)
 ](https://www.it-scoop.com/2010/04/flash-smartphone-delayed-again/)
 
 و في إجابة عن سؤال يخص رفض Apple السماح للـ Flash على جهاز الـ iPhone رد Shantanu Narayen بقوله :

@@ -19,7 +19,7 @@ tags:
 
 بعد إعلان Google  شهر أغسطس الماضي شراءها للـ On2 Technologies المتخصصة في ضغط الفيديو عالية الجودة بما فيها الـ VP3 و التي يعتبر الحجر الأساس للـ codec المفتوح Ogg Theora، و بعد الإعلان منذ أيام قليلة على إنهاء الصفقة و ترسيمها، وجهت الـ Free Software Foundation رسالة مفتوحة  إلى Google  تطلب منها تحرير الـ VP8 codec و اعتماده على youtube.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/FSF_Logo-300x184.jpg)
+[![](FSF_Logo-300x184.jpg)
 ](https://www.it-scoop.com/2010/02/%d8%a7%d9%84%d9%80-free-software-foundation-%d8%aa%d8%b7%d9%84%d8%a8-%d9%85%d9%86-google-%d8%a8%d9%81%d8%aa%d8%ad-%d9%85%d8%b5%d8%af%d8%b1-%d8%a7%d9%84%d9%80-vp8-codec/)
 
 تطلب الـ Free Software Foundation   من Google ليس فقط تحرير الـ Codec و إنما اعتماده أيضا على Youtube مما يسمح –حسب الـ FSF- من "تحرير الويب العالمي من براثن المعايير المملوكة" و المقصود هنا طبعا الـ Flash.

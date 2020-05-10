@@ -19,7 +19,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/1.jpg)
+[![](1.jpg)
 ](https://www.it-scoop.com/2011/06/punk-this/)
 
 الابتكار الجديد عبارة عن لوحة صغيرة  تسمى PunkThis من إنتاج الشركة النرويجية [CUPP](http://cuppcomputing.com/about/) , هذه اللوحة يمكن وصلها بجهاز الحاسوب المحمول أو بجهاز Netbook في مكان القرص الصلب  SATA Hard Drive 2.5-inch .
@@ -28,7 +28,7 @@ tags:
 
 نظام التشغيل فيها هو Android 2.3 Gingerbread وسيتم تحديثه لاحقا , يمكنك عبر هذا النظام الشهير والموجود في الكثير من أجهزة الجوال والأجهزة اللوحية أن تتصفح الانترنت وتستفيد من التطبيقات الأخرى المتاحة ولكن المذهل هنا العمل لفترة تصل إلى 20 ساعة بالنسبة لأجهزة Netbook , وحتى 40 ساعة في الأجهزة التي فيها شاشة بتنقنية [PixelQi](https://secure.wikimedia.org/wikipedia/en/wiki/Pixel_Qi) .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/2.png)
+[![](2.png)
 ](https://www.it-scoop.com/2011/06/punk-this/)
 
 يذكر أن شركة Asus ستكون أول شركة تضع هذه اللوحة في أجهزتها حيث ستدمج هذه اللوحة في  جهازها [Eee PC 1015PN](http://www.asus.com/Eee/Eee_PC/Eee_PC_1015PN/) لاحقا خلال هذا العام .

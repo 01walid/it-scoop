@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/SafegoTwitter.png)
+[![](SafegoTwitter.png)
 ](https://www.it-scoop.com/2011/08/bitdefender-twitter-safego/)
 
 

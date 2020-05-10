@@ -20,7 +20,7 @@ tags:
 
 تواصل Microsoft سلسلة نجاحاتها، و إعلاناتها التي ترافقها، و هذه المرة مع جهاز الاستشعار Kinect ، حيث أعلنت في [بيان صحفي](http://www.microsoft.com/presspass/press/2010/nov10/11-29MSXboxBlackFridayMoPR.mspx) نشرته أمس أنها استطاعت أن تبيع 2.5 مليون وحدة خلال 25 يوما فقط.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
+[![](kinect-for-xbox-360.png)
 ](https://www.it-scoop.com/2010/11/microsoft-2-5-million-kinect-25-days)
 
 و ما ساهم في مواصلة تحقيق أرقام إيجابية هو وصول الجهاز إلى الأسواق الآسيوية منذ الـ 20 من الشهر الجاري. كما لعب الـ Black Friday دورا هاما في الأمر، و هو يوم الجمعة الموالي لعيد الـ Thanks giving في الولايات المتحدة، و الذي يعتبر اليوم الذي تبدأ فيه عمليات الشراء الواسعة الخاصة بأعياد رأس السنة الميلادية.

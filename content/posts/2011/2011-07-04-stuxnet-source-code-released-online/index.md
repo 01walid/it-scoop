@@ -16,7 +16,7 @@ tags:
 
 [ذكر](http://www.thehackernews.com/2011/07/stuxnet-source-code-released-online.html) موقع the hacker news أن الشفرة المصدرية لدودة Stuxnet   أصبحت متوفرة للتحميل و لقد وفر الموقع رابطا لتحميله.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/stuxnet-source-code.jpg)
+[![](stuxnet-source-code.jpg)
 ](https://www.it-scoop.com/2011/07/stuxnet-source-code-released-online)
 
 لا ندري إن كانت الشفرة المصدرية المزعومة هي فعلا لـ Stuxnet، لكن يشير تعليقان على الموقع آنف الذكر أن الأمر يتعلق بالشفرة المتحصل عليها نتيجة قراءة الدودة من خلال برنامج التنقيح و الهندسة العكسية IDA disassembler، و ليست الشفرة الأصلية للدودة.

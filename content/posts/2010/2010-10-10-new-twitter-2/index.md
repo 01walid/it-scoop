@@ -22,7 +22,7 @@ tags:
 
 
 
-[caption id="attachment_5225" align="aligncenter" width="644" caption="حساب المجلة التقنية بـ Twitter الجديد "][![](https://www.it-scoop.com/wp-content/uploads/2010/10/twitter-it-scoop-1024x448.gif)
+[caption id="attachment_5225" align="aligncenter" width="644" caption="حساب المجلة التقنية بـ Twitter الجديد "][![](twitter-it-scoop-1024x448.gif)
 ](https://www.it-scoop.com/2010/10/new-twitter-2/)[/caption]
 
 

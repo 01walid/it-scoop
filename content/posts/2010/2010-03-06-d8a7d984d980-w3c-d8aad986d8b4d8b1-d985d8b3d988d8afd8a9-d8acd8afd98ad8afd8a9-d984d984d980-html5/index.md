@@ -17,7 +17,7 @@ tags:
 
 قامت مختلف مجموعات العلم في الـ W3C بنشر مسودة جديدة تخص لغة HTML5.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/w3c.jpg)
+[![](w3c.jpg)
 ](https://www.it-scoop.com/2010/03/%d8%a7%d9%84%d9%80-w3c-%d8%aa%d9%86%d8%b4%d8%b1-%d9%85%d8%b3%d9%88%d8%af%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d9%80-html5/)
 
 المسودة  الجديدة توحي بقرب "الميلاد الرسمي" للغة، كما أنه من المحتمل جدا أن ينضم Internet Explorer 9 للمتصفحات التي تدعمه خاصة فيما يتعلق بوسوم الـ Audio و الـ video.

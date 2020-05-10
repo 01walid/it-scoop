@@ -24,7 +24,7 @@ tags:
 أعلن  Daniel Alegre نائب رئيسGoogle  لشرق آسيا على مدونة Google Japan الرسمية أنه تم توقيع عقد مع Yahoo! Japan تستعمل بمقتضاه هذه الأخيرة نتائج بحث Google و خدماتهما الإعلانية، و هذا عكس الاتفاق الموقع بين شركة Yahoo! الأم في الولايات المتحدة و Bing.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/google-yahoo-logos-300x207.jpg)
+[![](google-yahoo-logos-300x207.jpg)
 ](it-scoop.com/2010/07/Yahoo-Japan-Google-search)
 
 تمتلك Yahoo! نسبة 56% من سوق البحث في اليابان مقابل 31% لـ Google و 3% فقط لـ Bing. مما يفسر أهمية هذا العقد لـ Google، إضافة إلى أهميته لـ Yahoo! كونها ستتقاسم عائدات الإعلانات المعروضة على موقعها مع Google.

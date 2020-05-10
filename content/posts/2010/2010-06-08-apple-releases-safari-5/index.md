@@ -18,7 +18,7 @@ tags:
 أطلقت Apple يوم أمس الإصدار الخامس من متصفحها Safari، و الذي يعتبر أسرع بحوالي 30% من الإصدار السابق، كما أنه يدعم الـ HTML5 بشكل أفضل.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/safari-logo-lg.png)
+[![](safari-logo-lg.png)
 ]( https://www.it-scoop.com/2010/06/apple-releases-safari-5/)
 
 

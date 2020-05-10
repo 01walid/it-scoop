@@ -23,7 +23,7 @@ tags:
 نشر مكتب الدراسات Gartner إحصائياته المتعلقة بسوق الهواتف الذكية، حيث سجلت زيادة قدرها 13,8% مقارنة بالعام الماضي ، و عرفت مبيعات قدرت بـ 61,6 مليون هاتف ذكي من ضمن 325,6 مليون هاتف تم بيعها خلال الربع الثاني من العام الجاري .
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/smartphones.jpg)
+[![](smartphones.jpg)
 ](https://www.it-scoop.com/2010/08/gartner-mobile-device-second-quarter-2010)
 
 

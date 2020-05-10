@@ -18,7 +18,7 @@ tags:
 
 أعلنت Intel عن نسخة تجريبية من معالجها الجديد الذي يحوي 48 نواة على مساحة قدرها 567 mm².
 
-![intel-logo](https://www.it-scoop.com/wp-content/uploads/2009/12/intel-logo-300x278.jpg)
+![intel-logo](intel-logo-300x278.jpg)
 
 
 المعالج الجديد المسمى Single Chip Cloud Computer يحتوي على 1,3 مليار تراتزيستور و يملك قوة معالجة تفوق بـ 20 مرة قوة المعالجات القوية الحالية.

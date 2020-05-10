@@ -21,7 +21,7 @@ tags:
 ككل شهر يرصد ترتيب TIOBE اللغات البرمجية الأكثر شعبية على الإنترنت (و ليس من حيث استعمالها)، فلقد كشف [ترتيب شهر نوفمبر الجاري](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html) محافظة لغة Objective-C  على مكانتها الثامنة و بالرغم من تراجع شعبيتها قليلا بما يزيد قليلا عن 0.5% ، في حين شهد لغة G0 الخاصة بـ Google خروجها من الـ TOP 20.
 
 
-[![](http://www.tiobe.com/content/paperinfo/tpci/images/tpci_trends.png)
+[![](tpci_trends.png)
 ]( https://www.it-scoop.com/2010/11/tiobe-obective-c-nxt-g-go/)
 
 

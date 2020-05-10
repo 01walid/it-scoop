@@ -21,7 +21,7 @@ tags:
 حسب موقع phandroid  فإن Motorla تحضر لإطلاق جهاز جديد يعمل على نظام Android  يحمل اسم Enzo
 
 
-![](http://phandroid.com/wp-content/uploads/2009/12/motorola-enzo-3.jpg)
+![](motorola-enzo-3.jpg)
 
 
 
@@ -35,7 +35,7 @@ tags:
 <!-- more -->
 
 
-![](http://phandroid.com/wp-content/uploads/2009/12/motorola-enzo-3.jpg)
+![](motorola-enzo-3.jpg)
 
 
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-![](http://phandroid.com/wp-content/uploads/2009/12/motorola-enzo-2.jpg)
+![](motorola-enzo-2.jpg)
 
 
 
@@ -53,7 +53,7 @@ tags:
 
 
 
-![](http://phandroid.com/wp-content/uploads/2009/12/motorola-enzo-4.jpg)
+![](motorola-enzo-4.jpg)
 
 
 

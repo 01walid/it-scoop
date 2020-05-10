@@ -26,12 +26,12 @@ tags:
 
 الظاهر أن الـ iPad سيحظى بفترة أخرى من دون منافسة قوية، فقد أعلنت Microsoft أنه سيتم إيقاف العمل على جهازهااللوحي Courier الذي كثر الحديث عنه ، و أن الأمر لا يعدو كونه مثالا عما تستطيع Microsoft فعله.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/courier.jpg)
+[![](courier.jpg)
 ](https://www.it-scoop.com/2010/04/courier-slate-scrapped/)
 
 كما أشارت مدونة TechCrunch إلى أن مصادرها المقربة من ملف الجهاز اللوحي Slate أكدت لها أن HP قد قررت توقيف العمل عليه، حيث تبين بعد توزيع بعض النماذج الأولية أن معالجات Intel Atom المستعملة تستهلك الكثير من الطاقة، كما أن نظام Windows 7 أبعد ما يكون من النظام الأمثل لجهازها اللوحي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/slate.jpg)
+[![](slate.jpg)
 ](https://www.it-scoop.com/2010/04/courier-slate-scrapped/)
 
 و في نفس السياق،  فإن شراء HP لـ Palm و الذي سمح لها بأن تضع يدها على نظام WebOS قد يكون أحد الأسباب التي جعلت HP إيقاف تصنيع Slate بنسختها الحالية، و ربما سنسمع قريبا بجهاز لوحي آخر لـ HP يكون مجهزا بنظام WebOS.

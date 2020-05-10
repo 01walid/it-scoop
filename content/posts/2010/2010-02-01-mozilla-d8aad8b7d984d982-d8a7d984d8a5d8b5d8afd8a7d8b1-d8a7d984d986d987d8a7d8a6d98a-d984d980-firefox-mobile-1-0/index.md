@@ -21,7 +21,7 @@ tags:
 
 بعد جملة من الإصدارات Beta و من الـ Release Candidate أطلقت Mozilla الإصدار النهائي من  Mozilla Mobile 1.0 و المعروف سابقا تحت اسم  Fennec .
 
-[![](https://djug.developpez.com/rsc/fennec.png)
+[![](fennec.png)
 ](https://www.it-scoop.com/2010/02/mozilla-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%84%d9%80-firefox-mobile-1-0/)
 
 هذا الإصدار موجه خصيصا لنظام Maemo و الذي يجهز بعضا من أجهزة Nokia مثل جهاز N900 .

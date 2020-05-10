@@ -17,7 +17,7 @@ tags:
 
 يبدو أن خبر تسريب الشفرة المصدرية لمكافح الفيروسات العملاق Kaspersky صحيح، فقد تم تأكيد تسريب الشفرة المصدرية للإصدار 8.0 من Kaspersky security suite على الإنترنت من قبل موظف سابق لدى الشركة، والذي يقضي حاليا عقوبة 3 سنوات في السجن ستتبعها 3 سنوات أخرى تحت المراقبة المشروطة، وذلك لقاء انتهاك قوانين الملكية الفكرية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
+[![](kaspersky-logo.png)
 ](https://www.it-scoop.com/2011/01/kaspersky-anti-virus-source-code-leaked-online)
 
 الشفرة المصدرية مكتوبة بلغة C++ و Delphi وتتناول محرك مكافح الفيروسات، بالإضافة إلى تقنيات anti-phishing, anti-dialer, anti-spam, parental control و وحدات أخرى.

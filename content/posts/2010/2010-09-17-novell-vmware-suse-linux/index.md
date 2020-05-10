@@ -22,7 +22,7 @@ tags:
 
 نشرت الـ Wall Street Journal خبرا مفاده أن VMware قد قدمت عرضا لـ Novell لشراء  قسم SUSE Linux ، و أن هناك احتمالا لتقسيم Novell إلى قسمين لتسهيل من مهمة بيعها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/suse-logo.png)
+[![](suse-logo.png)
 ](https://www.it-scoop.com/2010/09/novell-vmware-suse-linux/)
 
 حسب ما جاء في [الخبر](http://online.wsj.com/article/SB10001424052748703440604575496053490383496.html?mod=rss_Technology) فإن القسم المتبقي من الشركة قد يكون من نصيب Attachmate Corp. و التي قد تحظى بنظام تشارك الملفات NetWare.

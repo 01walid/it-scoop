@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/iphone-qualcomm.jpg)
+[![](iphone-qualcomm.jpg)
 ](https://www.it-scoop.com/2010/10/apple-qualcomm-3g/)
 
 

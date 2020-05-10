@@ -23,8 +23,8 @@ tags:
 أكيد نحن نتكلم عن Red Hat، لكن من هي الابنة المدللة ؟ .. إذا كنت من مناصري القبعة الحمراء، فحتما أنت عرفتها، ومن غيرها Fedora !، لكن هذه المرة فأنت من سيرفع قبعته الحمراء:p لما ستحويه الحسناء من ميزات قادمة، وقد أُريد للمُسمى أن يكون له اسما مناسبا للمناسبة فكان « Lovelock » ...لكن تمهل ..... فليس كل ما يرجوه المرء يدركه -فورا- ... تأتي الإصدارات متأخرة كالعادة:) لذلك فصبر جميل إلى غاية 10 مايو القادم، وقبل أن تهيج بي قريحتي وأهيّج بها في المقدمة، ننتقل إلى الجد:)
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/redhat-logo21.jpeg)
-](https://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)[![](https://www.it-scoop.com/wp-content/uploads/2011/02/Logo_fedoralogo-300x91.png)
+[![](redhat-logo21.jpeg)
+](https://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)[![](Logo_fedoralogo-300x91.png)
 ](https://www.it-scoop.com/2011/02/redhat-reveals-fedora-15-features/)
 
 

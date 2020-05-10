@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/samsung-galaxy-tab.jpg)
+[![](samsung-galaxy-tab.jpg)
 ](https://www.it-scoop.com/2010/09/samsung-galaxy-tab-official-live-demo)
 
 

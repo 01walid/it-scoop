@@ -19,7 +19,7 @@ tags:
 
 إذا كنت تستعمل متصفح Internet Explorer أيا كان إصداره، و إذا كنت لا تزال متشبثا بإحدى الإصدارات القديمة من نظام Windows و نقصد هنا كلا من Windows XP،  2000  و  Server 2003، فاحذر من استعمال مفتاح F1  على المتصفح  لو طلب منك أي موقع القيام بذلك، فالأمر لا يعدو كونه استغلالا لثغرة نشرت Microsoft يوم أمس تحذيرا منها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/IE-problem.jpg)
+[![](IE-problem.jpg)
 ](https://www.it-scoop.com/2010/03/%d8%ab%d8%ba%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%80-internet-explorer-%d8%aa%d8%ac%d8%b9%d9%84-%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84-%d9%85%d9%81%d8%aa%d8%a7/)
 
 يعود اكتشاف الثغرة إلى [Maurycy Prodeus](http://twitter.com/mprodeus) الباحث في الأمن و الحماية و الذي بين السيناريوهات  المحتملة لاستغلالها، و قامت Microsoft بعدها بتأكيد وجود الثغرة عبر[ نشرة خاصة بذلك](http://www.microsoft.com/technet/security/advisory/981169.mspx).

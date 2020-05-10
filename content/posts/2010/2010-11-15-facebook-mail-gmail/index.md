@@ -22,7 +22,7 @@ tags:
 
 منذ أن أعلنت مدونة TechCrunch أن Facebook بصدد التحضير للإعلان عن خدمة البريد الالكتروني الخاصة بها، حتى توجهت الأوجه و الأعين صوب المؤثرين الكبار على الإنترنت أمثال Google لترقب أي تغييرات قد تحدثها هذه الخطوة. لكن الأمر لن يكون كما أشيع له، على الأقل فيما يخص Google.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Facebook-Email.png)
+[![](Facebook-Email.png)
 ](https://socialmedia4arab.com/2010/11/facebook-mail-gmail/)
 
 <!-- more -->

@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/old-twitter.png)
+[![](old-twitter.png)
 ](https://www.it-scoop.com/2011/08/old-twitter-2/)
 
 

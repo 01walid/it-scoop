@@ -20,7 +20,7 @@ tags:
 أشارت مدونة TechCrunch أن Google  قد اشترت شركة Jambool صاحبة خدمة Social Gold المستعملة للدفع عبر مختلف الألعاب الاجتماعية.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/social-gold-logo.png)
+[![](social-gold-logo.png)
 ](https://www.it-scoop.com/2010/08/google-jambool-socia-gold)
 
 

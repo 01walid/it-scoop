@@ -22,7 +22,7 @@ tags:
 
 [](https://www.it-scoop.com/2011/02/libreoffice-3-3-1/)
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/LO_StartCenter_Small-300x240.png)
+[![](LO_StartCenter_Small-300x240.png)
 ](https://www.it-scoop.com/2011/02/libreoffice-3-3-1/)
 
 

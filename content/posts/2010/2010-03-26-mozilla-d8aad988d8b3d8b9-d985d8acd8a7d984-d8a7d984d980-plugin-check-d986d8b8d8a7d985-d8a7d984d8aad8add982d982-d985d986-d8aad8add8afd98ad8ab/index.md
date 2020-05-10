@@ -18,7 +18,7 @@ tags:
 
 بعد أن كان الأمر مقتصرا على مستخدمي متصفحها Firefox، قامت Mozilla بتوسيع مجال نظام Plugin Check المستخدم للتأكد من أن الإضافات المنصبة على المتصفح محدثة، ليشمل باقي المتصفحات الشهيرة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/plugin_check.png)
+[![](plugin_check.png)
 ](https://www.it-scoop.com/2010/03/mozilla-%d8%aa%d9%88%d8%b3%d8%b9-%d9%85%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d9%80-plugin-check-%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%82-%d9%85%d9%86-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab/https://www.it-scoop.com/2010/03/mozilla-%d8%aa%d9%88%d8%b3%d8%b9-%d9%85%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d9%80-plugin-check-%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%82-%d9%85%d9%86-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab/)
 
 المتصفحات المعنية بخدمة Plugin Check أصبحت كل من: Internet Explorer  بإصدارين السابع و الثامن، Chrome 4، Opera 10.5 و Safari 4.

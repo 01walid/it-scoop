@@ -18,8 +18,8 @@ tags:
 
 
 
-[![anonymous](https://www.it-scoop.com/wp-content/uploads/2011/08/anonymous.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/08/anonymous.jpg)
+[![anonymous](anonymous.jpg)
+](anonymous.jpg)
 
 
 

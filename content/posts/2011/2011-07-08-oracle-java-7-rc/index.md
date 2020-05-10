@@ -33,7 +33,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/java_logo.gif)
+[![](java_logo.gif)
 ](https://www.it-scoop.com/2011/07/oracle-java-7-rc/)
 
 

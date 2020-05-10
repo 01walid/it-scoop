@@ -26,8 +26,8 @@ tags:
 
 
 
- [![](https://www.it-scoop.com/wp-content/uploads/2011/12/logo-google-metal.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/logo-google-metal.jpg)
+ [![](logo-google-metal.jpg)
+](logo-google-metal.jpg)
 
 
 
@@ -52,8 +52,8 @@ tags:
 
 
 
-[![كيف تظهر أخبار المجلة التقنية بعد تحويلها إلى "مجلة" ](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Currents-it-scoop.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Currents-it-scoop.png)
+[![كيف تظهر أخبار المجلة التقنية بعد تحويلها إلى "مجلة" ](Google-Currents-it-scoop.png)
+](Google-Currents-it-scoop.png)
 
 
 
@@ -63,8 +63,8 @@ tags:
 
 
 
-[![مثال عن خاصية Find My Face على Google+](https://www.it-scoop.com/wp-content/uploads/2011/12/find-my-face-google-plus.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/find-my-face-google-plus.png)
+[![مثال عن خاصية Find My Face على Google+](find-my-face-google-plus.png)
+](find-my-face-google-plus.png)
 
 
 
@@ -94,8 +94,8 @@ tags:
 
 
 
-[![دوائر Google + داخل بريد Gmail](https://www.it-scoop.com/wp-content/uploads/2011/12/google-plus-gmail.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/google-plus-gmail.png)
+[![دوائر Google + داخل بريد Gmail](google-plus-gmail.png)
+](google-plus-gmail.png)
 
 
 
@@ -115,5 +115,5 @@ tags:
 
 
 
-[![رسم المنحنى البياني لدالة مباشرة داخل محرك بحث Google](https://www.it-scoop.com/wp-content/uploads/2011/12/google-equation.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/google-equation.png)
+[![رسم المنحنى البياني لدالة مباشرة داخل محرك بحث Google](google-equation.png)
+](google-equation.png)

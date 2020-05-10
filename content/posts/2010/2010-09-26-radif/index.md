@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](http://tahadz.files.wordpress.com/2010/09/radif-small.png?w=300&h=247)
+[![](radif-small.png?w=300&h=247)
 ](https://www.it-scoop.com/2010/09/radif/)
 
 

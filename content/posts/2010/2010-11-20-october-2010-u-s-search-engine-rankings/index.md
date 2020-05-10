@@ -21,7 +21,7 @@ tags:
 أشار تقرير أعدته مكتب الدراسات comScore على أن Google لا زالت تهيمن و بقسط كبير على سوق البحث في الولايات المتحدة بحصة تتعدى ثلثي السوق.
 
 
-[![](http://www.google.com/images/logos/ps_logo2.png)
+[![](ps_logo2.png)
 ](https://www.it-scoop.com/2010/11/october-2010-u-s-search-engine-rankings)
 
 

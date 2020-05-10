@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+[![](mozilla-logo.png)
 ](https://www.it-scoop.com/2010/07/Mozilla-increases-bounty-security-bug)
 
 

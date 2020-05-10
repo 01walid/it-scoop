@@ -20,7 +20,7 @@ tags:
 أطلق المطور الجزائري [فخرو مرطاني](https://twitter.com/#!/martani_net) تطبيق Beta SMS الذي يوفر لمستخدمي أنظمة Windows Phone 7 إرسال رسائل نصية SMS مجانية أو بأسعار جد تنافسية.
 
 
-[![](http://lh6.ggpht.com/_MIqc395dv38/TXuNu8n7E6I/AAAAAAAACnU/2Lqvrsl3-Gs/s1600/s1%5B2%5D.png)
+[![](s1%5B2%5D.png)
 ](https://www.it-scoop.com/2011/03/beta-sms-windows-phone-7/)
 
 

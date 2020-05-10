@@ -21,7 +21,7 @@ tags:
 
 شن Julian Assange مؤسس موقع Wikileaks -الذي أسال الكثير من الحبر-  في [حوار](http://rt.com/news/wikileaks-revelations-assange-interview/) أجرته معه "روسيا اليوم" هجوما على الشبكات الاجتماعية بشكل عام و خص بحديثه Facebook التي وصفها  بـ "أكبر آلة للتجسس في العالم".
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/facebook-spaying.jpg)
+[![](facebook-spaying.jpg)
 ](https://www.it-scoop.com/2011/05/facebook-spying-machine-assange-wikileaks/)
 
 و يضيف Assange أن الجميع يساهم في تزويد أكبر قاعدة بيانات حول الجميع ، و يؤكد على أن الشبكات الاجتماعية تمتلك إلى جانب Google و Yahoo  آليات خاصة تمكن المخابرات الأمريكية من الحصول على البيانات التي يودونها، بالرغم من أن هذه الشبكات و المواقع غير تابعة لها، إلا أنه في مقدورها إيجاد صيغ قانونية و سياسية تجبرها على ذلك.

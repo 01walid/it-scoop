@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/sony-patent-3d.jpg)
+[![](sony-patent-3d.jpg)
 ](https://www.it-scoop.com/2010/07/Sony-patent-3D-screen-sharing-tech‎)
 
 

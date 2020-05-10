@@ -19,7 +19,7 @@ tags:
 
 إذا صدق ما ذهب إليه المصنِّع الصيني  Lenovo فإن الشركات لا تهتم لأمر الأجهزة اللوحية Tablet بقدر ما تهمها الأجهزة ذوات لوحات المفاتيح كاملة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/thinkpad-x201-small.jpg)
+[![](thinkpad-x201-small.jpg)
 ](https://www.it-scoop.com/2010/02/%d8%ad%d8%b3%d8%a8-lenovo%d8%8c-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d9%84%d8%a7-%d8%aa%d9%87%d9%85%d9%87%d8%a7-%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d9%84%d9%88%d8%ad%d9%8a/)
 
 حسب  Lenovo  فإن الـ Feedback الخاص بعملائها يبين أنهم لا يحبذون الأجهزة اللوحية لافتقادها إلى لوحة مفاتيح تتيح لهم فاعلية أكبر.

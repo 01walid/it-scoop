@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/facebook-money.jpg)
+[![](facebook-money.jpg)
 ](https://www.it-scoop.com/2011/05/facebook-growing-faster-forecast)
 
 

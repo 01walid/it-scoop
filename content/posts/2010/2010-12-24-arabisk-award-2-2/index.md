@@ -23,7 +23,7 @@ tags:
 نشرنا سابقا [خبرا](https://www.it-scoop.com/2010/08/arabisk-award-2/) مفاده أنه يتم التحضير للنسخة الثانية من مسابقة أرابيسك لأفضل المدونات الناطقة باللغة العربية و التي كان من المنتظر إطلاقها في الفاتح من أكتوبر الماضي، ثم [أجلت](http://blog.arabisk-award.com/archives/27) إلى بداية ديسمبر، قبل أن [تلغى](http://blog.arabisk-award.com/archives/30) بسبب نقص التمويل.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Arabisk-logo.png )
+[![](Arabisk-logo.png )
 ](https://www.it-scoop.com/2010/12/arabisk-award-2-2/)
 
 

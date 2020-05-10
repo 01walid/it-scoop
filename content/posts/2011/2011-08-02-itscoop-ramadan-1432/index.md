@@ -68,7 +68,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/rsc/BelsemTech.png)
+[![](BelsemTech.png)
 ](http://www.belsemtech.com/)
 
 
@@ -85,7 +85,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/rsc/BitDefender.jpg)
+[![](BitDefender.jpg)
 ](http://www.bitdefenderme.com/)
 
 

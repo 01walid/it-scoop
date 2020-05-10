@@ -15,7 +15,7 @@ tags:
 
 أعلنت Google عن شراءها لشركة  AdMob المتخصصة في الإعلانات على أجهزة الهاتف النقال بقيمة بلغت 750 مليون دولار.
 
-![mobileads](https://www.it-scoop.com/wp-content/uploads/2009/11/mobileads.gif)
+![mobileads](mobileads.gif)
 
 
 تأتي هذه الصفقة لتدعيم مكانة Google في سوق الإعلانات على النت صاحبة  خدمة Adsense.

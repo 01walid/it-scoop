@@ -18,7 +18,7 @@ tags:
 
 بعد أن كشفت Google عن [كذبة أبريل الخاصة بها](https://www.it-scoop.com/2011/04/google-gmail-motion/) و المتمثلة في إمكانية التحكم في بريد Gmail عبر حركات الجسم، كشف فريق عمل Flexible Action and Articulated Skeleton Toolkit الذي يرمز له اختصارا بـ [FAAST ](http://projects.ict.usc.edu/mxr/faast/) عن إمكانية تحويل الأمر إلى حقيقة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/gmail-motion.jpg)
+[![](gmail-motion.jpg)
 ](https://www.it-scoop.com/2011/04/faast-gmail-motion/)
 
 الاختلاف  بين Google Motion و مشروع FAAST هو أن الأول مجرد "كذبة" و الثاني حقيقي، إضافة إلى استعمال FAAST لجهاز Kinect الخاص بالألعاب على الـ XBOX 360.

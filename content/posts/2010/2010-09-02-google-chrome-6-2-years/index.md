@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://4.bp.blogspot.com/_EsaGlPOyn20/TH-obsQgTPI/AAAAAAAAAJg/ZpDlX0i6Ajw/s400/GoogleChrome-lemanski_highres.png)
+[![](GoogleChrome-lemanski_highres.png)
 ](https://www.it-scoop.com/2010/09/google-chrome-6-2-years/)
 
 

@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](http://www.wired.com/images_blogs/threatlevel/2010/07/atm_cash.jpg )
+[![](atm_cash.jpg )
 ]( https://www.it-scoop.com/2010/07/atms-hacked/)
 
 

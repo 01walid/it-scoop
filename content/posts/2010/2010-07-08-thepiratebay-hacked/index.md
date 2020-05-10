@@ -19,7 +19,7 @@ tags:
 
 أعلن Hacker أرجنتيني الجنسية عن تمكنه (بمعية مخترقين اثنين آخرين) من اختراق موقع ThePirateBay (خليج القراصنة) الشهير الخاص بتحميل ملفات Torrent و تمكنه من الوصول إلى بيانات المشتركين فيه من معرفات و عناوين البريد الالكتروني و عناوين الـ IP.
 
-[[![](https://www.it-scoop.com/wp-content/uploads/2010/07/thepiratebay-logo.jpg)
+[[![](thepiratebay-logo.jpg)
 ](https://www.it-scoop.com/2010/07/thepiratebay-hacked/)
 ](//www.it-scoop.com/2010/07/thepiratebay-hacked/)
 

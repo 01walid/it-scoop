@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/Bitdefender-Total-Security-2012.png)
+[![](Bitdefender-Total-Security-2012.png)
 ](https://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
 
 
@@ -45,7 +45,7 @@ tags:
 
 
 
- [![](https://www.it-scoop.com/wp-content/uploads/2011/07/Bitdefender-Logo.png)
+ [![](Bitdefender-Logo.png)
 ](https://www.it-scoop.com/2011/07/bitdefender-total-security-2012)
 
 

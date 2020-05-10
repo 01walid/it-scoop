@@ -20,7 +20,7 @@ tags:
 
 أكدت Microsoft خلال الـ Web 2.0 Expo  المنعقد بحر هذا الأسبوع أن الإصدار 9 من Internet Explorer  لن يكون متوافقا مع نظام Windows XP.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/InternetExplorer9.jpg)
+[![](InternetExplorer9.jpg)
 ](https://www.it-scoop.com/2010/05/Microsoft-confirms-IE9-will-shun-Windows-XP)
 
 وعللت Mirosoft ذلك بإن متصفح Internet Explorer 9 سيستعمل الـ hardware acceleration و الذي -حسب زعمها- يحتاج إلى نظام تشغيل حديث للقيام بذلك.

@@ -29,7 +29,7 @@ tags:
 بعد أن انتهت فترة الترشيحات في مسابقة أرابيسك لأفضل المدونات العربية تم فتح باب التصويت ليلة أمس، و ندعو الجميع إلى التصويت للمجلة التقنية كأفضل مدونة إخبارية تقنية
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/it-scoop-logo.png)
+[![](it-scoop-logo.png)
 ](https://www.it-scoop.com/2011/02/it-scoop-arabisk-award/)
 
 

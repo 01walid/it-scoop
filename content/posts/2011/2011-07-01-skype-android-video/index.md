@@ -20,7 +20,7 @@ tags:
 [كشفت](http://blogs.skype.com/en/2011/06/smile_skype_for_android_with_v.html) Skype على مدونتها الرسمية أن مكالمات الفيديو باتت متاحة لمستخدمي تطبيقها على Android ، حيث أصبح بإمكانهم إجراء مكالمات مرئية مع مستخدمي التطبيق على مختلف المنصات Windows، Mac و iPhone .
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/Skype-Android-Phone.jpg)
+[![](Skype-Android-Phone.jpg)
 ](https://www.it-scoop.com/2011/07/skype-android-video/)
 
 

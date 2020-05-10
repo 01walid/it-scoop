@@ -21,8 +21,8 @@ tags:
 
 
 
-[![HP تقرر فتح مصدر نظام WebOS وتعلن عن بيع آخر أجهزة TouchPad على متجرها على eBay](https://www.it-scoop.com/wp-content/uploads/2011/12/hp-webos-logo..png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/hp-webos-logo..png)
+[![HP تقرر فتح مصدر نظام WebOS وتعلن عن بيع آخر أجهزة TouchPad على متجرها على eBay](hp-webos-logo..png)
+](hp-webos-logo..png)
 
 
 

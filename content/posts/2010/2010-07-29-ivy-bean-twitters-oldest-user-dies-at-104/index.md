@@ -22,7 +22,7 @@ tags:
 ** **أعلن يوم أمس وفاة المعمرة البريطانية [Ivy Bean](http://twitter.com/ivybean104) عن عمر يناهز 104 سنوات في دار الرعاية ب Bradford التي قضت فيها آخر سنوات حياتها و حدثت آخر تغريداتها على Twitter منه
 
 
-[![ن](http://img.metro.co.uk/i/pix/2010/07/28/article-1280331817181-0A9A82E8000005DC-522595_636x300.jpg)
+[![ن](article-1280331817181-0A9A82E8000005DC-522595_636x300.jpg)
 ](https://www.it-scoop.com/2010/07/ivy-bean-twitters-oldest-user-dies-at-104)
 
 تعتبر Ivy Bean أكبر مستخدمة للشبكات الاجتماعية في العالم سواء تعلق الأمر بالـ Facebook  أو بـ Twitter  و الذي بلغ عدد متتبعي تغريداتها  62,299 ، منهم نجوم سينمائيون و فنانين كنجم البوب Peter Andre

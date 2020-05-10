@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/TwitterTV.png)
+[![](TwitterTV.png)
 ](https://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
 
 
@@ -35,7 +35,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/1.png)
+[![](1.png)
 ](https://www.it-scoop.com/2011/09/free-social-ads-on-tv/)
 
 

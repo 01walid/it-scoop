@@ -17,7 +17,7 @@ tags:
 
 صدرت أخر نسخة من تطبيق [µTorrent](http://www.utorrent.com) لمستخدمي أنظمة ال Windows فقط حتى الان.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/utorrent.png)
+[![](utorrent.png)
 ](https://www.it-scoop.com/2010/02/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-2-0-%d9%85%d9%86-%c2%b5torrent/)
 
 الجديد في هذه النسخة [µTorrent 2.0](http://www.utorrent.com/downloads) هي إصلاح بعض الثغرات والعيوب في الإصدار السابق, وتحسينات في الشكل والأداء.

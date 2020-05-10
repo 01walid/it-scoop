@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/linkedin_share_button.jpg)
+[![](linkedin_share_button.jpg)
 ](https://www.it-scoop.com/2010/11/linkedin-share-button/)
 
 

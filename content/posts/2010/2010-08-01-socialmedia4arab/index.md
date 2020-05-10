@@ -23,7 +23,7 @@ tags:
 
 
 
-[](it-scoop.com/2010/08/socialmedia4arab)[![](https://www.it-scoop.com/wp-content/uploads/2010/08/sm4A.png)
+[](it-scoop.com/2010/08/socialmedia4arab)[![](sm4A.png)
 ]( https://www.it-scoop.com/2010/08/socialmedia4arab/)
 
 

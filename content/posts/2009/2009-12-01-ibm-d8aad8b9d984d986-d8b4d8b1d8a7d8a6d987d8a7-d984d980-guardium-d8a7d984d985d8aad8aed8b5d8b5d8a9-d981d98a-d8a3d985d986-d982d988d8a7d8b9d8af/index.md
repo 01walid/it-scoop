@@ -19,7 +19,7 @@ tags:
 
 أعلنت شركة IBM عن شرائها لشركة **Guardium **** **المتخصصة في أمن قواعد  البيانات مقابل قيمة بلغت 255 مليون دولار*
 
-![Guardium_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/Guardium_logo-300x111.jpg)
+![Guardium_logo](Guardium_logo-300x111.jpg)
 
 
 **Guardium **** **المتخصصة في أمن قواعد البيانات و التي تم إنشاؤها عام 2002  تحوز  على ثقة العديد من زبائنها على غرار كل من Microsoft ، Oracle ، Sun ، و حتى IBM  نفسها، كما أن خدماتها متوفرة على أكثر من 450 DataCenter  موزعة على أرجاء العالم.

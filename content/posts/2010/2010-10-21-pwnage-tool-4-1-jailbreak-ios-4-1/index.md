@@ -28,7 +28,7 @@ tags:
 
 بعد أن كان متوقعا صدوره منذ أيام، أطلق فريق Dev-team أداة الـ Pwnage Tool 4.1 الخاصة بعمل jailbreak للإصدار 4.1 من الـ iOS و الذي يتيح عمل Unlock للشبكات على عكس الأدوات السابقة
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/pwnagetool-iphoneos41.jpg)
+[![](pwnagetool-iphoneos41.jpg)
 ](https://www.it-scoop.com/2010/10/pwnage-tool-4-1-jailbreak-ios-4-1)
 
 Pwnage Tool 4.1 يقوم بعمل jailbreak لنظام iOS 4.1 لكل من:

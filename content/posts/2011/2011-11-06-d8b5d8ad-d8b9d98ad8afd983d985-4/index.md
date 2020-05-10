@@ -15,7 +15,7 @@ tags:
 
 أعاده الله علينا وعليكم أعواما عديدة وأزمنة مديدة.
 
-![](https://www.it-scoop.com/wp-content/uploads/2010/11/saha-3idkoum.png)
+![](saha-3idkoum.png)
 
 
 

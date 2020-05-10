@@ -17,7 +17,7 @@ tags:
 
 أعلنت Oracle  عن شرائها لشركة Secerno الانجليزية المختصة في أمن و حماية قواعد البيانات.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/secerno-logo.gif)
+[![](secerno-logo.gif)
 ](https://www.it-scoop.com/2010/05/oracle-buys-secerno/ )
 
 تختص شركة Secerno في الجدران النارية Firewall (عتاد و تطبيقات) الخاصة بقواعد البيانات حيث يسمح منتجها DataWall  حماية قواعد البيانات على غرار Oracle، Sql Server و Sybase و ذلك بمراقبة عمليات الولوج إليها و إيقاف المشبوهة منها، كل هذا في الزمن الحقيقي، مما يجعل بيانات الشركات في منأى عن الأخطار و القرصنة.

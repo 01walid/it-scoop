@@ -17,10 +17,10 @@ tags:
 
 أعلنت HP عن شراءها لشركة 3com  المتخصص في عتاد الشبكات مقابل 2,7 مليار دولار.
 
-![hp_logo_1](https://www.it-scoop.com/wp-content/uploads/2009/11/hp_logo_1.jpg)
+![hp_logo_1](hp_logo_1.jpg)
 
 
-![3com-logo](https://www.it-scoop.com/wp-content/uploads/2009/11/3com-logo.jpg)
+![3com-logo](3com-logo.jpg)
 
 
 بهذه الصفقة تصبح HP  أحد أكبر منافسي المصنع Cisco  أكبر مصنع لعتاد الشبكات في العالم.

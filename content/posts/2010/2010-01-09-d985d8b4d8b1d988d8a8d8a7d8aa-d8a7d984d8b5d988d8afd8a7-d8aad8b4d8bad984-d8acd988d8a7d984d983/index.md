@@ -15,13 +15,13 @@ categories:
 
 يبدو أن هذا السبب الذي أدى إلى ارتفاع أسعار مشروبات الببسي والكولا
 
-[![](http://mashable.com/wp-content/uploads/2010/01/dzn_Eco-friendly-phone-for-Nokia-by-Daizi-Zheng-3.jpg)
+[![](dzn_Eco-friendly-phone-for-Nokia-by-Daizi-Zheng-3.jpg)
 ](https://www.it-scoop.com/2010/01/%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d9%88%d8%af%d8%a7-%d8%aa%d8%b4%d8%ba%d9%84-%d8%ac%d9%88%d8%a7%d9%84%d9%83/)
 
-[![](http://mashable.com/wp-content/uploads/2010/01/dzn_Eco-friendly-phone-for-Nokia-by-Daizi-Zheng-5.jpg)
+[![](dzn_Eco-friendly-phone-for-Nokia-by-Daizi-Zheng-5.jpg)
 ](https://www.it-scoop.com/2010/01/%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d9%88%d8%af%d8%a7-%d8%aa%d8%b4%d8%ba%d9%84-%d8%ac%d9%88%d8%a7%d9%84%d9%83/)
 
-[![](http://mashable.com/wp-content/uploads/2010/01/dzn_Eco-friendly-phone-for-Nokia-by-Daizi-Zheng-6.jpg)
+[![](dzn_Eco-friendly-phone-for-Nokia-by-Daizi-Zheng-6.jpg)
 ](https://www.it-scoop.com/2010/01/%d9%85%d8%b4%d8%b1%d9%88%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d9%88%d8%af%d8%a7-%d8%aa%d8%b4%d8%ba%d9%84-%d8%ac%d9%88%d8%a7%d9%84%d9%83/)
 
 حيث قام المصمم الصيني Daizi Zheng بعمل تصميم لجهاز جوال يستمد طاقته من مشروب الكولا كما ترون في الصور.

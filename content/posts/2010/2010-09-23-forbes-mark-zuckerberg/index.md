@@ -33,7 +33,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/facebook-mark-zuckerberg.jpg)
+[![](facebook-mark-zuckerberg.jpg)
 ](https://www.it-scoop.com/2010/09/forbes-mark-zuckerberg/)
 
 

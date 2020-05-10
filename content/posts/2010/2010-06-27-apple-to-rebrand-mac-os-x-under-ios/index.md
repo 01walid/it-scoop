@@ -19,7 +19,7 @@ tags:
 
 أشارت بعض المواقع الإخبارية المهتمة بأخبار منتجات شركة التفاحة المقضومة إلى احتمال أن تغير Apple تسمية نظام تشغيل Mac OS إلى iOS مثلما فعلت مع نظام iPhone OS.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Mac-OS-Logo.jpg)
+[![](Mac-OS-Logo.jpg)
 ](https://www.it-scoop.com/2010/06/Apple-to-Rebrand-Mac-OS-X-Under-iOS)
 
 حسب هذه الإشاعات فإن Apple تود توحيد جميع أنظمتها تحت مسمى واحد iOS حيث سيحمل الإصدار القادم من نظام Mac OS اسم iOS Desktop و النظام الخاص بالخوادم اسم iOS Server، كما سيحمل نظام iOS الحالي (iPhone OS سابقا) اسم iOS Mobile.

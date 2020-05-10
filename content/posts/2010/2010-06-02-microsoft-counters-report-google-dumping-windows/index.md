@@ -21,7 +21,7 @@ tags:
 لم تتأخر Microsoft طويلا لترد على الخبر الذي نشرته جريدة الـ Financial Times و الذي مفاده أن شركة Google تود التخلص داخليا من أنظمة Windows لمخاوف أمنية، حيث ردت على لسان Brandon LeBlanc على مدونة Windows  الرسمية بتدوينة تفند فيها صحة إدعاءات Google.
 
 [
-](https://www.it-scoop.com/wp-content/uploads/2010/06/google-microsoft.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2010/06/google-microsoft-e1275505107241.jpg)
+](https://www.it-scoop.com/wp-content/uploads/2010/06/google-microsoft.jpg)[![](google-microsoft-e1275505107241.jpg)
 ](https://www.it-scoop.com/2010/06/Microsoft-counters-report-Google-dumping-Windows)
 
 رد Brandon LeBlanc  كان مقسما إلى عدة محاور، حيث ركز أولا  على مستويات الأمن المشهودة لأنظمة Windows و أشار إلى أن الـ Hackers أنفسهم يشهدون لأنظمة Windows بأمانه و حمايته لمستخدميه و استشهد بأقوال Marc Maiffret الـ Hacker الشهير و الذي يشير إلى أن أنظمة Windows  أأمن بكثير من أنظمة Mac OS.

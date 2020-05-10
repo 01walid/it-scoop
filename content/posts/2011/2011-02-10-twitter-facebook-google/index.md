@@ -20,7 +20,7 @@ tags:
 
 [أكدت](http://online.wsj.com/article/SB10001424052748703716904576134543029279426.html?mod=WSJEUROPE_hpp_MIDDLESecondNews) صحيفة wall street journal الأمريكية أن عددا من الشركات التقنية  وعلى رأسها google  و facebook دخلت في سباق من أجل الاستحواذ على شبكة التغريد المصغر twitter ، في حين لم تصدر أية تصريحات من الشركات الثلاث بخصوص الأمر.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/twitter-money.png)
+[![](twitter-money.png)
 ](https://www.it-scoop.com/2011/02/twitter-facebook-google/)
 
 وأوضحت تقارير سابقة عن twitter  أنه استطاع أن يحصل على 200 مليون دولار إضافية كتمويل نهاية  العام الماضي حين كان قي قيمته تقدر بـ3.7 مليار دولار، إلا أن الشركات المتنافسة عليه على استعداد لدفع ما بين 8 إلى 10 ملايير دولار لشرائه ؟

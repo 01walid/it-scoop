@@ -17,7 +17,7 @@ tags:
 
 اغتنمت Oracle الفرصة خلال مؤتمر OpenWorld 2010 الذي يقام حاليا في سان فرانسيسكو لتعلن عن النسخة RC للإصدار 5.5 من نظام إدارة قواعد البيانات MySql.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/MySql-logo.jpg)
+[![](MySql-logo.jpg)
 ](https://www.it-scoop.com/2010/09/oracle-mysql-5-5-rc/)
 
 يأتي هذا الإعلان لتأكيد رغبة Oracle مواصلة تطوير MySql و هذا بالرغم من حملة الانتقادات التي تتعرض لها منذ شرائها لـ Sun.

@@ -20,7 +20,7 @@ tags:
 
 Worm آخر ينظم إلى عائلة البرامج الضارة التي تستهدف الـ iPhones ، حيث أظهرت دراسة قام بها معهد SRI International Malware Threat Center  أن نوعا جديدا من الـ worm المسمى iKee.B  يحول الأجهزة التي يصيبها إلى zombies.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/iphone.jpg)
+[![](iphone.jpg)
 ](https://www.it-scoop.com/2009/12/worm-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%ad%d9%88%d9%84-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d9%80-iphones-%d9%85%d9%83%d8%b3%d9%88%d8%b1%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a5/)
 
 هذا الـ Worm الجديد الذي تم اكتشافه لأول مرة في الخامس و العشرين من الشهر الفارط يستعمل نفس طريقة الانتشار التي تستعملها البرامج الضارة الأخرى التي تستهدف أجهزة الـ iPhones و المتمثلة في ثغرة الـ SSH  المنتشرة على أجهزة الـ iPhone مكسورة الحماية أو ما يعرف بـ jailbroken iphone.

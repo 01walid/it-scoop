@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://static2.businessinsider.com/image/4b4643b40000000000319f0c/steve-ballmer.jpg )
+[![](steve-ballmer.jpg )
 ](https://www.it-scoop.com/2011/03/windows-8-tabl…ign-demos-june/)
 
 

@@ -18,7 +18,7 @@ tags:
 
 نشرت Google ترتيبا يضم المواقع الألف الأكثر زيارة على الإنترنت خلال شهر أبريل الماضي، و أتى على رأس الترتيب Facebook في حين لم تضم القائمة Google و Youtube و ذلك لحاجة في نفس Google.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Top1000webSite.png)
+[![](Top1000webSite.png)
 ](https://www.it-scoop.com/2010/05/google-top-1000-web-site/)
 
 احتلت Facebook صدارة الترتيب بفضل الـ 570 مليون زائر مختلف التي حصلت عليها خلال شهر أبريل، فيما حلت Yahoo.com و Live.com في المرتبتين الثانية و الثالثة حيث يعتقد أن اختيار العديد من مستعملي الإنترنت لصفحتي بداية هذين الموقعين كصفحة بداية المتصفحات يدا في الأمر. و لم يكن ضمن المواقع العشرة الأكثر زيارة سوى موقعان لا تظهر عليهما أي من أنواع الدعاية، و نقصد هنا كلا من [wikipedia.org](https://www.google.com/adplanner/planning/site_profile#siteDetails?identifier=wikipedia.org) و[mozilla.com](https://www.google.com/adplanner/planning/site_profile#siteDetails?identifier=mozilla.com).

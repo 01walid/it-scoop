@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/chart-of-the-day-time-spent-on-facebook-google-yahoo-jun-2007-aug-2010.jpg)
+[![](chart-of-the-day-time-spent-on-facebook-google-yahoo-jun-2007-aug-2010.jpg)
 ](https://www.it-scoop.com/2010/09/comscore-facebook-google/)
 
 

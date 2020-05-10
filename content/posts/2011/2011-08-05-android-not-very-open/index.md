@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/open-governance-index.png)
+[![](open-governance-index.png)
 ](https://www.it-scoop.com/2011/08/android-not-very-open/)
 
 

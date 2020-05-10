@@ -21,7 +21,7 @@ tags:
 
 كشفت IBM عن معالج z196 الذي يعتبر أسرع معالج على وجه المعمورة و الذي يصل تردده إلى 5.2 Ghz
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/z196.jpg)
+[![](z196.jpg)
 ](https://www.it-scoop.com/2010/09/ibm-z196-52-ghz/)
 
 المعالج الجديد سيكون حاضرا على أجهزة الـ mainframe التي تحمل اسم zEnterprise 196  و التي ستطلقها IBM في الـ 10 من سبتمبر القادم.

@@ -17,7 +17,7 @@ tags:
 
 أطلقت Novell الشركة الراعية لتوزيعة OpenSuse الـ Release Candidate للإصدار 11.3  منها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/OpenSuse.png)
+[![](OpenSuse.png)
 ](https://www.it-scoop.com/2010/06/opensuse-11-3-rc-1/)
 
 هذا الإصدار يعتمد على نواة Linux2.6.34  و يأتي مجهزا بأسطح المكتب KDE SC 4.4.3، GNOME 2.30.1 وXfce 4.6.1

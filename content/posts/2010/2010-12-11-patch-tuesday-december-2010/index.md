@@ -20,7 +20,7 @@ tags:
 
 لم يمض سوى شهران عن الرقم القياسي الجديد للـ Patch Tuesday و الذي تضمن [16 نشرة أمنية](https://www.it-scoop.com/2010/10/patch-tuesday-october-2010/) تحتوي على 49 ترقيعا، حتى حطمت Microsoft رقما قياسيا آخر بإعلانها أن محتوى الـ Patch Teusday لهذا [الشهر](http://www.microsoft.com/technet/security/bulletin/ms10-dec.mspx) سيضم 17 نشرة أمنية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/broken-microsoft.jpg )
+[![](broken-microsoft.jpg )
 ](https://www.it-scoop.com/2010/12/patch-tuesday-december-2010/)
 
 تحتوي هذه النشرات الأمنية  (و التي تشمل نشرتان وصفتا "بالحرجتين") في ثناياها 40 ترقيعا تخص كلا من:

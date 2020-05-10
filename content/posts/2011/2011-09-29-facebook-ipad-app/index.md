@@ -29,7 +29,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/ipad-facebook-app-log-in-screen.png)
+[![](ipad-facebook-app-log-in-screen.png)
 ](https://www.it-scoop.com/2011/09/facebook-ipad-app/)
 
 

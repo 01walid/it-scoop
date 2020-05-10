@@ -16,7 +16,7 @@ tags:
 
 أطلق Linus Torvalds الأب الروحي (و البيولوجي :) )  لنظام Linux الإصدار 2.6.34 منه و الذي يأتي ببعض الإضافات و الخواص الجديدة، لكنها تبقى قليلة الأهمية في نظر Torvalds  حسبما أشار إليه في نص الإعلان عن هذا الإصدار.
 
-[![](https://djug.developpez.com/rsc/Linux-kernel.jpeg)
+[![](Linux-kernel.jpeg)
 ](https://www.it-scoop.com/2010/05/linux-kernel-2-6-34/)
 
 أهم ما جاء في هذا الإصدار هو إضافة نظامي إدارة الملفات  Ceph و LogFS إلى جانب كل من دعم البطاقات الرسومية  Radeon 5xxxx.

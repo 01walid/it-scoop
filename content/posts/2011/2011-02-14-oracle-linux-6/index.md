@@ -21,7 +21,7 @@ tags:
 
 أعلنت  [Oracle](http://oss.oracle.com/pipermail/el-errata/2011-February/001819.html) عن إطلاق الإصدار السادس من توزيعتها  Oracle Linux   ، المبنية على الإصدار الأخير للـ Red Hat Enterprise Linux 6، و هي توزيعة موجهة للمؤسسات.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/Oracle-Unbreakable-Linux-Network.png)
+[![](Oracle-Unbreakable-Linux-Network.png)
 ]( https://www.it-scoop.com/2011/02/oracle-linux-6/)
 
 وفقا لموقع المشروع  فإن Oracle تبني توزيعتها اعتمادا على Red Hat Linux ، وتزيل العلامات التجارية للـ Red Hat ، ثم تضيف إصلاحات Linux، كما أنها متوافقة بشكل كامل مع  Red Hat Enterprise Linux  و تعتزم الإبقاء على الأمر كذلك.

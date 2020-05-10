@@ -18,8 +18,8 @@ tags:
 
 
 
-[![صورة من داخل مصنع Condor -مصدر الصورة جريدة La tribune](https://www.it-scoop.com/wp-content/uploads/2011/11/Condor.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/Condor.jpg)
+[![صورة من داخل مصنع Condor -مصدر الصورة جريدة La tribune](Condor.jpg)
+](Condor.jpg)
 
 
 

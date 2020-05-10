@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/twitter.png)
+[![](twitter.png)
 ](https://www.it-scoop.com/2010/09/twitter-145-million-user-300000-applications)
 
 

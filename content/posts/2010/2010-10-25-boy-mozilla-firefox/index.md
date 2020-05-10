@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://extras.mnginteractive.com/live/media/site568/2010/1022/20101022__alexmiller~1_GALLERY.JPG )
+[![](20101022__alexmiller~1_GALLERY.JPG )
 ](https://www.it-scoop.com/2010/10/boy-mozilla-firefox/)
 
 

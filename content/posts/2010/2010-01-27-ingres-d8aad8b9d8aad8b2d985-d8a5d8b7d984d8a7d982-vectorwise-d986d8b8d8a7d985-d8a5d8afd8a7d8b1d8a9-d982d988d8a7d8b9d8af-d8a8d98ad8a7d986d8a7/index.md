@@ -17,7 +17,7 @@ tags:
 
 تعتزم Ingres الرائدة في مجال المصادر المفتوحة إطلاق VectorWise نظام إدارة قواعد بيانات مفتوح المصدر جديد و الذي سينشر تحت رخصة GPL.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/vectorwise.png)
+[![](vectorwise.png)
 ](https://www.it-scoop.com/2010/01/ingres-%d8%aa%d8%b9%d8%aa%d8%b2%d9%85-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-vectorwise-%d9%86%d8%b8%d8%a7%d9%85-%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d9%82%d9%88%d8%a7%d8%b9%d8%af-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7/)
 
 حسب Ingres فإن نظام VectorWise مطور و مجهز للعمل على الأجهزة و العتاد الحالي، مما يجعله أسرع بكثير من منافسيه الحاليين.

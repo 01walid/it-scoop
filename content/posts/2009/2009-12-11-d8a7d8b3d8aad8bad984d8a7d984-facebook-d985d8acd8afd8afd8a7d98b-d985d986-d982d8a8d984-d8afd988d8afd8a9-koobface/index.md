@@ -18,14 +18,14 @@ tags:
 يقوم المهاجمون بنشر روابط خبيثة على صفحات Facebook wall محرّضين المستخدمين لمشاهدة مقطع فيديو خاص بعيد الميلاد.
 
 
-![](http://i.usatoday.net/communitymanager/_photos/technology-live/2009/12/10/Koobface%20fake%20Santa%20videox-large.jpg)
+![](Koobface%20fake%20Santa%20videox-large.jpg)
 
 
 
 
 بتشغيل مقطع الفيديو ينتقل التحكم بالجهاز إلى المهاجمين، يقول Sean-Paul Correll أحد الباحثين في PandaLabs. بعدها يظهر للمستخدم نافذة تحذيرية خاصة بويندوز تطلب منه أن يقوم بكتابة الكلمات الظاهرة في أحجية CAPTCHA، خلال مدة 3 دقائق.
 
-![](http://i.usatoday.net/communitymanager/_photos/technology-live/2009/12/10/koobface%20captchax-inset-community.jpg)
+![](koobface%20captchax-inset-community.jpg)
 
 
 الفشل في إدخال الكلمات الخاصة بـ CAPTCHA خلال هذه المدة يؤدي إلى توقف الجهاز عن الاستجابة. إعادة التشغيل غير مفيدة في هذه الحالة حيث تعود هذه النافذة للظهور مرة أخرى والطريقة الوحيدة لإغلاقها هي من خلال حل أحجية CAPTCHA، في هذه الحالة يعود التحكم للمستخدم صاحب الجهاز بشكل طبيعي، لكنه يبقى تحت سيطرة المهاجمين.

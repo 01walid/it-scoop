@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/ev1.jpg)
+[![](ev1.jpg)
 ](https://www.it-scoop.com/2010/10/twiiter-co-founder-williams-steps-down-as-ceo)
 
 

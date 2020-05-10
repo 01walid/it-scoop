@@ -21,7 +21,7 @@ tags:
 
 أعلنت Microsoft  أن نظام التشغيل Windows Mobile 7 الموجه للأجهزة الكفية  لن يصدر قبل نهاية العام القادم.
 
-[![wm7_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/wm7_logo-300x204.jpg)
+[![wm7_logo](wm7_logo-300x204.jpg)
 ](https://www.it-scoop.com/2009/12/microsoft-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%aa%d8%a3%d8%ae%d9%8a%d8%b1-%d8%b5%d8%af%d9%88%d8%b1-windows-mobile-7-%d8%a5%d9%84%d9%89-%d8%ba%d8%a7%d9%8a%d8%a9-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-20/)
 
 كان من المتوقع صدور Windows Mobile 7 خلال العام القادم لكن تم تأخير صدوره لأسباب لم يتم الإفصاح عنها.

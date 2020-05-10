@@ -18,7 +18,7 @@ tags:
 
 أطلقت Mozilla الإصدار 3.5.6 من متصفحها الشهير FireFox و التي تأتي لتصحيح بعض العلل و مشاكل الثبات و الأمان.
 
-[![firefox_logo_3025](https://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025-300x279.jpg)
+[![firefox_logo_3025](firefox_logo_3025-300x279.jpg)
 ](https://www.it-scoop.com/2009/12/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-3-5-6-%d9%85%d9%86-firefox/)
 
 

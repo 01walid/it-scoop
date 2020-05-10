@@ -18,7 +18,7 @@ tags:
 
 أعلن الأخ زايد السعيدي المعروف في الأوساط التقنية باسم OMLX عن إطلاق العدد الأول من مجلة  أوبونتو بلس العربية.
 
-[![](http://itwadi.com/files/images/ubuntu-plus-end-cover_May-2010.png)
+[![](ubuntu-plus-end-cover_May-2010.png)
 ](https://www.it-scoop.com/2010/05/ubuntu-plus/ )
 
 مجلة  أوبونتو بلس هي أول مجلة عربية الكترونية مختصة بنظام Ubuntu و بالبرمجيات الحرة بشكل عام

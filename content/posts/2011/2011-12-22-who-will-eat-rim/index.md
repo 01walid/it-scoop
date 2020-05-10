@@ -20,7 +20,7 @@ tags:
 يقول المثل الجزائري " إذا سقط الثور، كثرت سكاكينه"، كذلك RIM، في وضع متساقط لئيم، وفي المقابل عادت <del>ريمة</del> Nokia و  Microsoft إلى عاداتهما القديمة، في ترصد لوضع الفريسة Research In Motion المتدهور، لكن هل ستفر هذه الأخيرة إلى غابات Amazon؟
 
 
-[![شعار RIM و BlackBerry](https://www.it-scoop.com/wp-content/uploads/2011/12/rim-blackberry-logo-1-300x202.jpg)
+[![شعار RIM و BlackBerry](rim-blackberry-logo-1-300x202.jpg)
 ](https://www.it-scoop.com/wp-content/uploads/2011/12/rim-blackberry-logo-1.jpg)لست في فلم وثائقي، لكن كل من Microsoft ، Nokia و شركة Amazon[ مرشح لنيل حصة  RIM](http://online.wsj.com/article/SB10001424052970204879004577111030686209566.html) التي تمر بها ظروف عصيبة، فبعد تلاشي بعضا من خدماتها في أيام معدودات، تأخر إصدار نظامها BlackBerry 10 أو (BBX اختصارا) والأسوء من هذا، مبيعات فضيعة مخيبة للآمال لجهاز PlayBook، جعل قيمة الشركة في البورصة تتراجع بنسبة 77% في الأشهر الاثني عشر الأخيرة .
 
 

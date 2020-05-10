@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/paul-allen.jpg)
+[![](paul-allen.jpg)
 ](https://www.it-scoop.com/2010/08/paul-allen-sues-11-companies/)
 
 

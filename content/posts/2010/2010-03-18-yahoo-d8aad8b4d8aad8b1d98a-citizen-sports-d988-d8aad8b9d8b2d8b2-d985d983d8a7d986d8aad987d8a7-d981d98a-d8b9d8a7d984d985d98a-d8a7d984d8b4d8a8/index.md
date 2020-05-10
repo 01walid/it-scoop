@@ -20,7 +20,7 @@ tags:
 أعلنت Yahoo أمس عن شرائها  Citizen Sports الـ StartUp المتخصصة في  تطبيقات و أخبار الرياضة، و بذلك تعزز مكانتها في كل من الشبكات الاجتماعية  و أخبار الرياضة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/Citizen-Sports.jpg)
+[![](Citizen-Sports.jpg)
 ](https://www.it-scoop.com/2010/03/yahoo-%d8%aa%d8%b4%d8%aa%d8%b1%d9%8a-citizen-sports-%d9%88-%d8%aa%d8%b9%d8%b2%d8%b2-%d9%85%d9%83%d8%a7%d9%86%d8%aa%d9%87%d8%a7-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d8%a7%d9%84%d8%b4%d8%a8/)
 
 

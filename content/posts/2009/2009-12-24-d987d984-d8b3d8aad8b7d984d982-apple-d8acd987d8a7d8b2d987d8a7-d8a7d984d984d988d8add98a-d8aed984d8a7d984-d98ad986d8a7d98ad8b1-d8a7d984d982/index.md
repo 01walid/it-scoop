@@ -22,7 +22,7 @@ tags:
 
 على حسب جريدة الـ Financial Times فإن Apple ستطلق جهازها اللوحي في السادس و العشرين من يناير القادم.
 
-[![](https://djug.developpez.com/rsc/apple_tablet.jpg)
+[![](apple_tablet.jpg)
 ](https://www.it-scoop.com/2009/12/%d9%87%d9%84-%d8%b3%d8%aa%d8%b7%d9%84%d9%82-apple-%d8%ac%d9%87%d8%a7%d8%b2%d9%87%d8%a7-%d8%a7%d9%84%d9%84%d9%88%d8%ad%d9%8a-%d8%ae%d9%84%d8%a7%d9%84-%d9%8a%d9%86%d8%a7%d9%8a%d8%b1-%d8%a7%d9%84%d9%82/)
 
 على حسب Gene Munster المستشار لدى Piper Jaffray  و الذي استشهدت الجريدة بأقواله:

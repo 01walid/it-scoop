@@ -26,7 +26,7 @@ tags:
 [أطلقت](http://blog.mozilla.com/blog/2011/02/08/mozilla-firefox-4-beta-now-including-do-not-track-capabilities/) Mozilla الـ Beta رقم 11 للإصدار 4 من Firefox و التي ستكون الـ Beta [ما قبل الأخيرة](http://christian.legnitto.com/blog/2011/02/01/mozilla-central-landings-today-and-beta-11-plan/) (هذه المرة فعلا ستكون ما قبل الأخيرة :)  ) و التي تأتي مجهزة بخاصية [Do Not Track](https://www.it-scoop.com/2011/01/mozilla-do-not-track/) التي تحمي المستخدم من الإعلانات الموجهة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
+[![](firefox_logo_3025.jpg)
 ](https://www.it-scoop.com/2011/02/firefox-4-beta-11-do-not-track/)
 
 

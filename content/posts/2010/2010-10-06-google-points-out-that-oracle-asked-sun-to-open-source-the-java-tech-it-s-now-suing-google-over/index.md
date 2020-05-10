@@ -21,7 +21,7 @@ tags:
 
 في محاولة للدفاع عن نفسها خلفت ردا مطولا [من  27 صفحة](http://www.scribd.com/doc/38765815/Google-Answer-and-Counterclaims-v-Oracle-Filed) ، تفاعلت  Google هذه المرة وبتفصيل أكثر  مع دعوى Oracle القضائية التي رُفعت عليها هذا الصيف ، رامية إياها بالنفاق مع لغة Java.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/java-apli-255x300.png)
+[![](java-apli-255x300.png)
 ](https://www.it-scoop.com/wp-content/uploads/2010/10/java-apli.png)
 
 شهران من رفع الدعوى، استمرت فيها العلاقة بين عملاق الويب وOracle بالانحدار، حيث أُتهمت Google بانتهاك عدة براءات اختراع في نظام تشغلها مفتوح المصدر الموجه للهواتف Android.

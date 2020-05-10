@@ -33,7 +33,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/hp-touchpad.jpg)
+[![](hp-touchpad.jpg)
 ](https://www.it-scoop.com/2011/08/hp-touchepad-htc-webos/)
 
 

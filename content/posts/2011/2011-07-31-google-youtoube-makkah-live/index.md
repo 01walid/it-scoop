@@ -21,7 +21,7 @@ tags:
 
 أعلنت Google [عبر مدوّنتها العربيّة](http://google-arabia.blogspot.com/2011/07/youtube.html) عن توفيرها [لقناة مخصّصة](http://www.youtube.com/MakkahLive) على YouTube لبثّ صلاة التّراويح من الحرم المكّي بالتّعاون مع وزارة الثّقافة والإعلام السّعوديّة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/makkah.jpg)
+[![](makkah.jpg)
 ](https://www.it-scoop.com/2011/07/google-youtoube-makkah-live/)
 
 وذكر نجيب جرّار، مدير التسويق للشرق الأوسط وشمال أفريقيا لدى Google

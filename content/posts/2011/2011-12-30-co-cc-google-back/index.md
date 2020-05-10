@@ -18,8 +18,8 @@ tags:
 
 
 
-[![Google تعيد من جديد إظهار مواقع co.cc على محرك بحثها](https://www.it-scoop.com/wp-content/uploads/2011/12/co-cc-google-back.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/co-cc-google-back.png)
+[![Google تعيد من جديد إظهار مواقع co.cc على محرك بحثها](co-cc-google-back.png)
+](co-cc-google-back.png)
 
 
 

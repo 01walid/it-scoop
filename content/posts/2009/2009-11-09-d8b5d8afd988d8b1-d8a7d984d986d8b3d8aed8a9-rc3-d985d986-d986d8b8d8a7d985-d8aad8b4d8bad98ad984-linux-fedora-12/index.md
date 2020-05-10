@@ -13,7 +13,7 @@ tags:
 
 صدرت نسخة RC3 من نظام تشغيل Fedora12  و المسماة Constantine.
 
-![fedoraLogo](https://www.it-scoop.com/wp-content/uploads/2009/11/fedoraLogo-300x91.jpg)
+![fedoraLogo](fedoraLogo-300x91.jpg)
 
 
 من بين المستجدات في هذه النسخة  برنامج المحادثة الفورية Empathy الذي سيعوض برنامج Pidgin و الذي سيصبح برنامج المحادثة الفورية القياسي في الإصدارة، إضافة إلى جملة من التحسينات لملائمة معالجات Atom  المصنعة من طرف Intel  و المستعملة في حواسيب النت netbooks.

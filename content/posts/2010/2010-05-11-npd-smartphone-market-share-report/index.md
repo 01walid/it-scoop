@@ -18,7 +18,7 @@ tags:
 
 في دراسة قام بها معهد NPD Group  تخص الربع الأول من العام الحالي، فإن حصة نظام Android من سوق أنظمة تشغيل الهواتف الذكية يتجاوز لأول مرة حصة الـ iPhone فيما يبقى الـ BlackBerry في الصدارة.
 
-[[![](https://www.it-scoop.com/wp-content/uploads/2010/03/smartphones.jpg)
+[[![](smartphones.jpg)
 ](https://www.it-scoop.com/2010/05/NPD-SmartPhone-market-share-report)
 ](https://www.it-scoop.com/wp-content/uploads/2009/12/google_android_logo.jpg)
 

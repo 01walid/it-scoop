@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Mono-logo.gif)
+[![](Mono-logo.gif)
 ](https://www.it-scoop.com/2010/10/mono-2-8-csharp-4-0/)
 
 

@@ -21,7 +21,7 @@ tags:
 خلافاً لما تقوم به Adobe عادة من طرح نشراتها الأمنية بشكل ربع سنوي، فإنها هذه المرة قد أعلنت بأن تحديثات حرجة لتطبيقات Acrobat و Reader سيتم طرحها يوم الثلاثاء القادم (13 أبريل/نيسان) ، مما يوحي بأن Adobe  تسعى إلى حصّة من [الـ Patch Tuesday  المصطلح الخاص بـ Microsoft أيضاً](https://www.it-scoop.com/2010/04/microsoft-patch-tuesday-april-2010/) :)
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+[![](adobe-security.jpg)
 ](https://www.it-scoop.com/2010/04/patch-tuesday-is-for-adobe-too/)
 
 

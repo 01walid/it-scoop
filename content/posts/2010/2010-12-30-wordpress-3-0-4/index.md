@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo-300x300.png)
+[![](wordpress-logo-300x300.png)
 ](https://www.it-scoop.com/2010/12/wordpress-3-0-4/)
 
 

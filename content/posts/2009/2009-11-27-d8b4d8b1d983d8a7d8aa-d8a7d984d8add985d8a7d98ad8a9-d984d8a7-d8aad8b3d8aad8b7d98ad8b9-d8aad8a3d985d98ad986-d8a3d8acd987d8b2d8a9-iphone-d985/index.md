@@ -16,9 +16,9 @@ tags:
 
 أشار باحثون لدى F-Secure إلى حقيقة أنه من المستحيل تشغيل برامج مكافحة فيروسات 3rd-party  على أجهزة  iPhone، لأن الـ SDK الخاصة بها لا تسمح بهذا. إنها لمشكلة، حيث يدّعون بأن البرامج الخبيثة ستبادر إلى استهداف الهاتف.
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594410850404.jpg)
+![](post-7008-12594410850404.jpg)
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594410725863.gif)
+![](post-7008-12594410725863.gif)
 
 يقول رئيس الباحثين Mikko Hypponen لدى F-Secure:
 

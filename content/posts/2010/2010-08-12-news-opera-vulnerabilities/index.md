@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/opera-logo.jpg)
+[![](opera-logo.jpg)
 ](https://www.it-scoop.com/2010/08/news-opera-vulnerabilities/)
 
 

@@ -23,7 +23,7 @@ tags:
 قامت Mozilla بسحب (أو بالأحرى تعليمها كتجريبية) إضافة [Ant Video Downloader and Player](https://addons.mozilla.org/fr/firefox/addon/video-downloader-player/) (الخاصة بتحميل الفيديوهات من المواقع التي تعرضها) من معرض إضافات Firefox لقيامها بتجميع بيانات المستخدمين دون علمهم و هو ما يخالف [القواعد](https://addons.mozilla.org/en-US/developers/docs/policies/submission) المعمول بها لدى المؤسسة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/firefox-addons.jpg)
+[![](firefox-addons.jpg)
 ](https://www.it-scoop.com/2011/05/mozilla-firefox-addon-ant-video-downloader-and-player)
 
 

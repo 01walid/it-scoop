@@ -41,7 +41,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/domain_name.jpg)
+[![](domain_name.jpg)
 ](https://www.it-scoop.com/2011/03/it-scoop-gift/)
 
 

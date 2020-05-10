@@ -14,7 +14,7 @@ categories:
 
 يعود المهندس يوسف الحضيف بأسلوبه المميز مع Podcast رؤية رقمية ليقرأ لنا جانبا من استعمال الشبكات الاجتماعية و على وجه التحديد خصوصا Facebook و Twitter خصوصا ما تعلق منها بخصوصية المستخدمين.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/01/facebookEcrit_logo-300x99.jpg)
+[![](facebookEcrit_logo-300x99.jpg)
 ](https://www.it-scoop.com/2011/06/digital-vision-podcast-19/)
 
 يمكن متابعة "رؤية تقنية" على صفحتها على الـ Facebook من [هنا](http://www.facebook.com/Arab.Digital.Vision)

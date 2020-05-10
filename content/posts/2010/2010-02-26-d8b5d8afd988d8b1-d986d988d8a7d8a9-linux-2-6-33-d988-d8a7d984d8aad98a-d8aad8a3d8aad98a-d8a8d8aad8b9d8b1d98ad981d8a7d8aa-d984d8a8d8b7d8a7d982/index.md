@@ -17,7 +17,7 @@ tags:
 
 أعلن Linus Torvalds  عن توفر أحدث إصدار من نواة Linux 2.6.33 للتحميل و التي تأتي بالعديد من المستجدات.
 
-[![](https://djug.developpez.com/rsc/Linux-kernel.jpeg)
+[![](Linux-kernel.jpeg)
 ](https://www.it-scoop.com/2010/02/%d8%b5%d8%af%d9%88%d8%b1-%d9%86%d9%88%d8%a7%d8%a9-linux-2-6-33-%d9%88-%d8%a7%d9%84%d8%aa%d9%8a-%d8%aa%d8%a3%d8%aa%d9%8a-%d8%a8%d8%aa%d8%b9%d8%b1%d9%8a%d9%81%d8%a7%d8%aa-%d9%84%d8%a8%d8%b7%d8%a7%d9%82/)
 
 الإصدار 2.6.33 من نواة Linux   يأتي بكل من نظام التخزين الموزع **DRBD** Distributed Replicated Block Device و الذي يكافئ نظام RAID1  Redundant array of independant/inexpensive disks و الذي سيسمح ببناء خوادم موزعة عالية الأداء اعتمادا على أنظمة الملفات File Systems الموزعة.

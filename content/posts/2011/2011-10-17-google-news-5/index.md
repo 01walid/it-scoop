@@ -16,8 +16,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Google-logo.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/08/Google-logo.jpg)
+[![](Google-logo.jpg)
+](Google-logo.jpg)
 
 
 كشفت Google عن[ تقرير لنتائج الرّبع الثّالث](http://investor.google.com/earnings/2011/Q3_google_earnings.html) من هذا العامّ، ويبدو أن أرباحها قد تجاوزت توقّعات المحلّلين.

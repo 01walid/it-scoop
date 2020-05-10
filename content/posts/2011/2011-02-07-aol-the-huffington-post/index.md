@@ -19,7 +19,7 @@ tags:
 بعد شرائها للعديد من المواقع الإخبارية الأمريكية و على رأسها مدونتي Engadget و TechCrunch التقنيتين، [أعلنت](http://techcrunch.com/2011/02/06/i-for-one-welcome-our-new-huffington-overlord/) AOL اليوم عن شرائها للصحيفة الالكترونية الأمريكية [The Huffington Post](http://www.huffingtonpost.com/) و ذلك مقابل  315 مليون دولار.
 
 
-[![](http://i.huffpost.com/gen/245103/thumbs/r-HUFFINGTON-POST-AOL-huge.jpg)
+[![](r-HUFFINGTON-POST-AOL-huge.jpg)
 ](https://www.it-scoop.com/2011/02/aol-the-huffington-post/)
 
 

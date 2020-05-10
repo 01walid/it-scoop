@@ -22,7 +22,7 @@ tags:
 
 لم ترد بعد أية أنباء رسمية من طرف Apple حول الأمر، لكن الخبر مصدره موقع [148Apps ](http://148apps.biz/)و الذي يشير إلى أن الـ AppStore قد تجاوز حاجز الـ 250 ألف تطبيق .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Apple-appStore.jpg)
+[![](Apple-appStore.jpg)
 ](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)
 
 يأتي هذا الانجاز بعد عامين و 49 يوما من إطلاق الـ AppStore، و شارك في كتابة هذا العدد الكبير من التطبيقات 50304 مطورا، أي بمعدل يقارب 5 تطبيقات لكل مطور.
@@ -30,7 +30,7 @@ tags:
 و تجاوزت حصة الكتب حصة الألعاب في الـ AppStore حيث نالت حصة الأسد بنسبة قدرت بـ 17% من التطبيقات الموجودة فيه مقابل 14%  تخص الألعاب.
 
 
-[![](http://148apps.biz/appstorestats/appCategoryGraph.png)
+[![](appCategoryGraph.png)
 ](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)
 
 
@@ -41,5 +41,5 @@ tags:
 الرسم البياني التالي يوضح كيفية نمو الـ AppStore بمرور الوقت:
 
 
-[![](http://148apps.biz/appstorestats/appCountGraph.png )
+[![](appCountGraph.png )
 ](https://www.it-scoop.com/2010/08/apple-appstore-250000-application)

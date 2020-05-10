@@ -21,7 +21,7 @@ tags:
 
 
 
-عرف مؤشر Nasdaq بداية هذا الأسبوع [تراجعا مهما](http://www.marketwatch.com/story/nasdaq-leads-broad-market-retreat-2011-08-08?link=MW_latest_news) قُدِّر بنحو 07% خلال يوم واحد و11% منذ بداية السنة الجارية، وعرفت العديد من الشركات التقنية العالمية تراجعا في قيمة أسهمها.[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Stock-Market-Nasdaq.jpeg)
+عرف مؤشر Nasdaq بداية هذا الأسبوع [تراجعا مهما](http://www.marketwatch.com/story/nasdaq-leads-broad-market-retreat-2011-08-08?link=MW_latest_news) قُدِّر بنحو 07% خلال يوم واحد و11% منذ بداية السنة الجارية، وعرفت العديد من الشركات التقنية العالمية تراجعا في قيمة أسهمها.[![](Stock-Market-Nasdaq.jpeg)
 ](https://www.it-scoop.com/2011/08/nasdaq-takes-sharp-fall/)
 
 

@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/it-scoop-logo.png)
+[![](it-scoop-logo.png)
 ](https://www.it-scoop.com/2010/11/it-scoop-first-anniversary/)
 
 

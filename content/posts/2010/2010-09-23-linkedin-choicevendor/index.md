@@ -19,7 +19,7 @@ tags:
 تواصل الشبكة الاجتماعية المهنية LinkedIn توسعها، فبعد [شرائها](https://www.it-scoop.com/2010/08/linkedin-acquires-mspoke/) لـ mSpoke  شهر أغسطس الماضي، ها هي اليوم تعلن عن شرائها لشركة أخرى المتمثلة في [ChoiceVendor](http://www.choicevendor.com/).
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/LinkedIn-ChoiceVendor.png)
+[![](LinkedIn-ChoiceVendor.png)
 ]( https://www.it-scoop.com/2010/09/linkedin-choicevendor/)
 
 

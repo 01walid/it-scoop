@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/microsoft-patch-tuesday.jpg)
+[![](microsoft-patch-tuesday.jpg)
 ](https://www.it-scoop.com/2011/07/patch-tuesday-july-2011/)
 
 

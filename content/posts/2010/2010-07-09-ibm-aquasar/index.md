@@ -21,7 +21,7 @@ tags:
 
 
 أطلقت IBM و المعهد الاتحادي السويسري للتكنولوجيا بزيوريخ ETH Zurich الحاسوب العملاق    (supercomputer) المسمى Aquasar الذي يمتلك نظام تبريد فريد من نوعه. فبدل استعمال الماء البارد أو المراوح الهوائية، يستخدم Aquasar الماء الساخن لتبريد معالجاته.
-[![ibm aquasar](http://planetoverhaul.com/wp-content/uploads/2009/07/ibm-aquasar-supercomputer2.jpg)
+[![ibm aquasar](ibm-aquasar-supercomputer2.jpg)
 ]( https://www.it-scoop.com/2010/07/ibm-aquasar/)
 يعتمد Aquasar في التبريد على الماء بدرجة 60 درجة مئوية، ذلك لأن درجة الحرارة الآمنة التي تعمل فيها معالجات IBM تصل إلى 85 درجة مئوية، ففي هذه الحالة التبريد هو عملية نسبية على الرغم من استعمال الماء الساخن.
 

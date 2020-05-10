@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/mandriva-Tux.jpg)
+[![](mandriva-Tux.jpg)
 ](https://www.it-scoop.com/2010/06/Mandriva-Saved-By-New-Investors)
 
 

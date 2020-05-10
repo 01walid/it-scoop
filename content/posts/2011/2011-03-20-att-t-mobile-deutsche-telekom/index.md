@@ -19,7 +19,7 @@ tags:
 أفضت النقاشات الدائرة ما بين شركتي  Deutsche Telekom  و AT&T إلى بيع الأولى للثانية الفرعَ الأمريكيَ لـ  T-Mobile مقابل 39 مليار دولار ، 25 مليارا منها ستكون نقدا، أما البقية فستكون أسهماً … وستحصل Deutsche Telekom  على حصة 8% من AT&T إضافة إلى مقعد في مجلس إدارتها.
 
 
-[![](http://www.blogcdn.com/www.engadget.com/media/2011/03/11x0320n81aatt.jpg)
+[![](11x0320n81aatt.jpg)
 ](https://www.it-scoop.com/2011/03/att-t-mobile-deutsche-telekom/)
 
 

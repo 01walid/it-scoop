@@ -23,7 +23,7 @@ tags:
 
 أطلقت Mozilla [التحديث 3.6.14](https://www.mozilla.org/security/announce/2011/mfsa2011-02.html) لمتصفحها Firefox و أتبعتها بتحديث آخر 3.6.15 في أقل من 72 ساعة و هذا دون أن تكشف بعد عن محتويات التحديث الجديد (على غير عادتها).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
+[![](Firefox-Vulnerability.jpg)
 ](https://www.it-scoop.com/2011/03/mozilla-firefox-3-6-14-3-6-15-pwn2own-2011/)
 
 و يُعتقد أن مسارعة Mozilla لإصدار تحديثات أمنية لمتصفحها خلال هذه الفترة له علاقة مباشرة بمسابقة القرصنة Pwn2Own 2011 التي ستقام الأسبوع القادم، حيث أنه لم يتم إصدار أية تحديثات منذ بداية العام.

@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/LarryPage_SergeyBrin_EricSchmidt.jpg)
+[![](LarryPage_SergeyBrin_EricSchmidt.jpg)
 ](https://www.it-scoop.com/2010/07/Google-Schmidt-undaunted-Apple-Facebook)
 
 

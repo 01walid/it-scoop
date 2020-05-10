@@ -23,7 +23,7 @@ tags:
 
 نشرت Microsoft يوم أمس تحذيرا من ثغرة 0-day جديدة في الإصدارين السادس و السابع من متصفحها Internet Explorer.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/Internet_Explorer_7_Logo_red.png)
+[![](Internet_Explorer_7_Logo_red.png)
 ](https://www.it-scoop.com/2010/03/microsoft-%d8%aa%d8%ad%d8%b0%d8%b1-%d9%85%d9%86-%d8%ab%d8%ba%d8%b1%d8%a9-0-day-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1%d9%8a%d9%86-%d8%a7%d9%84%d8%b3/)
 
 الثغرة الجديدة تقوم على أساس استعمال invalid pointer يسمح بالحصول على كامل صلاحيات حساب المستخدم، مما يعني أن خطورة استغلال الثغرة يزداد بزيادة حجم الصلاحيات التي يتمتع بها هذا الحساب.

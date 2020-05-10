@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/oracle-virtualbox.png)
+[![](oracle-virtualbox.png)
 ](https://www.it-scoop.com/2010/10/oracle-virtualbox-3-2-10/)
 
 

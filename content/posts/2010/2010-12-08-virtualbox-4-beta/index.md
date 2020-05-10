@@ -18,7 +18,7 @@ tags:
 
 أطلقت Oracle الإصدار التجريبي للنسخة  رقم 4.0.0 من برنامج VirtualBox الشهير الخاص باﻷنظمة الافتراضية بعد حوالي سنتين على الإصدار رقم 2.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/oracle-virtualbox.png)
+[![](oracle-virtualbox.png)
 ](https://www.it-scoop.com/2010/12/virtualbox-4-beta)
 
 تأتي هذه النسخة الرئيسية بمزايا عديدة منها :

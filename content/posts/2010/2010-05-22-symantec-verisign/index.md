@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Verisign_logo-300x154.jpg)
+[![](Verisign_logo-300x154.jpg)
 ](https://www.it-scoop.com/2010/05/symantec-verisign/ )
 
 

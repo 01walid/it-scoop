@@ -15,7 +15,7 @@ tags:
 
 أعلن فريق تطوير SilverLight عن إطلاق SDK جديد خاص بتطبيقات Facebook.
 
-![facebook-logo](https://www.it-scoop.com/wp-content/uploads/2009/11/facebook-logo.jpg)
+![facebook-logo](facebook-logo.jpg)
 
 
 الـ SDK الجديد سيسمح للمطورين الذين يكتبون تطبيقات لـ Facebook  من الاستفادة من مزايا كل من Silverlight ، WPF ، ASP.NET ، ASP.NET MVC و Windows Forms

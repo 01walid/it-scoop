@@ -19,7 +19,7 @@ tags:
 
 أصدرت Microsoft برنامج Expression Blend Preview for .NET 4
 
-![expression_blend](https://www.it-scoop.com/wp-content/uploads/2009/11/expression_blend.jpg)
+![expression_blend](expression_blend.jpg)
 
 
 يسمح هذا الإصدار للمطورين بإنشاء محتويات تخص الـ Silverlight 4 Beta و إطار العمل .NET 4 Beta 2

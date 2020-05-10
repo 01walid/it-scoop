@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Wikileaks.jpg)
+[![](Wikileaks.jpg)
 ](https://www.it-scoop.com/2010/12/wikileaks-amazon-ec2/)
 
 

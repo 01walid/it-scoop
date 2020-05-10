@@ -18,7 +18,7 @@ tags:
 
 أعلنت Google أنها [ستعمم](http://googlewebmastercentral.blogspot.com/2011/06/1-around-world.html) ابتداء من اليوم مجال زر +1 الخاص بها ليشمل جميع نسخ محرك بحثها بعد أن كان الأمر مقتصرا على نتائج البحث باللغة الانجليزية على النطاق الرئيسي Google.com
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/google-1.jpg)
+[![](google-1.jpg)
 ](https://www.it-scoop.com/2011/06/google-1-search-pages-globally/ )
 
 و سيبدأ التعميم على النسخ المحلية الأكثر انتشارا على غرار google.co.uk،  google.de،  google.jp  و  google.fr على أن يشمل جميع النسخ لاحقا، و تدعو Google من خلال [التدوينة](http://googlewebmastercentral.blogspot.com/2011/06/1-around-world.html) التي تعلن فيها عن هذه الخطوة الناشرين الذين لم يضمنوا زر +1 في مواقعهم إلى القيام بذلك.

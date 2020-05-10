@@ -22,7 +22,7 @@ tags:
 
 [http://bit.ly/bUCcGq.qr](http://bit.ly/bUCcGq.qr)
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/bit.ly-logo-300x232.jpg)
+[![](bit.ly-logo-300x232.jpg)
 ](https://www.it-scoop.com/wp-content/uploads/2010/10/bit.ly-logo.jpg)
 
 تأتي هذه الخطوة  بعد أن قامت Google بإطلاق خدمة تقصير الروابط الخاصة بها Goo.gl و التي توفر هذه الخاصية، مما لا يدع مجالا للشك بإحساس Bit.ly بالخطر الذي قد يلحقها من طرف Google.

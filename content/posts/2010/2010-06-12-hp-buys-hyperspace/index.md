@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/HyperSpace.jpg)
+[![](HyperSpace.jpg)
 ](https://www.it-scoop.com/2010/06/hp-buys-hyperspace)
 
 

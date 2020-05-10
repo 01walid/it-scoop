@@ -22,7 +22,7 @@ tags:
 
 من المنتظر صدور الحزمة المكتبية Office 2011  لأنظمة Mac خلال نهاية العام الحالي، و اغتنمت Microsoft فرصة مؤتمر Macworld للكشف عن أهم مستجدات الإصدار القادم من حزمتها المكتبية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/Office-for-Mac-2011.jpg)
+[![](Office-for-Mac-2011.jpg)
 ](https://www.it-scoop.com/2010/02/microsoft-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d8%b3%d8%aa%d8%a7%d8%b1-%d8%b9%d9%86-%d9%85%d8%b3%d8%aa%d8%ac%d8%af%d8%a7%d8%aa-office-2011-%d9%84%d8%a3%d9%86%d8%b8%d9%85%d8%a9-mac-%d8%a7%d9%84%d9%85/)
 
 سيسجل شريط الأدوات الخاص بـ Office 2007 دخوله في هذا الإصدار كما سيعوض برنامج Outlook برنامج Entourage و الذي سيتضمن أداة البحث Mac Spotlight و خاصية حفظ الملفات باستخدام Time Machine، دون أن ننسى دعم الملفات .PST و التي تسمح باستيراد البيانات المصدرة باستعمال إصدار Windows لـ Outlook.

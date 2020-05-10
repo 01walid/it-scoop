@@ -20,7 +20,7 @@ tags:
 
 أعلمت Wordpress.com زبائنها (عرض Wordpress VIP) عبر رسائل بريد الكتروني عن تعرضها لهجمات DDoS شرسة هي الأعنف على مر تاريخ الشركة التي أسست منذ 6 سنوات خلت.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
+[![](wordpress-logo.png)
 ](https://www.it-scoop.com/2011/03/wordpress-com-ddos-attack/ )
 
 و [حسب](http://techcrunch.com/2011/03/03/wordpress-com-suffers-major-ddos-attack/) مدونة TechCrunch التي عرضت جزء من هذه الرسالة – كونها أحد زبائن هذه الخدمة- أن الهجوم تجاوز عدة Gigabits و عشرات ملايين الحزم packets  كل ثانية.

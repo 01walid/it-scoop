@@ -19,7 +19,7 @@ tags:
 
 أطلق قسم Mozilla Messaging الإصدار 3.1  من البرنامج الخاص بالبريد الإلكتروني Thunderbird المنافس لتطبيق Outlook من حزمة Microsoft Office.
 
-[![](https://djug.developpez.com/rsc/thunderbird-logo-64x64.png)
+[![](thunderbird-logo-64x64.png)
 ](https://www.it-scoop.com/2010/06/Mozilla-releases-Thunderbird-3-1)
 
 الإصدار الجديد يأتي ليصلح بعض العلل الموجودة في الإصدار السابق، كما يأتي ببعض المستجدات و التي قد يكون من أهمها إضافة مدير الملفات المحملة ، تحسين إدارة كلمات السر إلى جانب تحسين آلية إضافة عناوين بريد إلكتروني إضافية.

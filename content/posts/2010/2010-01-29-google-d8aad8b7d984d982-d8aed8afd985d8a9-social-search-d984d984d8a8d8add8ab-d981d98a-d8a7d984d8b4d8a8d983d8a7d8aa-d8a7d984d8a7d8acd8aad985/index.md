@@ -17,7 +17,7 @@ tags:
 
 بعد خدمة البحث في الزمن الحقيقي و التي أطلقتها Google من مدة، ها هي الآن تطلق خدمة Social Search و التي تخص البحث في الشبكات الاجتماعية التي يستعملها المستخدم.
 
-[](https://www.it-scoop.com/wp-content/uploads/2010/01/google-social-search.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2010/01/google-social-search-e1264765728656.jpg)
+[](https://www.it-scoop.com/wp-content/uploads/2010/01/google-social-search.jpg)[![](google-social-search-e1264765728656.jpg)
 ](https://www.it-scoop.com/2010/01/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%ae%d8%af%d9%85%d8%a9-social-search-%d9%84%d9%84%d8%a8%d8%ad%d8%ab-%d9%81%d9%8a-%d8%a7%d9%84%d8%b4%d8%a8%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85/)
 
 [

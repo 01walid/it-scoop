@@ -25,7 +25,7 @@ tags:
 لا ندري أهو تغير في سياسة Apple أم أنه مجرد خطأ عابر؟ لكن تطبيق IS DRIVE لتحميل ملفات Torrent تم الموافقة عليه [ولا يزال متوفرا على الـ AppStore.](http://itunes.apple.com/us/app/is-drive/id394341587?mt=8)
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/is-drive.jpg)
+[![](is-drive.jpg)
 ](https://www.it-scoop.com/2010/10/is-drive-torrent-app-approved-on-appstore)
 
 من المعروف أن سياسة Apple الصارمة ترفض أي تطبيق متعلق بتحميل ملفات Torrent، لكن تطبيق IS Drive جاء كأول استثناء لهذه القاعدة وهو يسمح بمستخدمي خدمة ImageShack بتحميل ملفات تورنت وتخزينها مباشرة على هواتفهم.

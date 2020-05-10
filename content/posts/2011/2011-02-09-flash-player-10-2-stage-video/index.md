@@ -20,7 +20,7 @@ tags:
 
 أطلقت Adobe النسخة النهائية من Flash Player 10.2 لكل من أنظمة Windows ، Mac و Linux و الذي يأتي بخاصية [Stage Video](http://www.adobe.com/devnet/flashplayer/stagevideo.html) التي تعتمد على الـ hardware acceleration لقراءة ملفات الفيديو.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/flash.jpeg)
+[![](flash.jpeg)
 ](https://www.it-scoop.com/2011/02/flash-player-10-2-stage-video/)
 
 و لقد بدأ استعمال تقنية Stage Video في الإصدار السابق، إلا أنها تشهد استخداما أشمل في هذا الإصدار، و تقوم هذه التقنية على استخدام قدرات البطاقات الرسومية بدل  المعالجات لقراءة ملفات الفيديو و هو ما سيقلل من الضغط التي تعرفه هذه الأخيرة و بالتالي التقليل من استهلاك طاقة الحواسيب (و خاصة المحمولة منها)، و تمديد عمر بطارياتها.

@@ -21,7 +21,7 @@ tags:
 بعد  Switched ،TUAW ،Endgadget ،DownloadSquad و 5min Media  ها هي AOL تعزز استحواذاتها بخصوص مواقع الأخبار التقنية بشرائها مدونة TechCrunch الشهيرة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/AOLandTechCrunch.jpg)
+[![](AOLandTechCrunch.jpg)
 ](https://www.it-scoop.com/2010/09/aol-aquired-techcrunch/)
 
 بدأت عام 2005، TechCrunch أصبحت وبسرعة كبيرة من أكثر المدونات المؤثرة في Silicon Valley. الشبكة تضم أيضا كل من مدونتي CrunchGear وMobileTech.

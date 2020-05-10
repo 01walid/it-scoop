@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/OfficeMac-logo.png)
+[![](OfficeMac-logo.png)
 ](https://www.it-scoop.com/2010/08/office-mac-2011-october)
 
 

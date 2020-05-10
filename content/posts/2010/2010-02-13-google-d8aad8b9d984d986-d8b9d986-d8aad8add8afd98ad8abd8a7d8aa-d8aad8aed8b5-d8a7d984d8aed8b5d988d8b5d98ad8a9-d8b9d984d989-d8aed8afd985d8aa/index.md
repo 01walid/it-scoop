@@ -18,7 +18,7 @@ tags:
 
 لم يمض سوى يومان على إطلاق Buzz  خدمة الشبكات الاجتماعية  المضمنة في Gmail، حتى أعلنت google عن جملة من التحسينات على الخدمة، و هذا كرد سريع على الانتقادات التي حظيت بها الخدمة فيما يخص خصوصية المتسخدم.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/google-buzz-300x102.jpg)
+[![](google-buzz-300x102.jpg)
 ](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%aa%d8%ae%d8%b5-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%ae%d8%af%d9%85%d8%aa/)
 
 على [مدونتها الخاصة بـ Gmail](http://gmailblog.blogspot.com/?utm_source=us-en-gmnav&utm_medium=et&utm_content=gmnav) تشير Google إلى أنه أصبح من الممكن تسيير قائمة المتتبعين لكل عضو بشكل أفضل، فقد أصبح من الممكن منع أيا كان من تتبع المستخدم، إضافة إلى إمكانية إخفاء قائمة الأعضاء الذين يتبعهم كل عضو.

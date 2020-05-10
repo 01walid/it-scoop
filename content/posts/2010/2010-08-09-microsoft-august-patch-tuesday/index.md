@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
+[![](Microsoft_patch_tuesday.jpg)
 ](https://www.it-scoop.com/2010/08/microsoft-August-patch-tuesday)
 
 

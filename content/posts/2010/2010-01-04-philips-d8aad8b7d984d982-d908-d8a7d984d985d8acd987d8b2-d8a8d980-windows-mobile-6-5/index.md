@@ -21,7 +21,7 @@ tags:
 
 أطلقت Philips جهاز Smarthpone جديد تحت مسمى D908 في السوق الصينية و المجهز بنظام Windows Mobile 6.5.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/philips-d908-windows-mobile.jpg)
+[![](philips-d908-windows-mobile.jpg)
 ](https://www.it-scoop.com/2010/01/philips-%d8%aa%d8%b7%d9%84%d9%82-d908-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b2-%d8%a8%d9%80-windows-mobile-6-5/philips-d908-windows-mobile/)
 
 الجهاز الجديد ذو الأبعاد 10.8 x 5.6 x 1.4  سم  يمتلك شاشة ذات 3.2 بوصة تعمل باللمس و الذي يتميز بدقة شاشة 480 x 800 .

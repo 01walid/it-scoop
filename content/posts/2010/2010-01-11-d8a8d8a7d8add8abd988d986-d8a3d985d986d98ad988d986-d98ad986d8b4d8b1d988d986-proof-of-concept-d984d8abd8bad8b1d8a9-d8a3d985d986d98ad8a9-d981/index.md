@@ -20,7 +20,7 @@ tags:
 
 قامت مجموعة من الباحثين الأمنيين العاملين لدى SecurityReason بنشر Proof Of Concept لثغرة أمنية من نوع buffer overflow في إصداري 10.5 و 10.6  من Mac OS X تم اكتشافها منذ أكثر من 8 أشهر.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/apple_chains_security_300.jpg)
+[![](apple_chains_security_300.jpg)
 ](https://www.it-scoop.com/2010/01/%d8%a8%d8%a7%d8%ad%d8%ab%d9%88%d9%86-%d8%a3%d9%85%d9%86%d9%8a%d9%88%d9%86-%d9%8a%d9%86%d8%b4%d8%b1%d9%88%d9%86-proof-of-concept-%d9%84%d8%ab%d8%ba%d8%b1%d8%a9-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%81/)
 
 الثغرة الأمنية تتواجد في الشيفرة المصدرية لـ libc/gdtoa مفتوحة المصدر ، و المستعملة في كل من أنظمة Mac OS X، OpenBSD، NetBSD وFreeBSD. و أيضا في كل من KDE،K-Meleon،Firefox و Opera لكنه تم تصحيحها.

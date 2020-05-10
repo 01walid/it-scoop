@@ -21,7 +21,7 @@ tags:
 
 هل أنت من مبرمجي و محبي لغة Visual Basic ؟ هل كانت فكرة كتابة تطبيقات لـ Windows Phone 7 تدور في خلدك لكنك ألغيت الفكرة لعدم تمكنك من استعمال لغتك المفضلة؟ لا تقلقل فقد جاء الفرج :)  سيصبح بإمكانك القيام بذلك.
 
-[[![](https://www.it-scoop.com/wp-content/uploads/2010/09/windows-phone-7-300x255.png)
+[[![](windows-phone-7-300x255.png)
 ](https://www.it-scoop.com/2010/09/visual-basic-windows-phone-7/)
 ](https://www.it-scoop.com/wp-content/uploads/2010/09/windows-phone-7.png)
 

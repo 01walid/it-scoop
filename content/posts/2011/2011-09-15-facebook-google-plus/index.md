@@ -17,7 +17,7 @@ tags:
 
 يبدو أنّ Facebook أدرك خطر المنافسة القادمة فحاول استباق Google بإضافة الكثير من المميّزات المشابهة لمميّزات Google+، سأذكر بعض الأمثلة:
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/facebook-vs-google-plus.png)
+[![](facebook-vs-google-plus.png)
 ](https://www.it-scoop.com/2011/09/facebook-google-plus)
 
 

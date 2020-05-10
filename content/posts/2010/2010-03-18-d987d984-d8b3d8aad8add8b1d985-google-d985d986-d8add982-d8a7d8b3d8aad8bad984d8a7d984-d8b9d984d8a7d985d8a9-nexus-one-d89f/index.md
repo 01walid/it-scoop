@@ -22,7 +22,7 @@ tags:
 و تتوالى مشاكل Google مع هاتف Nexus One فبعد كل من المشاكل التي خصت الاتصال بشبكات 3G، و عدم التمكن من بيع سوى 135 ألف قطعة خلال 74 يوما ، ها هي Google تواجه مشكلة قد تحرمها من حق استغلال علامة Nexus One بسبب استعمال شركة أخرى لنفس الاسم قبل استعمال Google له.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/nexusOne.png)
+[![](nexusOne.png)
 ](https://www.it-scoop.com/2010/03/%d9%87%d9%84-%d8%b3%d8%aa%d8%ad%d8%b1%d9%85-google-%d9%85%d9%86-%d8%ad%d9%82-%d8%a7%d8%b3%d8%aa%d8%ba%d9%84%d8%a7%d9%84-%d8%b9%d9%84%d8%a7%d9%85%d8%a9-nexus-one-%d8%9f/)
 
 

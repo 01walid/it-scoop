@@ -22,7 +22,7 @@ tags:
 
 
 
-[![iphone 4 free case](http://www.blogcdn.com/www.engadget.com/media/2010/07/iphone-reception-pc-0956-rm-eng.jpg)
+[![iphone 4 free case](iphone-reception-pc-0956-rm-eng.jpg)
 ](https://www.it-scoop.com/2010/07/iphone4-free-cases/)
 
 

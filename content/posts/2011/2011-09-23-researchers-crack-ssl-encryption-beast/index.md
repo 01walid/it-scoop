@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/ssl2.png)
+[![](ssl2.png)
 ](https://www.it-scoop.com/2011/09/researchers-crack-ssl-encryption-beast/)
 
 

@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/hangouts-ony-our-phone.png)
+[![](hangouts-ony-our-phone.png)
 ](https://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
 
 
@@ -42,7 +42,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/hangouts-with-extras-300x228.png)
+[![](hangouts-with-extras-300x228.png)
 ](https://www.it-scoop.com/2011/09/google-plus-new-features-opens-to-the-public)
 
 

@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://i524.photobucket.com/albums/cc322/Skeleton_Eel/upg2e/bagde_20.png)
+[![](bagde_20.png)
 ](https://www.it-scoop.com/2010/11/practical-guide-to-use-ubuntu/)
 
 

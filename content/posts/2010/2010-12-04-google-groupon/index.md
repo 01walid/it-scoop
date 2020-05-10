@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](http://www.groupon.com/images/groupon/logo_groupon_233x97.png )
+[![](logo_groupon_233x97.png )
 ](https://www.it-scoop.com/2010/12/google-groupon/)
 
 و يعتبر Groupon من الشركات الناشئة المتخصصة في التجارة الإلكترونية و التي عرفت نموا متسارعا، حيث تصل عائداتها إلى ملياري دولار سنويا، و هي الشركة الناشئة التي لم تكمل عامين منذ إطلاقها (سنة 2008).

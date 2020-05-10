@@ -20,7 +20,7 @@ tags:
 أطلقت شركة Google البارحة النسخة النهائية رقم 8 من متصفح الانترنت Google Chrome .
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/chrome.jpg)
+[![](chrome.jpg)
 ]( https://www.it-scoop.com/2010/12/google-chrome-8/)
 
 

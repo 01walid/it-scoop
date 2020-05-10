@@ -19,7 +19,7 @@ tags:
 بعد أن اشترتها مقابل 580 مليون دولار سنة 2005، و بعد أن بدأت في تحقيق خسائر متوالية بسبب منافسة Facebook الشديدة، [قررت](http://content.usatoday.com/communities/technologylive/post/2011/02/news-corp-says-its-ready-to-sell-myspace/1) News Corp أن تتخلص من Myspace و ذلك بعرضها رسميا للبيع.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/myspace-logo.png)
+[![](myspace-logo.png)
 ]( https://www.it-scoop.com/2011/02/news-corp-to-sell-myspace/ )
 
 

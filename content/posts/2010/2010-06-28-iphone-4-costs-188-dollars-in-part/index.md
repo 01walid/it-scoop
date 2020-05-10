@@ -20,8 +20,8 @@ tags:
 
 كعادته قام مكتب iSuppli بتفكيك جهاز iPhone 4 لتقييم ثمن القطع المستعملة في تصنيعه، و النتيجة كانت 187.51 دولار أمريكي فقط. مما يسمح لـ Apple تحقيق أرباح أكبر مقارنة بالأجيال السابقة من أجهزة الـ iPhone.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iphone-disassembled.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2010/06/iphone-disassembled.jpg)
+[![](iphone-disassembled.jpg)
+](iphone-disassembled.jpg)
 
 أغلى قطعة في الجهاز كانت -و بدون منازع- الشاشة، حيث بلغ سعر الشاشة التي تصنعها LG 28.50 دولار، تلاها المعالج A4  المصنع من طرف Samsung و الذي قدر ثمنه بـ 10.75  دولار، و حل ثالثا الـgyroscope الذي يسجل أول ظهور له في هذا الجيل بثمن قدر بـ 2.60 دولار.
 

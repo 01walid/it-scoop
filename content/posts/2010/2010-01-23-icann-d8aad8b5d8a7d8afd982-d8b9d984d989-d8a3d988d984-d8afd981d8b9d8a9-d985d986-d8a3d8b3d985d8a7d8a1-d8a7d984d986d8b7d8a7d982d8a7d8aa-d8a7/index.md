@@ -15,7 +15,7 @@ tags:
 
 
 أعلنت ICANN الشركة المنظمة للأرقام والأسماء على الإنترنت أنه باستطاعة كل من   الإمارات، السعودية، مصر و روسيا إضافة عناوين مواقع الإنترنت بلغاتها الخاصة، ويذلك تمت إزالة احتكار الحرف اللاتيني للعناوين منذ ثلاثة عقود.
-[](https://www.it-scoop.com/wp-content/uploads/2010/01/ICAAN.jpeg)[![](https://www.it-scoop.com/wp-content/uploads/2010/01/icann.jpg)
+[](https://www.it-scoop.com/wp-content/uploads/2010/01/ICAAN.jpeg)[![](icann.jpg)
 ](https://www.it-scoop.com/2010/01/icann-%d8%aa%d8%b5%d8%a7%d8%af%d9%82-%d8%b9%d9%84%d9%89-%d8%a3%d9%88%d9%84-%d8%af%d9%81%d8%b9%d8%a9-%d9%85%d9%86-%d8%a3%d8%b3%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d9%86%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7/)
 
 و قال المدير التنفيذي لـ ICANN  ان هذا الحدث "يشكل مرحلة محورية في تاريخ أسماء النطاقات على الإنترنت".

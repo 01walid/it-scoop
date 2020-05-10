@@ -18,7 +18,7 @@ tags:
 
 إن صدقت [الإحصائيات](http://www.socialbakers.com/blog/171-facebook-is-globally-closing-in-to-700-million-users/) التي نشرها موقع socialbakers فإن شبكة Facebook أصبحت قاب قوسين أو أدنى من حاجز الـ 700 مليون مستخدم، و سجلت نموا كبيرا في العديد من البلدان النامية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/facebook-top-may-2011.jpg)
+[![](facebook-top-may-2011.jpg)
 ](https://www.it-scoop.com/2011/05/facebook-700-million-users/ )
 
 و تأتي البرازيل على رأس الدول الأكثر "نموا على الـ Facebook"   بتسجيلها أزيد من 1.9 مليون مستخدم جديد بنمو قدر بـ 11,37% وهو النمو الذي سيقلق من دون شك Google حيث تعتبر البرازيل البلد الأكثر استعمالا لشبكتها الاجتماعية Orkut و تحوز على [أزيد من 50% من مستخدميها](http://www.orkut.com/MembersAll). في حين حلت مصر ثامنا بنسبة نمر متقاربة (11.14%) و يقارب بذلك عدد المستخدمين المصرين لـ Facebook حاجز 8 ملايين مستخدم.

@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/anonymous-logo-1.jpg)
-](https://www.it-scoop.com/2011/10/revolusec-anonymous-syria-2/)    [![](https://www.it-scoop.com/wp-content/uploads/2011/10/telecomix_opsyria_small.png)
+[![](anonymous-logo-1.jpg)
+](https://www.it-scoop.com/2011/10/revolusec-anonymous-syria-2/)    [![](telecomix_opsyria_small.png)
 ](https://www.it-scoop.com/2011/10/revolusec-anonymous-syria-2/)
 
 

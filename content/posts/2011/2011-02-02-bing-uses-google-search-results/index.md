@@ -31,7 +31,7 @@ tags:
 
 و تضيف Google أن محرك Bing الذي كان لا يعطي أية نتائج لكلمات البحث آنفة الذكر أصبح يعطي نفس نتائج بحث Google و التي لا يمكن لأي محرك بحث آخر أن يعطيها نظرا لكون الأمر لا يتعدى كونه تجربة خاصة بـ Google.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/google-bing.png)
+[![](google-bing.png)
 ](https://www.it-scoop.com/2011/02/bing-uses-google-search-results)
 
 من جهتها قامت Microsoft [بنفي](http://www.zdnet.com/blog/microsoft/microsoft-we-do-not-copy-googles-results/8557) الأمر حيث أنها تشير مرة إلى أنها تستعمل أكثر من طريقة لإعطاء المستخدم نتائج أفضل، و مرة بأنها تتعلم أيضا من منافسيها، دون أن تقدم أية أدلة دامغة على "براءتها" رغم أن ما قامت به  لا يعد من الناحية القانونية ممنوعا.

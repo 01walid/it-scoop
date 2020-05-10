@@ -20,7 +20,7 @@ tags:
 سيحمل الإصدار الجديد من Patch Tuesday المرتقب لشهر أبريل/نيسان، 11 نشرة أمنية تحمل إصلاحات لـ 25 ثغرة، يتوفر كود الاستغلال الخاص باثنتين منها على الإنترنت للجميع
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Patch-tuesday.jpg)
+[![](Patch-tuesday.jpg)
 ](https://www.it-scoop.com/2010/04/microsoft-patch-tuesday-april-2010/)
 
 

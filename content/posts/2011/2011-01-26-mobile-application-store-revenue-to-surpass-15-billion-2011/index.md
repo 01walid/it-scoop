@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/01/phone-apps.jpg)
+[![](phone-apps.jpg)
 ](https://www.it-scoop.com/2011/01/mobile-application-store-revenue-to-surpass-15-billion-2011)
 
 

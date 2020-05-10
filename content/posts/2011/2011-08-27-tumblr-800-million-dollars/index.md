@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/tumblr-logo.png)
+[![](tumblr-logo.png)
 ](https://www.it-scoop.com/2011/08/tumblr-800-million-dollars/)
 
 

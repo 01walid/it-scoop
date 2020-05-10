@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/slide_logo.png)
+[![](slide_logo.png)
 ]( https://www.it-scoop.com/2010/08/google-slide/)
 
 

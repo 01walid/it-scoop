@@ -20,7 +20,7 @@ tags:
 
 أطلقت منظمة Apache الإصدار 0.6  من Cassandra  نظام إدارة قواعد البيانات التابع لحركة NoSQL .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/cassandra-logo.jpeg)
+[![](cassandra-logo.jpeg)
 ](https://www.it-scoop.com/2010/04/apache-cassandra-0-6-released/)
 
 من بين ما جاء في الإصدار 0.6  نجد كلا من دعم [Hadoop](http://en.wikipedia.org/wiki/Hadoop) إطار العمل الخاص بلغة الـ Java الموجه للاستعمال في التطبيقات الموزعة، و تضمين طبقة خاصة لإدارة الـ Cache، إضافة إلى تعزيز أداء  النظام بنسبة 30%.

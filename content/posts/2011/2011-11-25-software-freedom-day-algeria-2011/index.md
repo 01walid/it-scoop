@@ -17,8 +17,8 @@ tags:
 
 
 
-[![Software Freedom Day Algeria 2011](https://www.it-scoop.com/wp-content/uploads/2011/11/Software-Freedom-Day-Algeria-2011.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/Software-Freedom-Day-Algeria-2011.png)
+[![Software Freedom Day Algeria 2011](Software-Freedom-Day-Algeria-2011.png)
+](Software-Freedom-Day-Algeria-2011.png)
 
 
 

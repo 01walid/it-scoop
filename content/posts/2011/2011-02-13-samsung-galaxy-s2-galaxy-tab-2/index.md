@@ -22,7 +22,7 @@ tags:
 
 [كشفت](http://mwc2011.techradar.com/2011/02/samsung-galaxy-tab-10-1-confirmed-specs-revealed/) Samsung خلال مؤتمرها الذي  يسبق معرض MWC 2011 الذي يقام في برشلونة الإسبانية، عن جهازيها الجديدين: هاتف Galaxy S 2 و الجهاز اللوحي  Galaxy Tab 10.1 ( يطلق عليه أيضا اسم Galaxy Tab 2) الأكبر حجما من جهاز iPad.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/Galaxy-2.jpg)
+[![](Galaxy-2.jpg)
 ](https://www.it-scoop.com/2011/02/samsung-galaxy-s2-galaxy-tab-2/)
 
 أهم ما يميز هذين الجهازين هو المعالج  ثنائي النواة Cortex-A9 و يأتي جهاز Galaxy Tab 10.1 بنظام Android 3.0 Honeycomb  من دون أية طبقات برمجية إضافية أخرى (مثلما هو الحال  مع جهاز Xoom الخاص بـ Motorola) و بوزنه المقدر بـ 595 جرام ، إضافة إلى شاشته ذات القياس 10.1  بوصة (1280x720) و التي تسمح له بتجاوز جهاز الـ iPad من حيث الحجم، كما أن سمكه لا يتجاوز 1.11 سم.

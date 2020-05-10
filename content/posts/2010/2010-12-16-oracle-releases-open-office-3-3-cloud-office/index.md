@@ -19,7 +19,7 @@ tags:
 
 نشرت  Oracle [بيانا صحفيا](http://www.oracle.com/us/corporate/press/195766) تعلن فيه عن إطلاقها للنسخة النهائية رقم 3.3 من حزمة البرامج المكتبية open office ,إضافة لإعلانها عن إطلاق cloud office والتي تمكن المستخدمين من تحرير وإنشاء ملفاتهم مباشرة عبر الإنترنت من خلال المتصفح , وبذلك تكون Oracle قد لحقت بكل من Google و Microsoft في إطلاقها لهذه الخدمة في اﻷنظمة السحابية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Oracle-logo-300x75.png)
+[![](Oracle-logo-300x75.png)
 ](https://www.it-scoop.com/2010/12/oracle-releases-open-office-3-3-cloud-office)
 
 Oracle Cloud Office 1.0 بإصدارها اﻷول يمكن الوصول إليها من خلال المتصفح أو من خلال أجهزة الجوال ,وهي متوافقة مع برامج Microsoft Office ,

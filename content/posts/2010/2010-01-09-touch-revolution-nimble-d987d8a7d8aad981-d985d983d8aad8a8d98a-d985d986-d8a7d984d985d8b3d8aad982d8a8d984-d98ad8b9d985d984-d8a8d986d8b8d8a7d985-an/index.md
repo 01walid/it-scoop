@@ -20,7 +20,7 @@ tags:
 Android  النظام الذي تعمل Google  و الجميع على تطويره منذ مدة ... بدأ يزحف نحو كل شيء بخطى ثابتة و سجل ظهوره  في عدة هواتف ذكية .
 
 
-[![f](http://cache.gawker.com/assets/images/4/2010/01/500x_dsc_1348.jpg)
+[![f](500x_dsc_1348.jpg)
 ](https://www.it-scoop.com/2010/01/touch-revolution-nimble-%d9%87%d8%a7%d8%aa%d9%81-%d9%85%d9%83%d8%aa%d8%a8%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84-%d9%8a%d8%b9%d9%85%d9%84-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-an/)
 
 

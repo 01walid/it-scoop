@@ -28,7 +28,7 @@ tags:
 أعلنت Microsoft عن [توفيرها](http://windowsteamblog.com/windows/b/bloggingwindows/archive/2011/02/16/windows-7-sp1-follow-up.aspx) للـ SP1  لنظامي Windows 7 و Windows Server 2008 R2  لفائدة مشتركي TechNet و MSDN ، قبل أقل من أسبوع على طرحه لعموم المستخدمين.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/windows_7_boot_screen_service_pack_1.jpg)
+[![](windows_7_boot_screen_service_pack_1.jpg)
 ](https://www.it-scoop.com/2011/02/windows-7-sp1-windows-server-2008-r2)
 
 و تنصح Microsoft لمن أراد تنصيب الـ SP على جهازه المنزلي أن يكتفي بالقيام بالتحديثات اللازمة عبر الـ Windows Update  ، حيث أن الـ SP1 لا يأتي سوى بمجموع الترقيعات التي يحتاجها نظام Windows 7.

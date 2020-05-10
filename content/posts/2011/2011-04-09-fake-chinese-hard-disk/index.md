@@ -21,7 +21,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/12ba6e7c0ec8.jpg)
+[![](12ba6e7c0ec8.jpg)
 ](https://www.it-scoop.com/2011/04/fake-chinese-hard-disk)
 
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/654f43d71508.jpg)
+[![](654f43d71508.jpg)
 ](https://www.it-scoop.com/2011/04/fake-chinese-hard-disk)
 
 

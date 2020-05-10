@@ -16,8 +16,8 @@ _هذا المقال في معظمه مترجم عن [هذا التّقرير ل
 
 الكلّ يعلم من يسيطر على سوق الشبكات الاجتماعية اليوم، إنّه بلا شكّ Facebook، الشّبكة الاجتماعيّة ذات 800 مليون مستخدم. لكنّ دوام الحال من المحال، فقد كانت MySpace متفوّقة على Facebook منذ سنوات قليلة، الأمر الّذي تفهمه Facebook تمامًا وتخشاه؛ وكذلك تفهمه Google.
 
-[![facebook vs google robots](https://www.it-scoop.com/wp-content/uploads/2011/11/facebook-vs-google-robots.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/facebook-vs-google-robots.jpg)
+[![facebook vs google robots](facebook-vs-google-robots.jpg)
+](facebook-vs-google-robots.jpg)
 
 لم يسبق أن شهد تاريخ الويب صراعًا كهذا بين شركتين كبيرتين تتنافسان على السّيطرة على حياتنا الرّقميّة (أو قسم كبير منها)، لا شكّ أنّ النّتيجة النّهائيّة لهذه الحرب ستغيّر طريقة حصولنا على المعلومات! 
 

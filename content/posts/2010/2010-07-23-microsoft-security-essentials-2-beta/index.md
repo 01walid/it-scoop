@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Microsoft-Security-Essentials.jpg)
+[![](Microsoft-Security-Essentials.jpg)
 ](https://www.it-scoop.com/2010/07/microsoft-Security-Essentials-2-beta)
 
 

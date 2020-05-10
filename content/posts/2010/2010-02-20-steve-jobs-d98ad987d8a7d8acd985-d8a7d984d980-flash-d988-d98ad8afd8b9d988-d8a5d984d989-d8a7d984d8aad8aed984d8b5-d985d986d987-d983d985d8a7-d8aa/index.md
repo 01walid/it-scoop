@@ -20,7 +20,7 @@ tags:
 
 إذا كنت من الجماعة التي كانت تستغرب عدم توفر الـ Flash على الـ iPhone  و الـ iPad القادم، فعند Steve Jobs الخبر اليقين، حيث [أعلن أمام جمع من صحفي Wall Street Journal ](http://valleywag.gawker.com/5474900/what-steve-jobs-said-during-his-wall-street-journal-ipad-demo) أن الـ Flash مصدر العديد من المشاكل و خاصة ما تعلق منها بالأمن و الحماية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/adobflash-iphone.jpg)
+[![](adobflash-iphone.jpg)
 ](https://www.it-scoop.com/2010/02/steve-jobs-%d9%8a%d9%87%d8%a7%d8%ac%d9%85-%d8%a7%d9%84%d9%80-flash-%d9%88-%d9%8a%d8%af%d8%b9%d9%88-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d8%ae%d9%84%d8%b5-%d9%85%d9%86%d9%87-%d9%83%d9%85%d8%a7-%d8%aa/)
 
 و يقارن Steve Jobs الـ Flash بالـ Floppy disk التي عفا عنها الزمن و لم تعد Apple بدعمها منذ أن أصدرت أولى أجهزة الـ iMac.

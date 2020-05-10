@@ -18,7 +18,7 @@ tags:
 أبدت Google على [مدونتها الرسمية](http://googleblog.blogspot.com/2010/02/think-big-with-gig-our-experimental.html) نيتها دخول عالم مزودي الاتصال بالإنترنت عالية السرعة يصل مداها إلى 1 Gbits في الثانية .
 
 [
-](https://www.it-scoop.com/wp-content/uploads/2010/02/google-internet-gigabit-fiber.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2010/02/google-internet-gigabit-fiber.jpg)
+](google-internet-gigabit-fiber.jpg)[![](google-internet-gigabit-fiber.jpg)
 ](https://www.it-scoop.com/2010/02/google-%d8%aa%d9%86%d9%88%d9%8a-%d8%af%d8%ae%d9%88%d9%84-%d8%b9%d8%a7%d9%84%d9%85-%d9%85%d8%b2%d9%88%d8%af%d9%8a-%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1/)
 
 ستقوم Google بداية بإطلاق حملة تجريبية لدراسة مدى نجاعة الفكرة، و ذلك على عينة من المستخدمين الأمريكيين و الذين يمكن أن يصل عددهم إلى 50 ألف مجرب و من المحتمل توسيع رقعة التجربة لتشمل نصف مليون مجرب.

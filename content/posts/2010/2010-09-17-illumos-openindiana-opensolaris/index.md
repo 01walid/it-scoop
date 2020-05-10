@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](http://openindiana.org/wp-content/uploads/2010/09/openindiana_logonew2_WP.png )
+[![](openindiana_logonew2_WP.png )
 ](https://www.it-scoop.com/2010/09/illumos-openindiana-opensolaris)
 
 

@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/skype-logo-300x182.jpg)
+[![](skype-logo-300x182.jpg)
 ](https://www.it-scoop.com/2011/02/skype-29-million-people-online/)
 
 

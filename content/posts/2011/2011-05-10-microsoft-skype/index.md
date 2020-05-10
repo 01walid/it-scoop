@@ -19,7 +19,7 @@ tags:
 
 صدقوا أو لا تصدقوا، Skype لن تكون من [نصيب Google و لن تكون أيضا من نصيب Facebook](https://www.it-scoop.com/2011/05/google-facebook-skype/) كما كان الجميع يظن، كما أنها لن تكمل [تحضيراتها للدخول إلى البورصة](https://www.it-scoop.com/2011/01/skype-ipo-second-half-2011/)، بل ستنضم إلى Microsoft التي ستدفع مبلغ 8.5 مليار دولار نقدا  نظير ذلك، مثلما أعلنت عنه هذه الأخيرة في [بيان صحفي](http://www.microsoft.com/Presspass/press/2011/may11/05-10CorpNewsPR.mspx).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/microsoft-skype.png)
+[![](microsoft-skype.png)
 ](https://www.it-scoop.com/2011/05/microsoft-skype/)
 
 8.5 مليار دولار !! (أي أكبر من الناتج المحلي الخام لأكثر من دولة إفريقية) هي قيمة أضخم صفقة في تاريخ Microsoft محطمة بذلك الرقم القياسي المقدر بـ 6 مليارات دولار التي دفعتها لشراء aQuantive.

@@ -28,13 +28,13 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Microsoft-Security-Essentials.jpg)
+[![](Microsoft-Security-Essentials.jpg)
 ](https://www.it-scoop.com/2010/11/microsoft-security-essential-windows-update)
 
 
 و لتجنب أية انتقادات أو متابعات من طرف الشركات المنتجة لمضادات الفيروسات، تكتفي Microsoft حاليا بعرض Security Essential كتحديث اختياري فقط، كما أنها تتحرى وجود أي مضاد فيروسات على النظام، حيث لا تعرض هذا الخيار في حال ما إذا وجدت أي Antivirus منصب.
 
-[![](http://i.zdnet.com/blogs/mse_via_ms_update.png )
+[![](mse_via_ms_update.png )
 ](https://www.it-scoop.com/2010/11/microsoft-security-essential-windows-update)
 
 كما أن الأمر يخص مستخدمي أنظمة Vista و Seven فقط، و يشترط أن يكون النظام أصليا بالتحقق من الـ Windows Genuine Advantage.

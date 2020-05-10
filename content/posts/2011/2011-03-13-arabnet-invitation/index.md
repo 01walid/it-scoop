@@ -28,7 +28,7 @@ tags:
 
 إن كانت لديك الرغبة في حضور مؤتمر عرب نت الذي سيقام أيام 22-25 مارس القادم في بيروت فإن المجلة التقنية تمنحك فرصة الحصول على تذكرة حضور فعاليات المؤتمر الممتدة على أربعة أيام (و التي تصل قيمتها إلى غاية 700 دولار).
 
-![](https://www.it-scoop.com/rsc/ArabNet-New-Logo-for-Web-250x224.jpg)
+![](ArabNet-New-Logo-for-Web-250x224.jpg)
 
 
 كل ما عليك القيام به هو إرسال بياناتك التالية:
@@ -39,8 +39,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/email.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/03/email.png)
+[![](email.png)
+](email.png)
 
 
 

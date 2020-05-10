@@ -12,7 +12,7 @@ categories:
 
 قامت شركة Apple بنشر مجموعة من الترقيعات الأمنية تخص كلا من **Mac OS X **و **QuickTime** ، إضافة إلى إطلاق الإصدار 10.6.2 من **Snow Leopard**.
 
-![mac-os-x-snow-leopard-icon](https://www.it-scoop.com/wp-content/uploads/2009/11/mac-os-x-snow-leopard-icon.jpg)
+![mac-os-x-snow-leopard-icon](mac-os-x-snow-leopard-icon.jpg)
 
 
 37 من الترقيعات  تخص مكونات لنظام التشغيل Mac OS X  التالية:  Apache server ، Spotlight و CoreGraphics.

@@ -21,7 +21,7 @@ tags:
 لم يكن الـ iPad من Apple الوحيد على ساحة الأخبار في الفترة الأخيرة، حيث كان خبراء الأمن لدى Apple مشغولين أيضاً بالعمل على إصدار ترقيع لإصلاح 16 مشكلة أمنية في برنامج QuickTime تخص كلاً من نظامي Mac و Windows على حد سواء.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/quicktime_logo.jpg)
+[![](quicktime_logo.jpg)
 ](https://www.it-scoop.com/2010/04/apple-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7-%d9%84%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-16-%d9%85%d8%b4%d9%83%d9%84%d8%a9-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-quicktime/https://www.it-scoop.com/2010/04/apple-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7-%d9%84%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-16-%d9%85%d8%b4%d9%83%d9%84%d8%a9-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-quicktime/)
 
 

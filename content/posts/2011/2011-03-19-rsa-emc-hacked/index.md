@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/6a00d8341c630a53ef0147e34e3d8c970b-320wi-215x300.jpg)
+[![](6a00d8341c630a53ef0147e34e3d8c970b-320wi-215x300.jpg)
 ](https://www.it-scoop.com/2011/03/rsa-emc-hacked/)
 
 

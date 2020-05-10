@@ -19,8 +19,8 @@ tags:
 أطلقت شركة automation الراعية لمشروع Wordpress الإصدار 2.9 منه.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
-](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo.png)
+[![](wordpress-logo.png)
+](wordpress-logo.png)
 
 
 يأتي هذا الإصدار بالعديد من المستجدات على غرار كل من:

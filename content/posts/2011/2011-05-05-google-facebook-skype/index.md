@@ -20,7 +20,7 @@ tags:
 
 [ذكرت](http://www.reuters.com/article/2011/05/04/us-skype-ipo-strategic-idUSTRE7437UG20110504) وكالة Reuters للأنباء أن  كلا من Facebook و Google يجريان محادثات مع Skype لشرائها أو لعقد شراكة معها، و هذا قبل أشهر قليلة على موعد دخولها للبورصة المقرر في النصف الثاني من العام الجاري.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/facebook-google-skype.jpg)
+[![](facebook-google-skype.jpg)
 ](https://www.it-scoop.com/2011/05/google-facebook-skype/)
 
 و تشير العديد [من المصادر](http://mashable.com/2011/05/04/facebook-buy-skype/) أن Facebook تنوي شراء الخدمة بقيمتها الحالية المقدرة ما بين 3 و 4 مليارات دولار و هي القيمة التي من شأنها أن ترتفع أكثر بعد دخول Skype إلى البورصة، و قد تحاول Facebook  (مثلما تشير إليه بعض الإشاعات) في حال شرائها لـ Skype تضمين تقنياتها على شبكتها و تمكين مستخدميها من إجراء محادثات مرئية مباشرة عليها.

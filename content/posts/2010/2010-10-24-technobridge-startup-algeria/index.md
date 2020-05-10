@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/business-startup.jpg)
+[![](business-startup.jpg)
 ](https://www.it-scoop.com/2010/10/technobridge-startup-algeria/)
 
 

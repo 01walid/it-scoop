@@ -21,7 +21,7 @@ tags:
 
 على خلاف العادة هذه المرة، ليست كل الأخبار المتعلقة بالـ java  و Oracle مخيبة،  فبعد [عام المحن](../tag/java) الذي مرت به Java، آخره ما فاجأت به Apple الجميع حين [ضيقت واسعا عليها](../2010/10/apple-not-committing-to-java-support/)، وأعلنت قطع دعمها للمنصة، يأتي الفرج لمحبي ارتشاف القهوة الساخنة على أنظمة التفاحة المقضومة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/ibm-oracle-appla-openjdk-300x194.jpg)
+[![](ibm-oracle-appla-openjdk-300x194.jpg)
 ](https://www.it-scoop.com/2010/11/apple-joins-openjdk-to-open-source-mac-os-x-java-technology)
 
 فقد أجمع واجتمع كل من Oracle  وApple  للعمل سوية على إصدارة منصة الـJava  مفتوحة المصدر، OpenJDK، لأنظمة Mac OS X،  بالضبط بعد مرور شهر [من انضمام IBM](../2010/10/ibm-java-openjdk/) ، وحسب ما أفاد به الإعلان فستشارك Apple بـ:

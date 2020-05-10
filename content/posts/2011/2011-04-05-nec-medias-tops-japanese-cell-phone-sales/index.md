@@ -22,7 +22,7 @@ tags:
 
 بعد أن كان التنافس على الهاتف الأسرع، الأجمل أو الأخف انتقل الصراع مؤخرا بين مصنعي الهواتف الذكية إلى مجال آخر: النحافة (نعم نتحدث عن الهواتف و ليس عن عالم الأزياء و الموضة :p) ، فبعد الـ iPhone 4 الذي كان يعتبر وقت إطلاقه أنحف هاتف ذكي بفضل ميليمتراته التسعة (9.3 على وجه التحديد) هاهي NEC تعتلي الترتيب (المبيعات و النحافة)بفضل هاتفها Medias [الأنحف](http://phandroid.com/2011/04/01/thin-wins-according-to-nec-medias-japanese-sales-performance/) على الإطلاق (8.7 ملم).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/NEC-Medias-N-04C.jpg )
+[![](NEC-Medias-N-04C.jpg )
 ](https://www.it-scoop.com/2011/04/nec-medias-tops-japanese-cell-phone-sales/)
 
 بالرغم من إعلان سابق لـ Samsung  بأن Galaxy S 2 هو أنحف هاتف بسمك 8.4 ملم إلا أن هذا الرقم يخص أنحف منطقة في الجهاز و الذي يصبح أسمك على الجانب.

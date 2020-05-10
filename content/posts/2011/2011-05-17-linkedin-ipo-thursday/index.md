@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/linkedin-logo.jpg)
+[![](linkedin-logo.jpg)
 ](https://www.it-scoop.com/2011/05/linkedin-ipo-thursday/)
 
 

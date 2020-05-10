@@ -19,7 +19,7 @@ tags:
 إن لم أكن أنا "me" ، فهو الصفر، وأخو الصفر الدائرة، هكذا هي مسميات عشيقة الرياضيات Google، أُشيع عنها أنها ستطلق خدمة شبكة اجتماعية جديدة اليوم، تحت اسم Google Circles أو Google دوائر (أو حلقات، جمع حلقة <del>بانتظار ترجمة موحدة:p</del>)، لكن سرعان ما نفت Google نفسها الخبر، وما يزيد الخبر <del>صحة</del> [إشاعة](http://www.readwriteweb.com/archives/google_to_launch_major_new_social_network_called_c.php)، هو حذف هذه التغريدة من قبل مؤسس شركة O’Reilly Media التي "ادعى" فيها أنه شاهد الخدمة وأُعجب بها، لكن التأكيد انقلب بسبب الحذف إلى تشكيك، فلا تعتمد على تغريدة في خبر وإن أعجبك قصرها أبدا ... فالطيور على أشكالها تقع :p
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/19474bfairclesfinal.jpg)
+[![](19474bfairclesfinal.jpg)
 ](https://www.it-scoop.com/2011/03/google-reportedly-to-launch-new-social-network-called-circles-likely-to-launch-in-may)
 
 

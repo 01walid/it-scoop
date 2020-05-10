@@ -19,7 +19,7 @@ tags:
 
 نشرت وكالة  Bloomberg [خبرا](http://www.bloomberg.com/news/2011-02-10/apple-said-to-work-on-cheaper-more-versatile-iphone-models.html) مفاده أن Apple تعمل حاليا على إنتاج جهاز iPhone أصغر و أرخص من الـ iPhone 4 و لا يتطلب اشتراكا إجباريا للحصول عليه.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone-4.jpg)
+[![](iPhone-4.jpg)
 ](https://www.it-scoop.com/2011/02/apple-smaller-cheaper-iphone/)
 
 و حسب هذا الخبر -الذي يستند إلى مصادر داخلية لـ Apple - أن هدف شركة التفاحة المقضومة من وراء هذه الخطوة هو محاولتها لمنافسة نظام Android الذي بدأ ببسط سيطرته على الهواتف متوسطة الكفاءة إضافة إلى استباق أية خطوات لـ Nokia في هذا النوع من الهواتف خاصة مع شراكتها مع Microsoft و استخدام نظام Windows Phone 7 على أجهزتها.

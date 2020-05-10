@@ -20,7 +20,7 @@ tags:
 
 أعلنت Symantec صاحبة حلول الأمن و الحماية شراءه لكل من PGP Corporation و GuardianEdge Technologies المتخصصتان في كل من التشفير و البريد الالكتروني و بذلك يدعم مكانته في سوق الأمن و الحماية أكثر.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/symantec-logo.jpg)
+[![](symantec-logo.jpg)
 ](https://www.it-scoop.com/2010/04/symantec-buys-pgp-guardianedge/)
 
 تقدم كل من PGP Corporation و GuardianEdge Technologies حلولا تخص تشفير البيانات و الأقراص الصلبة و الخوادم، و خدمات تخص أمن و حماية البريد الالكتروني، إضافة إلى سلسلة من حلول الحماية الموجهة لعالم الهواتف.

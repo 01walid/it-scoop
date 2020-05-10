@@ -20,7 +20,7 @@ tags:
 
 نقلت جريدة الـ New York Times اليوم، أن Eric Schmidt المدير التنفيذي لـ Google قد أسر لبعض المقربين له برغبة Google دخول سوق الأجهزة اللوحية، بجهاز يكون مجهزا بنظام Android، و هو الذي هاجم الأجهزة اللوحية سابقا.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Google-Tablet.jpg)
+[![](Google-Tablet.jpg)
 ](https://www.it-scoop.com/2010/04/google-preparing-android-tablet/)
 
 حسب بعض المصادر المقربة من الموضوع، فإن Google تتحاور حاليا مع بعض الشركات الإعلامية و دور نشر الكتب، لتوفير محتوى ينشر على الجهاز اللوحي.

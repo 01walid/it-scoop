@@ -23,8 +23,8 @@ tags:
 
 
 
-[![شعار شبكة So.cl الاجتماعية](https://www.it-scoop.com/wp-content/uploads/2011/12/so.cl_.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/so.cl_.png) لكن ما هي  So.cl بالضبط (يُنطق Social) ؟  حسب موقع [zdnet](http://www.zdnet.com/blog/microsoft/microsoft-takes-the-wraps-off-its-socl-social-search-project/11442) فإن الأشياء بأضدادها تُعرف، ويكفي أن نعرف ما الذي لا تُقدمه So.cl لنعرف ماهيتها بالضبط، وهو أمر منطقي إلى حد كبير، فمن جهة لا تنوي Microsoft  منافسة Facebook، حيث تشير [TechCrunch](http://techcrunch.com/2011/12/15/microsoft-launches-so-cl-as-a-social-network-for-students/) أن So.cl يعتمد على Facebook، كما أن زر التسجيل حاليا يعطي نفس الانطباع. ومن جهة أخرى لا تود Microsoft لشبكتها الجديدة أنها تكون منافسة لشبكة Twitter أو لخدمة Tumblr، وستبقى بعيدة كل البعد عن منافسة Google+.
+[![شعار شبكة So.cl الاجتماعية](so.cl_.png)
+](so.cl_.png) لكن ما هي  So.cl بالضبط (يُنطق Social) ؟  حسب موقع [zdnet](http://www.zdnet.com/blog/microsoft/microsoft-takes-the-wraps-off-its-socl-social-search-project/11442) فإن الأشياء بأضدادها تُعرف، ويكفي أن نعرف ما الذي لا تُقدمه So.cl لنعرف ماهيتها بالضبط، وهو أمر منطقي إلى حد كبير، فمن جهة لا تنوي Microsoft  منافسة Facebook، حيث تشير [TechCrunch](http://techcrunch.com/2011/12/15/microsoft-launches-so-cl-as-a-social-network-for-students/) أن So.cl يعتمد على Facebook، كما أن زر التسجيل حاليا يعطي نفس الانطباع. ومن جهة أخرى لا تود Microsoft لشبكتها الجديدة أنها تكون منافسة لشبكة Twitter أو لخدمة Tumblr، وستبقى بعيدة كل البعد عن منافسة Google+.
 
 
 
@@ -44,13 +44,13 @@ So.cl ليس محرك بحث جديد بل هو مشروع بحثي (يعني ي
 
 
 
-[![واجهة شبكة So.cl](https://www.it-scoop.com/wp-content/uploads/2011/12/socl-interface-300x167.png)
+[![واجهة شبكة So.cl](socl-interface-300x167.png)
 ](https://www.it-scoop.com/wp-content/uploads/2011/12/socl-interface.png)
 
 
 
 
-[![مثال عن المحتويات المنشورة على So.cl](https://www.it-scoop.com/wp-content/uploads/2011/12/soclfeed-291x300.png)
+[![مثال عن المحتويات المنشورة على So.cl](soclfeed-291x300.png)
 ](https://www.it-scoop.com/wp-content/uploads/2011/12/soclfeed.png)
 
 

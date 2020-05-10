@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://img.timeinc.net/time/2010/poy_2010/poy_mz/poy_cover_z_1215.jpg )
+[![](poy_cover_z_1215.jpg )
 ](https://www.it-scoop.com/2010/12/zuckerberg-time-person-of-the-year)
 
 

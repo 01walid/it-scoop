@@ -21,7 +21,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/New-Twitter.jpg)
+[![](New-Twitter.jpg)
 ]( https://www.it-scoop.com/2010/09/new-twitter/)
 
 

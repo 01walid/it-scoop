@@ -18,7 +18,7 @@ tags:
 
 بعد أن أصدرت Microsoft إصدارا خاصا SLCTP و الذي يُقصد به  Super Limited Community Technology Preview  و الموجه خصيصا للمبرمجين الذين أبدوا الكثير من الملاحظات على الإصدارات Beta من البرنامج، هاهي الآن تطلق الإصدار RC من Visual Studio 2010 و المتوفر على الـ MSDN.
 
-[![](http://www.microsoft.com/visualstudio/en-us/content/images/vs2010_logo.png)
+[![](vs2010_logo.png)
 ](https://www.it-scoop.com/2010/02/visual-studio-2010-%d9%8a%d9%85%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d9%80-release-candidate/)
 
 الإصدار RC من Visual Studio 2010 لا يأتي بأي جديد مقارنة بآخر Beta لكنها أسرع منه و أكثر ثباتا، و هذا راجع بالأساس إلى مجهودات و ملاحظات المبرمجين الذين نالوا شرف تجربة الإصدار SLCTP.

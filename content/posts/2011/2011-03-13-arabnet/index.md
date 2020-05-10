@@ -28,7 +28,7 @@ tags:
 
 
 
-![](https://www.it-scoop.com/rsc/ArabNet-New-Logo-for-Web-250x224.jpg)
+![](ArabNet-New-Logo-for-Web-250x224.jpg)
 
 
 

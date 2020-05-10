@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone-4.jpg)
+[![](iPhone-4.jpg)
 ](https://www.it-scoop.com/2010/06/iPhone-4-Sales-Top-1-7-Million)
 
 

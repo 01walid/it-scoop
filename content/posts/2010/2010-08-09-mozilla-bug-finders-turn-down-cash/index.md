@@ -20,7 +20,7 @@ tags:
 إذا كنت تظن أن المال هو الهدف الوحيد وراء تخصيص الخبراء الأمنيين بعضا من أوقاتهم لاكتشاف ثغرات في المتصفح Firefox، فأنت حتما مخطئ، فقد كشفت Mozilla على لسان Jonathan Nightingale مدير التطوير لديها أن العديد من الخبراء يمتنعون عن أخذ المكافئات التي ترصدها Mozilla لمكتشفي الثغرات.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/firefox_padlock_400-e1281374554368.jpg)
+[![](firefox_padlock_400-e1281374554368.jpg)
 ](https://www.it-scoop.com/2010/08/mozilla-bug-finders-turn-down-cash)
 
 

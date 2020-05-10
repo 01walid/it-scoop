@@ -21,7 +21,7 @@ tags:
 
 الجهاز المصنع من طرف HTC يحتوي على معالج Snapdragon ذو تردد 1 Ghz و يستعمل 512 Mb من الذاكرة العشوائية RAM.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/Nexus_One2_270x491.jpg)
+[![](Nexus_One2_270x491.jpg)
 ](https://www.it-scoop.com/2010/01/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%ac%d9%87%d8%a7%d8%b2%d9%87%d8%a7-nexus-one/)
 
 Nexus One تفوق على الـ iPhone في العديد من المجالات كالشاشة  ذات 3.7 بوصة مقابل 3.5 بوصة على الـ iPhone ،و الوزن 130 غرام مقابل 135 غرام للـ iPhone ، لكن يبقى عدم دعمه للـ Multitoch أحد الجوانب التي تبقي الـ iPhone دائما في السباق.

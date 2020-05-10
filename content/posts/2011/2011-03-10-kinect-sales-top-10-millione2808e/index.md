@@ -19,7 +19,7 @@ tags:
 
 ليست Apple وحدها التي تستطيع تحقيق مبيعات قياسية خلال أشهر قليلة، بل لم تعد متربعة على رأس تلك القائمة، حيث أزاحتها Microsoft بعد أن تمكنت من بيع 10 ملايين وحدة من جهاز الاستشعار Kinect خلال أربعة أشهر.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
+[![](kinect-for-xbox-360.png)
 ](https://www.it-scoop.com/2011/03/kinect-sales-top-10-million‎/)
 
 "أرقام المبيعات تتحدث عن نفسها، حيث أنه لم يسبق لأي منتج الكتروني أن تم بيعه بشكل أسرع من خلال 60 يوم" حسبما [صرح](http://community.guinnessworldrecords.com/_Kinect-Confirmed-As-Fastest-Selling-Consumer-Electronics-Device/blog/3376939/7691.html) به Gaz Deaves مسؤول قسم الألعاب لكتاب Guiness للأرقام القياسية في تعليق له على تحطيم لهذا الرقم القياسي. حيث تمكنت Microsoft من بيع ما معدله 133333 وحدة Kinect يوميا بمجموع 8 ملايين وحدة في الفترة الممتدة ما بين  4 نوفمبر 2010 و 3 يناير 2011.

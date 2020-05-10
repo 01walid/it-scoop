@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/php-logo.png)
+[![](php-logo.png)
 ](https://www.it-scoop.com/2010/07/php-533-5214-released)
 
 

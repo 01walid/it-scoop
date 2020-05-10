@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/rusflag.jpg)
+[![](rusflag.jpg)
 ](https://www.it-scoop.com/2010/10/russia-linux/)
 
 

@@ -18,7 +18,7 @@ tags:
 
 بعد كل من Lenovo و Huawei ، يستعد ثالث عملاق صيني و المتمثل فيZTE  بإطلاق هواتف تعمل بنظام Android بعد انضمامه إلى الـ Open Handset Alliance و التي تضم شركاء Goolge من المصنعين.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/zte_android.jpg)
+[![](zte_android.jpg)
 ](https://www.it-scoop.com/2010/01/zte-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a-%d9%8a%d8%b9%d9%84%d9%86-%d8%b1%d8%ba%d8%a8%d8%aa%d9%87-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%aa%d8%b9%d9%85%d9%84-%d8%a8%d9%86/)
 
 حسب Lin Qiang الذي يشغل منصب General Manager الخاص بالـ Smartphone لدى ZTE :

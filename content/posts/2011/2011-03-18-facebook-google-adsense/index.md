@@ -19,7 +19,7 @@ categories:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/facebook_vs_google-300x225.jpg)
+[![](facebook_vs_google-300x225.jpg)
 ](https://www.it-scoop.com/2011/03/facebook-google-adsense/ )
 
 

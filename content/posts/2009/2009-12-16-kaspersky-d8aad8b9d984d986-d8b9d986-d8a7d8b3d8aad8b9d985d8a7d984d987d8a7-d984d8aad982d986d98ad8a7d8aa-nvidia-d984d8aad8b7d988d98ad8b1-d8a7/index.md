@@ -24,7 +24,7 @@ tags:
 أعلنت شركة  Kaspersky المنتجة لمضادات الفيروسات التي تحمل اسمها ، أنها ستبدأ في استعمال  CUDA لتطوير أداء حلولها.
 
 
-[![kaspersky-logo](https://www.it-scoop.com/wp-content/uploads/2009/12/kaspersky-logo.png)
+[![kaspersky-logo](kaspersky-logo.png)
 ](https://www.it-scoop.com/2009/12/kaspersky-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84%d9%87%d8%a7-%d9%84%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-nvidia-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a7/)
 
 

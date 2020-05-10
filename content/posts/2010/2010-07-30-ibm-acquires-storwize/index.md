@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](http://www.storwize.com/images_storwize/common/logo.jpg  )
+[![](logo.jpg  )
 ](https://www.it-scoop.com/2010/07/ibm-acquires-storwize/)
 
 

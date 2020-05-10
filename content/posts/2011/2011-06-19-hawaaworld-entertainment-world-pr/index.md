@@ -18,7 +18,7 @@ tags:
 
 وصلنا البيان الصحفي التالي الذي يعلن عن شراء [موقع عالم حواء](http://forum.hawaaworld.com/) لموقع [عالم الترفيه](http://www.tt5.com/). و إليكم نصه:
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/HawaaWorld.png)
+[![](HawaaWorld.png)
 ](https://www.it-scoop.com/2011/06/hawaaworld-entertainment-world-pr/)<!-- more -->
 
 

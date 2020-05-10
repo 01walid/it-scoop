@@ -23,7 +23,7 @@ tags:
 
 كشف Theo de Raadt أحد أهم مطوري نظام OpenBSD  عن محتوى [رسالة](http://marc.info/?l=openbsd-tech&m=129236621626462&w=2) أرسلها له Gregory Perry أحد المستشارين الأمنيين السابقين لدى الحكومة الأمريكية و التي جاء فيها أن الـ FBI عمل على نشر أكثر من Backdoors في نظام OpenBSD لأغراض تجسسية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/openbsd-logo.jpg)
+[![](openbsd-logo.jpg)
 ](https://www.it-scoop.com/2010/12/fbi-backdoors-openbsd)
 
 حسب Gregory Perry فإن الـ FBI عمدت منذ 10 سنين خلت إلى توظيف مبرمجين لكتابة هذه الـ Backdoors في طبقة [IPSEC](http://en.wikipedia.org/wiki/IPsec) الأمنية الخاصة بنظام OpneBSD المعروف بأمانه.

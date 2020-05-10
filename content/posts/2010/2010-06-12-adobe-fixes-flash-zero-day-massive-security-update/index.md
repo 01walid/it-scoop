@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Flash-patch.jpg)
+[![](Flash-patch.jpg)
 ](https://www.it-scoop.com/2010/06/Adobe-Fixes-Flash-Zero-Day-Massive-Security-Update)
 
 

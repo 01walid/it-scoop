@@ -19,7 +19,7 @@ tags:
 
 أطلق القائمون على مشروع Eclipse الـ IDE الشهير متعدد اللغات و المنصات الإصدار 3.6 منه و الذي يحمل هذا العام اسم Helios بعد أن حمل اسم Galileo خلال الإصدار السابق.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/eclipse-helios.png)
+[![](eclipse-helios.png)
 ](https://www.it-scoop.com/2010/06/Eclipse-Helios-3-6-released)
 
 ساهم في كتابة الإصدار 3.6 من Eclipse قرابة 490 مشترك منهم 100 مساهم مستقل و 44 شركة مختلفة و وصل طول شفرته إلى 33 مليون سطر برمجي.

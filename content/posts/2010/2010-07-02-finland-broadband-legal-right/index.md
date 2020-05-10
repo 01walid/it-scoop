@@ -19,7 +19,7 @@ tags:
 أصدرت فنلندا قانونا جديدا حول جعل الاتصال السريع بالإنترنيت أو ما يسمى بـ BroadBand حقا شرعيا لمواطنيها و بذلك تكون أول دولة في العالم تخطو هذه الخطوة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/cable.gif)
+[![](cable.gif)
 ](https://www.it-scoop.com/2010/07/finland-broadband-legal-right/)
 
 

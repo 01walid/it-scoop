@@ -20,7 +20,7 @@ tags:
 حذرت شركة BitDefender إحدى عمالقة برامج مكافحة البرمجيات الخبيثة، أن آخر نسل من سلالة دودة Palevo بدأت في الانتشار بشكل كثيف عبر رسائل spam تستهدف خدمات المراسلة الفورية Instant Messaging.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/malware.jpg)
+[![](malware.jpg)
 ](https://www.it-scoop.com/2010/05/palevo-worm/)
 
 

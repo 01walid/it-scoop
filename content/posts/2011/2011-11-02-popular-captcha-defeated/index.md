@@ -23,8 +23,8 @@ tags:
 
 
 
-[![recaptcha example](https://www.it-scoop.com/wp-content/uploads/2011/11/recaptcha-example.gif)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/recaptcha-example.gif)
+[![recaptcha example](recaptcha-example.gif)
+](recaptcha-example.gif)
 
 
 

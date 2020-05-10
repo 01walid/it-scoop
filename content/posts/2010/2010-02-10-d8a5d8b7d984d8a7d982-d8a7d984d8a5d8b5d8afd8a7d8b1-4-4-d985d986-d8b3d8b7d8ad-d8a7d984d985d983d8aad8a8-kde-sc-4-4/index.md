@@ -18,7 +18,7 @@ tags:
 
 أعلن فريق تطوير سطح المكتب الشهير KDE عن إطلاقهم للإصدار النهائي من KDE SC 4.4 و المعروف تحت اسم الكود Caikaku.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/kde_redesigned.jpg)
+[![](kde_redesigned.jpg)
 ](https://www.it-scoop.com/2010/02/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-4-4-%d9%85%d9%86-%d8%b3%d8%b7%d8%ad-%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8-kde-sc-4-4/)
 
 سطح المكتب KDE SC 4.4  يعتمد على مكتبة Qt 4.6  مما يسمح له بتوفير العديد من المزايا الجديدة التي لم تكن متوفرة/ممكنة في الإصدارات السابقة.

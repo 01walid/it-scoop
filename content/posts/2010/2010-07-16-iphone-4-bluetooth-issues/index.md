@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://i.zdnet.com/blogs/jawbone-icon-table-300.jpg)
+[![](jawbone-icon-table-300.jpg)
 ](https://www.it-scoop.com/2010/07/iphone-4-bluetooth-issues/ )
 
 

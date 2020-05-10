@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/NEC-Medias-N-04C.jpg)
+[![](NEC-Medias-N-04C.jpg)
 ](https://www.it-scoop.com/2011/02/ntt-docomo-nec-medias-n-04c/)
 
 و يأتي هذا الجهاز بعيد إطلاق كل من Samsung's Galaxy S II و Sony Ericsson's Xperia Arc  و اللذان يتميزان بسمك يصل إلى غاية 9 ملم عند أنحف منطقة.

@@ -18,7 +18,7 @@ tags:
 
 أعلن فريق تطوير PHP عن إطلاق الإصدار PHP5.3.1 ، و التي تحوي على العديد من التصحيحات المكتشفة منذ إطلاق PHP 5.3..
 
-![php-logo](https://www.it-scoop.com/wp-content/uploads/2009/11/php-logo.png)
+![php-logo](php-logo.png)
 
 
 تم توفير دليل يساعد على الانتقال من الإصدار 5.2 إلى الإصدار 5.3. يمكن الوصول إليه من [هنا](http://php.net/manual/en/migration53.php).

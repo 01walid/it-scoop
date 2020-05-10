@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/mandriva-Tux.jpg)
+[![](mandriva-Tux.jpg)
 ](https://www.it-scoop.com/2010/09/mageia-mandriva-fork/)
 
 

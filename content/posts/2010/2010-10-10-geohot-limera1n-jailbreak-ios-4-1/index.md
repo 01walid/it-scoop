@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/limera1n-jailbreak.jpg)
+[![](limera1n-jailbreak.jpg)
 ](https://www.it-scoop.com/2010/10/geohot-limera1n-jailbreak-ios-4-1)
 
 

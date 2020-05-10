@@ -18,7 +18,7 @@ tags:
 
 الظاهر أن Oracle لن تهنأ قريبا بشرائها لـ Sun حتى بعد أن أعطت المفوضية الأوروبية ضوءها الأخضر، حيث ستقوم كل من وزارة التجارة الصينية و Federal Antimonopoly الروسية بدراسة ملف الصفقة لإبداء رأيهما فيه.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/sun-oracle.jpg)
+[![](sun-oracle.jpg)
 ](https://www.it-scoop.com/2010/01/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%8c-%d8%a7%d9%84%d8%b5%d9%8a%d9%86-%d9%88-%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d9%82%d8%af/)
 
 رحب Michael Widenius مؤسس شركة MySql AB  و مطور MySql بهذين القرارين  حيث علق آمالاً عريضة على إمكانية إيقاف أحداهما أو كلتاهما لصفقة الشراء هذه، حيث صرح لوكالة Reuters قائلا:

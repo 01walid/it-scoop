@@ -21,8 +21,8 @@ tags:
 
 
 
-[![cloud computing](https://www.it-scoop.com/wp-content/uploads/2011/07/cloud-computing.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/07/cloud-computing.jpg)
+[![cloud computing](cloud-computing.jpg)
+](cloud-computing.jpg)
 
 
 

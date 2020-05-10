@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/facebook-scam.jpg)
+[![](facebook-scam.jpg)
 ](https://www.it-scoop.com/2011/10/bitdefender-facebook-security-privacy-f8/)
 
 

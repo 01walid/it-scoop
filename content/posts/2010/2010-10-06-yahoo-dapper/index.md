@@ -18,7 +18,7 @@ tags:
 
 أعلنت Yahoo عن شرائها لـ Dapper الشركة الناشئة المتخصصة في الإعلانات المستهدفة و خصخصتها حسب محتوى الصفحة المعروضة عليها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/dapper-logo.gif)
+[![](dapper-logo.gif)
 ](https://www.it-scoop.com/2010/10/yahoo-dapper/)
 
 التقنية التي توفرها Dapper مشابهة لتلك التي تستعملها Google لإعلاناتها، إلا أن Dapper توفر إعلانات مصورة Display حسب محتوى الصفحة.

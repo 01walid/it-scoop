@@ -23,7 +23,7 @@ tags:
 
 بعد أن وفرت[ الإصدار Beta  منه منذ مدة](https://www.it-scoop.com/2010/05/samsung-bada-sdk/)، أطلقت Samsung الإصدار النهائي من الـ SDK الخاص بنظام تشغيلها الخاص Bada الموجه للهواتف الذكية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/samsung-bada-mobile-OS.png)
+[![](samsung-bada-mobile-OS.png)
 ](https://www.it-scoop.com/2010/08/samsung-bada-sdk-2)
 
 يقدم هذا الإصدار مكتبة API خاصة بالنظام إلى جانب محاكEmulator  لتجربة التطبيقات. كما شهد إضافة جديدة تتمثل في الـ Remote test laboratory و التي تسمح بتجربة التطبيقات على أجهزة حقيقة  عن بعد من دون امتلاكها، و ذلك مباشرة عبر الإنترنت.

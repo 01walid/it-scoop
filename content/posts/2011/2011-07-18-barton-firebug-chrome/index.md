@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/firebug_firefox.png)
+[![](firebug_firefox.png)
 ](https://www.it-scoop.com/2011/07/barton-firebug-chrome/)
 
 

@@ -18,7 +18,7 @@ tags:
 
 أعلنت Google على لسان Rajen Sheth و الذي يشغل منصب Google Apps Senior Product Manager، أعلنت عن إيقاف دعمها للمتصفحات القديمة في خدماتها ابتداءً من الشهر القادم.
 
-[![](https://djug.developpez.com/rsc/PrincipNavig.jpg)
+[![](PrincipNavig.jpg)
 ](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%b9%d9%84%d9%86-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%af%d8%b9%d9%85%d9%87%d8%a7-%d9%84%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85%d8%a9-%d8%a7/)
 
 الإصدارات المعنية بهذا الأمر هي Internet Explorer 6، Safari 2، Firefox 2 و Chrome3.

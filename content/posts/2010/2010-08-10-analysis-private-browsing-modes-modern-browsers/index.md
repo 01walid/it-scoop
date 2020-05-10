@@ -26,7 +26,7 @@ tags:
 نشر باحثون أمنيون من جامعة Stanford  دراسة تهتم بوضع "التصفح الخاص" الذي أصبحت متوفرة على الإصدارات الحديثة من المتصفحات و التي تتيح للمستخدم –على الأقل نظريا- تصفحا بدون ترك أية آثار وراءه و بدون تعريض بياناته الشخصية للخطر.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/firefox-private.jpg)
+[![](firefox-private.jpg)
 ](https://www.it-scoop.com/2010/08/analysis-private-browsing-modes-modern-browsers)
 
 

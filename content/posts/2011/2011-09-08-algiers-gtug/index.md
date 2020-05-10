@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/logo-Algiers-GTUG.png)
+[![](logo-Algiers-GTUG.png)
 ](https://www.it-scoop.com/2011/09/algiers-gtug/)
 
 

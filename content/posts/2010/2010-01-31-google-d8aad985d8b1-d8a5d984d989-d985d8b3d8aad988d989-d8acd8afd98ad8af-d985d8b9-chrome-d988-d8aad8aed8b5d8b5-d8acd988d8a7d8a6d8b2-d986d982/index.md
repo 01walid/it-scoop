@@ -22,7 +22,7 @@ tags:
 
 هذا الخبر يهمك بالتأكيد، إذ أعلنت Google عن تخصيصها لجوائز نقدية أدناها 500 دولار و أقصاها 1337 دولار لمن يكتشف ثغرات أمنية على المتصفح Chrome.
 
-[](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
+[](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs.jpg)[![](chrome_bugs-e1264950836525.jpg)
 ](https://www.it-scoop.com/2010/01/google-%d8%aa%d9%85%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88%d9%89-%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d8%b9-chrome-%d9%88-%d8%aa%d8%ae%d8%b5%d8%b5-%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d9%86%d9%82/)
 
 الغاية المنشودة من طرف Google من هذه الحملة هو بدون شك عمل دعاية كبيرة لمتصفحها و الإشادة بالحماية المتوفرة فيه، إضافة إلى تصيد المبرمجين المهرة المتمرسين في متصفحها لضمهم إلى كوكبة المبرمجين الذين يعكفون عليه.

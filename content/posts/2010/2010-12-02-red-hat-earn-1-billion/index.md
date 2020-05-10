@@ -18,7 +18,7 @@ tags:
 
 [أعلن](http://blogs.forbes.com/ciocentral/2010/11/30/red-hat-at-1-billion/) موقع Forbes استنادا إلى معدلات النمو في الربع الحالي من هذا العام أن شركة  RedHat هي أول شركة مفتوحة المصدر  ستصل إيراداتها إلى مليار دولار.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/images.jpg)
+[![](images.jpg)
 ](https://www.it-scoop.com/2010/12/red-hat-earn-1-billion/)
 
 أضافت  Forbes أن نمو RedHat يعكس أهمية المصادر المفتوحة في تكنولوجيا المعلومات , وقد حققت شركة القبعة الحمراء هذا المبلغ من بيعها لخدمات توزيعة نظام  RedHat Enterprise .Linux

@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/firefox_logo_3025.jpg)
+[![](firefox_logo_3025.jpg)
 ](https://www.it-scoop.com/2010/07/Mozilla-Firefox-4 Pre-Beta)
 
 

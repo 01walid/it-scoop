@@ -22,7 +22,7 @@ tags:
 بعد أن كان الأمر مقتصرا على التطبيقات و أنظمة التشغيل التي توفر أكثر من إصدار تقل مزاياها أو تزيد حسب الثمن الذي تدفعه، هاهي ذي Intel تفتح هذا المجال أمام مصنعي العتاد، فلقد أطلقت نظاما جديدا أسمته [Intel Upgrade Service](http://www.intel.com/cd/channel/reseller/asmo-na/eng/404392.htm) يسمح لك بالتمتع بكامل مزايا معالج حاسوبك إذا ما اشتريت بطاقة بـ 50 دولار لتفعيلها.
 
 
-[![](http://www.blogcdn.com/www.engadget.com/media/2010/09/9-18-10-intel600.jpg)
+[![](9-18-10-intel600.jpg)
 ](https://www.it-scoop.com/2010/09/intel-upgrade-service/)
 
 

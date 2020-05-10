@@ -20,7 +20,7 @@ tags:
 
 أطلقت Google الإصدار Beta للمتصفح Chrome 4.1 لنظام تشغيل Windows.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
+[![](Chrome_logo.jpg)
 ](https://www.it-scoop.com/2010/03/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-beta-%d9%84%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-chrome-4-1-%d9%88-%d8%a7%d9%84%d8%b0%d9%8a-%d9%8a%d8%ad%d8%aa%d9%88%d9%8a/)
 
 لعل من بين أهم ما جاء به هذا الإصدار هو تضمين آلية الترجمة الفورية للصفحات المكتوبة بغير اللغة القياسية للمتصفح، و ذلك اعتمادا على تقنية الترجمة المتوفرة ضمن خدمات محرك البحث Google.

@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Poly9.jpg)
+[![](Poly9.jpg)
 ](https://www.it-scoop.com/2010/07/apple-buys-poly9/)Poly9 شركة كندية تقع في مقاطعة Quebec تضم 10 موظفين فقط و تم إطلاقها سنة 2005، و تقدم خدمات خاصة بالخرائط شبيهة بالخدمات التي تقدمها Google في هذا المجال، كما توفر API لاستفادة من خدماتها و التي يستعملها كل من Apple، Yahoo و Microsoft.
 
 

@@ -20,7 +20,7 @@ tags:
 
 كشفت Microsoft عن [محتوى الـ Patch Tuesday](http://www.microsoft.com/technet/security/Bulletin/MS11-apr.mspx) لشهر أبريل الجاري الذي يحمل في طياته 17 نشرة أمنية تخص 64 ثغرة أمنية تشمل مختلف أنظمتها و تطبيقاتها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
+[![](Microsoft_patch_tuesday.jpg)
 ](//www.it-scoop.com/2011/04/microsoft-april-patch-tuesday/)
 
 و لقد وُصفت 9 نشرات أمنية بالحرجة و هي أعلى الدرجات في سلم تقييم Microsoft لخطورة الثغرات  في حين اعتبرت النشرات الباقية "مهمة" ، و تخص الثغرات المرقعة في هذا الإصدار كلا من أنظمة Windows المدعومة حاليا بما فيها Windows 7 إلى جانب Office Web Apps ، إطار العمل Dotnet و [GDI+](http://msdn.microsoft.com/en-us/library/ms533798(v=vs.85).aspx)، و كالعادة يسجل متصفح Internet Explorer  حضوره و هذه المرة بإصداريه السابع و الثامن.

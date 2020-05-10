@@ -20,7 +20,7 @@ tags:
 
 كشفا RIM الشركة المصنعة لهواتف BlackBerry عن جهازها اللوحي الخاص بها و الذي أطلقت عليه اسم PlayBook  و الذي كان يُشار إليه سابقا باسم BlackPad.
 
-[[![](https://www.it-scoop.com/wp-content/uploads/2010/09/rim-playbook-1024x634.jpg)
+[[![](rim-playbook-1024x634.jpg)
 ](https://www.it-scoop.com/2010/09/rim-blackberry-playbook/ )
 ](https://www.it-scoop.com/wp-content/uploads/2010/09/rim-playbook.jpg)
 

@@ -15,7 +15,7 @@ tags:
 
 سجلت العديد من شركات الأمن و الحماية ظهور  worm  (دودة) يستهدف أجهزة iPhones مكسورة الحماية أو ما يعرف بـ  Jailbroken iPhone.
 
-![worm_iphone](https://www.it-scoop.com/wp-content/uploads/2009/11/worm_iphone.jpg)
+![worm_iphone](worm_iphone.jpg)
 
 
 حاليا كل ما يقوم به هذا الـ worm هو إظهار  صورة مغني POP من حقبة الثمانينيات (Rick Astley) كخلفية للجهاز مع إظهار نص صغير 'Ikee is never going to give you up'.

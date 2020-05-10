@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://www.blogcdn.com/www.engadget.com/media/2010/07/7-11-10-caanoo600.jpg)
+[![](7-11-10-caanoo600.jpg)
 ]( https://www.it-scoop.com/2010/07/gamepark-gp2x-caanoo/)
 
 

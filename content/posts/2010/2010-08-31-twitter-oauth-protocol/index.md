@@ -24,13 +24,13 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/oauth-twitter.png)
+[![](oauth-twitter.png)
 ](https://www.it-scoop.com/2010/08/twitter-oauth-protocol/)
 
 
 الوضع الحالي من شأنه أن يوفر حماية أكبر للمستخدمين ، حيث أن التطبيقات ستطلب من المستخدم تسجيل دخوله إلى Twitter و موافقته على استخدام التطبيق بدل طلب اسم المستخدم/كلمة السر مثلما يظهر في الصورة التالية:
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/AllowLongTweets.png)
+[![](AllowLongTweets.png)
 ](https://www.it-scoop.com/2010/08/twitter-oauth-protocol/)
 
 لضمان مرور سلس من النظام القديم إلى النظام الجديد الذي يعتمد على استخدام البروتوكول OAuth قامت Twitter بإعلام المطورين بالأمر منذ شهر ديسمبر الماضي ، و هو ما منح لهم وقتا كافيا للقيام بعمليات التغيير اللازمة.

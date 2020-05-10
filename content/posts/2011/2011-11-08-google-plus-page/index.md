@@ -26,8 +26,8 @@ tags:
 
 
 
-[![google plus page](https://www.it-scoop.com/wp-content/uploads/2011/11/Google-plus-page-logo.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/Google-plus-page-logo.png)
+[![google plus page](Google-plus-page-logo.png)
+](Google-plus-page-logo.png)
 
 
 

@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](http://www.linuxmint.com/pictures/screenshots/julia/kde/julia.png )
+[![](julia.png )
 ](https://www.it-scoop.com/2011/02/linux-mint-10-kde/)
 
 

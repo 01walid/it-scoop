@@ -21,7 +21,7 @@ tags:
 
 كشفت [دراسة](http://www.visionmobile.com/devecon.php) أجرتها Mobile Vison على 850 مطورا عبر مختلف أنحاء العالم أن نظام Windows Phone 7 أصبح يستقطب اهتمامهم بشكل أكبر خاصة مع إعلان شراكة Microsoft مع Nokia حول هذا النظام.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/Mobile-Vison.gif)
+[![](Mobile-Vison.gif)
 ](https://www.it-scoop.com/2011/06/windows-phone-7-developers-interest)
 
 و كشفت الدراسة أن Windows Phone 7 تجاوز نظام iOS من حيث استقطاب اهتمام المطورين، حيث ينوي 32% منهم كتابة تطبيقات له في المستقبل ، في حين حل Android في الصدارة بنسبة 35%. و لم يأت iOS إلا في المرتبة الرابعة بنسبة 27%.

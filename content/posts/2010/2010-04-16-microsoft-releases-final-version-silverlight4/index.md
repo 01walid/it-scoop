@@ -19,7 +19,7 @@ tags:
 
 أطلقت Microsoft الإصدار النهائي لـ Silverlight 4  أياما فقط بعد [إطلاق كل من Visual studio 2010 و الإصدار الرابع من إطار العمل .NET Framework.](../../../../../2010/04/microsoft-launches-visual-studio-2010/)
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Silverlight-4-Is-Here-Get-Started-Now.jpg)
+[![](Silverlight-4-Is-Here-Get-Started-Now.jpg)
 ](https://www.it-scoop.com/2010/04/microsoft-releases-final-version-silverlight4)
 
 هذا الإصدار يدعم كلا من المتصفحات Internet Explorer، Firefox و Chrome تحت أنظمة Windows، و متصفحي Firefox و Safari على أنظمة Mac OS X. أما مستعملو نظام Linux فيجب عليهم الاعتماد على Moonlight و الذي بالرغم من أن الإصدار الحالي له هو الثاني ، إلا أنه يكافئ الإصدار الثاني من Silverlight كاملا إضافة إلى العديد من الوظائف التي تخص الإصدار الثالث.

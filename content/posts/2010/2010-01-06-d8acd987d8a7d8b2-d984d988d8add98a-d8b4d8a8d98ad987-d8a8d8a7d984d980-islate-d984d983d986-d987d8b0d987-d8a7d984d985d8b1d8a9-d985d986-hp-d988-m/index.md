@@ -16,7 +16,7 @@ tags:
 
 
 وفقا لصحيفة New york Times فإن Steve Ballmer الرئيس التنفيذي لشركة Microsoft  قد لمح في أخر تصريح منسوب إليه  أنه سيعرض جهازا لوحيا يعمل باللمس مصنع من طرف HP لصالح Microsoft مثل الجهاز اللوحي الخاص بـ Apple و المسمى islate في معرض ces2010
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/microsoft-hp-tablet.jpg)
+[![](microsoft-hp-tablet.jpg)
 ](https://www.it-scoop.com/2010/01/%d8%ac%d9%87%d8%a7%d8%b2-%d9%84%d9%88%d8%ad%d9%8a-%d8%b4%d8%a8%d9%8a%d9%87-%d8%a8%d8%a7%d9%84%d9%80-islate-%d9%84%d9%83%d9%86-%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%85%d8%b1%d8%a9-%d9%85%d9%86-hp-%d9%88-m/)
 
 و توقع Ballmer أن يكون الجهاز اللوحي متاحا للبيع منتصف هذه السنة  .و تجدر الإشارة إلى أن المتحدثين الرسميين لكل من  Microsoft  وHP امتنعوا عن التعليق على المنتج  أو مضمون خطاب Ballmer.

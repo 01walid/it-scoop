@@ -19,7 +19,7 @@ tags:
 
 
 بعض انتظار طويل، [أطلقت](http://www.apple.com/pr/library/2010/11/22ios.html) Apple الإصدار 4.2.1  من نظام تشغيل  iOS  الذي يشغل كلا من هواتف iPhone و أجهزة iPod Toch و iPad.
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/ios-42-300x288.jpg)
+[![](ios-42-300x288.jpg)
 ](https://www.it-scoop.com/2010/11/apple-ios-4-2/)
 
 أهم ما جاء في هذا الإصدار هو  الـ Multitasking لأجهزة iPad و إمكانية تجميع التطبيقات في مجلدات (و هي الخواص المتوفرة منذ مدة للـ iPhone و الـ iPod Touch)، إضافة إلى كل من الـ AirPlay و AirPrint لنفس الأجهزة.

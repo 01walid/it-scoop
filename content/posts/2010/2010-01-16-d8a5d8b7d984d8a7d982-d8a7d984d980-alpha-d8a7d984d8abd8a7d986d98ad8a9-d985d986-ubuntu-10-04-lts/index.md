@@ -18,7 +18,7 @@ tags:
 
 أطلق فريق تطوير Ubuntu الـ Alpha الثانية للإصدار 10.04  من توزيعة Ubuntu.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/ubuntu-logo.jpg)
+[![](ubuntu-logo.jpg)
 ](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%80-alpha-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d9%85%d9%86-ubuntu-10-04-lts/)
 
 هذا الإصدار و الموجه أيضا للمجربين للمطورين فقط تأتي ببعض المستجدات كاستعمال إصدارة 2.6.32  من نواة Linux ، حذف hal package للسماح بإقلاع أسرع، و الاستغناء عن برنامج تحرير الصور Gimp.

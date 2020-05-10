@@ -25,8 +25,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone4.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2010/06/iPhone4.jpg)
+[![](iPhone4.jpg)
+](iPhone4.jpg)
 
 
 

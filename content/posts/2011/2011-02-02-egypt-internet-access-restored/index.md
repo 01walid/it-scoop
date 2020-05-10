@@ -22,7 +22,7 @@ tags:
 عادت اتصالات الإنترنت للعمل من جديد في مصر و هذا بعد قرابة الأسبوع على انقطاعها.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/arbor-networks-trafic-egypte.jpg)
+[![](arbor-networks-trafic-egypte.jpg)
 ](https://www.it-scoop.com/2011/02/egypt-internet-access-restored/)
 
 

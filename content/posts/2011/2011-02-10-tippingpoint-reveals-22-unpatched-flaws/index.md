@@ -19,7 +19,7 @@ tags:
 وفاء بوعده الذي قطعه العام الماضي، قام أكبر برنامج جوائز للكشف عن الثغرات البرمجية والمعروف باسم TippingPoint، بالإعلان عن تفاصيل مجموعتين من الثغرات يصل عددها إلى حوالي 22 والتي لم يتم ترقيعها خلال فترة 6 أشهر بعد تبليغ الشركات البرمجية بوجودها.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/TippingPoint_logo.jpg )
+[![](TippingPoint_logo.jpg )
 ](https://www.it-scoop.com/2011/02/tippingpoint-reveals-22-unpatched-flaws)
 
 

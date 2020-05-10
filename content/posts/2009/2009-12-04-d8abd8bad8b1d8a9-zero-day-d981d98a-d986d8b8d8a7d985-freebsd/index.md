@@ -18,7 +18,7 @@ tags:
 قام فريق الأمن المسؤول عن نظام FreeBSD بتعجيل إصدار ترقيع مؤقت للثغرة المكتشفة في نظام FreeBSD والتي تسمح لمستخدم محلّي local user بالحصول على صلاحيات مدير root وتعرض الأنظمة لهجمات Code Execution.
 
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594413948543.png)
+![](post-7008-12594413948543.png)
 
 
 

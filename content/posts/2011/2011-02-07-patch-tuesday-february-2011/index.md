@@ -20,7 +20,7 @@ tags:
 
 سيكون يوم غد موعد إطلاق الـ Patch Tuesday لشهر فبراير الجاري و الذي سيرقع 22 ثغرة تشمل كلا من أنظمة Windows، متصفح Internet Explorer و تطبيق  Visio.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
+[![](patch-tuesday.jpg)
 ](https://www.it-scoop.com/2011/02/patch-tuesday-february-2011/)
 
 و يحتوي [هذا الـ Patch Tueday](http://www.microsoft.com/technet/security/Bulletin/MS11-feb.mspx) على 3 نشرات أمنية تخص ترقيعات على أنظمة Windows و متصفح Internet Explorerوصفت بالحرجة تمكن مستغلها من تنفيذ رماز ضار عن بعد، أما باقي النشرات وصفت بالهامة.

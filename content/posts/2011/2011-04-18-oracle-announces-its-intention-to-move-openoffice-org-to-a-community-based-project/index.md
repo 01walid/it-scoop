@@ -20,7 +20,7 @@ tags:
 هو أقل من عام، [منذ أن أعلن مجتمع OpenOffice انشقاقه](https://www.it-scoop.com/2010/09/the-document-foundation-libreoffice/) وإنشاء Fork جديد باسم LibreOffice ، لم تستطع فيه Oracle الصمود أكثر وفضلت ترك المكتب المفتوح مفتوحا ودون نسخ محتكرة، كما ستلقي به على مجتمع مطورين خارج إرادتها وإدارتها.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/openoffice-logo-300x185.png)
+[![](openoffice-logo-300x185.png)
 ](https://www.it-scoop.com/2011/04/oracle-announces-its-intention-to-move-openoffice-org-to-a-community-based-project)تم ذلك قبل حوالي 3 أيام ، [حيث أعلنت](http://www.marketwire.com/press-release/Oracle-Announces-Its-Intention-to-Move-OpenOfficeorg-to-a-Community-Based-Project-NASDAQ-ORCL-1428324.htm) أنها ستترك المشروع للمجتمع دون التنويه أو الإشارة لأي مجتمع؟ أهو مجتمع LibreOffice "المتطرف" ؟ أم غيره، والجدير بالذكر أيضا أنه ستستمر وبقوة في دعم معيار المستند المفتوح على حسب ما ورد في المصدر.
 
 

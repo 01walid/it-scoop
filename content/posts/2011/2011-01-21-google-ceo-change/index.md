@@ -21,7 +21,7 @@ tags:
 أعلن Eric Schmidt المدير العام الحالي لـ Google على [مدونة](http://googleblog.blogspot.com/2011/01/update-from-chairman.html) الشركة الرسمية عن تنحيه عن رئاسة Google ابتداء من الـ 4 من أبريل القادم تاركا مكانه للمؤسس الشريك لمحرك البحث Larry Page.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/eric_schmidt.jpg)
+[![](eric_schmidt.jpg)
 ](https://www.it-scoop.com/2011/01/google-ceo-change/)
 
 

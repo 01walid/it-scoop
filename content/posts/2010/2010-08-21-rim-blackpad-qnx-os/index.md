@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/blackpad.jpg)
+[![](blackpad.jpg)
 ](https://www.it-scoop.com/2010/08/rim-blackpad-qnx-os)
 
 

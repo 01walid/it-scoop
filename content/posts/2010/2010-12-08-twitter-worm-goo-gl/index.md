@@ -23,8 +23,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter-bug1.jpg)  
+[![](twitter-bug1.jpg)
+](twitter-bug1.jpg)  
 
 
 
@@ -51,19 +51,19 @@ tags:
 
 
 
-[](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter_malware.jpg)  
+[](twitter_malware.jpg)  
 
 
 
 
 
-![](https://www.it-scoop.com/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif)
+![](trans.gif)
 
 
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/twitter_malware.jpg)
+[![](twitter_malware.jpg)
 ](%20https://www.it-scoop.com/2010/12/twitter-worm-goo-gl/)  
 
 

@@ -23,7 +23,7 @@ tags:
 أعلن الباحث Soroush Dalili عن وجود ثغرة 0day في الطريقة التي يعالج فيها IIS أسماء الملفات التي يتم رفعها إلى الموقع من قبل زائر مثلاً.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/iis_logo.png)
+[![](iis_logo.png)
 ](https://www.it-scoop.com/2009/12/iis-%d9%88-%d8%ab%d8%ba%d8%b1%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/)
 
 

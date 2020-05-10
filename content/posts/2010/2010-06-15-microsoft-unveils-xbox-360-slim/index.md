@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Xbox-360-Slim.jpg)
+[![](Xbox-360-Slim.jpg)
 ](https://www.it-scoop.com/2010/06/microsoft-unveils-xbox-360-slim)
 
 

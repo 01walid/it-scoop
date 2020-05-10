@@ -22,8 +22,8 @@ tags:
 
 
 
- [![Galaxy nexus](https://www.it-scoop.com/wp-content/uploads/2011/10/Galaxy-nexus.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/10/Galaxy-nexus.png)
+ [![Galaxy nexus](Galaxy-nexus.png)
+](Galaxy-nexus.png)
 
 
 

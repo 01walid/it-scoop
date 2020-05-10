@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/rails-logo.png)
+[![](rails-logo.png)
 ](https://www.it-scoop.com/2010/08/ruby-on-rails-30/)
 
 

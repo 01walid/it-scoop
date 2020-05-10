@@ -19,8 +19,8 @@ tags:
 
 
 
-[![هل ستدخل Faccebook إلى البورصة قبل نهاية السنة الجارية؟](https://www.it-scoop.com/wp-content/uploads/2011/11/Facebook-IPO.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/Facebook-IPO.png)ومن المنتظر أن يكون دخول Facebook إلى البورصة الأضخم بعد الذي قامت به Google، حيث تشير الكثير من التحليلات إلى احتمال وصول قيمة الشبكة إلى 100 مليار دولار، مما يجعلها أكبر قيمة من شركة Amazon. لكن في المقابل تشكك Forbes في هذه القيمة مستندة إلى [أرقام trefis](http://www.trefis.com/company?hm=FBOOK.trefis) التي تقدر قيمة Facebook بحوالي 45.1 مليار دولار فقط.
+[![هل ستدخل Faccebook إلى البورصة قبل نهاية السنة الجارية؟](Facebook-IPO.png)
+](Facebook-IPO.png)ومن المنتظر أن يكون دخول Facebook إلى البورصة الأضخم بعد الذي قامت به Google، حيث تشير الكثير من التحليلات إلى احتمال وصول قيمة الشبكة إلى 100 مليار دولار، مما يجعلها أكبر قيمة من شركة Amazon. لكن في المقابل تشكك Forbes في هذه القيمة مستندة إلى [أرقام trefis](http://www.trefis.com/company?hm=FBOOK.trefis) التي تقدر قيمة Facebook بحوالي 45.1 مليار دولار فقط.
 
 
 

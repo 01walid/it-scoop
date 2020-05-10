@@ -18,7 +18,7 @@ tags:
 
 أطلقت Automattic الراعية لنظام إدارة المحتوى/المدونات   Wordpress الشهير الإصدار 3.0 منه .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/wordpress-logo-300x300.png)
+[![](wordpress-logo-300x300.png)
 ](https://www.it-scoop.com/2010/06/wordpress-3-0/ )
 
 أهم ما جاء به الإصدار الثالث من Wordpress هو الدمج بينه و بين الإصدار MU (multi-user) مما يسمح بإدارة أكثر من موقع/مدونة بمجرد تنصيب Wordpress مرة واحدة فقط.

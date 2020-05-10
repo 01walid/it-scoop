@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Microsoft-logo-300x218.jpg)
+[![](Microsoft-logo-300x218.jpg)
 ](it-scoop.com/2010/07/microsoft-says-no-paying-bug-bounties)
 
 

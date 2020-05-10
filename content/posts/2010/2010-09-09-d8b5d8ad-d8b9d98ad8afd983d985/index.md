@@ -26,5 +26,5 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/it-scoop-3id.png)
-](https://www.it-scoop.com/wp-content/uploads/2010/09/it-scoop-3id.png)
+[![](it-scoop-3id.png)
+](it-scoop-3id.png)

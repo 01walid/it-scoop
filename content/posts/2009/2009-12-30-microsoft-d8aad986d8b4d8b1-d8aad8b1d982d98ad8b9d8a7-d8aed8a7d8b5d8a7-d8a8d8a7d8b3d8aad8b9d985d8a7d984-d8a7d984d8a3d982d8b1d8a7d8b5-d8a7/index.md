@@ -20,7 +20,7 @@ tags:
 
 قامت شركة Microsoft  بطرح ترقيع يخص الأقراص الصلبة كبيرة الحجم على نظامي Windows7 و Windows server 2008 R2.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Microsoft-logo-300x218.jpg)
+[![](Microsoft-logo-300x218.jpg)
 ](https://www.it-scoop.com/2009/12/microsoft-%d8%aa%d9%86%d8%b4%d8%b1-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9%d8%a7-%d8%ae%d8%a7%d8%b5%d8%a7-%d8%a8%d8%a7%d8%b3%d8%aa%d8%b9%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d9%82%d8%b1%d8%a7%d8%b5-%d8%a7/)
 
 المشكل المعالج يخص الأقراص Sata كبيرة الحجم من فئة الـ   Terabyte أو أكثر ، حيث أنه لدى استئناف عمل النظام بعد أن يكون في حالة إسبات تظهر رسائل خطأ مثل:

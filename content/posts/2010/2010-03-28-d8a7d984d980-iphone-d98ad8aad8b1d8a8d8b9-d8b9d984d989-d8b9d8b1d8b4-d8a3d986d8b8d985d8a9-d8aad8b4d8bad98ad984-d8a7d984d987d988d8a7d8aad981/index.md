@@ -20,7 +20,7 @@ tags:
 
 كشفت آخر الإحصائيات الصادرة عن AdMob المختصة في الإعلان عبر الهواتف ، عن تغييرات في سوق الهواتف، حيث تربع الـ iPhone على عرش أنظمة تشغيل الهواتف، فيما سجلت الـ SmartPhones ككل تقدما كبيرا.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/adMob-stats.jpg)
+[![](adMob-stats.jpg)
 ](https://www.it-scoop.com/2010/03/%d8%a7%d9%84%d9%80-iphone-%d9%8a%d8%aa%d8%b1%d8%a8%d8%b9-%d8%b9%d9%84%d9%89-%d8%b9%d8%b1%d8%b4-%d8%a3%d9%86%d8%b8%d9%85%d8%a9-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81/)
 
 الإحصائيات التي تعتمد على الولوج إلى خوادم AdMob سجلت الـ SmartPhone تقدما بنسبة 193% خلال سنة واحدة،فيما سجلت الـ feature phones تراجعا من 58% إلى 35%، أما بقيت الأجهزة كالـ iPod و الـ PSP وNintendo DS فقد سجلت تقدما بنسبة 403%.

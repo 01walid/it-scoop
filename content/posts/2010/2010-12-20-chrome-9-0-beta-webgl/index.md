@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
+[![](Chrome_logo.jpg)
 ](https://www.it-scoop.com/2010/12/chrome-9-0-beta-webgl/)
 
 

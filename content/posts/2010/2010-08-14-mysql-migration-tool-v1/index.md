@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/SqlServerMySQL.png)
+[![](SqlServerMySQL.png)
 ](https://www.it-scoop.com/2010/08/mysql-migration-tool-v1/)
 
 

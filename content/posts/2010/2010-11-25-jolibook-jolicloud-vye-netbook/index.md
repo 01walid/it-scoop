@@ -22,7 +22,7 @@ tags:
 مثلما أخبرناكم عنه سابقا، فلقد أطلق كريم طارق بالتعاون مع المصنع  Vyeأول جهاز Vye مبني خصيصا لنظام JoliCloud الموجه للـ Cloud Computing و للشبكات الاجتماعية.
 
 
-[![](http://ecx.images-amazon.com/images/I/51SklaVnHGL._AA1000_.jpg )
+[![](51SklaVnHGL._AA1000_.jpg )
 ](https://www.it-scoop.com/2010/11/jolibook-jolicloud-vye-netbook/)
 
 

@@ -18,7 +18,7 @@ tags:
 
 كشفت Microsoft النقاب عن Fix It Center التطبيق الذي سيريحك –إن كنت من مستعملي Windows- من الذهاب أو الاستعانة بأحد في كل مرة يشتكي فيها نظامك من ألم في رأسه من خلل ما دون الحاجة إلى تدخل بشري.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/fixit_logo_site.png)
+[![](fixit_logo_site.png)
 ](https://www.it-scoop.com/2010/04/Microsoft-Launches-Fix-It-Center)
 
 تطبيق Fix It Center و الذي يدعم كلا من أنظمة  XP SP3 ، Vista و Windows7 إضافة إلى Windows server في إصداريه 2003 و 2008 يقوم بمجرد تنصيبه بالتأكد من الحالة الصحية للجهاز و النظام المنصب عليه و يقترح بعدها جملة من الحلول للتخلص من المشاكل التي عثر عليها.

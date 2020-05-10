@@ -21,7 +21,7 @@ tags:
 بعد إلغاء مجانية نظام تشغيل Solaris، و توقيف التوزيع المجاني لأقراص OpenOffice، حان الدور الآن على إضافة ODF Plugin و التي تسمح لمستعملي حزمة Microsoft Office التعامل مع ملفات ODF  في إصدارها 1.2.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/ODF.jpg)
+[![](ODF.jpg)
 ](https://www.it-scoop.com/2010/04/oracle-start-charging-odf-plugin)
 
 

@@ -18,7 +18,7 @@ tags:
 
 حقق متصفح Firefox نتائج جد طيبة منذ إطلاق الإصدار الرابع له قبل عدة أيام، حيث تجاوزت حصة هذا الإصدار 3.66% من سوق المتصفحات العالمية خلال 5 أيام فقط، و سمح له ذلك أيضا قاب قوسين أو أدنى من التربع على ترتيب المتصفحات في فرنسا.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/StatCounter-browser-FR-monthly-201003-201103.jpg)
+[![](StatCounter-browser-FR-monthly-201003-201103.jpg)
 ](https://www.it-scoop.com/2011/03/firefox-browser-france/)
 
 هذا ما تؤكده إحصائيات [StatCounter](http://gs.statcounter.com/?PHPSESSID=joe5ttlv5e3vruk2f70f9lc3g4#browser-FR-monthly-201003-201103)، حيث أن حصة Firefox بجميع إصداراته من السوق الفرنسية  للمتصفحات وصلت إلى  36.79% و لم يعد يفصلها إلى القليل عن 38% التي تمثل حصة Internet Explorer بجميع إصداراته. إلا أن الفضل لا يعود فقط إلى Firefox 4 بل يلعب Chrome دورا كبيرا في هذا الأمر. و نلاحظ على المنحى البياني لحصص المتصفحات أن نمو Chrome يتم على حساب Internet Explorer في حين يحافظ Firefox على حصة شبه ثابتة.

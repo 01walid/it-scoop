@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/metaWeb-logo.png)
+[![](metaWeb-logo.png)
 ]( https://www.it-scoop.com/2010/07/google-acquires-metaweb)
 
 

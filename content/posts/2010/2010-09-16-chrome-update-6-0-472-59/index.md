@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
+[![](chrome_bugs-e1264950836525.jpg)
 ](https://www.it-scoop.com/2010/09/chrome-update-6-0-472-59/)
 
 

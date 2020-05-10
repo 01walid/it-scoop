@@ -19,7 +19,7 @@ tags:
 
 أشارت بعض المواقع الإخبارية التقنية مثل [mashable](http://mashable.com/2011/06/10/facebook-happening-now/) و[the next web](http://thenextweb.com/facebook/2011/06/10/facebook-begins-testing-new-real-time-happening-now-feed/) أن Facebook تجرب خدمة (Feed) جديدة تسمى Happening Now شبيهة جدا بمبدأ الـ TimeLine الخاص بـ Twitter و الذي يسمح باستعراض ما يقوم به الأصدقاء في الزمن الحقيقي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/happening-now.jpg)
+[![](happening-now.jpg)
 ](https://www.it-scoop.com/2011/06/facebook-happening-now/)
 
 و لقد علقت Facebook حول الخاصية الجديدة -مثلما نقرأه على موقع [the next web](http://thenextweb.com/facebook/2011/06/10/facebook-begins-testing-new-real-time-happening-now-feed/) - أنها تتم تجربتها على نسبة محدودة جدا من المستخدمين و سيتم العمل على تحسينها خلال الأسابيع القليلة القادمة بناء على نتائج هذه التجارب و من المنتظر توسيع نطاقها إلى مستخدمين آخرين لاحقا.

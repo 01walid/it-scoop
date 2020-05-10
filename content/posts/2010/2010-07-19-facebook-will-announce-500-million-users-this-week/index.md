@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/facebook-logo.jpg)
+[![](facebook-logo.jpg)
 ](facebook-will-announce-500-million-users-this-week)
 
 

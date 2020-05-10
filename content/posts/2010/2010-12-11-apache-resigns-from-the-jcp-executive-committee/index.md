@@ -24,7 +24,7 @@ tags:
 
 لا زلنا مع مسلسل Java/Oracle، يبدو أن عام محن Java لم ينقضي بعد، وإذا كنت تريد آخر حلقة فإليك هذا الخبر، هو خطب آخر جلل قد لحق مجتمع Java، فبعد أن تم الإقرار على مواصفات كل من Java7 و 8، قررت  منظمة Apache الانسحاب من اللجنة التنفيذية (Java Community Process (JCP، بسبب نزاع دار حول سياسة الرخص التي تنتهجها Oracle وبالتالي تضع حدا لمساهماتها في لغة Java .
 
-[](https://www.it-scoop.com/wp-content/uploads/2010/12/Oracle-Java.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Oracle-Java-300x225.jpg)
+[](https://www.it-scoop.com/wp-content/uploads/2010/12/Oracle-Java.jpg)[![](Oracle-Java-300x225.jpg)
 ](https://www.it-scoop.com/2010/12/apache-resigns-from-the-jcp-executive-committee)
 
 هذه الحلقة الجديدة من المسلسل المؤلم، قد تولد ردود أفعال كثيرة من مجتمع المطورين، فقد أنهت Apache  بقرارها هذا، 10 سنوات من المساهمة في مشروع Java، وقد أرجعت ذلك لعدم احترام Oracle لطلب رفع قيودها على رخصة TCK) Java Technology Compatibility Kit) وعدم منحها لمشروع Harmony . هذا الأخير الذي أصبح مستقبله مجهولا، ولا أحد يدري هل ستستمر Apache  في العمل عليه.

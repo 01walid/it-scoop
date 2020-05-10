@@ -18,7 +18,7 @@ tags:
 
 أطلقت Nokia منذ أيام قليلة (في الـ 22 من الشهر الجاري تحديدا) الإصدار 2.0 من  Qt Creator  الـ IDE الذي يتيح كتابة تطبيقات C++ اعتمادا على مكتبة Qt متعددة المنصات بسهولة أكبر.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/Qt-Creator-Logo.png)
+[![](Qt-Creator-Logo.png)
 ](https://www.it-scoop.com/2010/06/nokia-releases-qt-creator-2-0)
 
 أهم ما جاء في هذا الإصدار مقارنة بالإصدار السابق (1.3.1) هو التحسينات الكبيرة التي تم إدخالها و المتعلقة بكل من نظامي Symbian و Maemo.

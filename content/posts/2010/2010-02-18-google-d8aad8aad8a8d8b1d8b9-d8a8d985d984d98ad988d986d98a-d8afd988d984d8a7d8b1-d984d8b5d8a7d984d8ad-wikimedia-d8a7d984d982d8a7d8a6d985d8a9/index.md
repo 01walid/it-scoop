@@ -19,7 +19,7 @@ tags:
 
 أعلنت Jimmy Wales أحد مؤسسي الموسوعة الحرة Wikipedia  [على حساب Twitter الخاص به ](http://twitter.com/jimmy_wales/status/9215187878) عن تلقي مؤسسة Wikimedia القائمة على الموسوعة مبلغ مليوني دولار كهبة من طرف عملاق البحث Google.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/google-wiki.jpg)
+[![](google-wiki.jpg)
 ](https://www.it-scoop.com/2010/02/google-%d8%aa%d8%aa%d8%a8%d8%b1%d8%b9-%d8%a8%d9%85%d9%84%d9%8a%d9%88%d9%86%d9%8a-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%84%d8%b5%d8%a7%d9%84%d8%ad-wikimedia-%d8%a7%d9%84%d9%82%d8%a7%d8%a6%d9%85%d8%a9/)
 
 كما أكدت Sue Gardner المديرة العامة لـ Wikimedia الأمر من خلال [بيان](http://lists.wikimedia.org/pipermail/foundation-l/2010-February/056841.html) قامت بنشره قبل الإعلان الرسمي.

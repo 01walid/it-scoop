@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/firefox-3.6.png)
+[![](firefox-3.6.png)
 ](https://www.it-scoop.com/2010/06/mozilla-firefox-3-6-6)
 
 

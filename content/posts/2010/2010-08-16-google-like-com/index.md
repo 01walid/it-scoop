@@ -19,7 +19,7 @@ tags:
 
 أشارت العديد من المصادر و على رأسها مدونة TechCrunch إلى قرب توصل Google لاتفاق لشراء موقع التسوق عبر الإنترنت Like.com .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/like-logo.jpg)
+[![](like-logo.jpg)
 ](https://www.it-scoop.com/2010/08/google-like-com)
 
 حسب المصادر التي أوردتها مدونة TechCrunch فإن قيمة الصفقة قد تصل إلى حدود 100 مليون دولار أمريكي.

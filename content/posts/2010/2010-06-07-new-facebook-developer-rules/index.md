@@ -19,7 +19,7 @@ tags:
 بحثاً عن الحد من ازدياد مخاطر البرمجيات الخبيثة على شبكتها الاجتماعية، ستلزم Facebook المطورين بتأكيد ملكية حساباتهم من خلال التزويد برقم الهاتف أو رقم بطاقة الائتمان الشخصية المضافة إلى حسابهم.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/facebook-security.gif)
+[![](facebook-security.gif)
 ](https://www.it-scoop.com/2010/06/new-facebook-developer-rules/)
 
 

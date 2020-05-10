@@ -17,7 +17,7 @@ tags:
 
 يوما بعد يوم  تزيد استخدامات خدمة التدوين المصغر Twitter  من قبل الجميع!
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/500x_tweet3.jpg)
+[![](500x_tweet3.jpg)
 ](https://www.it-scoop.com/2010/01/%d8%b4%d8%b1%d8%b7%d8%a9-texas-%d8%aa%d8%b3%d8%aa%d8%ae%d8%af%d9%85-twitter-%d9%84%d9%84%d8%aa%d8%b4%d9%87%d9%8a%d8%b1-%d8%a8%d8%a3%d8%b3%d9%85%d8%a7%d8%a1-%d8%a7%d9%84%d9%85%d8%ae%d8%a7%d9%84%d9%81/)
 
 الآن تقوم ولاية Texasبالتشهير بأسماء السائقين المخمورين على موقع Twitter، وتقصد بذلك إحراجهم كعقوبة إضافية لئلا يتكرر منهم هذا الفعل.

@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://www.libreoffice.org/themes/libo/images/logo.png)
+[![](logo.png)
 ](https://www.it-scoop.com/2011/01/libreoffice-3-3/ )
 
 

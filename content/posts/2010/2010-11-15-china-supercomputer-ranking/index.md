@@ -25,7 +25,7 @@ tags:
 
 فعندما تم البارحة الإعلان عن قائمة أقوى أجهزة supercomputers حول العالم والتي تضم 500 متنافس ، سقط جهاز Cray XT5 – الملقب بـ "Jaguar" – إلى المرتبة الثانية، الجهاز الذي يتخذ من مختبرات Oak Ridge مقراً له والمستثمر من قبل جامعة تينيسي الأمريكية، وذلك بعد عام كامل من التهامه حصص باقي أجهزة supercomputers حول العالم حيث يترك مكانه لمنافسه Tianhe-1A المصنع من قبل جامعة الصين الوطنية للتكنولوجيا الدفاعية، والذي يتواجد في مركز أجهزة supercomputing الوطني في مدينة Tianjin الصينية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/China-Supercomputer-Tianhe-1A.jpg)
+[![](China-Supercomputer-Tianhe-1A.jpg)
 ](https://www.it-scoop.com/2010/11/china-supercomputer-ranking/)
 
 حقق Tianhe-1A درجة أداء وصلت حتى 2.67 petaflop (الـ petaflop يساوي 1000 تريليون عملية فاصلة عائمة بالثانية) بينما حقق منافسه السابق "جاغوار" درجة أداء وصلت حتى 1.75 petaflop  وفي المرتبة الثالثة حلت الصين مرة أخرى مع جهازها Nebulae والذي حقق درجة أداء تساوي 1.27 petaflop.
@@ -45,8 +45,8 @@ tags:
 <!-- more -->
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/AMD_comp_perform_chart_v41.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2010/11/AMD_comp_perform_chart_v41.jpg)
+[![](AMD_comp_perform_chart_v41.jpg)
+](AMD_comp_perform_chart_v41.jpg)
 
 
 للمهتمين بمجال الأجهزة العملاقة، ما الذي تتوقعه للسنوات القادمة في هذا المجال ؟

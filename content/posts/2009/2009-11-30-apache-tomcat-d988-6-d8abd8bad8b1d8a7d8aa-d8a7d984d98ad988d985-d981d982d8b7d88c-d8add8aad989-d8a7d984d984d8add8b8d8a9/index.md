@@ -20,11 +20,11 @@ tags:
 - Tomcat security
 ---
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/tomcat.gif)
+![](tomcat.gif)
 حصلت Apache Tomcat على رقم قياسي جديد في عدد الثغرات المعلن عنها خلال فترة قصيرة لا تتجاوز 24 ساعة.. (امزح فيما يتعلق بالرقم القياسي فقط!) لكن هذا لا يعني أن الرقم المذكور ليس مرتفعاً جداً إن أخذنا بعين الاعتبار المجال الذي يتم ذكره فيه (Security)، فقد تم نشر تفاصيل 6 أخطاء في Apache Tomcat على موقع SecurityFocus حتى تاريخ نشر هذه التدوينة ومن يعلم ما تخبؤه لنا الساعات القادمة :D
 
 
-Nice work Apache ![](https://www.it-scoop.com/wp-content/uploads/2009/11/82.gif)
+Nice work Apache ![](82.gif)
 
 
 

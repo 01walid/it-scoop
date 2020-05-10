@@ -20,7 +20,7 @@ tags:
 أطلقت AVG  خدمة Livekive لتخزين الملفات و التي يمكن أن تشكل منافسا قويا و مباشرا لـ DropBox.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/avg_logo.png)
+[![](avg_logo.png)
 ](https://www.it-scoop.com/2011/04/avg-livekive-dropbox/)
 
 

@@ -17,7 +17,7 @@ tags:
 
 طرحت Red Hat نسخة تجريبية قابلة للتحميل من  Red Hat Enterprise 6، علما أن النسخة 5 قد مضى على طرحها أكثر من 3  سنوات. بنواته المعتمدة على 2.6.18 kernel وعدد من المكونات الأخرى ذات الطابع الكلاسيكي . تبقى النسخة هذه ، ولو للوهلة الأولى ، ذات مظهر قديم وعتيق.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/red_hat_logo_big.jpg)
+[![](red_hat_logo_big.jpg)
 ](https://www.it-scoop.com/2010/04/Red-Hat-Enterprise-Linux-6 Beta-Available-Public-Download)
 
 التغيير الأكبر في هذه النسخة قد يكون التخلي عن الـ hypervisor القديم Xen ، والاعتماد على آخر جديد هو KVM (Kernel-based Virtual Machine) .

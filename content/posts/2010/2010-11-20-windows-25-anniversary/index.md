@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](http://upload.wikimedia.org/wikipedia/en/4/4e/Windows1.0.png)
+[![](Windows1.0.png)
 ](https://www.it-scoop.com/2010/11/windows-25-anniversary/)
 
 

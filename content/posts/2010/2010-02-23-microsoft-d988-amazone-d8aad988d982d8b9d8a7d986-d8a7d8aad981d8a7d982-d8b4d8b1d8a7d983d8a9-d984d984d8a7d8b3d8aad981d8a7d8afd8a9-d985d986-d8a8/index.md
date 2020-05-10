@@ -18,7 +18,7 @@ tags:
 
 أعلنت  Microsoft في بيان صحفي نُشر ليلة أمس، عن توصل لاتفاق مع Amazone يسمح لكليهما باستعمال براءات اختراع بعضهما البعض.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/amazone_microsoft1.png)
+[![](amazone_microsoft1.png)
 ](https://www.it-scoop.com/2010/02/microsoft-%d9%88-amazone-%d8%aa%d9%88%d9%82%d8%b9%d8%a7%d9%86-%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%b4%d8%b1%d8%a7%d9%83%d8%a9-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d8%a9-%d9%85%d9%86-%d8%a8/)
 
 هذا الاتفاق سيمسح كما أشار إليه البيان الصحفي لـ Microsoft بالاستفادة من التقنيات مفتوحة المصدر و المملوكة المستعملة من طرف Amazone في قارئ الكتب Kindle ، إضافة إلى ما يتعلق باستعمال Amazone لخوادم Linux.

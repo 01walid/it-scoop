@@ -19,7 +19,7 @@ tags:
 
 أشار مقال نشر على الـ Financial Times أن Google قررت إيقاف محرك بحثها في الصين  Google.cn.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/google-china.jpg)
+[![](google-china.jpg)
 ](https://www.it-scoop.com/2010/03/google-%d8%aa%d9%82%d8%b1%d8%b1-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d9%85%d8%ad%d8%b1%d9%83-%d8%a8%d8%ad%d8%ab%d9%87%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d8%8c-%d8%ad%d8%b3%d8%a8-%d9%85%d8%a7/)
 
 حسب الجريدة، فإن مصادرها تأكد بنسبة 99% هذا القرار، و تشير إلى أنه تم اتخاذه منذ أسابيع لكن لم يتم الإفصاح عنه.

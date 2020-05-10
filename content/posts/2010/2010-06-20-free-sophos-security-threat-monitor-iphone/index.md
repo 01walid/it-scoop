@@ -20,7 +20,7 @@ tags:
 
 قامت شركة Sophos بإطلاق تطبيق لـ iPhone مصمم ليسمح للمستخدمين بالبقاء على إطلاع على آخر المخاطر، الأخبار والمعلومات حول البرمجيات الخبيثة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/3iphone-3gs-hack-282x300.jpg)
+[![](3iphone-3gs-hack-282x300.jpg)
 ](https://www.it-scoop.com/2010/06/free-sophos-security-threat-monitor-iphone)
 
 يقوم التطبيق بتوفير نظرة على الجديد والقديم من مخاطر الحاسب الأمنية، ويتم تحديثه كل ساعة من خلال شبكة SophosLabs العالمية التي تضمن الكثير من الباحثين والمحللين.

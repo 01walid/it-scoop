@@ -23,7 +23,7 @@ tags:
 
 تشير بعض من  المصادر خصوصا مدونة [TechCrunch ](http://www.techcrunch.com)الشهيرة  إلى احتمال إطلاق نظام تشغيل **Google Chrome OS ** خلال الأسبوع القادم.
 
-![google-chrome-logo-design](https://www.it-scoop.com/wp-content/uploads/2009/11/google-chrome-logo-design.jpg)
+![google-chrome-logo-design](google-chrome-logo-design.jpg)
 
 
 حسب نفس المدونة، فإن المعوق الرئيسي الآن لإطلاق النظام الجديد يعود إلى مشكل عدم توفر التعريفات اللازمة لمختلف قطع العتاد المتوفرة لدى العديد من المصنعين ، حيث أنه ليس متوفرا حاليا سوى التعريفات الأساسية فقط على غرار تعريفات البطاقات الرسومية و تعريفات بطاقات الشبكات، مما سيجعل الإصدار الأول من النظام محدودا جدا.

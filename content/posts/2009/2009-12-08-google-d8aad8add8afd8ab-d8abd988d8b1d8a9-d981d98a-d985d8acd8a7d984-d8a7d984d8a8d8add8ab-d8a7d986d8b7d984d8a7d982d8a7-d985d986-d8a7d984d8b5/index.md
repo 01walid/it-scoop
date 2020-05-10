@@ -23,7 +23,7 @@ tags:
 مرة أخرى تطلق Google برنامجا آخر بسيطا لكنه ذو إمكانيات رائعة. هذه المرة البرنامج هو Google Goggles  الذي يسمح بعمل بحث على الانترنت انطلاقا من صورة بدل الكلمات المفتاحية.
 
 
-![](https://djug.developpez.com/rsc/Google-Goggles.jpg)
+![](Google-Goggles.jpg)
 
 
 
@@ -31,7 +31,7 @@ tags:
 يسمح Google Goggles بعمل بحث عن شيء ، كتاب، مكان ، أو حتى لوحة  لفنان ما من خلال مجرد أخذ صورة لها، و ذك باستعمال Smartphone يكون مجهزا بنظام تشغيل  Android.
 
 
-![](http://www.google.com/mobile/images/labs/goggles/goggles_book.png)
+![](goggles_book.png)
 
 
 

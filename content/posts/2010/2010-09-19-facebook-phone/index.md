@@ -24,7 +24,7 @@ tags:
 أشار موقع TechCrunch الشهير إلى أن Facebook بصدد التحضير بشكل سري لإطلاق هاتف ذكي جديد خاص بها.
 
 
-![facebook-phone](https://www.it-scoop.com/wp-content/uploads/2010/09/facebook-phone.jpeg)
+![facebook-phone](facebook-phone.jpeg)
 
 
 

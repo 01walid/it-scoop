@@ -20,7 +20,7 @@ tags:
 منذ بضع سنوات بدأنا نلاحظ توجه شركات صنع الحواسب المحمولة إلى إضافة تقنيات الحماية biometric كالتحقق بالبصمة إلى الأجهزة، لكن اليوم ستكون المرة الأولى التي نرى فيها حماية biometric خاصة بالمحفظات الشخصية!
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Wallet-Hand.jpg)
+[![](Wallet-Hand.jpg)
 ](https://www.it-scoop.com/2010/04/biometric-wallet/)
 
 

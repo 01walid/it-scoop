@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/OpenSuse.png)
+[![](OpenSuse.png)
 ](https://www.it-scoop.com/2010/07/opensuse-11-3/)
 
 

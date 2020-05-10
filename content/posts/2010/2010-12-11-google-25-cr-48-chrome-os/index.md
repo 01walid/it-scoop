@@ -21,7 +21,7 @@ tags:
 لا تدخر Google أي جهد لتثبت لك قوة منتجاتها، و آخر ما قامت به في هذا الاتجاه يتعلق بنظام Chrome OS و الذي حطمت من أجله 25 جهاز  Cr-48( الجهاز الذي سيتم تجربة النظام السحابي لعملاق البحث عليه)، من دون أية رحمة أو شفقة (بالمشاهدين –طبعا- و ليس بالأجهزة :))
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/google-chrome-os.jpg)
+[![](google-chrome-os.jpg)
 ](https://www.it-scoop.com/2010/12/google-25-cr-48-chrome-os/)
 
 

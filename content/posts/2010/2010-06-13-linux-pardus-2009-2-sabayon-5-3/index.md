@@ -27,7 +27,7 @@ tags:
 
 
 [![](https://www.it-scoop.com/wp-content/uploads/2010/06/pardus.jpg)
-](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3) [![](https://www.it-scoop.com/wp-content/uploads/2010/06/sabayon-logo-only_small.png)
+](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3) [![](sabayon-logo-only_small.png)
 ](https://www.it-scoop.com/2010/06/Linux-Pardus-2009-2-Sabayon-5-3)
 
 

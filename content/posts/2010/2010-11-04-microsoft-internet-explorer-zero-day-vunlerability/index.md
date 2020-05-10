@@ -25,7 +25,7 @@ tags:
 تقوم Microsoft حاليا بالتحقيق في معلومات جديدة حول ثغرة في جميع إصدارات متصفح Internet Explorer والتي يمكن أن يتم استغلالها في تنفيذ هجمات remote code execution.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/Internet_Explorer_7_Logo_red.png)
+[![](Internet_Explorer_7_Logo_red.png)
 ](https://www.it-scoop.com/2010/11/microsoft-internet-explorer-zero-day-vunlerability)
 
 التقرير الذي أعلن عن وجود هذه الثغرة والذي تم نشره على الانترنت يتضمن معلومات حول طرق تفادي الوقوع ضحية استغلالها بشكل مؤقت ريثما يتم طرح ترقيع رسمي لها من قبل Microsoft.

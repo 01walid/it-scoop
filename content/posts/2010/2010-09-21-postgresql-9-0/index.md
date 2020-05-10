@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/PostgreSQL-logo.jpg)
+[![](PostgreSQL-logo.jpg)
 ]( https://www.it-scoop.com/2010/09/postgresql-9-0/)
 
 

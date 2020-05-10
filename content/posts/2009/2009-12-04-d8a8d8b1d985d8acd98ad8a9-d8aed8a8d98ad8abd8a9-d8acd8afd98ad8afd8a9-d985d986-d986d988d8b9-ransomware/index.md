@@ -18,7 +18,7 @@ tags:
 تأتي البرمجية الخبيثة مدمجة مع برنامج اسمه uFast Download Manager، وبمجرد أن تتم إصابة الجهاز تظهر رسالة باللغة الروسية (انظر الصورة) تطالب بفدية بحجة أن المبلغ مخصص لتفعيل نسخة برنامج uFast Download Manager.
 
 
-![](http://community.ca.com/blogs/securityadvisor/Zarestel/RansomSMS.AH/desktop.gif)
+![](desktop.gif)
 
 
 
@@ -49,14 +49,14 @@ _Enter the activation message received from the SMS response  _________</blockqu
 
 
 
-![](http://community.ca.com/blogs/securityadvisor/Zarestel/RansomSMS.AH/bundled_app_white.gif)
+![](bundled_app_white.gif)
 
 
 
 
 قام خبراء CA بكتابة [مولد مفاتيح Keygenerator](http://community.ca.com/blogs/securityadvisor/Zarestel/RansomSMS.AH/RansomSMS.AH_ActivationCode.zip) :D من أجل هذه البرمجية الخبيثة لإزالتها والذي يعمل على الأجهزة المصابة فقط.
 
-![](http://community.ca.com/blogs/securityadvisor/Zarestel/RansomSMS.AH/unlocked_desktop.gif)
+![](unlocked_desktop.gif)
 
 
 

@@ -21,7 +21,7 @@ tags:
 
 رفعت Xerox الشركة الرائدة في مجال آلات النسخ دعاوى قضائية ضد كل من Yahoo و Google بسبب استعمالهما دون إذنها  لبراءات اختراعها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/Xerox_logo-283x300.jpg)
+[![](Xerox_logo-283x300.jpg)
 ](https://www.it-scoop.com/2010/02/xerox-%d8%aa%d8%b1%d9%81%d8%b9-%d8%af%d8%b9%d8%a7%d9%88%d9%89-%d9%82%d8%b6%d8%a7%d8%a6%d9%8a%d8%a9-%d8%b6%d8%af-%d9%83%d9%84-%d9%85%d9%86-yahoo-%d9%88-google/)
 
 براءات الاختراع المعنية بالأمر تخص كلها البحث على الإنترنت، حيث تخص إحداها كيفية استخراج و بناء Request بناءً على مجموعة من الكلمات المفتاحية ، و الذي حسب Xerox فإن Google تستعمله في كل من Adwords،Adsense ، و تستعمله Yahoo في كل  من Yahoo! Search Marketing و أداة Y!Q.

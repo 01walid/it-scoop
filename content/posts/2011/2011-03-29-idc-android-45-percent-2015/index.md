@@ -20,7 +20,7 @@ tags:
 
 إن صدقت التوقعات التي [نشرتها](http://www.idc.com/getdoc.jsp?containerId=prUS22762811) IDC فإنه و بحلول سنة 2015 سيهيمن نظام Android على سوق الهواتف الذكية بحصة تقدر بـ 45%.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/Android-King.jpg)
+[![](Android-King.jpg)
 ](https://www.it-scoop.com/2011/03/idc-android-45-percent-2015)
 
 و حسب هذه التوقعات فإن الذي سيليه لن يكون iOS كما قد يتبادر إلى الأذهان و إنما Windows Phone  و الذي قد تتجاوز حصته 20% في حين لن يراوح iOS و BlackBerry مكانيهما الحاليين، إذ أن هذه الدراسة تتوقع تراجعا طفيفا لـ iOS (15.3 %) مقابل تقدمه مماثل لـ BlackBerry (13.7%).

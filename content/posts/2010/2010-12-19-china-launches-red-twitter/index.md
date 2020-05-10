@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/s-TWITTER-large.jpg)
+[![](s-TWITTER-large.jpg)
 ](https://www.it-scoop.com/2010/12/china-launches-red-twitter/)ومن أمثلة بعض الاقتباسات التي تم عرضها على الصفحة الرئيسية:
 
 

@@ -19,7 +19,7 @@ tags:
 
 كشف Microsoft عن محتوى الـ Patch Tuesday الخاص بشهر يونيو الجاري، و الذي يحوي 10 نشرات أمنية ثلاث منها وصفت بالحرجة  Critical لتصحح ما مجموعه 34 ثغرة تخص كلا من أنظمة Windows بمختلف إصدارتها، Office و Internet Explorer.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
+[![](microsoft-patch.jpg)
 ](https://www.it-scoop.com/2010/06/microsoft-Patch Tuesday-june-2010)
 
 في تفصيل الـ Patch Tuesday لهذا الشهر و الذي سيتم نشره في الـ 8 يونيو القادم، نجد ثلاث نشرات وصفت بالحرجة، اثنتان منها تخصان Windows بمختلف إصدارته (من Windiws 2000 إلى غاية Windows 7) ، و الثالثة تخص Internet Explorer.

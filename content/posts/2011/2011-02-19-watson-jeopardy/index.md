@@ -20,7 +20,7 @@ tags:
 هل تذكرون[Watson](https://www.it-scoop.com/2010/06/watson-ibm-supercomputer-compete-jeopardy/) حاسب IBM العملاق الذي صممته خصيصا للإجابة على الأسئلة التي تطرح عليه ؟ فبعد Deep Blue الذي استطاع أن يهزم بطل الشطرنج Garry Kasparov سنة 1997، يأتي Watson ليتحدى الذكاء البشري من جديد و يفوز بمسابقة Jeopardy أمام أفضل متنافسين في المسابقة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/watson-Jeopardy.jpg)
+[![](watson-Jeopardy.jpg)
 ](https://www.it-scoop.com/2011/02/watson-jeopardy/)
 
 

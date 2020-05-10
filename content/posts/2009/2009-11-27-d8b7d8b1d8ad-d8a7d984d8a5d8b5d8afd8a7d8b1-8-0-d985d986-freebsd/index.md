@@ -17,7 +17,7 @@ tags:
 قام فريق عمل FreeBSD بإعلان إصدار النسخة الثامنة والمستقرة منه.
 
 
-![freeBSD OS](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594413948543.png)
+![freeBSD OS](post-7008-12594413948543.png)
 
 تجدر الإشارة إلى بعض النقاط الهامة في هذه النسخة:
 
@@ -64,29 +64,29 @@ tags:
 
 
 فيما يلي أورد بعض الصور الملتقطة لهذا الإصدار:
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/1.png)
+![](1.png)
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/10.png)
+![](10.png)
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594394995446.png)
+![](post-7008-12594394995446.png)
 
 ![](https://www.it-scoop.com/wp-content/uploads/2009/11/6.png)
 
 
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594396383851.png)
+![](post-7008-12594396383851.png)
 
 
 
 
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594395153489.png)
+![](post-7008-12594395153489.png)
 
 
 
 
 
-![](http://www.arabteam2000-forum.com/uploads/monthly_11_2009/post-7008-12594395043835.png)
+![](post-7008-12594395043835.png)
 
 
 

@@ -19,7 +19,7 @@ tags:
 
 انضم مؤخراً Bill Gates مؤسس شركة Microsoft وأغنى رجل في العالم لخدمة Twitter الاجتماعية.
 
-[![](http://mashable.com/wp-content/uploads/2010/01/gates.jpg)
+[![](gates.jpg)
 ](https://www.it-scoop.com/2010/01/billgates-%d9%8a%d9%86%d8%b6%d9%85-%d8%a5%d9%84%d9%89-twitter/)
 
 

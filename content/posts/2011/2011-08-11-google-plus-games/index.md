@@ -20,14 +20,14 @@ tags:
 
 [أعلنت](http://googleblog.blogspot.com/2011/08/games-in-google-fun-that-fits-your.html) Google على مدوّنتها الرّسميّة عن إضافة الألعاب إلى شبكتها الاجتماعيّة الجديدة، Google+؛ ويأتي هذا الإعلان تأكيدًا لشائعات اعتمدت على وجود عبارات متعلّقة بالألعاب ضمن الشّيفرة البرمجيّة لصفحات Google+ والتي [اكتشفها](http://www.engadget.com/2011/06/30/google-code-reveals-intent-to-unleash-games-and-questions-to-th/) موقع Engadget بعد بضعة أيّام من انطلاق الشّبكة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Google-plus-games-homepage.png)
+[![](Google-plus-games-homepage.png)
 ](https://www.it-scoop.com/2011/08/google-plus-games/)
 
 وتقول Google في التّدوينة أنّ هدفها من إضافة الألعاب "جعل اللّعب عبر الإنترنت مرحًا وذا مغزى تمامًا كاللّعب في الحياة الحقيقيّة"؛ تطبيقًا للفكرة الّتي اعتمدتها عندما أطلقت Google+ وهي "المشاركة الحقيقية كما صممناها للويب" معطيةً المستخدم القدرة على التّحكّم بكيفيّة اللّعب ووقت ظهور الألعاب وخصوصيّة التّجربة.
 
 يمكنك الوصول لصفحة الألعاب من خلال زرّ خاصّ في أعلى صفحة Google+ وبجانب أزرار الدّوائر والملفّ الشّخصيّ والصّور...
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Google-plus-games.png)
+[![](Google-plus-games.png)
 ](https://www.it-scoop.com/2011/08/google-plus-games/)
 
 من الألعاب المتوفّرة حتّى الآن: اللّعبة الشّهيرة Angry Birds من Rovio، وألعاب أخرى من Zynga وWooga.

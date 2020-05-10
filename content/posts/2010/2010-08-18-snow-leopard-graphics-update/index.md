@@ -18,7 +18,7 @@ tags:
 
 أصدرت Apple أمس  تحديثا لترقيع بعض مشاكل الثبات في الإصدار 10.6.4  من نظام Mac OS X  التي تخص الرسوميات.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/mac-os-x-snow-leopard-icon.jpg)
+[![](mac-os-x-snow-leopard-icon.jpg)
 ](https://www.it-scoop.com/2010/08/snow-leopard-graphics-update/)
 
 المشاكل المعنية بهذا الإصدار تخص بعض الأخطاء التي تحدث مع بعض الألعاب على أنظمة Mac كلعبة Starcraft II التي تخص Blizzard إلى جانبي لعبتي Portal و Fortress 2 الخاصتين بـ Valve .

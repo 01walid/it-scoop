@@ -19,7 +19,7 @@ tags:
 
 كشفت Apple اليوم عن الجيل الجديد من أجهزتها اللوحية iPad 2  أنحف أسرع و أخف من الجيل الأول من الـ iPad.
 
-[![](http://www.blogcdn.com/www.engadget.com/media/2011/03/11x03028b234ipad2.jpg )
+[![](11x03028b234ipad2.jpg )
 ](https://www.it-scoop.com/2011/03/ipad-2/)
 
 المفاجئ في الإعلان عن الـ iPad 2 هو أن ما جاء به لم يكن مفاجئا :) حيث تسربت معلومات كثيرة حول أهم خصائصه و التي من أهمها:
@@ -35,7 +35,7 @@ tags:
 
 كما تم الكشف عن iPad Smart Cover الغطاء المغناطيسي الذي يحمي الشاشة لدى حمل الجهاز، و الذي يمكن استعماله كوسيلة لإسناد الجهاز.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/smart-cover-ipad.png)
+[![](smart-cover-ipad.png)
 ](https://www.it-scoop.com/2011/03/ipad-2/)
 
 سيتم تسويق أجهزة الـ iPad 2 بنفس سعر الـ iPad الحالي ابتداء من 499 $ لا غير :p

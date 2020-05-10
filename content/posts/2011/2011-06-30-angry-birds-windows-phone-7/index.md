@@ -23,7 +23,7 @@ tags:
 
 
 
-[![Angry Birds](https://lh3.googleusercontent.com/-vjg0iRCV9Mo/Tgu9l-vEniI/AAAAAAAAAVc/XwL5cox-igk/Angry%252520Birds.png)
+[![Angry Birds](Angry%252520Birds.png)
 ](https://www.it-scoop.com/2011/06/angry-birds-windows-phone-7/ )
 
 

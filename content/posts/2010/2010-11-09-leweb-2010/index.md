@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/leweb-2010-logo-251x300.jpg)
+[![](leweb-2010-logo-251x300.jpg)
 ](https://www.it-scoop.com/2010/11/leweb-2010/)
 
 

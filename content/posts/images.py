@@ -47,14 +47,20 @@ for path, subdirs, files in os.walk(dir_path):
         # print(md.images)
 
         for image in md.images:
+            if "socialmedia4arab.com" in image:
+                continue
+
             retries = 0
             while retries < 3:
                 try:
                     print(f"Getting image: {image}")
                     response = requests.get(image, timeout=30)
                     break
-                except requests.exceptions.MissingSchema:
+                except (requests.exceptions.MissingSchema, requests.exceptions.InvalidURL):
                     print(f"{image} is not a valid URL")
+                    retries += 3
+                except requests.exceptions.ConnectionError:
+                    print("Network Error")
                     retries += 3
                 except requests.exceptions.Timeout:
                     print("Timed out, retrying...")

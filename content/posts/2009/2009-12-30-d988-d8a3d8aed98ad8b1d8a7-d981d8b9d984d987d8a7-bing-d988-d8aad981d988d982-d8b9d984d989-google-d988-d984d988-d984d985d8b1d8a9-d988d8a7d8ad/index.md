@@ -22,9 +22,9 @@ tags:
 
 إذ أنه تم إخلاء الـTimes Square  لبعض الوقت أول أمس  بعد ورود خبر كاذب عن وجود قنبلة في إحدى السيارات المتوقفة هناك ، مما دفع الناس لاستعمال محركات البحث لمعرفة المزيد من تطورات القضية.
 
-[](https://www.it-scoop.com/wp-content/uploads/2009/12/googtimessquare.jpg)[![](https://www.it-scoop.com/wp-content/uploads/2009/12/googtimessquare.jpg)
+[](googtimessquare.jpg)[![](googtimessquare.jpg)
 ](https://www.it-scoop.com/2009/12/%d9%88-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d9%81%d8%b9%d9%84%d9%87%d8%a7-bing-%d9%88-%d8%aa%d9%81%d9%88%d9%82-%d8%b9%d9%84%d9%89-google-%d9%88-%d9%84%d9%88-%d9%84%d9%85%d8%b1%d8%a9-%d9%88%d8%a7%d8%ad/)
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/bingtimessquare.jpg)
+[![](bingtimessquare.jpg)
 ](https://www.it-scoop.com/2009/12/%d9%88-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d9%81%d8%b9%d9%84%d9%87%d8%a7-bing-%d9%88-%d8%aa%d9%81%d9%88%d9%82-%d8%b9%d9%84%d9%89-google-%d9%88-%d9%84%d9%88-%d9%84%d9%85%d8%b1%d8%a9-%d9%88%d8%a7%d8%ad/)
 
 نتائج البحث عن “Times Square” في كلا المحركين كانت مختلفة، فقد أشارت نتائج Google إلى تحضيرات احتفاليات رأس السنة في المنطقة ، بينما أشارت نتائج بحث Bing إلى الأخبار اللحظية عن البلاغ الكاذب.

@@ -17,7 +17,7 @@ tags:
 
 أطلق فريق تطوير PHPMYAdmin منذ بضعة أيام الإصدار alpha من واجهة إدارة قواعد البيانات الشهيرة التي تحمل نفس الاسم PHPMYAdmin 3.3.0.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/PhpMyAdmin_logo.png)
+[![](PhpMyAdmin_logo.png)
 ](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-alpha-%d9%85%d9%86-phpmyيوغرطة بن علي (Youghourta Benali)-3-3-0/)
 
 يأتي هذا الإصدار بالعديد من المزايا كالوحدة الجديدة لاستيراد و تصدير البيانات و إمكانية عمل تزامن للبيانات على أكثر من خادم.

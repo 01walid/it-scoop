@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/chrome_bugs-e1264950836525.jpg)
+[![](chrome_bugs-e1264950836525.jpg)
 ](it-scoop.com/2010/07/google-plugs-high-risk-chrome-security-holes)
 
 

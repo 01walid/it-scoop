@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/new-york-post-safari-ipad-application.jpg)
+[![](new-york-post-safari-ipad-application.jpg)
 ](https://www.it-scoop.com/2011/06/new-york-post-ipad/)
 
 

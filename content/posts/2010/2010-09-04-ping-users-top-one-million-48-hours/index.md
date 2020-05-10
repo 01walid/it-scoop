@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/itunes10-250.png)
+[![](itunes10-250.png)
 ](https://www.it-scoop.com/2010/09/ping-users-top-one-million-48-hours)
 
 

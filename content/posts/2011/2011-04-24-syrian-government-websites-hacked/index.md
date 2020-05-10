@@ -19,7 +19,7 @@ categories:
 
 و فيما يلي بعض الصور:
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/ddosed.png)
+[![](ddosed.png)
 ](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 سقوط جماعي للمواقع التالية (المسكنة على نفس الخادم) :
@@ -34,14 +34,14 @@ categories:
 	  * btc.gov.sy
 	  * gcea.gov.sy
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/GFTO.png)
+[![](GFTO.png)
 ](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 صورة تبين سقوط موقع gfto.gov.sy
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/ShameTV.jpg)
+[![](ShameTV.jpg)
 ](https://www.it-scoop.com/2011/04/syrian-government-websites-hacked/)
 
 صورة تبين اختراق موقع http://shamtv.net/

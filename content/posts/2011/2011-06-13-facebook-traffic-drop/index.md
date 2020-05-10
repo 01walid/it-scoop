@@ -16,7 +16,7 @@ tags:
 
 هل تذكرون [دراسة](../2011/05/facebook-700-million-users/) socialbakers التي تشير إلى أن Facebook أصبح أقرب ما يكون من حاجز 700 مليون مستخدم ؟ حسنا، الأمر قد يتأخر أكثر مما كان الجميع يتصور، حيث أن [دراسة](http://www.insidefacebook.com/2011/06/12/facebook-sees-big-traffic-drops-in-us-and-canada-as-it-nears-700-million-users-worldwide/) أحدث لـ Inside Facebook تؤكد أن نمو Facebook لم يعد كسابق عهده، حيث لا يزال يتقدم في بلدان نامية لكنه يسجل تأخرا في بلدان أخرى (متقدمة).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/Facebook_Top_Gainers_June_2011.jpg)
+[![](Facebook_Top_Gainers_June_2011.jpg)
 ](https://www.it-scoop.com/2011/06/facebook-traffic-drop/)
 
 فمع مواصلة تقدمه في بلدان مثل المكسيك و البرازيل و الهند بنسب تتراوح ما بين 6 و 10%  فإن الشبكة تشهد تراجعا في الولايات المتحدة التي عرفت غلق حوالي 6 ملايين حساب و نزل عدد المستخدمين الأمريكيين بذلك إلى حدود 149.4 مليون مستخدم.
@@ -25,7 +25,7 @@ tags:
 
 في المقابل لا يزال الـ Facebook الشبكة الاجتماعية الأكثر استعمالا في العديد من البلدان حيث تشير [الخريطة](http://www.vincos.it/world-map-of-social-networks/) التي يعدها موقع vincos.it أنه لا يزال مسيطرا على القارة العجوز بشكل شبه كامل، الأمريكيتين معا (باستثناء البرازيل) و العديد من الدول الأوروبية و الآسيوية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/vincos-world-map-of-social-networks.png)
+[![](vincos-world-map-of-social-networks.png)
 ](https://www.it-scoop.com/2011/06/facebook-traffic-drop/)
 
 للمزيد حول الموضوع :

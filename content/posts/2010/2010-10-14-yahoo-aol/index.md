@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Yahoo-AOL-300x81.gif)
+[![](Yahoo-AOL-300x81.gif)
 ](https://www.it-scoop.com/2010/10/yahoo-aol/)
 
 

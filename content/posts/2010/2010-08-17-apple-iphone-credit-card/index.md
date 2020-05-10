@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/iphone-visa.png)
+[![](iphone-visa.png)
 ](https://www.it-scoop.com/2010/08/apple-iphone-credit-card)
 
 

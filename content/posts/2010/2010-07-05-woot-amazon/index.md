@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/rsc/Woot-Logo.png)
+[![](Woot-Logo.png)
 ](https://www.it-scoop.com/2010/07/woot-amazon/ )
 
 

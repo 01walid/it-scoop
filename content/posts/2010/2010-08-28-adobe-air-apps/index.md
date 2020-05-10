@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Adobe-AIR-Application.png)
+[![](Adobe-AIR-Application.png)
 ](https://www.it-scoop.com/2010/08/adobe-air-apps/)
 
 

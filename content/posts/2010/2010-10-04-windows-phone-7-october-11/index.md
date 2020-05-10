@@ -35,7 +35,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Windows-Phone-7.jpg)
+[![](Windows-Phone-7.jpg)
 ]( https://www.it-scoop.com/2010/10/windows-phone-7-october-11/)
 
 

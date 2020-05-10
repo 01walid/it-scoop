@@ -24,13 +24,13 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/GoogleDoodle1.png)
+[![](GoogleDoodle1.png)
 ]( https://www.it-scoop.com/2010/09/google-doodle-2/)
 
 
 الـ Doodle الجديد عبارة عن شعار Google الاعتيادي، لكن من دون ألوانه الاعتيادية (أحادي اللون فقط)، و كلما تتم طباعة حروف إضافية على لوحة المفاتيح كلما يتلون الشعار.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/GoogleDoodle2.png)
+[![](GoogleDoodle2.png)
 ]( https://www.it-scoop.com/2010/09/google-doodle-2/)
 
 لم تكشف Google أيضا عن معنى الـ Doodle الجديد، لكن من المتوقع أن يزول الغموض بعد المؤتمر الذي ستعقده  Google اليوم و الذي دعت فيه الصحافة لحضوره. و الذي تحضر فيه Google لمفاجئة كبيرة حسبما يظهر في [تغريدة ](http://twitter.com/ericschmidt/status/23920548950)خاصة بـ Eric Shmidt على Twitter  و الذي يقول فيها
@@ -39,7 +39,7 @@ tags:
 <blockquote>I predict big things happening today at Google.  We're already fast.. fast is about to get faster.</blockquote>
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/Google-Invitation.jpg)
+[![](Google-Invitation.jpg)
 ]( https://www.it-scoop.com/2010/09/google-doodle-2/)
 
 الفيديو التالية توضح كيف يتفاعل الـ Doodle مع ما يُكتَب:

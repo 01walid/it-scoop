@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/gmail_logo-e1263484332925-300x94.png)
+[![](gmail_logo-e1263484332925-300x94.png)
 ](https://www.it-scoop.com/2010/12/gmail-restore-contacts-email-delegation)
 
 

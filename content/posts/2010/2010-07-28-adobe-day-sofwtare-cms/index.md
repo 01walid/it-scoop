@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/day_software_logo.png)
+[![](day_software_logo.png)
 ](https://www.it-scoop.com/2010/07/adobe-day-sofwtare-cms/)
 
 

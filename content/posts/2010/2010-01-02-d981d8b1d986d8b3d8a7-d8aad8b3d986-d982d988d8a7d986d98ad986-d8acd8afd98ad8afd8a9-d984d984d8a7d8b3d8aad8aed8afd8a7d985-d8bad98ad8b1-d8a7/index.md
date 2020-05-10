@@ -18,7 +18,7 @@ tags:
 
 يبدو أن موجة الحملات الدولية لتنظيف الأنترنت تزيد شيئاً فشيئاً، فقد قامت فرنسا بسن قانون جديدة لحماية الملكية الفكرية يطلق عليها اسم Hadopi و ذلك اختصارا لعبارة Haute autorité pour la diffusion des œuvres et la protection des droits sur Internet و التي تعني السلطة الخاصة  بنشر الأعمال وحماية الحقوق على الإنترنت.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/internet-law.jpg)
+[![](internet-law.jpg)
 ](https://www.it-scoop.com/2010/01/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b3%d9%86-%d9%82%d9%88%d8%a7%d9%86%d9%8a%d9%86-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d8%ba%d9%8a%d8%b1-%d8%a7/)
 
 .

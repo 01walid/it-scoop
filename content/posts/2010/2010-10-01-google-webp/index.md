@@ -23,7 +23,7 @@ tags:
 بعد إطلاق وفتح** **النسق [WebM ](https://www.it-scoop.com/2010/05/google-webm-project/)الخاص بالفيديو، كشفت Goolge اليوم عن النسق الخاص بالصور WebP المنافس الجديد لـ JPEG.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/webP-jpeg.jpg)
+[![](webP-jpeg.jpg)
 ](https://www.it-scoop.com/2010/10/google-webp/)
 
 حسب باحثين في Google ، فالنسق الجديد يمكنه اختزال حجم الصور المتبادلة عبر الأنترنت بنسبة 40 % بالمقارنة مع JPEG.

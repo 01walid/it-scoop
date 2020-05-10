@@ -19,7 +19,7 @@ tags:
 
 بعد عدة أشهر من التطوير و توفير أكثر من إصدار تجريبي، أطلقت Microsoft اليوم الإصدار النهائي لـ Internet Explorer 9.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/03/internet-explorer-9-logo.jpg)
+[![](internet-explorer-9-logo.jpg)
 ](https://www.it-scoop.com/2011/03/internet-explorer-9/)
 
 بالرغم من اقتصاره على نظامي  Vista و Windows 7 إلا أن متصفح Internet Exploter 9 شهد استخداما واسعا منذ إصداراته التجريبية الأولى حيث تم تحميلها ما لا يقل عن 40 مليون مرة. و يشهد تحسنا ملحوظا في الأداء و في سرعة المتصفح بشكل عام. إلى جانب تحسينات معتبرة تخص الجانب الأمني.

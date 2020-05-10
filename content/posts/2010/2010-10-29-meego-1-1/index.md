@@ -29,7 +29,7 @@ tags:
 
 
 
-[![](http://farm2.static.flickr.com/1117/5125188971_f96c7281a4_o.jpg )
+[![](5125188971_f96c7281a4_o.jpg )
 ](https://www.it-scoop.com/2010/10/meego-1-1/)
 
 

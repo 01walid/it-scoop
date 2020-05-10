@@ -18,7 +18,7 @@ tags:
 
 أعلنت Microsoft على لسان Ray Ozzie الذي يشغل منصب _chief software architect __ __أنه سيتم إطلاق __Azure__ المنصة الخاصة بالـ__ Cloud computing__ رسميا في الفاتح من يناير القادم._
 
-_![](http://www.microsoft.com/middleeast/nepa/technet/newsletter/images/images_northafrica/logo1.gif)
+_![](logo1.gif)
 
 _
 

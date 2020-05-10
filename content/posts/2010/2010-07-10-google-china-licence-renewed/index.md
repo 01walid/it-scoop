@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Google-China.png)
+[![](Google-China.png)
 ]( https://www.it-scoop.com/2010/07/google-china-licence-renewed/)
 
 

@@ -35,7 +35,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/ibm-lotus-symphony-19.jpg)
+[![](ibm-lotus-symphony-19.jpg)
 ](https://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
 
 

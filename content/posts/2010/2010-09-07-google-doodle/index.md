@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/google-doodle.jpg)
+[![](google-doodle.jpg)
 ](https://www.it-scoop.com/2010/09/google-doodle/)
 
 

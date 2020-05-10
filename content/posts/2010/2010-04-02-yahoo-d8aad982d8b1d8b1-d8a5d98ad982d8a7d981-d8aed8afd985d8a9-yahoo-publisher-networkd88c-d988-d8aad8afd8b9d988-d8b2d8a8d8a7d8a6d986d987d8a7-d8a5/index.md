@@ -20,7 +20,7 @@ tags:
 
 أعلنت Yahoo على مدونة Yahoo Publisher Network الرسمية عن عزمها إيقاف هذه الخدمة مع نهاية الشهر الجاري.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/yahoo-publisher-network-logo.gif)
+[![](yahoo-publisher-network-logo.gif)
 ](https://www.it-scoop.com/2010/04/yahoo-%d8%aa%d9%82%d8%b1%d8%b1-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%ae%d8%af%d9%85%d8%a9-yahoo-publisher-network%d8%8c-%d9%88-%d8%aa%d8%af%d8%b9%d9%88-%d8%b2%d8%a8%d8%a7%d8%a6%d9%86%d9%87%d8%a7-%d8%a5/)
 
 خدمة Yahoo Publisher Network خدمة مشابهة لـ Google Adsense حيث توفر إعلانات نصية يمكن للمشتركين إضافتها إلى مواقعهم، بحيث تظهر إعلانات تصب في نفس محتوى الصفحة التي تتم إضافتها إليها.

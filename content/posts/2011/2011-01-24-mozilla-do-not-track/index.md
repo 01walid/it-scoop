@@ -20,7 +20,7 @@ tags:
 
 سبق و أن [حدثناكم](https://www.it-scoop.com/2010/12/firefox-4-beta-8/) عن عزم Mozilla توفير حماية أكبر للمستخدمين من الدعايات الموجهة، و في هذا الصدد قامت بإعطاء تفاصيل أوفى حول هذا المشروع و الذي يوفر طريقة مختلفة لتجنيب المستخدمين الإعلانات غير المرغوب فيها.
 
-[![](http://www.zdnet.co.uk/i/z5/illo/nw/story_graphics/11jan/do-not-track-firefox-mozilla.jpg)
+[![](do-not-track-firefox-mozilla.jpg)
 ](https://www.it-scoop.com/2011/01/mozilla-do-not-track/)
 
 و حسب [الـ Faq](https://wiki.mozilla.org/Privacy/Jan2011_DoNotTrack_FAQ) التي نشرتها Mozilla لشرح مبدأ عمل مشروعها، فإن متصفح Firefox سيقوم بإرسال ترويسات HTTP إلى المواقع التي يتصفحها المستخدم تخبره أنه لا يود استقبال الإعلانات و بالتالي لا تكلف هذه المواقع عناء إرسالها و تتبعها، و هذا بدل أن ترسل الإعلانات و يتم حجبها عن طريق إضافات كـAdBlock .

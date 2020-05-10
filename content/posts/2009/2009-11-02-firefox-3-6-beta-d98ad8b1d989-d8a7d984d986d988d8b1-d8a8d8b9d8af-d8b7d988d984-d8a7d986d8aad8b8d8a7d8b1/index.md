@@ -15,7 +15,7 @@ tags:
 
 هذا الإصدار يخص كلا من أنظمة التشغيل  Windows   ،  Mac OS X  و Linux  و متوفر بـ 53 لغة مختلفة
 
-![mozilla-firefox3.6Beta](https://www.it-scoop.com/wp-content/uploads/2009/11/mozilla-firefox3.6Beta.jpg)
+![mozilla-firefox3.6Beta](mozilla-firefox3.6Beta.jpg)
 
 
 كان من المفترض أن يرى هذا الإصدار النور عشية إطلاق windows 7  لكن تم تأجيل ذلك أكثر من مرة، حيث تم إدخال بعض التحسينات التي تخص windows7

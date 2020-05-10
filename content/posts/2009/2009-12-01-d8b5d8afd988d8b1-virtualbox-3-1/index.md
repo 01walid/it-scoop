@@ -20,7 +20,7 @@ tags:
 تم إطلاق الإصدار 3.1 من برنامج الـ Virtualisation  الشهير VirtualBox الخاص بشركة Sun Microsystems.
 
 
-![](https://djug.developpez.com/rsc/vbox_logo.jpg)
+![](vbox_logo.jpg)
 
 
 

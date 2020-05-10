@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Anonymous-OpFace.Book_.jpg)
+[![](Anonymous-OpFace.Book_.jpg)
 ](https://www.it-scoop.com/2011/08/anonymous-facebook-3/)
 
 

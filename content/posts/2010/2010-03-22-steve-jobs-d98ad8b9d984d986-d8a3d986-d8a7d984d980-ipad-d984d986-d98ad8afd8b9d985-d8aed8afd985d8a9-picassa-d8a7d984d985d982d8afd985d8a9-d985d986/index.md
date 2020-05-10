@@ -20,14 +20,14 @@ tags:
 في رده  عن سؤال يخص أحدث إنتاجات Apple و المتمثلة في  الجهاز اللوحي، قال Steve jobs أن iPad لن يدعم خدمة مشاركة الصور و معرفة الوجوه التي يقدمها برنامج Google الشهير Picassa و الذي يعتبر من أكثر البرامج تقدما في معرفة الوجوه.
 
 
-[![iPad](http://mashable.com/wp-content/uploads/2010/01/ipad-3g.jpg)
+[![iPad](ipad-3g.jpg)
 ](https://www.it-scoop.com/2010/03/steve-jobs-%d9%8a%d8%b9%d9%84%d9%86-%d8%a3%d9%86-%d8%a7%d9%84%d9%80-ipad-%d9%84%d9%86-%d9%8a%d8%af%d8%b9%d9%85-%d8%ae%d8%af%d9%85%d8%a9-picassa-%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%85%d9%86/)
 
 
 وقال Steve jobs أن iPad بكل وضوح:"لا، iPad مكتف بـ iPhoto الذي يقوم بخدمة جبدة لحد الآن" في رد على أحد الرسائل التي وصلته على بريده الالكتروني(sjobs@apple.com). وفيما يلي نص الرسالة:
 
 
-[![steve jobs email](http://cdn.mashable.com/wp-content/uploads/2010/03/sjobsmail.png)
+[![steve jobs email](sjobsmail.png)
 ](https://www.it-scoop.com/2010/03/steve-jobs-%d9%8a%d8%b9%d9%84%d9%86-%d8%a3%d9%86-%d8%a7%d9%84%d9%80-ipad-%d9%84%d9%86-%d9%8a%d8%af%d8%b9%d9%85-%d8%ae%d8%af%d9%85%d8%a9-picassa-%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%85%d9%86/https://www.it-scoop.com/2010/03/steve-jobs-%d9%8a%d8%b9%d9%84%d9%86-%d8%a3%d9%86-%d8%a7%d9%84%d9%80-ipad-%d9%84%d9%86-%d9%8a%d8%af%d8%b9%d9%85-%d8%ae%d8%af%d9%85%d8%a9-picassa-%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d8%a9-%d9%85%d9%86/)
 
 

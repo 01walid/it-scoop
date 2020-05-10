@@ -17,7 +17,7 @@ tags:
 
 أطلقت Twitter خدمة جديدة و التي أطلقت عليها اسم Blackbird pie، حيث تسمح بتضمين الـ tweets في صفحات الويب دون الحاجة إلى تحويلها إلى صور.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Blackbird-Pie.png)
+[![](Blackbird-Pie.png)
 ](https://www.it-scoop.com/2010/05/twitter-launches-blackbird-pie/)
 
 قبل إطلاق هذه الخدمة كان لمن أراد تضمين tweets معينة في صفحة ويب اللجوء إلى طرق "ملتوية" للقيام بذلك، حيث كان يجب عمل screenShot و بعدها يقوم بتقطيع الصورة الناتجة و رفعها على خادم الموقع (أو أي خادم آخر) ليتسنى إظهارها على الموقع.

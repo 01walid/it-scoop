@@ -16,8 +16,8 @@ tags:
 
 أطلقت Mozilla اليوم الإصدار 9 من متصفح Firefox، وبذلك يصل عدد الإصدارات الرئيسية للمتصفح التي أُطلقت هذا العام إلى 6.
 
-[![الإصدار التاسع من متصفح فايرفوكس](https://www.it-scoop.com/wp-content/uploads/2011/12/firefox-9.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/firefox-9.jpg)
+[![الإصدار التاسع من متصفح فايرفوكس](firefox-9.jpg)
+](firefox-9.jpg)
 أهم ما جاء به هذا الإصدار هو تسريع SpiderMonkey محرك JavaScript الخاص بالمتصفح، حيث أنه وبفضل تزويده بخاصية [Type inference](http://blog.mozilla.com/futurereleases/2011/11/10/type-inference-to-firefox-beta/) أصبح بإمكان المتصفح معالجة شفرات JavaScript أسرع بحوالي 30% مما كان عليه الحال سابقا.
 كما يعرف هذا الإصدار دعما أفضل للعديد من مزايا HTML5، CSS3 و MathML إلى جانب إمكانية التحقق من وضعية خاصية [Do Not Track](https://www.it-scoop.com/2011/01/mozilla-do-not-track/) من خلال JavaScript، فضلا عن ترقيع [جملة من العلل](http://www.mozilla.org/en-US/firefox/9.0/releasenotes/buglist.html).
 ولقد عرف إصدار المتصفح الخاص بنظام Mac OS X (الإصدار Lion)  تحديثات أخرى، كتحسينات في الواجهة الرسومية ودعم أفضل للتصفح باستعمال إصبعين.

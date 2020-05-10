@@ -20,8 +20,8 @@ tags:
 
 
 
-[![google 1 day delivery service](https://www.it-scoop.com/wp-content/uploads/2011/11/google-speed.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/google-speed.jpg)
+[![google 1 day delivery service](google-speed.jpg)
+](google-speed.jpg)
 
 
 

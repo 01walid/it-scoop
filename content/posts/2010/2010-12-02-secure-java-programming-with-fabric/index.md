@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/fabric_ar.jpg)
+[![](fabric_ar.jpg)
 ](https://www.it-scoop.com/2010/12/secure-java-programming-with-fabric)يمكن الرجوع للمخط الأصلي من خلال المصدر أدناه
 
 

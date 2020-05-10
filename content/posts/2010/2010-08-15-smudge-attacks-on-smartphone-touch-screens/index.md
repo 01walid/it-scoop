@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/android-password.jpg)
+[![](android-password.jpg)
 ](https://www.it-scoop.com/2010/08/smudge-attacks-on-smartphone-touch-screens)
 
 

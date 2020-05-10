@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/iphone_apps.jpg)
+[![](iphone_apps.jpg)
 ](https://www.it-scoop.com/2011/07/app-store-downloads-top-15-billion)
 
 

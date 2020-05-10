@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/botnet.png)
+[![](botnet.png)
 ](https://www.it-scoop.com/2010/08/Mumba-botnet-hits-55000-systems)
 
 

@@ -21,7 +21,7 @@ tags:
 
 البداية هذه المرة مع  Samsung حيث كشف عن أحدث أجهزتها Wave S8500 و المجهز بنظامها الخاص الجديد Bada.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/samsung-wave-smartphone.jpg)
+[![](samsung-wave-smartphone.jpg)
 
 ](https://www.it-scoop.com/2010/02/samsung-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-wave-s8500-%d8%a7%d9%84%d9%85%d8%ac%d9%87%d8%b2-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-bada/)
 

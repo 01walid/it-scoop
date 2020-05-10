@@ -13,7 +13,7 @@ tags:
 
 قامت شركة Microsoft بسحب برنامج windows 7 USB/DVD Download Tool من متاجرها على النت.
 
-![win7UsbDVD](https://www.it-scoop.com/wp-content/uploads/2009/11/win7UsbDVD.jpg)
+![win7UsbDVD](win7UsbDVD.jpg)
 
 
 كان من الممكن بعيد إطلاق نظام تشغيل windows7 شراء نسخة من النظام الجديد على هيئة قرص ISO و من ثم حرقه قبل تنصيبه أو تمرير الملفات إلى وحدة تخزين USB لتنصيبه على الأجهزة التي لا تملك قارئ أقراص.

@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Shockwave-logo.jpg)
+[![](Shockwave-logo.jpg)
 ]( https://www.it-scoop.com/2010/08/adobe-shockwave-player-1158612/)
 
 

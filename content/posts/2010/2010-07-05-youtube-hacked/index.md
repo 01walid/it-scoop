@@ -21,7 +21,7 @@ tags:
 
 
 تعرض موقع الفيديو الشهير Youtube أمس لهجمة من قبل بعض القراصنة و كان نصيب مغني الـ POP المدعو Justin Bieber الأكثر تضررا من هذه الهجمات حيث كان فيديوهاته على الموقع وجهة معظمها .
-[![youtube hacked](http://posterous.com/getfile/files.posterous.com/temp-2010-07-04/viBDJoFiplHImqvelagnsdcubDzufcCnJhEtqGrskmqEjDkgvIrbwiByJJJk/youtube_hacked.png.scaled1000.png)
+[![youtube hacked](youtube_hacked.png.scaled1000.png)
 ](httphttps://www.it-scoop.com/2010/07/youtube-hacked/)
 و تم تنفيد الاختراق عن طريق ثغرات HTML Injections تستهدف التعليقات الملحقة للفيديو و يعتقد أنه يمكن استغلال هذه الثغرة لتنفيذ هجمات XSS أيضا.
 

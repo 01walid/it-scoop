@@ -18,7 +18,7 @@ tags:
 أعلنت [المجموعة](http://www.google.com/url?q=http%3A%2F%2Fn2v.com&sa=D&sntz=1&usg=AFQjCNH0fClDB7-l_92Zbk9n_PoKoMHNdA)[الوطنية](http://www.google.com/url?q=http%3A%2F%2Fn2v.com&sa=D&sntz=1&usg=AFQjCNH0fClDB7-l_92Zbk9n_PoKoMHNdA)[للانترنت](http://www.google.com/url?q=http%3A%2F%2Fn2v.com&sa=D&sntz=1&usg=AFQjCNH0fClDB7-l_92Zbk9n_PoKoMHNdA) N2V، عن استثمارها المشترك مع عدد من رجال الأعمال العرب في موقع عقارماب.كوم AqarMap.com، أحد أكبر الأسواق العقارية المبنية على خرائط الستلايت التفاعلية.
 
 
-[![](http://aqarmap.com/img/logo.png)
+[![](logo.png)
 ](https://www.it-scoop.com/2011/03/n2v-aqarmap/)
 
 

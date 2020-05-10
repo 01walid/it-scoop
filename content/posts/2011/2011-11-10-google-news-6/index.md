@@ -13,8 +13,8 @@ tags:
 
 لم تعد تمر الأسابيع إلا وتحمل معها جملة من أخبار Google، ولقد سُلِّط الكثير من الضوء على طبقتها الاجتماعية Google+ التي تعرف تطويرات وإضافات بشكل مستمر خلال الأيام القليلة الماضية، وإليكم بعضا من أخبارها.
 
-[![google plus](https://www.it-scoop.com/wp-content/uploads/2011/11/google-plus.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/google-plus.jpg)
+[![google plus](google-plus.jpg)
+](google-plus.jpg)
 
 
 

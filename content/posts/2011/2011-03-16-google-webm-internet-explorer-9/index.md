@@ -29,7 +29,7 @@ tags:
 
 
 
-[![](http://tools.google.com/dlpage/res/webmmf/webm-ie9-yt-screenshot.png )
+[![](webm-ie9-yt-screenshot.png )
 ](https://www.it-scoop.com/2011/03/google-webm-internet-explorer-9/)
 
 

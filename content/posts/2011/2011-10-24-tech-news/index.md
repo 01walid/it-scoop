@@ -54,7 +54,7 @@ tags:
 # Siri على هواتفAndroid
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/iris-android-app-300x146.jpg)
+[![](iris-android-app-300x146.jpg)
 ](https://www.it-scoop.com/wp-content/uploads/2011/10/iris-android-app.jpg)
 
 

@@ -21,7 +21,7 @@ tags:
 أطلقت Mozilla ليلة أمس [أول تحديث](http://www.mozilla.com/en-US/firefox/4.0.1/releasenotes/) (4.0.1) للجيل الرابع من متصفح Firefox و الذي يرقع [3 ثغرات أمنية](http://www.mozilla.org/security/known-vulnerabilities/firefox40.html#firefox4.0.1) اثنتان منها موسومتان بالحرجة Critical.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/Mozilla-Firefox4.jpg)
+[![](Mozilla-Firefox4.jpg)
 ](https://www.it-scoop.com/2011/04/firefox-4-0-1/)
 
 

@@ -26,7 +26,7 @@ tags:
 الجهاز الذي يستخدم كجهاز استشعار للحركة (motion-sensing system) بشكل يستغني معه المرء عن مقابض التحكم التقليدية لأجهزة الألعاب يبلغ سعره 149 دولار أمريكي، ويكون بمقدورك من خلاله ممارسة ألعابك المفضلة "بنفسك" بشكل تحاول الصورة التالية توضيحه:
 
 
-![](http://nxeassets.xbox.com/shaxam/0201/32/ab/32abc439-aa48-48bc-863d-f5ca00297f93.JPG?v=1#whyKinect_bodyFreeGaming.JPG)
+![](32abc439-aa48-48bc-863d-f5ca00297f93.JPG?v=1#whyKinect_bodyFreeGaming.JPG)
 
 
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-![](http://www.adafruit.com/adablog/wp-content/uploads/2010/11/Canesta-howitworks1.jpg)
+![](Canesta-howitworks1.jpg)
 
 
 

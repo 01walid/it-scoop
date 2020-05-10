@@ -17,7 +17,7 @@ tags:
 أياما فقط بعد تنظيم أول TEDx في الجزائر تنطلق اليوم فعاليات أسبوع الويب الذي يقام في الجزائر العاصمة و الذي ينظم من طرف شركتي Connext و  Pureplayer  و برعاية من وزارة البريد و تكنولوجيات الإعلام و الاتصال.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/SemainDuWeb.png)
+[![](SemainDuWeb.png)
 ](https://www.it-scoop.com/2011/04/semaine-du-web-alger/)
 
 

@@ -22,7 +22,7 @@ tags:
 ولمن لا يعرف Fedora فهي إحدى التوزيعات الكبيرة لنظام Linux الرائع ,موجهة للمستخدم النهائي وتحتوي دائما على أحدث البرامج في كل المجالات . علما أنه يتم إطلاق إصدارة جديدة كل 6 أشهر.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/800px-Fedora-14-installationmedia-321.png)
+[![](800px-Fedora-14-installationmedia-321.png)
 ](https://www.it-scoop.com/2010/11/fedora-14)
 
 

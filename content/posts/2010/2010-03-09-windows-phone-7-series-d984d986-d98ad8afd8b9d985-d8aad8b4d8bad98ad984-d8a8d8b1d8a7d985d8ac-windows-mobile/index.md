@@ -19,7 +19,7 @@ tags:
 
 صرحت شركة Microsoft بأنّ نظام تشغيل Windows Phone 7 series  الخاص بالهواتف الذكية لن يدعم تشغيل أية برامج قديمة تمت كتابتها للأنظمة السابقة, كما أنها لن تدعم عملية التحديث من النسخ السابقة إلى هذا النظام.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/microsoft_windowsphone7.jpg)
+[![](microsoft_windowsphone7.jpg)
 ](https://www.it-scoop.com/2010/03/windows-phone-7-series-%d9%84%d9%86-%d9%8a%d8%af%d8%b9%d9%85-%d8%aa%d8%b4%d8%ba%d9%8a%d9%84-%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-windows-mobile/)
 
 ** **

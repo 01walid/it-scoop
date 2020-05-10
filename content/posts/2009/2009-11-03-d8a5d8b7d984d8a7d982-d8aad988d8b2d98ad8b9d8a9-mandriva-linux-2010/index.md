@@ -14,7 +14,7 @@ tags:
 تم اليوم إطلاق الإصدار الخامس و العشرين من توزيعة **Mandriva  Linux 2010** أسبوعا فقط بعد إصدار نسخة RC2
 
 
-![mandrivalogo](https://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo.jpg)
+![mandrivalogo](mandrivalogo.jpg)
 
 
 

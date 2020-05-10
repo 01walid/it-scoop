@@ -21,7 +21,7 @@ tags:
 
 وافق الـ US Patent and Trademark Office على طلب تقدمت به Apple لتسجيل براءة اختراع للـ Design الخاص بكل من الـ   iPhone 3GS و الـ  iPod Touch.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/Design-iPod.jpg)
+[![](Design-iPod.jpg)
 ](https://www.it-scoop.com/2010/04/apple-grabs-patent-iphone-ipod/)
 
 Apple كانت قد تقدمت بطلب للحصول على حقوق الـ Design  الخاص بالـ  iPod Touch سنة 2007 و بالـ   iPhone 3GS سنة 2009، لكن لم تحصل على الموافقة إلا منذ يوم أمس، مما يعني أننا سنسمع قريبا عن ملاحقة شركة التفاحة للمقلدين قريبا.

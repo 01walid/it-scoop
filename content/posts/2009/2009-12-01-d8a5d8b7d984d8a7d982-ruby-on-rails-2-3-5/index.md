@@ -19,7 +19,7 @@ tags:
 
 تم إطلاق الإصدار 2.3.5  من  Ruby on Rails  إطار العمل الحر الخاص بتطبيقات الـ web و المكتوب بلغة Ruby.
 
-![ruby_on_rails_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/ruby_on_rails_logo-252x300.jpg)
+![ruby_on_rails_logo](ruby_on_rails_logo-252x300.jpg)
 
 
 يأتي هذه الإصدار بجملة من التصحيحات الأمنية الخاصة بثغرات من نوع XSS و التي تخص الـ "strip_tags" .

@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Chrome-9.png)
+[![](Chrome-9.png)
 ]( https://www.it-scoop.com/2010/11/google-chrome-9-alpha/)
 
 

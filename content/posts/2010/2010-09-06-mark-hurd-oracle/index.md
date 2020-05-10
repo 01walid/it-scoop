@@ -19,7 +19,7 @@ tags:
 
 أشارت صحيفة الـ wall Street Journal إلى أن Mark Hurd الرئيس التنفيذي السابق لـ HP قاب قوسين أو أدنى من الانضمام إلى Oracle لشغل منصب رفيع المستوى.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/Mark-Hurd.jpg)
+[![](Mark-Hurd.jpg)
 ](https://www.it-scoop.com/2010/09/mark-hurd-oracle/)
 
 الـ WSJ و التي نقلت عن مصدر مطلع على الموضوع جيدا، لم تحصل على ماهية المنصب الذي يشغله Mark Hurd لكن أكد أن المنصب ليس منصب الرئيس المدير التنفيذي الذي يشغله Larry Ellison منذ بدايات Oracle قبل 30 سنة.

@@ -22,7 +22,7 @@ tags:
 [
 ](https://www.it-scoop.com/wp-content/uploads/2010/03/nokia_novarra.jpg)
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/nokia_novarra-e1269767307187.jpg)
+[![](nokia_novarra-e1269767307187.jpg)
 ](https://www.it-scoop.com/2010/03/nokia-%d8%aa%d8%b6%d8%b9-%d9%8a%d8%af%d9%87%d8%a7-%d8%b9%d9%84%d9%89-novarra-%d8%a7%d9%84%d9%85%d8%aa%d8%ae%d8%b5%d8%b5%d8%a9-%d9%81%d9%8a-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d9%86%d8%aa/)شركة Novarra و التي تضم أكثر من مئة موظف، تقدم نوعين من الخدمات، يتمثل الأول في Vision PlatForm  و هو عبارة عن منصة للخدمات الموجهة للهواتف. أما الثاني فهو Vision Browser متصفح إنترنت للهواتف.
 
 تمتلك Novarra قاعدة واسعة من العملاء لعل من أهمهم كل من Vodafone، Verizon Wireless، Sprint و  US Cellular.

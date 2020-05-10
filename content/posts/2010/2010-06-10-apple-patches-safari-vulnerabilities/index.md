@@ -22,7 +22,7 @@ tags:
 
 بعد أقل من مرور 24 ساعة على [صدور الإصدار 5.0 من المتصفح Safari](https://www.it-scoop.com/2010/06/apple-releases-safari-5/)، قامت Apple بنشر ترقيعات أمنية لـ 48 ثغرة في محرك WebKit الذي تستخدمه Apple في متصفحها، حيث وصفت الثغرات الخاصة بالإصدارين 4.1 و 5.0 بالخطيرة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/safari-logo-lg.png)
+[![](safari-logo-lg.png)
 ](https://www.it-scoop.com/2010/06/Apple-patches-Safari-vulnerabilities)
 
 الترقيعات التي طرحت متوفرة للتحميل لنظامي Windows و Mac OS X. يُذكر أن استغلال بعض هذه الثغرات قد يمكّن من تنفيذ شفرات ضارة عن بعد remote code execution.

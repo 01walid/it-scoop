@@ -19,7 +19,7 @@ tags:
 
 بعد أن أطلقت حملة  لمنح مكافآت لمكتشفي الثغرات على متصفح Chrome، قررت Google توسيع نطاق "سخائها" إلى أغلب تطبيقاتها على الويب.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/google-security.jpg)
+[![](google-security.jpg)
 ](https://www.it-scoop.com/2010/11/google-web-application-security)
 
 التطبيقات المعنية حاليا هي كل خدماتها على الويب و ضربت Google الأمثلة التالية:

@@ -20,7 +20,7 @@ tags:
 لا تفعل هذا في المنزل!.... يبدو وكأنه تنبيه بعد مقطع مصارعة حرة :) ، لكن نخشى عليك أن تضيع جهاز الـ iPhone الخاص بك مجانا:) إلا إذا قضمت  تفاحة وفضلت رميها في الفضاء بدلاً من النافذة أو السلة، ففي تجربة منزلية محضة، غريبة من نوعها، فقد تمكن في الأسابيع القليلة الماضية أب مع ابنه الصغير يقطن في Brooklyn فيNew York، [من إرسال جهاز iPhone إلى الطبقة العليا للغلاف الجوي ](http://nymag.com/daily/intel/2010/10/brooklyn_dad_and_kid_send_ipho.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+nymag/intel+(Daily+Intelligencer+-+New+York+Magazine))ليلتقطا صورا مذهلة لأنحناء الكرة الأرضية.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/iPhone-earth.jpg)
+[![](iPhone-earth.jpg)
 ](https://www.it-scoop.com/2010/10/iphone-outer-space)
 
 الثنائي "المجنون" قضى قرابة 8 أشهر في البحث وتجريب صنعتهم المنزلية، المؤلفة من بالون جوي وغلاف [الستايروفوم](http://en.wikipedia.org/wiki/Styrofoam) لجهاز الـiPhone، قبل إطلاقه في في سماء مدينتهم

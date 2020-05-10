@@ -20,7 +20,7 @@ tags:
 
 أعلنت Automattic  الشركة الراعية لـ Wordpress.com على لسان مؤسسها Matt Mullenweg عن تعرضها لعملية قرصنة تمت بعد أن تمكن المخترقون من الحصول على أعلى الصلاحيات الممكنة Root على مجمل خوادمها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/wordpress-hacked.png)
+[![](wordpress-hacked.png)
 ](https://www.it-scoop.com/2011/04/wordpress-com-hacked/)
 
 و تشير [التدوينة](http://en.blog.wordpress.com/2011/04/13/security/) التي تعلن عن ذلك أن كافة بيانات الخوادم كانت مكشوفة و معرضة للنسخ بما فيها الشفرات المصدرية ، حيث أنه و بالرغم من كون Wordpress مجانيا و مفتوح المصدر إلا أن هناك بعض البرمجيات الحساسة التي تخص إدارة المدونات المجانية Wordpress.com و المدونات VIP أمثال TechCrunch، New York Times و غيرهما.

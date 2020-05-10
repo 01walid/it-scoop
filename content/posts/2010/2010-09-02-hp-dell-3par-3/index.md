@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/3PAR.png)
+[![](3PAR.png)
 ]( https://www.it-scoop.com/2010/09/hp-dell-3par-3/)
 
 

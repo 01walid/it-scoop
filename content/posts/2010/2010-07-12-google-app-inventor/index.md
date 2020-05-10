@@ -20,8 +20,8 @@ tags:
 أطلقت Google اليوم خدمة جديدة تدعى App Inventor تتيح للمستعملين تطوير ألعاب و برامج Android من غير كتابة شفرات برمجية.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/screenshotabout1.png)
-](https://www.it-scoop.com/wp-content/uploads/2010/07/screenshotabout1.png)
+[![](screenshotabout1.png)
+](screenshotabout1.png)
 
 
 

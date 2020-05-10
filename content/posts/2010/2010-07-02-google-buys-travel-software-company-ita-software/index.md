@@ -18,7 +18,7 @@ tags:
 
 أعلنت Google على مدونتها الخاصة التوصل إلى اتفاق لشراء شركة  ITA software  المتخصصة في الأسفار و بيانات الرحلات و الأسعار عبر الإنترنت في صفقة قدرت قيمتها بـ 700 مليون دولار.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/ita-software.jpg)
+[![](ita-software.jpg)
 ](https://www.it-scoop.com/2010/07/Google-buys-travel-software-company-ITA-software)
 
 تقدم ITA  خدمات تساعد المستخدمين في اختيار أفضل خطط السفر و الأسعار، حيث –حسب ما أشارت إليه Google- فإن مهمة البحث عن الرحلة المناسبة بالسعر المناسب ليس بالأمر الهين.

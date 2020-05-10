@@ -23,7 +23,7 @@ tags:
 
 
 
-[![promoted tweets jetblue](https://3.bp.blogspot.com/-35yw1Ysytac/TjGKu0EcRSI/AAAAAAAAASI/BlvxcHKS9yw/s1600/promoted_tweets_jetblue.png)
+[![promoted tweets jetblue](promoted_tweets_jetblue.png)
 ](https://www.it-scoop.com/2011/07/promoted-tweets-timeline/)
 
 

@@ -19,7 +19,7 @@ tags:
 ستشرع Google  في إطلاق منصتها التلفزية Google Tv  في الولايات المتحدة الأمريكية خلال الأسابيع القليلة المقبلة،  والتي من خلالها يمكن لأجهزة التلفاز المذمجة بهذه الخدمة، الاتصال بالإنترنت وتحميل المحتوى كالأفلام وغيرها ...
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/google-tv.jpg)
+[![](google-tv.jpg)
 ](https://www.it-scoop.com/2010/09/google-tv-this-fall-in-usa/)
 
 

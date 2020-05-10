@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/os-market-share-net-applications-August-2011.png)
+[![](os-market-share-net-applications-August-2011.png)
 ](https://www.it-scoop.com/2011/09/os-market-share-net-applications-august-2011)
 
 

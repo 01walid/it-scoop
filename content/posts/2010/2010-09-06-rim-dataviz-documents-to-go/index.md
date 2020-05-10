@@ -21,7 +21,7 @@ tags:
 
 أشارت العديد من المواقع المتخصصة في الـ BlackBerry عن شراء RIM لشركة Dataviz صاحبة حزمة التطبيقات Documents to Go.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/DataViz_blackberry.jpg)
+[![](DataViz_blackberry.jpg)
 ](https://www.it-scoop.com/2010/09/rim-dataviz-documents-to-go/)
 
 حسب ما جاء على موقع [Crackberry](http://crackberry.com/dataviz-makers-documents-go-apparently-acquired-and-now-owned-research-motion) فإن قيمة الصفقة تحوم حول 50 مليون دولار و هو المبلغ الذي "لا يعتبر كبيرا" حتى تقوم RIM بالإعلان عن صفقة الشراء.

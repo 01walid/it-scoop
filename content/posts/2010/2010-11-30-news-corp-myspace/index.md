@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/myspace-logo.png)
+[![](myspace-logo.png)
 ](https://www.it-scoop.com/2010/11/news-corp-myspace/)
 
 

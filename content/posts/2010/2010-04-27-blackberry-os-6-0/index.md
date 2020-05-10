@@ -18,8 +18,8 @@ tags:
 
 كشفت RIM الكندية المصنعة لهواتف BlackBerry  عن الإصدار 6.0  من نظام  تشغيل Blackberry OS و الذي من المقرر إطلاقه خلال الربع الثالث من العام  الحالي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/blackberry_os60.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2010/04/blackberry_os60.jpg)
+[![](blackberry_os60.jpg)
+](blackberry_os60.jpg)
 
 سيتم تدعيم الإصدار القادم من Blackberry OS بمتصفح جديد مبني على محرك Webkit و الذي يتم استعماله حاليا على كل من الـ Android و أجهزة الـ iPhone.
 

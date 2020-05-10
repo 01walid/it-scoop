@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/broken-microsoft.jpg)
+[![](broken-microsoft.jpg)
 ](https://www.it-scoop.com/2011/09/microsoft-patch-tuesday-september-2011)
 
 

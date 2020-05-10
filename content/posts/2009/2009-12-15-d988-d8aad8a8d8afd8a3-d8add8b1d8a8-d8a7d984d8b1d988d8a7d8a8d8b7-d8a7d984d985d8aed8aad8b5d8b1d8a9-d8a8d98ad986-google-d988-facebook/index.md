@@ -20,7 +20,7 @@ tags:
 
 أعلنت Google عن إطلاق خدمة جديدة للروابط المختصرة goo.gl   لتحويل الروابط الطويلة إلى روابط قصيرة على شاكلة روابط Bit.ly أو tinyurl.com.
 
-[![facebook_vs_google](https://www.it-scoop.com/wp-content/uploads/2009/12/facebook_vs_google-300x225.jpg)
+[![facebook_vs_google](facebook_vs_google-300x225.jpg)
 ](https://www.it-scoop.com/2009/12/%d9%88-%d8%aa%d8%a8%d8%af%d8%a3-%d8%ad%d8%b1%d8%a8-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d8%a8%d8%b7-%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b5%d8%b1%d8%a9-%d8%a8%d9%8a%d9%86-google-%d9%88-facebook/)
 
 كما أن  Facebook أيضا دخلت معترك الروابط المختصرة دون الإعلان الرسمي عن ذلك من خلال موقعها fb.me، لكن خدمتها تقتصر على صفحات Facebook فقط .

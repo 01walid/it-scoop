@@ -19,7 +19,7 @@ tags:
 
 بعد أن قرر الانتقال بشكل كامل إلى تطبيق البريد الالكتروني Thunderbird ، و أصبح مساهما في تطويره، قرر الدرك الفرنسي اعتماد توزيعة Ubuntu على أجهزته المقدرة بـ 85  ألفا.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Gendarmerie_Nationale_Francaise.gif)
+[![](Gendarmerie_Nationale_Francaise.gif)
 ](https://www.it-scoop.com/2010/11/gendarmerie-nationale-ubuntu/)
 
 حاليا تم تحويل أكثر من 7000 ألفا جهاز إلى Ubuntu، و حسب Jean-Pascal Château قائد الدرك الفرنسي سيتم نقل 10 آلاف جهاز كل عام، لتصل نسبة استعمال Ubuntu على أجهزته إلى 90% سنة 2015.

@@ -19,8 +19,8 @@ tags:
 
 أشارت Google إلى أنها أطلقت الإصدار لمستخدمي Linux قبل Windows و Mac من أجل ترقيع ثغرة تخص الـ SSL و لكنها بالموزاة مع ذلك أدرجت خدمة الترجمة الفورية في النسخة الجديدة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
+[![](Chrome_logo.jpg)
+](Chrome_logo.jpg)
 و قال Mark Larson من فريق برمجة Google Chrome:" أردنا إصدار النسخة 5 Beta سريعا لمستخدمي Linux من أجل ترقيع الثغرة الموجودة على مستوى بروتوكول SSL لدي مواقع Google، و سنقوم بإصدار النسخة لمستخدمي Windows و Mac قريبا".
 و يقوم Chrome  الجديد بالترجمة الفورية عندما يكتشف أن لغة الموقع ليست هي اللغة التي يعمل بها المتصفح.
 كما أدرجت ايضا خدمة Real Load (Shift+F5) و التي تقوم بتحديث الصفحة من جديد دون استعمال ما يسمى بـ Caches (يلجأ إليها المتصفح لتسريع التحديث).

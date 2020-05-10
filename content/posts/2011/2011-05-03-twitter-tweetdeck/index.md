@@ -19,7 +19,7 @@ tags:
 
 [ذكرت](https://www.it-scoop.com/2011/05/twitter-tweetdeck/) وكالة Reuters أن أنباء/إشاعات رغبة Twitter في شراء TweetDeck قد أصبحت أكيدة، و من المتوقع إنهاء صفقة الشراء خلال الأيام القليلة القادمة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/tweetdeck-twitter.jpg)
+[![](tweetdeck-twitter.jpg)
 ](https://www.it-scoop.com/2011/05/twitter-tweetdeck/)
 
 و كما قد سبق و أن [أشرنا إليه](https://www.it-scoop.com/2011/04/tweetdeck-twitter-ubermedia/) فإن هدف Twitter الرئيسي من شرائها لهذا التطبيق هو قطع الطريق أمام UberMedia التي تحوز على حصة معتبرة من استخدام Twitter عبر مختلف التطبيقات التي تملكها (Twidroyd, Echofon, UberSocial, UberCurrent) ، مما يعني أن مداخيل و مصير Twitter لن يصبحا بيدها لو ضمت UberMedia تطبيق TweetDeck إلى سلسلتها بحكم أن هذه الأخيرة كانت ستمتلك ثلث نشاط المغردين على Twitter لو تم ذلك.

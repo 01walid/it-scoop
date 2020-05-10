@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/zuckerberg-facebook.jpg)
+[![](zuckerberg-facebook.jpg)
 ](https://www.it-scoop.com/2010/06/Facebook-aiming-for-1-billion-users)
 
 

@@ -18,7 +18,7 @@ tags:
 
 سبق و أن [حدثناكم](../2011/05/ipad-3g-phone-calls-iphoneislam) عن تطبيق PhoneItiPad   الذي أعلن عنه موقع iPhoneIslam و الذي يتيح إجراء مكالمات هاتفية عبر الـ iPad، ولقد قام الموقع بنشر التطبيق بشكل رسمي و هو متوفر على Cydia مقابل 19.99 دولار أمريكي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/phoneitipad.jpg)
+[![](phoneitipad.jpg)
 ](https://www.it-scoop.com/2011/06/iphoneislam-phoneitipad/)
 
 التطبيق يعتبر في حد ذاته قفزة كبيرة نحو الأمام كون فكرة التمكن من إجراء اتصالات هاتفية بالـ iPad كانت مشككا فيها حتى من قبل خبراء الـ iPhone.

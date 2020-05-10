@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](http://www.djaweb.dz/images/logo.gif)
+[![](logo.gif)
 ](https://www.it-scoop.com/2010/09/anis-plus-announcement/)
 
 

@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Android-Gingerbread.jpg)
+[![](Android-Gingerbread.jpg)
 ]( https://www.it-scoop.com/2010/07/android-3-gingerbread/)
 
 

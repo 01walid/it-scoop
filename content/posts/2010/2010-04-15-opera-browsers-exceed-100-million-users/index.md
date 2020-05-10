@@ -19,7 +19,7 @@ tags:
 هناك عبارة تقول "الـ 100 مليون الأولى هي الأصعب" وفيما يبدو أن Opera تؤمن بهذه العبارة عندما أعلنت في خبر رسمي على موقعها بأن متصفحها Opera قد كسر حاجز الـ 100 مليون مستخدم حول العالم، 50 مليون مستخدم منهم على أجهزة مكتبية تستخدم Windows, Mac, Linux أما الـ 50 مليون مستخدم الباقين فهم مستخدمي Opera Mini المخصص للأجهزة المحمولة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/opera-logo.jpg)
+[![](opera-logo.jpg)
 ](https://www.it-scoop.com/2010/04/opera-browsers-exceed-100-million-users/)
 
 

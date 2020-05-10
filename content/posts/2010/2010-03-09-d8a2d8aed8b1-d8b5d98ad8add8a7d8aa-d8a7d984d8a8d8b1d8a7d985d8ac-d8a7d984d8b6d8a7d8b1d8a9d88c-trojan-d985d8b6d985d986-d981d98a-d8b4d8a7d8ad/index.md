@@ -20,7 +20,7 @@ tags:
 
 إن أخبرك صديق لك أنه تم اختراق جهازه لأنه لا يستعمل مضاد فيروسات، فهذا أمر معقول، و إن قال لك  أنه فقد ملفات حساسة بسبب نقره على رابط في رسالة أرسلت إليه بالرغم من استعماله مضاد فيروسات فهذا أيضا معقول، لكن أن يتم اخترق جهازه لأنه شحن بطارياته energizer فهذا ما لم يكن في الحسبان من قبل، فقد أبلغت الـ **US-CERT** United States Computer Emergency Readiness Team  شركة energizer بوجود Trojan  في شاحنها Energizer DUO USB NiMH** .**
 
-**[![](https://www.it-scoop.com/wp-content/uploads/2010/03/energizer-duo-charger.jpg)
+**[![](energizer-duo-charger.jpg)
 ](https://www.it-scoop.com/2010/03/%d8%a2%d8%ae%d8%b1-%d8%b5%d9%8a%d8%ad%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%b6%d8%a7%d8%b1%d8%a9%d8%8c-trojan-%d9%85%d8%b6%d9%85%d9%86-%d9%81%d9%8a-%d8%b4%d8%a7%d8%ad/)
 **
 

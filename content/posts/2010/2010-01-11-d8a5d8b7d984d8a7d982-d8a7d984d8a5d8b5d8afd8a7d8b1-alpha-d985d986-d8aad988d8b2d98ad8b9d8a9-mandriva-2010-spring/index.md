@@ -17,7 +17,7 @@ tags:
 
 تم إطلاق الإصدار Alpha من توزيعة Mandriva Linux 2010 Spring أو ما يطلق عليها أيضا اسم Mandriva 2010.1.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo-300x75.jpg)
+[![](mandrivalogo-300x75.jpg)
 ](https://www.it-scoop.com/2010/01/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-alpha-%d9%85%d9%86-%d8%aa%d9%88%d8%b2%d9%8a%d8%b9%d8%a9-mandriva-2010-spring/)
 
 الإصدار الحالي يستعمل نواة Linux 2.6.32-rc3  ، إلى جانب كل من X.org 7.1 ، xserver 1.7.1 وglibc 2.11.

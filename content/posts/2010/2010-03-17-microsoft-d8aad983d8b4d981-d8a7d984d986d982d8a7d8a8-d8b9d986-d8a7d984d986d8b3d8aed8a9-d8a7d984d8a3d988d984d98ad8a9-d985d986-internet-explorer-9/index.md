@@ -19,8 +19,8 @@ tags:
 
 كشفت Microsoft خلال مؤتمر MIX10 النقاب على نسخة أولية موجهة للمطورين من Internet Explorer 9 و الذي يدعم كلا من HTML5 ،CSS3 و الـ SVG.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/IE9.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2010/03/IE9.jpg)
+[![](IE9.jpg)
+](IE9.jpg)
 
 الإصدار القادم من Internet Explorer  سيعتمد على محرك JavaScript جديد يستفيد من مزايا المعالجات متعددة الأنوية، إضافة إلى اعتماد كل من AAC و H.264 للصوتيات و ملفات الفيديو، و هي المؤشرات التي توحي أن الإصدار التاسع من Internet Explorer سيكون له شأن كبير.
 

@@ -18,7 +18,7 @@ tags:
 
 حسب دراسة قامت بها شركة Gartner فإن Windows Mobile  فقد 28 % من حصته في سوق أنظمة تشغيل الهواتف النقالة خلال الربع الثالث من العام الجاري.
 
-![Windows Mobile6[1]](https://www.it-scoop.com/wp-content/uploads/2009/11/Windows-Mobile61.jpg)
+![Windows Mobile6[1]](Windows-Mobile61.jpg)
 
 
 حسب نفس الدراسة فقد كانت حصة Windows Mobile  11 %  خلال الربع الثالث من العام الماضي  مقابل 7,9 % لنفس الفترة للعام الحالي. بينما زادت حصة الـ iPhone  لتصبح 17,1 %  بعدما كانت 12,9%.

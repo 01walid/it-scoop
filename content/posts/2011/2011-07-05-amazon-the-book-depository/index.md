@@ -18,7 +18,7 @@ tags:
 
 [أعلنت](http://finance.yahoo.com/news/Amazon-to-Acquire-The-Book-prnews-4104318836.html?x=0&.v=1) Amazon اليوم عن شرائها لـ [The Book Depository](http://www.bookdepository.co.uk/) أحد أكبر مواقع بيع الكتب في المملكة المتحدة من دون أن يتم الكشف عن قيمة الصفقة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/the_book_depository_logo-300x73.jpg)
+[![](the_book_depository_logo-300x73.jpg)
 ](https://www.it-scoop.com/2011/07/amazon-the-book-depository/)
 
 The Book Depository التي ستواصل نشاطها مثلما كان عليه سابقا، تملك متجرا مكونا من 6 ملايين عنوان مختلف و تبيع كتبها في أكثر من 100 دولة، و تتوقع أن تسجل رقم أعمال يقدر بـ 135 مليون يورو خلال هذا العام.

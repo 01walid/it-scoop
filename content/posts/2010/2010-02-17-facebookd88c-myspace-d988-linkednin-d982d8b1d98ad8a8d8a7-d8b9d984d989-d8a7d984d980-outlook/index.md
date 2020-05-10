@@ -22,7 +22,7 @@ tags:
 
 أطلقت Microsoft الإصدار Beta للإضافة الجديدة Outlook Social Connector و التي تسمح بإظهار رفقة كل رسالة مستقبَلة نشاطَ المرسِل على الشبكات الاجتماعية الرئيسية Facebook، Myspace و LinkedIn.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/clip_image012_2.jpg)
+[![](clip_image012_2.jpg)
 ](https://www.it-scoop.com/2010/02/facebook%d8%8c-myspace-%d9%88-linkednin-%d9%82%d8%b1%d9%8a%d8%a8%d8%a7-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%80-outlook/)
 
 الإضافة الجديدة متوافقة مع كل من Office 2003،2007 و الإصدار Beta لـ 2010، و التي ستظهر بعد تنصيبها قسما خاصا على كل رسالة مستقبَلة تحتوي على آخر نشاطات المرسِل، إضافة إلى ملخص للرسائل و الملفات التي أرسلها و القيام بتزامن مع رزنامة Outlook لإظهار الاجتماعات المزمع عقدها مع المرسِل.

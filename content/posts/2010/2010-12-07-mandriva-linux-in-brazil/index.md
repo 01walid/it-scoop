@@ -17,7 +17,7 @@ tags:
 
 في خبر مفرح لتوزيعة Mandriva وعشاقها [أعلنت](http://blog.mandriva.com/2010/12/06/brazilian-ministry-of-education-plan-large-deployment-with-mandriva-linux-on-intel-powered-classmate-pcs-by-positivo/) هذه التوزيعة في مدونتها أن وزارة التعليم في البرازيل قد اختارت Mandriva لاستخدامها في التعليم للطلاب واﻷساتذة ,وذلك بالشراكة مع شركة Positivo المحلية و التي ستوفر أجهزة Classmate PC التي تلعب Intel دورا هاما في تطويرها .
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/mandriva-Tux.jpg)
+[![](mandriva-Tux.jpg)
 ](https://www.it-scoop.com/2010/12/mandriva-linux-in-brazil/)
 
 وتعتبر هذه الخطوة (التي ستؤدي إلى تشغيل توزيعة Mandriva على حوالي 1,5 مليون جهاز ) أكبر عملية نشر لنظام Linux من خلال مؤسسة حكومية في العالم , علما أنه سيتم اختيار نسخة mandriva الخاصة بأجهزة NetBook وبإصدارها الحديث لعام 2010 .

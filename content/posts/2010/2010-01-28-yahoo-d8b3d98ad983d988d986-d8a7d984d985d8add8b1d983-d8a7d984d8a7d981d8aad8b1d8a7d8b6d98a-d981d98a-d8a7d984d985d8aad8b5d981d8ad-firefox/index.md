@@ -20,7 +20,7 @@ tags:
 
 أعلن Rick Spencer أحد مسؤولي Canonical الشركة القائمة على توزيعة Ubuntu في الـ Mailing List الخاص بالتوزيعة، أعلن أن Yahoo !  سيكون محرك البحث الافتراضي على متصفح Firefox الذي سيجهز التوزيعة القادمة من Ubnutu ، بعد أن كان Google هو المتصفح الافتراضي لحين من الدهر.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/ubuntu-logo-300x300.png)
+[![](ubuntu-logo-300x300.png)
 ](https://www.it-scoop.com/2010/01/yahoo-%d8%b3%d9%8a%d9%83%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%ad%d8%b1%d9%83-%d8%a7%d9%84%d8%a7%d9%81%d8%aa%d8%b1%d8%a7%d8%b6%d9%8a-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-firefox/)
 
 كما أن صفحة الاستقبال الرئيسية الخاصة بالمتصفح ستكون أيضا الصفحة الرئيسية لموقع Yahoo !.

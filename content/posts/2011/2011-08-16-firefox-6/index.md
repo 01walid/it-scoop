@@ -18,7 +18,7 @@ tags:
 
 أطلقت Mozilla الإصدار السادس من متصفح Firefox بشكل رسمي، وهذا بعد أن وفرته على خوادم FTP الخاصة بها منذ أيام ليتسنى للمتحمسين تجربته قبل الإعلان عن صدوره بشكل رسمي.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Firefox-6.png)
+[![](Firefox-6.png)
 ](https://www.it-scoop.com/2011/08/firefox-6/)
 
 

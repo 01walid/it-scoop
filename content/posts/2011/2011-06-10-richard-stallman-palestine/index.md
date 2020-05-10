@@ -21,7 +21,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/richard_stallman.jpg)
+[![](richard_stallman.jpg)
 ](https://www.it-scoop.com/2011/06/richard-stallman-palestine/)<!-- more -->
 
 ** **

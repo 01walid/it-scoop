@@ -19,7 +19,7 @@ tags:
 
 الظاهر أن Apple و على رأسها Steve Jobs لم تكن لتظهر كل هذا العداء للـ Flash لو لم يكن لديها بديل جاهز له، إذ أنه تم الكشف مؤخرا عن أداة (إطار عمل) لـ Apple تدعى Gianduia و التي تسمح بعمل تطبيقات web غنية RIA و التي كشفت عنها لأول مرة في يونيو الماضي خلال الـ **WOWODC** World of WebObjects Developer Conference.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/apple_logo.jpg)
+[![](apple_logo.jpg)
 ](https://www.it-scoop.com/2010/05/apple-gianduia/)
 
 حسب موقع appleinsider فإن Apple تستعمل هذا المشروع (إطار العمل) على مواقعها منذ عدة أشهر و منها نظام الحجز المسبق لأجهزة الـ iPhone بالإضافة إلى عدة مواقع أخرى.

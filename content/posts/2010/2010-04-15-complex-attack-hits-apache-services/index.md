@@ -22,7 +22,7 @@ tags:
 أعلنت Apache Software Foundation (ASF) بأن عدداً  من خدماتها تعرضت لمحاولات اختراق معقّدة أدت في نهاية المطاف إلى اختراق أحد خوادمها كليّاً وآخر بشكل جزئي. عدد غير قليل من hash كلمات السر غير الآمنة تعرض للسرقة من أجهزة المنظمة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/apache_logo_.png)
+[![](apache_logo_.png)
 ](https://www.it-scoop.com/2010/04/Complex-Attack-Hits-Apache-Services)
 
 

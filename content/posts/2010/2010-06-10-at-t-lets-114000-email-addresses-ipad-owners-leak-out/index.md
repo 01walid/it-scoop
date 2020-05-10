@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad-iLeak.jpg)
+[![](ipad-iLeak.jpg)
 ](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
@@ -37,7 +37,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ileakinside3.jpg)
+[![](ileakinside3.jpg)
 ](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
@@ -49,7 +49,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ileak_inside2.jpg)
+[![](ileak_inside2.jpg)
 ](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
@@ -64,7 +64,7 @@ tags:
 استطاعت مجموعة Goatse الأمنية الحصول على البيانات من خلال سكربت موجود على موقع AT&T, والذي يمكن لأي كان الوصول إليه على الانترنت. السكربت، عندما يتم تزويده بـ ICC-ID (Integrated Circuit Card ID) - في هذه الحالة الرقم التسلسلي للرقاقة الالكترونية المدمجة المستخدمة في أجهزة iPad – كجزء من عملية طلب HTTP، فإنه سيعيد عنوان البريد الالكتروني الخاص بصاحب هذا الجهاز، فيما يبدو أن الغرض منه أن يكون رد AJAX ضمن تطبيق الويب.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad_sim_icc_id.jpg)
+[![](ipad_sim_icc_id.jpg)
 ](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 
@@ -75,7 +75,7 @@ tags:
 نهاية، قامت المجموعة بكتابة سكربت PHP ليقوم بأتمتة عملية حصد وجمع هذه البيانات. يقول أحد أعضاء المجموعة بأن السكربت تمت مشاركته مع جهات أخرى قبل أن تقوم AT&T بإغلاق الثغرة، ومن غير المعروف فعلياً الأيدي التي وقع فيها قبل أن تتصرف الشركة بسرعة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ileak_inside1.jpg)
+[![](ileak_inside1.jpg)
 ](https://www.it-scoop.com/2010/06/at-t-lets-114000-email-addresses-ipad-owners-leak-out)
 
 

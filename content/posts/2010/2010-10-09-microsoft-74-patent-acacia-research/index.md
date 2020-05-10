@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Acacia-Microsoft.gif)
+[![](Acacia-Microsoft.gif)
 ](https://www.it-scoop.com/2010/10/microsoft-74-patent-acacia-research)
 
 

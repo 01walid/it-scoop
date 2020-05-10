@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/BlackBerry.jpg)
+[![](BlackBerry.jpg)
 ](https://www.it-scoop.com/2011/08/rim-blackberry-qnx-android/)
 
 

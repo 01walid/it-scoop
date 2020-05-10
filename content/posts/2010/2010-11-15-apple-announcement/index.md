@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Apple-16-1162010.jpg)
+[![](Apple-16-1162010.jpg)
 ](https://www.it-scoop.com/2010/11/apple-announcement/)
 
 

@@ -21,7 +21,7 @@ tags:
 نشرت شركة BitDefender على  مدونتها  تحذيراً للمستخدمين حول ما يعتقد كونه أول برمجية خبيثة تنتشر من خلال التنكر كإضافة لمتصفح Chrome.
 
 
-[![](http://i43.tinypic.com/o8gr3r.png)
+[![](o8gr3r.png)
 ](https://www.it-scoop.com/2010/04/trojan-posing-as-fake-google-chrome-extension)
 
 

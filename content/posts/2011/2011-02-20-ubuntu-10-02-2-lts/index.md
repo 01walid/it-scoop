@@ -20,12 +20,12 @@ tags:
 
 [أعلنت](https://lists.ubuntu.com/archives/ubuntu-announce/2011-February/000141.html) Canonical عن إطلاق  الإصدار 10.04.2  من Ubuntu ( و أخواتها)  و هو التحديث الثاني للإصدار  10.04 الموسوم بـ LTS.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/new-logo-ubuntu-300x79.png)
+[![](new-logo-ubuntu-300x79.png)
 ](https://www.it-scoop.com/2011/02/ubuntu-10-02-2-lts/ )
 
 و يقصد بالـ LTS   الدعم طويل المدى Long Term Support  و الذي يقدر بـ 3 سنوات لإصدارات الـ  desktop  و 5 سنوات لإصدارات الخوادم بينما الإصدارات العادية تحظى بدعم عام و نصف فقط
 
-![](https://wiki.ubuntu.com/LTS?action=AttachFile&do=get&target=ubuntu-release-cycle.png )
+![](LTS?action=AttachFile&do=get&target=ubuntu-release-cycle.png )
 
 
 وقد أدمجت تحديثات عديدة في هذا الإصدار . خاصة ما تعلق بالأمان و معالجة الأخطاء و العلل عالية التأثير ، مع التركيز على الحفاظ على الاستقرار والتوافق مع LTS 10.04 Ubuntu  .

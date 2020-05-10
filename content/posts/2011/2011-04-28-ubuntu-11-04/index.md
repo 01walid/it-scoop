@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://www.ubuntu.com/sites/www.ubuntu.com/files/active/images/home-main.png )
+[![](home-main.png )
 ](https://www.it-scoop.com/2011/04/ubuntu-11-04/)
 
 

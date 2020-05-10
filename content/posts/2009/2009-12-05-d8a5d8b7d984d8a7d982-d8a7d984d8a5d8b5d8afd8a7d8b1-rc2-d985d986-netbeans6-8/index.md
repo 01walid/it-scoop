@@ -17,7 +17,7 @@ tags:
 
 تم يوم أمس إطلاق الإصدار RC2 من الـ IDE الشهير Netbeans6.8.
 
-![netbeans_logo](https://www.it-scoop.com/wp-content/uploads/2009/12/netbeans_logo.jpg)
+![netbeans_logo](netbeans_logo.jpg)
 
 
 تأتي هذه الإصدارة الجديدة NetBeans6.8 بالعديد من المزايا الجديدة,كدعم JavaServer Faces 2.0  و JavaFx1.2.1.

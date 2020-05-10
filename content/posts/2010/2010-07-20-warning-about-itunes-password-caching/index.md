@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/itunes-logo.jpg)
+[![](itunes-logo.jpg)
 ](https://www.it-scoop.com/2010/07/warning-about-itunes-password-caching)
 يروى الناشر Adam Engst قصة مصمم Mike Rohde الذي يدخل إلى iTunes عبر جهازه iPad. يشتري برنامجاً ومن ثم أثناء قيامه بتحميله، يقوم ابنه ذو السبعة أعوام، بنفسه، بالدخول من غير قصد لشراء برامج كلفتها المئات من الدولارات. :D .
 

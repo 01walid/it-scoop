@@ -24,7 +24,7 @@ tags:
 قامت Apple بطرح ترقيع أمني خاص بثغرتين تم اكتشافهما في نظام التشغيل iOS الخاص بجهاز iPhone واللتين سمحتا لأصحاب هذه الأجهزة بكسر حماية النظام من خلال متصفح Safari عبر زيارة موقع Jailbreakme.com.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/iPhone4Unlock.jpg)
+[![](iPhone4Unlock.jpg)
 ]( https://www.it-scoop.com/2010/08/ios-402-jailbreak-me/)
 
 
@@ -41,8 +41,8 @@ tags:
 يمكن تحميل وتثبيت الإصدار الجديد iOS 4.0.2 لأجهزة iPod Touch و iPhone من خلال برنامج iTunes. يتوفر التحديث لإصدارات iOS ابتداء بـ 2.0 حتى 4.0.1 لـ iPhone 3G وما بعد; و iOS 2.1 حتى 4.0 للجيل الثاني من iPod Touch وما بعد.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/ios402.png)
-](https://www.it-scoop.com/wp-content/uploads/2010/08/ios402.png)
+[![](ios402.png)
+](ios402.png)
 
 
 إحدى الثغرات التي تم إصلاحها تسمح للقراصنة بتنفيذ شفرات خبيثة على الأجهزة المصابة عندما يتم استعراض ملف PDF يحتوي على الشفرة الخبيثة. السبب في المشكلة هو خطأ فيض stack buffer overflow. قامت Apple بتحسين عمليات تدقيق الحدود bounds checking في نظام iOS ضمن ترقيعها الأمني الأخير.

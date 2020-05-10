@@ -42,7 +42,7 @@ Adobe Flex 4.x
 تسمح للمهاجم بالتحكم الكامل بالنظام عن بعد أو تنفيذ هجمات click-jacking.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/adobe-security.jpg)
+[![](adobe-security.jpg)
 ](https://www.it-scoop.com/2010/08/adobe-product-vulnerabilities)
 
 

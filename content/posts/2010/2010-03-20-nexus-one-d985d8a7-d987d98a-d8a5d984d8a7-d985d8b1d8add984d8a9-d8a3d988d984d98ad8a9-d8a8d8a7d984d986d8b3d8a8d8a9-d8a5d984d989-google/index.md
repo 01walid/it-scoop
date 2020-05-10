@@ -19,7 +19,7 @@ tags:
 في حوار أجراه معه موقع ZDNet صرح Timothy Bray أن جهاز Nexus One ما هو إلى مرحلة أولية لـ Google و هناك خطط مستقبلية لإنتاج أجهزة أخرى.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/03/nexusOne-265x300.jpg)
+[![](nexusOne-265x300.jpg)
 ](https://www.it-scoop.com/2010/03/nexus-one-%d9%85%d8%a7-%d9%87%d9%8a-%d8%a5%d9%84%d8%a7-%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a3%d9%88%d9%84%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%86%d8%b3%d8%a8%d8%a9-%d8%a5%d9%84%d9%89-google/https://www.it-scoop.com/2010/03/nexus-one-%d9%85%d8%a7-%d9%87%d9%8a-%d8%a5%d9%84%d8%a7-%d9%85%d8%b1%d8%ad%d9%84%d8%a9-%d8%a3%d9%88%d9%84%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d9%86%d8%b3%d8%a8%d8%a9-%d8%a5%d9%84%d9%89-google/)
 
 

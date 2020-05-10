@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/patch-tuesday.jpg)
+[![](patch-tuesday.jpg)
 ](https://www.it-scoop.com/2011/03/microsoft-mars-patch-tuesday/)
 
 

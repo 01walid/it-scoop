@@ -19,7 +19,7 @@ tags:
 
 بعد أن هددت منظمة Apache بالخروج من الـ (Java Community Process (JCP إن تمت المصادقة على مواصفات Java 7 و 8 التي تقدمت بها Oracle، و بعد أن [بينت](https://www.it-scoop.com/2010/12/apache-resigns-from-the-jcp-executive-committee/) أنها لم تطلق هذه التهديدات مازحة و ذلك بتطليقها الفعلي لـ JCP  و هو ما لم يَسُر Oracle، يحاول عملاق قواعد البيانات أن رأب الصدع الحاصل في بيت Java بدعوتها "غريمتها" للعدول عن رأيها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/Oracle-Java-300x225.jpg )
+[![](Oracle-Java-300x225.jpg )
 ](https://www.it-scoop.com/2010/12/oracle-apache-jcp/)
 
 جاء ذلك في [تدوينة](http://blogs.oracle.com/henrik/2010/12/oracle_response_to_apache_departure_from_jcp.html) مقتضبة على مدونة Oracle تشير فيها إلى الدور الكبير الذي تلعبه Apache في معادلة Java و بفضلها عليها، و تدعوها إلى أن ترجع إلى المجتمع من جديد، لكنها لم تقدم أية تنازلات من جهتها.

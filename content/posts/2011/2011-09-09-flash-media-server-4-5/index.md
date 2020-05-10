@@ -29,7 +29,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/flash-media-server-4-5.jpg)
+[![](flash-media-server-4-5.jpg)
 ](https://www.it-scoop.com/2011/09/flash-media-server-4-5/)
 
 

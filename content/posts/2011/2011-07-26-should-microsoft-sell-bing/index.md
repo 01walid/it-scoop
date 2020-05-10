@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/bing-logo.png)
+[![](bing-logo.png)
 ](https://www.it-scoop.com/2011/07/should-microsoft-sell-bing/)
 
 

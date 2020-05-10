@@ -22,7 +22,7 @@ tags:
 
 
 
-[![discover digital arabia](https://www.it-scoop.com/wp-content/uploads/2011/08/discoverdigitalarabia.png)
+[![discover digital arabia](discoverdigitalarabia.png)
 ](https://www.it-scoop.com/2011/08/discover-digital-arabia/)
 
 

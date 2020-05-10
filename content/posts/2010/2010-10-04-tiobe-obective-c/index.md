@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](http://www.tiobe.com/content/paperinfo/tpci/images/tpci_trends.png)
+[![](tpci_trends.png)
 ](https://www.it-scoop.com/2010/10/tiobe-obective-c/ )
 
 

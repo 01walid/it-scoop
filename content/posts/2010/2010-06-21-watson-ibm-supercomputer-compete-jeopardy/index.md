@@ -25,7 +25,7 @@ tags:
 
 
 
-![](http://graphics8.nytimes.com/images/2010/06/20/magazine/20Computer-span/20Computer-span-articleLarge-v2.jpg  )
+![](20Computer-span-articleLarge-v2.jpg  )
 و لتأكيد أقوال IBM سيشارك حاسوبها الخارق Watson خلال الخريف القادم في مسابقة معلومات أمريكية شهيرة تدعى [Jeopardy!](http://en.wikipedia.org/wiki/Jeopardy!) و التي يقوم مبدؤها على معرفة السؤال من جوابه (يقوم مقدم الحصة بقراءة الجواب و يطلب من المشاركين معرفة السؤال الذي يتناسب مع هذا الجواب).
 
 

@@ -18,5 +18,5 @@ tags:
 
 أعاده الله على جميع المسلمين بالخير واليمن والبركة
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/%D8%B9%D9%8A%D8%AF%D9%83%D9%85-%D9%85%D8%A8%D8%A7%D8%B1%D9%83-1024x461.jpg)
+[![](%D8%B9%D9%8A%D8%AF%D9%83%D9%85-%D9%85%D8%A8%D8%A7%D8%B1%D9%83-1024x461.jpg)
 ](https://www.it-scoop.com/2011/08/%D8%B5%D8%AD-%D8%B9%D9%8A%D8%AF%D9%83%D9%85-3/)

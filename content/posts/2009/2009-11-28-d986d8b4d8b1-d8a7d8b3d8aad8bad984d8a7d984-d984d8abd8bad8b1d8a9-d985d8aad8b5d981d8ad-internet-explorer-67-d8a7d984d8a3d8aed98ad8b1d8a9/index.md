@@ -19,7 +19,7 @@ tags:
 يبدو أن 0-day PoC [لثغرة IE 6/7 الأخيرة التي كتبنا عنها منذ بضع أيام](https://www.it-scoop.com/2009/11/microsoft-%D8%AA%D8%A4%D9%83%D8%AF-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D9%84%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%B4%D9%81%D8%A9-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7-%D9%81%D9%8A-internet-e/) تم نشره في الانترنت بمجرد اكتشاف الثغرة وفقاً لتقرير أعدّته Symantec.
 
 
-![](https://djug.developpez.com/rsc/Internet_Explorer_7_Logo.png)
+![](Internet_Explorer_7_Logo.png)
 
 
 
@@ -32,7 +32,7 @@ PoC:
 
 
 
-![exploit.IE7](https://www.it-scoop.com/wp-content/uploads/2009/11/exploit.IE7_.PNG)
+![exploit.IE7](exploit.IE7_.PNG)
 
 
 

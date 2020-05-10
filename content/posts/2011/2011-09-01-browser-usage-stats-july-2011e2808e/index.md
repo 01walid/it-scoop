@@ -32,7 +32,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/Statcounter-jul08-Aug11.jpg)
+[![](Statcounter-jul08-Aug11.jpg)
 ](https://www.it-scoop.com/2011/09/browser-usage-stats-july-2011‎/)
 
 

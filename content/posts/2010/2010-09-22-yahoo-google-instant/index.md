@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/google-yahoo-logos.jpg)
+[![](google-yahoo-logos.jpg)
 ](https://www.it-scoop.com/2010/09/yahoo-google-instant/)
 
 
@@ -50,5 +50,5 @@ tags:
 <!-- more -->
 
 
-![](http://djug.files.wordpress.com/2010/09/bd-google_instant.jpg?w=400&h=496)
+![](bd-google_instant.jpg?w=400&h=496)
 

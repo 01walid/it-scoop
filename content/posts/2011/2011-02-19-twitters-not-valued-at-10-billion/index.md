@@ -23,7 +23,7 @@ tags:
 في [حوار](http://www.npr.org/2011/02/16/133775340/twitters-biz-stone-on-starting-a-revolution) أجراه مع موقع NPR فند Biz Stone أحد مؤسسي Twitter أن تكون قيمة شبكتهم الفعلية قد وصلت فعلا إلى 10 ملايير دولار مثلما [أشارت](https://www.it-scoop.com/2011/02/twitter-facebook-google/) إليه جريدة wall street journal منذ أيام.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/twitter_logo.jpg)
+[![](twitter_logo.jpg)
 ](https://www.it-scoop.com/2011/02/twitters-not-valued-at-10-billion)
 
 

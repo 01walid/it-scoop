@@ -19,7 +19,7 @@ tags:
 
 تواصل Google عمليات شرائها الشهرية، و هذه المرة مع شركة Labpixies الإسرائيلية و التي تتخصص في الـ Widgets.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/lab-pixies.jpeg)
+[![](lab-pixies.jpeg)
 ](https://www.it-scoop.com/2010/04/google-acquires-labpixies/)
 
 تقوم شركة Labpixies بكتابة التطبيقات و الـ Widgets  للكل من الشبكات الاجتماعية على غرار Facebook  و MySpace ، أنظمة تشغيل الهواتف كالـ iPhone و الـ Android، و تعتبر أول شركة توفر أدوات إضافية لخدمة iGoogle التي تم إطلاقها سنة 2005.

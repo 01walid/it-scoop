@@ -22,7 +22,7 @@ tags:
 أعلنت Mozilla أنها أصبحت قريبة من طرح ترقيع من شأنه تصحيح مشكلة أمنية أصابت معظم المتصفحات وبقيت موجودة على الساحة بدون ترقيع قرابة عقد من الزمن.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/mozilla-logo.png)
+[![](mozilla-logo.png)
 ](https://www.it-scoop.com/2010/04/mozilla-%d9%82%d8%b1%d9%8a%d8%a8%d8%a9-%d8%ac%d8%af%d8%a7%d9%8b-%d9%85%d9%86-%d8%aa%d8%b1%d9%82%d9%8a%d8%b9-%d9%85%d8%b4%d9%83%d9%84%d8%a9-%d8%a3%d9%85%d9%86%d9%8a%d8%a9-%d8%b9%d9%85%d8%b1%d9%87%d8%a7/)
 
 

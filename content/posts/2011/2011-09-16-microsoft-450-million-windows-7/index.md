@@ -23,7 +23,7 @@ tags:
 سنة واحدة كانت كافية لنظام Windows 7 ليتخطى جده XP الذي بِيع منه 210 مليون نسخة بعد عامين ونصف من إطلاقه حسب ما أعلنت عنه Microsoft في مايو 2004،  ولقد تجاوزه بعد مرور عام واحد فقط بفارق 30 مليون ترخيص.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/Microsoft-Logo-300x711.jpg)
+[![](Microsoft-Logo-300x711.jpg)
 ](https://www.it-scoop.com/2011/09/microsoft-450-million-windows-7)
 
 ولقد جاء على لسان Steven Sinofsky مدير قسم Windows قوله:

@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/red_hat_logo_big.jpg)
+[![](red_hat_logo_big.jpg)
 ](https://www.it-scoop.com/2010/10/red-hat-enterprise-linux-6-rc/)
 يذكر ان الاصدارة التجريبية الأولى صدرت قبل حوالي 4 أشهر ,وقد قالت الشركة بأن اللإصدارة السادسة النهائية ستكون متاحة قبل نهاية هذا العام.
 

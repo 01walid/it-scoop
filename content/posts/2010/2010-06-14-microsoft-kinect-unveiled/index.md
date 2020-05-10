@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/kinect-for-xbox-360.png)
+[![](kinect-for-xbox-360.png)
 ](https://www.it-scoop.com/2010/06/microsoft-kinect-unveiled/)
 
 

@@ -17,7 +17,7 @@ tags:
 
 تم إطلاق الإصدار 32.2  من محرر النصوص الغني عن كل تعريف GNU Emacs و الذي  كتبه لأول مرة Richard Stallman سنة 1976.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/Emacs-logo.png)
+[![](Emacs-logo.png)
 ](https://www.it-scoop.com/2010/05/gnu-emacs-23-2/)
 
 الإصدار الجديد يأتي بالعديد من الخواص الجديدة و التي نجد من بينها تحسين دعم الـ Unicode ، و دعم أفضل لملفات الـ PDF و postscript إلى جانب كل من ملفات XML و Ruby.

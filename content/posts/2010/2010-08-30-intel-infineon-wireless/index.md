@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Intel-Infineon.jpg)
+[![](Intel-Infineon.jpg)
 ](https://www.it-scoop.com/2010/08/intel-infineon-wireless/)
 
 

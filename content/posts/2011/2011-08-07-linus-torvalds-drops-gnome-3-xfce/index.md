@@ -21,7 +21,7 @@ categories:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/Gnome.png)
+[![](Gnome.png)
 ](https://www.it-scoop.com/2011/08/linus-torvalds-drops-gnome-3-xfce)
 
 

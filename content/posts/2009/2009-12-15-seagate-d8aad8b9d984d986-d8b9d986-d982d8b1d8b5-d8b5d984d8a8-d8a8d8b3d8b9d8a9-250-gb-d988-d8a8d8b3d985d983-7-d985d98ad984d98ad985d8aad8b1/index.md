@@ -19,8 +19,8 @@ tags:
 أعلنت Seagate عن القرص الصلب الجديد الذي تنوي تسويقه قريبا ذي السعات 160 و 250 Gb و التي لا يتعدى سمكه 7 ميليمترات.
 
 
-[![](http://www.pc-boost.com/news/images/1260864824.jpg)
-](https://www.it-scoop.com/2009/12/seagate-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d9%82%d8%b1%d8%b5-%d8%b5%d9%84%d8%a8-%d8%a8%d8%b3%d8%b9%d8%a9-250-gb-%d9%88-%d8%a8%d8%b3%d9%85%d9%83-7-%d9%85%d9%8a%d9%84%d9%8a%d9%85%d8%aa%d8%b1/)[![](http://www.pc-boost.com/news/images/1260864999.png)
+[![](1260864824.jpg)
+](https://www.it-scoop.com/2009/12/seagate-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d9%82%d8%b1%d8%b5-%d8%b5%d9%84%d8%a8-%d8%a8%d8%b3%d8%b9%d8%a9-250-gb-%d9%88-%d8%a8%d8%b3%d9%85%d9%83-7-%d9%85%d9%8a%d9%84%d9%8a%d9%85%d8%aa%d8%b1/)[![](1260864999.png)
 ](https://www.it-scoop.com/2009/12/seagate-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d9%82%d8%b1%d8%b5-%d8%b5%d9%84%d8%a8-%d8%a8%d8%b3%d8%b9%d8%a9-250-gb-%d9%88-%d8%a8%d8%b3%d9%85%d9%83-7-%d9%85%d9%8a%d9%84%d9%8a%d9%85%d8%aa%d8%b1/)
 
 

@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Firefox-Vulnerability.jpg)
+[![](Firefox-Vulnerability.jpg)
 ](https://www.it-scoop.com/2010/10/firefox-nobel-peace-prize/)
 
 

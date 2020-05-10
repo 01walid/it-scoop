@@ -19,7 +19,7 @@ tags:
 
 [أعلن](http://thread.gmane.org/gmane.linux.kernel/1147415) Linus Torvalds عن إطلاقه النسخة المرشحة الأولى من نواة نظام التشغيل Linux و التي تحمل هذه المرة ترقيما جديدا  ( [Linux Kernel 3.0-rc1](http://www.kernel.org/pub/linux/kernel/v3.0/testing/) )
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/06/tux30_blue_200-bbef291494ec4778.png)
+[![](tux30_blue_200-bbef291494ec4778.png)
 ](https://www.it-scoop.com/2011/06/linux-3-0-rc1/)
 
 فبعد حوالي عشرين سنة على إطلاقه للإصدار  الأول من النواة , وبعد حوالي 15 سنة على الإصدار 2.0 قرر "فجأة" المرور إلى  النسخة الثالثة .

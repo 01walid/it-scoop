@@ -1,0 +1,874 @@
+
+  
+    
+    
+      
+    
+      
+      
+
+        
+    
+      
+    
+  
+
+      <!DOCTYPE html>
+      <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+      <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+      <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+      <!--[if gt IE 8]><!--> <html class="no-js" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+        <head>
+          <base href="https://www.nexedi.com/nexedi-jp.logo.image/" />
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <meta name="generator" content="Nexedi SA - Copyright (C) 2001 - 2015. All rights reserved." />
+          <meta name="description" content="" />
+          <meta name="keywords" content="" />
+          <meta name="robots" content="index, follow" />
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <title>Nexedi ERP5</title>
+          <link rel="shortcut icon" href="favicon.ico" />
+
+          
+          <!-- SEO -->
+          
+  
+
+          
+  
+
+        
+
+          
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/erp5_listbox.css" />
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/css/flexslider.css" />
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/css/normalize.min.css" />
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/css/main.css" />
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/erp5_fixes.css" />
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/custom.css" />
+          
+          
+            <link type="text/css" rel="stylesheet"
+                  href="https://www.nexedi.com/open-sans/open-sans.css" />
+          
+          
+
+          
+            
+            
+            
+            
+            
+              
+                
+                  
+                
+                
+              
+            
+          
+          
+            <script type="text/javascript"
+                    src="https://www.nexedi.com/js/vendor/jquery-1.10.1.min.js"></script>
+          
+          
+            <script type="text/javascript"
+                    src="https://www.nexedi.com/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+          
+          
+            <script type="text/javascript"
+                    src="https://www.nexedi.com/galleria/galleria-1.4.2.js"></script>
+          
+          
+            <script type="text/javascript"
+                    src="https://www.nexedi.com/magnific-popup/magnific-popup.js"></script>
+          
+          
+            <script type="text/javascript"
+                    src="https://www.nexedi.com/URL-polyfill.js"></script>
+          
+          
+            <script type="text/javascript"
+                    src="https://www.nexedi.com/simplicity.js"></script>
+          
+
+          
+          <!-- site verification -->
+          
+  <meta name="google-site-verification" content="OQlP94UFkYlRpSxU1q3enuhFocywLETdl5_sqks51Ro" />
+  <meta property="wb:webmaster" content="49946e0e127c87e9" />
+
+        
+        </head>
+        <body>
+          <form id="main_form" class="main_form"
+                onsubmit="changed=false; return true"
+                action="https://www.nexedi.com/nexedi-jp.logo.image"
+                method="post" enctype="multipart/form-data">
+            <fieldset id="hidden_fieldset" class="hidden_fieldset">
+              
+              
+    <input type="hidden" name="cancel_url" value="https://www.nexedi.com/nexedi-jp.logo.image/Image_viewAsWeb" />
+<input type="hidden" name="object_uid" value="2005140990" />
+<input type="hidden" name="form_id" value="Image_viewAsWeb" />
+<input type="hidden" name="object_path" value="/nexedi/web_site_module/nexedi_com_simplicity/nexedi-jp.logo.image" />
+  
+            </fieldset>
+            
+
+          
+  
+
+
+          <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+          <![endif]-->
+
+          
+
+        <!--jquery mobile//-->
+        <!--<script src="js/vendor/jquery.mobile-1.3.2.min.js"></script>-->
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <script src="erp5.js"></script>
+        <script src="erp5_discussion.js"></script>
+        
+        <!-- FlexSlider -->
+        <script defer src="js/jquery.flexslider.js"></script>
+
+        <script type="text/javascript">
+        $(window).load(function(){
+                $('.flexslider').flexslider({
+                        directionNav: false,
+                        keyboard: true,
+                        animation: "slide",
+                        animationLoop: true,
+                        slideshow: true,
+                        controlsContainer: ".sliderDirectNav",
+                        start: function(slider){
+                                $('body').removeClass('loading');
+                        }
+                });
+        });
+        </script>
+                
+        <!-- Optional FlexSlider Additions -->
+        <script type="text/javascript" src="js/jquery.easing.js"></script>
+
+        
+
+
+
+          <div class="header-container">
+              
+                
+                  
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_site_header">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            site_header
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+
+  <header class="wrapper clearfix">
+    
+    <!-- Language Menu -->
+    <ul class="langmenue">
+      
+        <li class="en">
+
+          <a href="Base_doLanguage?select_language=en"
+             class="selected">en</a>
+
+        </li>
+      
+      
+        <li class="de">
+
+          <a href="Base_doLanguage?select_language=de"
+             class="not_selected">de</a>
+
+        </li>
+      
+      
+        <li class="fr">
+
+          <a href="Base_doLanguage?select_language=fr"
+             class="not_selected">fr</a>
+
+        </li>
+      
+      
+        <li class="ja">
+
+          <a href="Base_doLanguage?select_language=ja"
+             class="not_selected">ja</a>
+
+        </li>
+      
+      
+        
+      
+      
+        <li class="pt">
+
+          <a href="Base_doLanguage?select_language=pt"
+             class="not_selected">pt</a>
+
+        </li>
+      
+      
+        <li class="zh">
+
+          <a href="Base_doLanguage?select_language=zh"
+             class="not_selected">zh</a>
+
+        </li>
+      
+    </ul>
+    
+    <!-- Login Menu -->
+    <!--
+    <ul class="custom-menu-login">
+      <li tal:condition="python: here.portal_membership.isAnonymousUser() is 0" ><a tal:attributes="href python: portal_path + '/WebSite_logout'">Logout</a></li>
+      <li tal:condition="python: here.portal_membership.isAnonymousUser()  is not 0" ><a tal:attributes="href python: portal_path + '/login_form'">Login</a></li>
+    </ul>
+    -->
+
+    <span class="title logo">
+      <a title="home" href="https://www.nexedi.com">NEXEDI</a>
+      <span class="claim">flexibility for your business</span>
+    </span>
+  </header>
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                
+              
+          </div>
+
+          <div class="main-container Image-content" id="_id">
+
+                <div class="main clearfix">
+                    <div class="headteaser index">
+                      <div class="teaserin">
+                        <div class="wrappin">
+
+                          <!-- <tal:block tal:condition="python: layout_form is not None"> -->
+
+                            
+                              
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_header_title">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            header_title
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+  <h1></h1>
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                            
+
+                            
+
+                            
+                              
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_breadcrumb">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            breadcrumb
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+  
+  <div class="breadcrumb">
+    <ul>
+
+      <li>
+        
+          <a href="https://www.nexedi.com"
+             class="breadcrumb" title="Home">Home</a>
+        
+      </li>
+      <li>
+        
+          <a href="https://www.nexedi.com/nexedi-jp.logo.image"
+             class="last-breadcrumb"
+             title="nexedi-jp.logo.image">nexedi-jp.logo.image</a>
+        
+      </li>
+
+    </ul>
+  </div>
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                            
+
+                            
+                              
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_profile_document">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            profile_document
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+  
+  
+  <div class="teaserInfo">
+    <ul>
+      <li><strong>Last Update:</strong>2015-11-12</li>
+      <li><strong>Version:</strong>002</li>
+      <li><strong>Language:</strong>ja</li>
+      <li class="social facebook">
+        
+  
+  <a target="_blank"
+     href="http://www.facebook.com/dialog/share?app_id=1442843545949100&amp;href=https://www.nexedi.com/nexedi-jp.logo.image"><img src="web_images/facebook-button.png" style="width:2em;height:2em;" alt="[Share on Facebook]" /></a>
+  
+
+      </li>
+      <li class="social twitter">
+        
+  
+  <a target="_blank"
+     href="http://twitter.com/intent/tweet?url=https://www.nexedi.com/nexedi-jp.logo.image&amp;via=erp5&amp;related=ERP5"><img src="web_images/twitter-button.png" style="width:2em;height:2em;" alt="[Share on Twitter]" /></a>
+  
+
+      </li>
+      <li class="social google">
+        
+  
+
+      </li>
+    </ul>
+  </div>
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                            
+
+                            
+                              
+  <!-- Each aggregate of groups is a div wrapper -->
+  
+
+                            
+
+                         <!-- </tal:block> -->
+
+                        </div>
+
+                        
+
+                          
+                            <div class="sliderDirectNav"></div>
+                          
+
+                        
+
+                      </div>
+                    </div>
+
+                    <div class="content wrappin  Image-content">
+
+                      <!-- Form is rendered here -->
+                      
+          
+<!--      XXX: with simplicity theme all .js code is loaded before this point so no nstallUnsavedChangesWarning exists
+          <script type="text/javascript"
+            tal:condition="portal/portal_preferences/getPreferredHtmlStyleUnsavedFormWarning"
+            tal:define="message python:context.Base_translateString('You have unsaved changes').replace('\\', '\\\\').replace('\'', '\\\'')"
+            tal:content="structure string:installUnsavedChangesWarning('$message');">
+          </script>-->
+          <div class="document">
+            
+            <div class="content">
+              
+        
+    
+      
+
+      
+        
+          <fieldset class="left viewable">
+            
+          </fieldset>
+        
+      
+      
+        
+          <fieldset class="center viewable">
+            
+          </fieldset>
+        
+      
+      
+        
+          <fieldset class="bottom viewable">
+            
+            
+              
+    
+      <div class="field" title="">
+        
+          <label>
+            Image
+            
+            
+          </label>
+          <div class="input"><img src="https://www.nexedi.com/nexedi-jp.logo.image?quality=75.0&amp;format=png" alt="Image" style="width:100%" /></div>
+          
+          
+        
+      </div>
+    
+  
+            
+          </fieldset>
+        
+      
+      <p class="clear"></p>
+    
+  
+      
+              
+            </div>
+          </div>
+        
+        
+
+                      
+                      <!-- Blog -->
+                      
+
+    
+
+
+                      
+
+                        
+                          
+  <!-- Each aggregate of groups is a div wrapper -->
+  
+
+                        
+
+                        
+                          
+  <!-- Each aggregate of groups is a div wrapper -->
+  
+
+                        
+
+                        
+                          
+  <!-- Each aggregate of groups is a div wrapper -->
+  
+
+                        
+
+                        
+                          
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_related_documents">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            related_documents
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+  
+  
+  
+  
+  
+  
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                        
+
+                        
+                          
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_discussions">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            discussions
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+  
+  <div class="bottomPosts Discussions">
+    <h2>
+    <!--
+      <a title="Show more"
+         tal:attributes="href python: forum_web_section.absolute_url()">Discussions</a>
+      
+       
+      <a class="txtButn" title="Show more"
+         tal:attributes="href string:${forum_web_section/absolute_url}/WebSection_viewCreateNewDiscussionThreadDialog?cancel_url=${absolute_url}&amp;predecessor_url=${relative_url}">New</a>
+      -->
+    </h2>
+
+    <!--
+    <a class="txtButn" title="Show more" tal:attributes="href string:${forum_web_section/absolute_url}">More</a>-->
+    <div class="clear"></div>
+  </div>
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                        
+
+                        <!-- handler for front page only -->
+                        
+
+  
+
+  
+
+
+                        
+                      
+                      
+                      <div class="clear"></div>
+                    </div>
+
+                </div> <!-- #main -->
+
+                <!-- XXX: move to layout_form -->
+                
+  
+  
+
+
+
+          </div> <!-- #main-container -->
+
+          <div class="footer-container">
+            
+              
+                
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_site_footer">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label" title="">
+        
+          <label>
+            site_footer
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label" >
+
+  <p> </p> 
+  <p> </p>
+  
+  <footer class="top">
+ 		<div class="footerin">
+ 			<div class="list a">
+ 				<h4>Company</h4>
+ 				<ul>
+ 				  <li><a href="about" title="Nexedi | About Nexedi - Jean-Paul Smets - Team">About</a></li>
+          <li><a href="value" title="Nexedi | Values - Crafting Innovative Open Source Software Around Client Needs">Values</a></li>
+          <li><a href="success" title="Nexedi | Success Cases - Implementation Examples and Success Stories">Customers</a></li>
+          <li><a href="innovation" title="Nexedi | Innovation - Inventions, Publications, Research Projects">Innovation</a></li>
+          <li><a href="free-software" title="Nexedi | Stack - Overview of free software solutions">Software</a></li>
+          <li><a href="jobs" title="Nexedi | Career Opportunities in Open Source Software">Career</a></li>
+          <li><a href="contact" title="Nexedi | Contact - Enquiries - Customer Service">Contact</a></li>
+          <li><a href="licensing" title="Nexedi | Stack Licensing Options">Licensing</a></li>
+ 				</ul>
+ 			</div>
+
+  		<div class="list b">
+ 				<h4>Services</h4>
+ 				<ul>
+ 				  <li><a href="service/nexedi-service-erp5" title="Nexedi | ERP5 Enterprise Service">ERP5 Enterprise</a></li>
+ 				  <li><a href="service/nexedi-service-slapos" title="Nexedi | SlapOS Managed Cloud Service">SlapOS Managed Cloud</a></li>
+ 				  <li><a href="service/nexedi-service-wendelin" title="Nexedi | Wendelin Managed Big Data Service">Wendelin Managed Big Data</a></li>
+ 				</ul>
+ 			</div>
+ 			
+ 			<div class="list c">
+ 				<h4>News</h4>
+ 				<ul>
+ 					<li><a href="https://twitter.com/nexedi" title="Follow Nexedi on Twitter!">Twitter</a></li>
+ 					<li><a href="https://www.facebook.com/pages/Nexedi/168462169880320" target="_blank" title="Follow Nexedi on Facebook!">Facebook</a></li>
+ 					<li><a href="blog" title="Nexedi | Company Blog">Blog</a></li>
+          <li><a href="press" title="Nexedi | Official Press Releases">Press</a></li>
+          <li><a href="success" title="Nexedi | Success Cases - Implementation Examples and Success Stories">Success Cases</a></li>
+ 				</ul>
+ 			</div>
+	
+ 			<div class="list d">
+ 				<h4>Related Sites</h4>
+ 				<ul>
+ 					<li><a href="http://www.osoe-project.org/" target="_blank" title="OSOE | One Student One ERP">One Student One ERP</a></li>
+ 				</ul>
+ 			</div>              			
+	
+ 			<div class="clear"></div>
+ 		</div>
+ 	</footer>
+           		
+ 	<footer class="bottom">
+ 	  <div class="footerin">
+		  <div class="list">
+ 				<h4>Open Source / Free Software</h4>
+ 				<ul>
+ 					<li><a href="https://erp5.nexedi.com/" target="_blank">ERP5</a></li>
+ 					<li><a href="https://jio.nexedi.com/" target="_blank">JIO</a></li>
+ 					<li><a href="https://renderjs.nexedi.com/" target="_blank">RenderJS</a></li>	
+ 					<li><a href="https://officejs.nexedi.com/" target="_blank">OfficeJS</a></li>		
+ 					<li><a href="https://slapos.nexedi.com/" target="_blank">SlapOS</a></li>
+ 					<li><a href="https://neo.nexedi.com/" target="_blank">NEO</a></li>
+ 					<li>(see the full <a href="https://stack.nexedi.com" target="_blank" style="text-decoration:underline">free software stack)</a></li>
+ 				</ul>
+ 			</div>
+ 			<div class="logoFooter">
+ 				<a class="erp" href="https://erp5.nexedi.com" title="ERP5 | Open Source ERP | Unified Enterprise ERP"></a>
+ 				<a class="nexedi" href="/" title="Nexedi | Free Software"></a>
+ 			</div>
+ 			<div class="clear" style="text-align:center">
+        <a href="http://www.miibeian.gov.cn/" style="color:white">沪ICP备14008524号</a>
+      </div>
+ 		</div>  
+ 	</footer>
+
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+              
+            
+          </div>
+
+          
+
+          
+
+  
+
+
+
+          
+          </form>
+        </body>
+      </html>
+    
+  
+      
+
+
+    
+  
+    
+  
+  
+

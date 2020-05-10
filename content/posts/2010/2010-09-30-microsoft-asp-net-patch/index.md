@@ -27,7 +27,7 @@ tags:
 
 [](https://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/aspnet-logo.gif)
+[![](aspnet-logo.gif)
 ](https://www.it-scoop.com/2010/09/microsoft-asp-net-patch/)
 
 تم الإعلان عن الثغرة في الـ 17 من سبتمبر على يد باحثين خلال مؤتمر أمني انعقد في الأرجنتين، و قد استغرقت Microsoft أكثر من 10 أيام لترقيع الثغرة، و على غير عادتها فإن الترقيع غير متوفر مباشرة من خلال Windows Update و إنما تطلب Microsoft من زبائنها [تحميل](http://www.microsoft.com/technet/security/bulletin/MS10-070.mspx) الترقيع و تنصيبه يدويا.

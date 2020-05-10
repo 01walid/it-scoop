@@ -20,7 +20,7 @@ tags:
 أطلقت RedHat [اليوم ](http://www.redhat.com/about/news/prarchive/2011/Red-Hat-Delivers-Red-Hat-Enterprise-Linux-6-1)الإصدار 6.1 من توزيعتها Red Hat Enterprise الموجهة للشركات و الذي يعتبر أول تحديث منذ [إطلاق الإصدار 6](https://www.it-scoop.com/2010/11/red-hat-enterprise-linux-6/) من التوزيعة شهر نوفمبر المنصرم.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/images.jpg)
+[![](images.jpg)
 ](https://www.it-scoop.com/2011/05/red-hat-enterprise-6-1/)
 
 

@@ -19,7 +19,7 @@ tags:
 
 كشفت Microsoft عن محتوى الـ Patch Tuesday الذي ستنشره يوم الثلاثاء القادم و الذي يسمح بترقيع 11 ثغرة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/Microsoft_patch_tuesday.jpg)
+[![](Microsoft_patch_tuesday.jpg)
 ](https://www.it-scoop.com/2010/09/patch-tuesday-september-2010/)
 
 

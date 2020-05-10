@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/01/firefox-speed.jpg)
+[![](firefox-speed.jpg)
 ](https://www.it-scoop.com/2011/01/20-line-code-speed-up-firefox-windows)
 
 

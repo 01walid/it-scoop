@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/playdom-disney.jpg)
+[![](playdom-disney.jpg)
 ](https://www.it-scoop.com/2010/07/walt-disney-to-acquire-playdom)
 
 

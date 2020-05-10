@@ -20,7 +20,7 @@ tags:
 ما زالت حرب المتصفحات مستعرة حيث استطاعت Mozilla أن ترفع من قدرة متصفحها Firefox بإصداره 4 beta 7 فيما يخص محرك JavaScript، لكن المتصفح للأسف ما زال يحتاج للكثير حتى يستطيع اللحاق بمنافسيه Chrome و Opera.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/12-11-2010-11-41-37_sm.png)
+[![](12-11-2010-11-41-37_sm.png)
 ](https://www.it-scoop.com/2010/11/mozilla-firefox-4-beta-7-faster)
 
 يقدم Firefox 4 beta 7 العديد من التحسينات على الإصدار 3.6.12 ويظهر هذا واضحاً في اختبار القدرة SunSpider JavaScript benchmark والذي يظهر تحسناً في الأداء. لكن مع هذا ما يزال Firefox خلف Opera و Chrome في الترتيب.

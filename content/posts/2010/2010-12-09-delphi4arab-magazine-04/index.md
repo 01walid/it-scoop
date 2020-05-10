@@ -17,7 +17,7 @@ tags:
 
 بعد طول غياب تعود مجلة منتدى دلفي للعرب للصدور من جديد، بعدد رابع يحتوي العديد من المواضيع المهمة.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/delphi4arab_magazine_04-212x300.jpg)
+[![](delphi4arab_magazine_04-212x300.jpg)
 ](https://www.it-scoop.com/2010/12/delphi4arab-magazine-04/)
 
 في طيات هذا العدد نجد كلا من:

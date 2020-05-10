@@ -18,8 +18,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/11/fedora16alpha-large_001.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/fedora16alpha-large_001.jpg)من بين ما جاء به هذا الإصدار نجد كلا من:
+[![](fedora16alpha-large_001.jpg)
+](fedora16alpha-large_001.jpg)من بين ما جاء به هذا الإصدار نجد كلا من:
 
 
 

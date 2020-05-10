@@ -23,7 +23,7 @@ tags:
 
 أعلنت Microsoft  على مدونة Office for Mac وصول الإصدار 2011 من حزمتها المكتبية Office الموجهة لأنظمة Mac مرحلة RTM  (release to manufacture).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/09/office-for-mac-2011.jpg)
+[![](office-for-mac-2011.jpg)
 ](https://www.it-scoop.com/2010/09/microsoft-office-for-mac-2011-rtm)
 
 وصول التطبيق لهذه المرحلة يعني وصوله إلى آخر مراحل إنتاجه و لم يتبق حسبما ورد في الفيديو المرفقة في [التدوينة](http://blog.officeformac.com/office-for-mac-2011-hits-rtm/) التي تعلن ذلك سوى حرقه على أقراص و تغليفه و من ثم بيعه.

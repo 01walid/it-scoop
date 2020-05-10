@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/linkedin_logo.jpg)
+[![](linkedin_logo.jpg)
 ](https://www.it-scoop.com/2010/08/fake-linkedin-email/)
 
 
@@ -38,7 +38,7 @@ tags:
 تلقى Dan أيضاً المزيد من البريد المزعج والذي يوصل إلى مواقع بأسماء غريبة (مثل “Cernoma”). عندما قام Dan بزيارة الموقع، أظهر متصفح Google Chrome الذي يستخدمه التحذير التالي:
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/203301-google_chrome_cernoma_warning_original.jpg.png)
+[![](203301-google_chrome_cernoma_warning_original.jpg.png)
 ](https://www.it-scoop.com/2010/08/fake-linkedin-email/)
 
 

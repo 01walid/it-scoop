@@ -18,7 +18,7 @@ tags:
 ربما تكون قد استعملته من قبل و أعجبتك طريقة عرض النتائج فيه، لكنك لن تستطيع استعماله مجددا، إذ أعلن فريق عمل محرك بحث [KartOO](http://www.kartoo.com/) عن إغلاقهم للموقع.
 
 
-**[![](https://www.it-scoop.com/wp-content/uploads/2010/01/Kartoo-300x225.png)
+**[![](Kartoo-300x225.png)
 ](https://www.it-scoop.com/wp-content/uploads/2010/01/Kartoo.png)****اضغط على الصورة لرؤيتها كاملة**
 
 

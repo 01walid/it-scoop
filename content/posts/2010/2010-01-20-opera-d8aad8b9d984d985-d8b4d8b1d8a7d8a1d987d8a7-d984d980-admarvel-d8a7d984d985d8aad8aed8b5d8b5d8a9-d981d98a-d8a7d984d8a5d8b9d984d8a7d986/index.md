@@ -18,7 +18,7 @@ tags:
 
 يبدو أن سوق الإعلان على الهواتف سيشهد هو أيضا انطلاقة قوية هذا العام ، فبعد كل من[ شراء Google لـ Admob بمبلغ 750 مليون دولار](https://www.it-scoop.com/2009/11/google-%d8%aa%d9%84%d8%b9%d9%86-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d8%b4%d8%b1%d9%83%d8%a9-admob/) ، و [شراء  Apple لـ Quattro Wirless بـ 275  مليون دولار](https://www.it-scoop.com/2010/01/apple-%D8%AA%D8%B6%D8%B9-%D9%8A%D8%AF%D9%87%D8%A7-%D8%B9%D9%84%D9%89-quattro-wireless-%D9%85%D9%86%D8%A7%D9%81%D8%B3-admob-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D8%B4%D8%AA%D8%B1%D8%AA%D9%87-google-%D8%B3/)، جاء دور Opera Software لتشتري AdMarvel.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/opera-admarvel.jpg)
+[![](opera-admarvel.jpg)
 ](https://www.it-scoop.com/2010/01/opera-%d8%aa%d8%b9%d9%84%d9%85-%d8%b4%d8%b1%d8%a7%d8%a1%d9%87%d8%a7-%d9%84%d9%80-admarvel-%d8%a7%d9%84%d9%85%d8%aa%d8%ae%d8%b5%d8%b5%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86/)
 
 عملية الشراء هذه ليست بضخامة العمليتين سابقتي الذكر، إذ أن قيمة الصفقة بلغ 8 ملايين دولار إضافة إلى 15 مليون أخرى إن تحققت بعض الأهداف المسطرة خلال سنتين.

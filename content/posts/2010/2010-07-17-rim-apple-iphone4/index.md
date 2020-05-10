@@ -21,7 +21,7 @@ tags:
 رد الرئيسان التنفيذيان لـ Research In Motion  صاحبة هواتف BlackBerry و صانعة هوائيات الهواتف النقالة على التعليقات التي وصفاها بالمضللة لـ Steve Jobs خلال المؤتمر الصحفي الخاص بمشكلة الهوائي في الـ iPhone 4 البارحة.
 
 
-![iphone 4](http://i.dailymail.co.uk/i/pix/2010/06/08/article-1284731-09EF5C0F000005DC-854_634x410.jpg)
+![iphone 4](article-1284731-09EF5C0F000005DC-854_634x410.jpg)
 
 
 

@@ -19,7 +19,7 @@ tags:
 
 هناك من يحارب القرصنة بكل ما أوتي من قوة ، و هناك من يتباهى بها، فقد أعلنت Avast اليوم على [مدونتها](http://www.avast.com/pr-avast-software-over-770-000-pirates-plus-2-in-the-vatican) ، بنوع من "الفخر" باستعمال أزيد من 770 ألف شخص لرخصة مقرصنة تخص الإصدار التجاري لمضاد الفيروسات الخاص بها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/avast-logo.png)
+[![](avast-logo.png)
 ](https://www.it-scoop.com/2010/12/avast-770-000-users-single-license)
 
 بهذا الإعلان، و كأن Avast تود القول: "انظروا إلى هذا العدد الكبير الذي يود استعمال تطبيقاتنا" في محاولة لتبيين مدى كفاءته.

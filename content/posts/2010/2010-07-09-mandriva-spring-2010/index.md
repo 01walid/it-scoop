@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/mandrivalogo.jpg)
+[![](mandrivalogo.jpg)
 ](https://www.it-scoop.com/2010/07/mandriva-spring-2010/)
 
 

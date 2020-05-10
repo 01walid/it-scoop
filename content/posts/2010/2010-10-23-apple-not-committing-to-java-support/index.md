@@ -23,7 +23,7 @@ tags:
 يقول Steve Jobs [في ما يرويه عنه موقع CNET في حادثة الـ Flash الشهيرة](http://news.cnet.com/8301-30685_3-20003742-264.html): وحده المطور من يملك صلاحيات النفاذ لأدنى أدوات وموارد النظام المشتركة ، وليس التطبيقات المفسرة متعددة المنصات أو تابعة لجهة ثالثة third party... يبدو أن هذه المقولة –عند Jobs- سارية المفعول مع Java !، ففي آخر تحديث لمنصة Java يخص Mac OS X 10.6 Snow Leopard، نبهت Apple أن هذا التحديث هو الأخير ولن يكون هناك دعم آخر من قبلها لـ Java.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/Picture_63.png)
+[![](Picture_63.png)
 ](https://www.it-scoop.com/2010/10/apple-not-committing-to-java-support)
 
 التنبيه يخص محرك التشغيل المصنوع من قبل Apple أو Apple-produced runtime، فهذا الأخير لن يكون دعمه بنفس المستوى  وقد يتم إسقاطه في النسخ القادمة. أما محرك تشغيل اللغة نفسها Java-runtime فسيستمر وفق دورة الدعم القياسي.

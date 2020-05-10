@@ -30,7 +30,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/google-plus-is-failing-data.png)
+[![](google-plus-is-failing-data.png)
 ](https://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
 
 
@@ -51,7 +51,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/08/google-plus-is-not-failing.png)
+[![](google-plus-is-not-failing.png)
 ](https://www.it-scoop.com/2011/08/google-plus-is-failing-data/)
 
 

@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Facebook-Email.png)
+[![](Facebook-Email.png)
 ](https://www.it-scoop.com/2010/11/facebook-email/)
 
 

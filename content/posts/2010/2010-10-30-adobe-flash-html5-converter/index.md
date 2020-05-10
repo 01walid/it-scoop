@@ -23,7 +23,7 @@ tags:
 
 إذا كنت من عشاق/مطوري Flash و كنت تظن أن الـ HTML5 هو العدو الذي يتهدد تقنيتك المفضلة، فهذا الخبر حتما سيهمك، فلقد استعرضت Adobe خلال مؤتمر MAX 2010  أداة تقوم بتحويل الـ Flash إلى HTML5.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/flash-html5.jpg)
+[![](flash-html5.jpg)
 ](https://www.it-scoop.com/2010/10/adobe-flash-html5-converter/)
 
 الأداة توفر على المطورين وقتا كبيرا، حيث أنه يكفي تمرير ملف الـFlash  للتطبيق حتى يتولى تحويله خلال لحظات فقط إلى HTML5، CSS و SVG.

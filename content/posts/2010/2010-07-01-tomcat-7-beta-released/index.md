@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Logo-Apache-Tomcat.png)
+[![](Logo-Apache-Tomcat.png)
 ](https://www.it-scoop.com/2010/07/Tomcat-7-beta-released)
 
 

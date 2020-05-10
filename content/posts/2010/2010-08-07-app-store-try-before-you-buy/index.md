@@ -36,7 +36,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/AppStore-tryFeforeYouBuy.jpg)
+[![](AppStore-tryFeforeYouBuy.jpg)
 ](https://www.it-scoop.com/2010/08/app-store-try-before-you-buy)
 
 

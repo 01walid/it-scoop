@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://www.google.com/logos/2010/newyear11-hp.jpg )
+[![](newyear11-hp.jpg )
 ](https://www.it-scoop.com/2010/12/google-new-year-2011-doodle)
 
 كل ما في الأمر هو أن Google تحتفل برأس السنة الميلادية، و الكتابة MMXI ما هي إلا 2011  مكتوبة بالحروف الرومانية.

@@ -18,8 +18,8 @@ tags:
 
 
 
-[![DZBlogDay](https://www.it-scoop.com/wp-content/uploads/2011/11/DZBlogDay.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/DZBlogDay.png)
+[![DZBlogDay](DZBlogDay.png)
+](DZBlogDay.png)
 
 
 

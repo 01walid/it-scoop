@@ -17,7 +17,7 @@ tags:
 
 أطلق  العملاق IBM  الإصدار Beta2 للحزمة المكتبية 3 Lotus Symphony المجانية والمشتقة من OpenOffice.org.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/symphony_logo.png)
+[![](symphony_logo.png)
 ](https://www.it-scoop.com/?p=1877)
 
 هذا الإصدار متوفر بإحدى عشرة لغة  (لا تتضمن العربية) لأنظمة windows و باللغة الانجليزية فقط لكل من نظامي Linux و Mac.

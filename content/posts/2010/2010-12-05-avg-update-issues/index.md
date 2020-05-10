@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/avg-logo.gif)
+[![](avg-logo.gif)
 ](https://www.it-scoop.com/2010/12/avg-update-issues/)
 
 

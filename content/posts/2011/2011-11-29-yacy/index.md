@@ -19,8 +19,8 @@ tags:
 
 
 
-[![شعار محرك البحث اللامركزي ياسي Yacy](https://www.it-scoop.com/wp-content/uploads/2011/11/YaCy.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/11/YaCy.png)
+[![شعار محرك البحث اللامركزي ياسي Yacy](YaCy.png)
+](YaCy.png)
 
 
 

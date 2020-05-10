@@ -19,7 +19,7 @@ tags:
 
 و حلقة اليوم (العاشرة) بعنوان لماذا لا نبني بيوتا ذكية ؟
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/04/SmartHome.jpg)
+[![](SmartHome.jpg)
 ](https://www.it-scoop.com/2011/04/digital-vision-podcast-e10-smart-home)
 
 يمكن متابعة "رؤية تقنية" على صفحتها على الـ Facebook من [هنا](http://www.facebook.com/Arab.Digital.Vision)

@@ -20,7 +20,7 @@ tags:
 فاجئني [خبر](http://mashable.com/2011/02/12/algeria-facebook-shutdown-2/) نشرته Mashable منذ ساعات تشير فيه إلى أن الجزائر قد لجأت إلى قطع الإنترنت و الشبكات الاجتماعية و الذي كان عنوانه في البداية " Algeria's Internet, Facebook Shut Down As Unrest Intensifies" قبل أن يحدَّث، و أرى أنه من الأفضل أن أشير إلى أن الخبر لا أساس له من الصحة.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/02/internet-algerie.jpg)
+[![](internet-algerie.jpg)
 ](https://www.it-scoop.com/2011/02/algeria-internet-is-not-down-nor-are-social-networks/)
 
 

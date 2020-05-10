@@ -22,7 +22,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/the-daily-fail.jpg)
+[![](the-daily-fail.jpg)
 ](https://www.it-scoop.com/2011/05/the-daily-lost-10-million/)
 
 

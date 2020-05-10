@@ -24,7 +24,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/google-pagerank.jpg)
+[![](google-pagerank.jpg)
 ](https://www.it-scoop.com/2011/10/pagerank/)
 
 
