@@ -17,8 +17,8 @@ tags:
 
 
 
-[![webdoc logo](https://www.it-scoop.com/wp-content/uploads/2011/12/webdoc-logo.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/webdoc-logo.png)
+[![webdoc logo](webdoc-logo.png)
+](webdoc-logo.png)
 
 
 

@@ -27,7 +27,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/09/amazon-kindle-fire-3.jpg)
+[![](amazon-kindle-fire-3.jpg)
 ](https://www.it-scoop.com/2011/09/amazon-kindle-fire/)
 
 

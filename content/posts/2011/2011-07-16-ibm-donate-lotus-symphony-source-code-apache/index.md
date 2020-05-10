@@ -28,7 +28,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/02/symphony_logo.png)
+[![](symphony_logo.png)
 ](https://www.it-scoop.com/2011/07/ibm-donate-lotus-symphony-source-code-apache)
 ما الذي ستستفيد منه حزمة OpenOffice ؟ تحسينات كثيرة، أهمها تحسين قابلية استخدام الحزمة، تعزيز أدائها، إلى جانب دعم VBA. كما لا يستبعد أن تستفيد حزمة OpenOffice.org من تحسينات تخص الواجهة الرسومية، حيث تعتبر واجهة Lotus Symphony أكثر جمالا.
 

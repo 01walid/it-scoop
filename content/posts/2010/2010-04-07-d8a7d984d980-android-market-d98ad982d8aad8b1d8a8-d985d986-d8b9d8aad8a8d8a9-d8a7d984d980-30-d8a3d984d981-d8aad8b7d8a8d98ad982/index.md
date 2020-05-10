@@ -19,7 +19,7 @@ tags:
 
 بالرغم من كونها لا تزال بعيدة عن الـ App Store و تطبيقاتها الـ 160 ألف، إلا أن الـ   Android Market يتقدم بخطى ثابتة و يقترب من عبتة 30 ألف تطبيق.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/androidmarket.jpg)
+[![](androidmarket.jpg)
 ](https://www.it-scoop.com/2010/04/%d8%a7%d9%84%d9%80-android-market-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%b9%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d9%80-30-%d8%a3%d9%84%d9%81-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82/)
 
 حسب آخر إحصائيات موقع AndroidLib.com فإن الـ   Android Market شهد إضافة 9330 تطبيق جديد خلال شهر مارس لوحده مما سمح له  -حسب ما ذهبت إليه إحصائيات Distimo  -بتجاوز 27 ألف تطبيق.

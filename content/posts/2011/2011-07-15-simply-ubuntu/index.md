@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/simplyubuntu_web_cover.png)
+[![](simplyubuntu_web_cover.png)
 ](https://www.it-scoop.com/2011/07/simply-ubuntu/)
 
 

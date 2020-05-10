@@ -21,7 +21,7 @@ tags:
 
 كانت Microsoft اليوم في موقف حرج عندما أعلن Jerry Bryant على المدونة الرسمية الخاصة بها عن أنها ستقوم بسحب الترقيع الخاص بنشرة [MS10-025](http://www.microsoft.com/technet/security/Bulletin/MS10-025.mspx).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
+[![](microsoft-patch.jpg)
 ](https://www.it-scoop.com/2010/04/Microsoft-pulls-Windows-2000-Server-patch)
 
 يقول Bryant بأن السبب في هذا يعود إلى أن الترقيع الذي تم طرحه لإصلاح الثغرة الأمنية المكتشفة في نظام Windows Server 2000 الذي تم تفعيل خدمات Windows Media Services فيه **لا يقوم بإصلاح الثغرة المعنية**! :o

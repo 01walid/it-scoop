@@ -18,7 +18,7 @@ tags:
 
 لم يمض سوى أقل من أسبوع على [إطلاق Mozilla لأحدث إصدار من متصفحها Firefox 3.6](https://www.it-scoop.com/2009/12/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-3-5-6-%d9%85%d9%86-firefox/) حتى سارعت Google إلى إطلاق الإصدار الرابع من متصفحها Chrome و الذي يمكن أن يصبح ندا بكل منا تحمله الكلمة من معنى لـ Firefox.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/12/Chrome_logo.jpg)
+[![](Chrome_logo.jpg)
 ](https://www.it-scoop.com/2010/01/google-%d8%aa%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%a6%d9%8a-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d9%81%d8%ad-chrome-4-0-%d9%84%d9%86/)
 
 تم إطلاق النسخة النهائية من الإصدار الرابع لأنظمة Windows فقط ، بينما يجب على مستخدمي الـ Mac و Linux الانتظار قليلا.

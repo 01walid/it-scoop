@@ -33,7 +33,7 @@ tags:
 
 
 [![](Mono-logo.gif)
-](https://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)[![](https://www.it-scoop.com/wp-content/uploads/2009/12/moonlight-logo.JPG)
+](https://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)[![](moonlight-logo.JPG)
 ](https://www.it-scoop.com/2011/02/mono-2-10-moonlight-preview-1/)
 
 

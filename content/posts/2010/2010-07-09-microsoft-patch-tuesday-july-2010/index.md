@@ -23,7 +23,7 @@ tags:
 
 كشفت Microsoft عن محتوى الـ Patch Tuesday لشهر يوليو الجاري و الذي يحتوي فقط على أربعة نشرات تخص 13 ثغرة أمنية.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2009/11/microsoft-patch.jpg)
+[![](microsoft-patch.jpg)
 ](https://www.it-scoop.com/2010/07/Microsoft-Patch-tuesday-July-2010)
 
 سيكون [للثغرة التي اكتشفها Travis Ormandy](https://www.it-scoop.com/2010/06/googler-criticized-for-disclosing-windows-related-flaw/) الباحث العامل لدى Google   نصيب من هذا الـ Patch Tuesday، فقد قررت Microsoft نشر ترقيع لها، وهي الثغرة التي أسالت الكثير من الحبر مؤخرا.

@@ -22,7 +22,7 @@ tags:
 جميعنا نتذكر نافذة شبيه بهذه الصورة
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/12/eb_office2007_genuine_1.png)
+[![](eb_office2007_genuine_1.png)
 ](https://www.it-scoop.com/2010/12/microsoft-retires-office-genuine-advantage)
 
 

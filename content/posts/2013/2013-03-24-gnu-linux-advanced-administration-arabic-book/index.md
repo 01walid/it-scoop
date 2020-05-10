@@ -4,7 +4,7 @@ date: 2013-03-24 10:21:57+00:00
 draft: false
 title: مجتمع لينكس العربي يُعلن عن إنهاء ترجمة كتاب الإدارة المتقدمة لـ Gnu/Linux
 type: post
-url: /2013/03/gnu-linux-advanced-يوغرطة بن علي (Youghourta Benali)istration-arabic-book/
+url: /2013/03/gnu-linux-advanced-administration-arabic-book/
 categories:
 - Open source
 - Unix/Linux

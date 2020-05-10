@@ -16,7 +16,7 @@ tags:
 
 أعلنت HP عبر بيان صحفي نشرته اليوم عن إقرار مجلس إدارتها لخطة شراء ما قد تصل قيمته إلى 10 مليارات دولار من أسهم شركتها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/hp.jpg)
+[![](hp.jpg)
 ](https://www.it-scoop.com/2010/08/hp-10-billion-dollar-share-repurchases)
 
 أشار [البيان الصحفي](http://www.hp.com/hpinfo/newsroom/press/2010/100830c.html)، إلى أن الهدف من هذه العملية هو الحد من ظاهرة "تسرب" أسهمها  و التي تنتج من إعادة بيع موظفيها للأسهم التي تمنحها لهم (stock options)، مما سيوفر لها حرية أكبر لدى اتخاذ قراراتها.

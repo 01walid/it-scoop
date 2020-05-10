@@ -20,8 +20,8 @@ tags:
 
 
 
-[![صورة تخيلية عن جهاز Google اللوحي](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Tablet.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Tablet.jpg)
+[![صورة تخيلية عن جهاز Google اللوحي](Google-Tablet.jpg)
+](Google-Tablet.jpg)
 
 
 

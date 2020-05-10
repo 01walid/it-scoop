@@ -19,7 +19,7 @@ tags:
 
 أعلن Axel Pawlik رئيس [Number Resource Organisation](http://www.nro.net/index.html) أو ما يعرف اختصارا بـ NRO بأن عناوين IPv4 شهدت تناقصا آخر خلال الربع الأول من العام الحالي، حيث أنه لم يتبق منها سوى 7.8 % بعد أن [كانت النسبة المتبقية تقدر بـ 10% بداية السنة الحالية](../../../../../2010/01/%D8%A8%D9%82%D8%A7%D8%A1-10-%D9%81%D9%82%D8%B7-%D9%85%D9%86-%D8%B9%D9%86%D8%A7%D9%88%D9%8A%D9%86-ipv4-%D9%88-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%86%D9%81%D8%A7%D8%AF%D9%87%D8%A7-%D8%AC%D9%85/).
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/ipv6_Logo.png)
+[![](ipv6_Logo.png)
 ](https://www.it-scoop.com/2010/04/ipv4-short-on-addresses/)
 
 حسب الـ NRO فإن الـ **APNIC** Asia Pacific Network Information Centre لوحدها قد منحت 27 مليون عناون IPv4 خلال الربع الأول من العام الحالي، وهو العدد المفسر بزيادة الطلب في السوق الصينية على عناوين IPv4.

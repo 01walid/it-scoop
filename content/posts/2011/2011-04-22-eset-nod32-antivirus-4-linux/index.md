@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](http://static3.int.esetstatic.com/fileيوغرطة بن علي (Youghourta Benali)/Images/INT/Press/2011/EAV-Linux-press-600x380.png )
+[![](EAV-Linux-press-600x380.png )
 ](https://www.it-scoop.com/2011/04/eset-nod32-antivirus-4-linux/)
 
 و يتوفر NOD32 Antivirus 4 بنسختين، إحداها موجهة للمستخدمين العاديين و الأخرى للشركات. و سيسمح -كما يشير إليه موقع الشركة- بتوفير حماية أكبر لمستخدمي Linux خاصة من البرامج الضارة متعددة المنصات، كما يمكنه أيضا من اكتشاف البرامج الضارة الموجهة لأنظمة أخرى و عدم السماح لها بالانتشار.

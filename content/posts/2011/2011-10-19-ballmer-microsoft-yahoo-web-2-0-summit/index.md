@@ -21,8 +21,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/steve-ballmer-microsoft-web2-0-summit.jpg)
-](https://www.it-scoop.com/wp-content/uploads/2011/10/steve-ballmer-microsoft-web2-0-summit.jpg)
+[![](steve-ballmer-microsoft-web2-0-summit.jpg)
+](steve-ballmer-microsoft-web2-0-summit.jpg)
 
 
 

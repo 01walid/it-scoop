@@ -19,7 +19,7 @@ tags:
 
 أطلقت BitDefender اليوم الإصدار التجريبي من تطبيق Mobile Security الموجه للهواتف الذكية المجهزة بنظام Android و الذي يمتاز باستهلاكه المحدود للموارد نظرا لاعتماده على تقنية المسح السحابي مثلما يشير إليه [البيان الصحفي](http://www.bitdefender.com/news/bitdefender-announces-mobile-security-beta-2099.html) الذي يعلن عن المنتج الجديد.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/05/BitDefender-Mobile-Security.png)
+[![](BitDefender-Mobile-Security.png)
 ](https://www.it-scoop.com/2011/05/bitdefender-mobile-security-android)
 
 و لقد أشاد Bogdan Dumitru مدير قسم التكنولوجيا لدى BitDefender بنظام Android و بكونه مفتوحا للجميع، و هو الأمر الذي لعب دورا مهما في كتابة تطبيق Mobile Security. و يضيف أن هذا "الانفتاح" هو الذي يسمح أيضا بكتابة تطبيقات ضارة و التي تم اكتشاف العديد منها حتى على الـ Android Market. و بالرغم من حذف تلك التطبيقات من متجر التطبيقات إلا أن إمكانية تنصيب تطبيقات لا تحمل التوقيعات الأمنية اللازمة تبقى ممكنة و تسبب الكثير من المشاكل التي يسعى BitDefender Mobile Security لحلها.

@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/dev-bird.gif)
+[![](dev-bird.gif)
 ](https://www.it-scoop.com/2011/07/twitter-ecosystem-1-million-applications/)
 
 

@@ -26,7 +26,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/11/Java-Money-225x300.png)
+[![](Java-Money-225x300.png)
 ](https://www.it-scoop.com/2010/11/oracle-premium-java-virtual-machine)
 
 

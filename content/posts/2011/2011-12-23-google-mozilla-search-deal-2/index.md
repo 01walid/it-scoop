@@ -24,8 +24,8 @@ tags:
 
 
 
-[![Google ستدفع 300 مليون دولار سنويا لمؤسسة Mozilla والفضل يعود إلى كل من Microsoft و Yahoo](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Firefox-Logo.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/12/Google-Firefox-Logo.png)
+[![Google ستدفع 300 مليون دولار سنويا لمؤسسة Mozilla والفضل يعود إلى كل من Microsoft و Yahoo](Google-Firefox-Logo.png)
+](Google-Firefox-Logo.png)
 
 
 

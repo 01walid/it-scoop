@@ -24,7 +24,7 @@ tags:
 
 [أعلن ](http://conversations.nokia.com/2011/02/11/welcome-to-the-third-ecosystem/) كلا من الرئيسين التنفيذيين لـMicrosoft   السيد  Steve Ballmer  ونظيره في شركة نوكيا Stephen Elop عن عقد الشراكة التي ستجمع شركتيهما و الرامي إلى استخدام نظام Windows Phone 7 على أجهزة الشركة الفلندية.
 
-[![](http://يوغرطة بن علي (Youghourta Benali).conversations.nokia.com/wp-content/uploads/2011/02/nokia-micro-chart-520.jpg)
+[![](http://admin.conversations.nokia.com/wp-content/uploads/2011/02/nokia-micro-chart-520.jpg)
 ](https://www.it-scoop.com/2011/02/nokia-microsoft-windows-phone-7/)
 
 ويأتي هذا الإعلان بعد تسرب عدد من الشائعات تشمل محادثات جمعت المسؤولين في كلتا الشركتين، والتزامهما بالصمت حيال صحة الموضوع، و يصف كلا الطرفان هذه الشراكة بالإستراتيجية ، و يعتبرانها الطريق الذي سيفتح لهما آفاقا جديدة في عالم الهواتف الذكية.

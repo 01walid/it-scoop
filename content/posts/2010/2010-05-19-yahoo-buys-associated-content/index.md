@@ -18,7 +18,7 @@ tags:
 
 أعلنت Yahoo شراءها لـ Associated Content المتخصصة في صحافة المواطن، و التي يساهم في إثراء محتواها الجميع، أو ما يعرف تحت مسمى صحافة المواطن (Citizen journalism)، حيث يساهم في Associated Content أكثر من 380 ألف كاتب.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/05/associatedcontent_com-logo.jpg)
+[![](associatedcontent_com-logo.jpg)
 ](https://www.it-scoop.com/2010/05/Yahoo-Buys-Associated-Content)
 
 تم إنشاء Associated Content سنة 2004 و تسمح لكتابها إضافة شتى أنواع المحتويات من مقالات و صور و فيديوهات حول مواضيع من اختيارهم، مقابل مبالغ مالية.

@@ -25,7 +25,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/07/Oracle-logo.png)
+[![](Oracle-logo.png)
 ](https://www.it-scoop.com/2010/07/Oracle-Critical-Patch-Update-Released)
 
 

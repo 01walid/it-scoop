@@ -21,7 +21,7 @@ tags:
 
 
 [![](logo.png)
-](https://www.it-scoop.com/wp-يوغرطة بن علي (Youghourta Benali)/post-new.phphttps://www.it-scoop.com/2011/01/joomla-1-6/)
+](logo.png)
 
 
 أهم ما جاء في [هذا الإصدار](http://www.joomla.org/announcements/general-news/5348-joomlar-16-has-arrived.html) هو نظام  Access Control System الذي يتيح تحكما أفضل في المسجلين، و إمكانية استعمال شجرة تشعب أعمق للمقالات حيث كانت الإصدارات السابقة لا تدعم سوى الـ Sections و الـ Categories، و تحسينات تخص الإضافات و آليات تحديثها، إضافة إلى تحسينات تخص المواقع متعددة اللغات.

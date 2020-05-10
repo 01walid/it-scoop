@@ -55,7 +55,7 @@ tags:
 
 الخبر الذي يجب أن تكتب تعليقا عليه هو الظاهر في الصورة التالية:
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/08/bitDefender-week3.png)
+[![](bitDefender-week3.png)
 ](https://www.it-scoop.com/2010/08/it-scoop-bitdefender-week-3/)
 
 

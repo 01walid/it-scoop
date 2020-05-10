@@ -70,7 +70,7 @@ tags:
 
 ![](post-7008-12594394995446.png)
 
-![](https://www.it-scoop.com/wp-content/uploads/2009/11/6.png)
+![](6.png)
 
 
 

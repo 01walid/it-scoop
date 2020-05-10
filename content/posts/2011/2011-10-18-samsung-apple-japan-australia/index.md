@@ -23,7 +23,7 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/10/apple-vs-samsung-logos.jpg)
+[![](apple-vs-samsung-logos.jpg)
 ](www.it-scoop.com/2011/10/samsung-apple-japan-australia)
 
 

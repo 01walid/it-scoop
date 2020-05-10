@@ -23,7 +23,7 @@ tags:
 قامت Apple بطرح الإصدار 7.6.7 لبرنامج QuickTime لإصلاح ثغرة حرجة تضع أنظمة  Windows في خطر.
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/04/quicktime_logo.jpg)
+[![](quicktime_logo.jpg)
 ](https://www.it-scoop.com/2010/08/apple-quicktime-767/)
 
 التحديث، الذي يتوفر لأنظمة Windows XP SP3، Windows Vista و Windows 7، يقوم بإصلاح العلّة التي يمكن استغلالها لتنفيذ شفرات خبيثة عن بعد.

@@ -20,7 +20,7 @@ tags:
 
 كشفت Microsoft عن محتوى الـ Patch Tuesday الخاص بشهر أكتوبر الجاري و الذي يمس كافة منتجاتها.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/10/broken-microsoft.jpg)
+[![](broken-microsoft.jpg)
 ](https://www.it-scoop.com/2010/10/patch-tuesday-october-2010)
 
 سيحمل هذا الـ Patch Tuesday في ثناياه [16  نشرة أمنية](http://www.microsoft.com/technet/security/bulletin/ms10-oct.mspx)، أربع منها وصفت بالـ "حرجة". و سيكون "الأثقل" في تاريخ redmond  بفضل ترقيعاته الـ 49.

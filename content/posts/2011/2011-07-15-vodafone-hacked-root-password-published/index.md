@@ -22,8 +22,8 @@ tags:
 
 
 
-[![](https://www.it-scoop.com/wp-content/uploads/2011/07/vodafone-hacked.png)
-](https://www.it-scoop.com/wp-content/uploads/2011/07/vodafone-hacked.png)
+[![](vodafone-hacked.png)
+](vodafone-hacked.png)
 
 
 

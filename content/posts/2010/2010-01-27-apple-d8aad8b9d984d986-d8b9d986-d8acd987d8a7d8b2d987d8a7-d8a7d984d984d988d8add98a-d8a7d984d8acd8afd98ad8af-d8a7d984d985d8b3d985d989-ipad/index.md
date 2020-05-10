@@ -18,7 +18,7 @@ tags:
 
 وأخيراً قامت شركة [Apple](http://www.apple.com) بالإعلان  الرسمي عن إطلاقها جهازها اللوحي الجديد iPad.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/01/iPadConcept.jpg)
+[![](iPadConcept.jpg)
 ](https://www.it-scoop.com/2010/01/apple-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%ac%d9%87%d8%a7%d8%b2%d9%87%d8%a7-%d8%a7%d9%84%d9%84%d9%88%d8%ad%d9%8a-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d8%a7%d9%84%d9%85%d8%b3%d9%85%d9%89-ipad/)
 
 مواصفات الجهاز الجديد:

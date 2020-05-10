@@ -18,7 +18,7 @@ tags:
 
 أعلنت Apple اليوم عن تجاوز مبيعاتها من الجهاز اللوحي iPad سقف الـ 3 ملايين جهاز و هذا في ظرف 80 يوم فقط.
 
-[![](https://www.it-scoop.com/wp-content/uploads/2010/06/ipad-apple-3-vues.jpg)
+[![](ipad-apple-3-vues.jpg)
 ](https://www.it-scoop.com/2010/06/Apple-Sells-Three-Million-iPads-80-Days)
 
 يأتي هذا الإعلان 22 يوما فقط بعد [إعلان Apple اجتياز مبيعات الـ iPad حاجز مليوني جهاز](https://www.it-scoop.com/2010/05/Apple-Sells-2-Million-iPads-Less-Than-60-Days) و هو ما يعني تمكنها من بيع ما 1.2 إلى 1.3 مليون جهاز iPad كل شهر.
