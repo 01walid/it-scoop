@@ -31,3 +31,7 @@ content (and all of it-scoop.com co-authors) safer and harder to lose.
 - it-scoop [logo and artwork](static/images) is made by [Aissam Hamoud](https://twitter.com/hamoudaissam). You don't have the right to re-use it elsewhere unless you have an explicit permission from Aissam Hamoud.
 - it-scoop content itself is licensed under [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/). This License was chosen by Youghourta himself.
 - The theme will be based off [this starter theme](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter). Licensed under MIT. 
+
+<p align="center">
+    <strong>~ لا تنسوا يوغرطة بن علي من صالح دعائك ~</strong>
+</p>
