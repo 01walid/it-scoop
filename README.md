@@ -23,6 +23,7 @@ content (and all of it-scoop.com co-authors) safer and harder to lose.
 - [x] Download all images. Some posts images use an external URL that is no longer available or is 404. This is an issue even with the existing Wordpress version.
 - [x] Each post is browsable and readable on Github itself ([example](/content/posts/2020/2020-02-15-use-youtube-without-youtube-app/index.md)).
 - [ ] Fix posts permalinks with arabic text being URL-encoded in markdown. Confusing Hugo and leading to 404 pages.
+- [ ] Make the content browsable by category, tag, author.
 - [ ] Assign a default thumbnail image to posts without an image (or lost images).
 - [ ] Replace it-scoop.com (the current site) with this static version (once I have control over the domain name).
 - [ ] Implement Disqus (or equivalent) and import old comments (if I could get access to it-scoop Disqus admin panel).
