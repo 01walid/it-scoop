@@ -23,10 +23,11 @@ content (and all of it-scoop.com co-authors) safer and harder to lose.
 - [x] Download all images. Some posts images use an external URL that is no longer available or is 404. This is an issue even with the existing Wordpress version.
 - [x] Each post is browsable and readable on Github itself.
 - [ ] Fix posts permalinks with arabic text being URL-encoded in markdown. Confusing Hugo and leading to 404 pages.
+- [ ] Assign a default thumbnail image to posts without an image (or lost images).
 - [ ] Replace it-scoop.com (the current site) with this static version (once I have control over the domain name).
 - [ ] Implement Disqus (or equivalent) and import old comments (if I could get access to it-scoop Disqus admin panel).
-- [ ] Compare posts one by one. Currently, all posts are automatically processed (with a mix of custom, quickly made, Python and bash scripts). Although things look good (sometimes better than even the existing ones, like http to https auto-conversion, resurrected images ..), but still might require further case by case reviews.
-- [ ] One of the other goals is to modernize the existing Wordpress theme (which I have full rights over, since it was made by me many years ago) to a Hugo theme, focused on readability, the new theme will use less to no javascript (maybe except for comments).
+- [ ] Compare posts one by one. Currently, all posts are automatically processed (with a mix of custom, quickly made, Python and bash scripts).
+- [ ] One of the other goals is to kind of modernize the existing Wordpress theme, make a Hugo theme focused on readability. The new theme will use less to no javascript (maybe except for comments).
 
 # Rights and licenses.
 - it-scoop [logo and artwork](static/images) is made by [Aissam Hamoud](https://twitter.com/hamoudaissam). You don't have the right to re-use it elsewhere unless you have an explicit permission from Aissam Hamoud.
@@ -34,5 +35,5 @@ content (and all of it-scoop.com co-authors) safer and harder to lose.
 - The theme will be based off [this starter theme](https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter). Licensed under MIT. 
 
 <p align="center">
-    <strong>~ لا تنسوا يوغرطة بن علي من صالح دعائك ~</strong>
+    <strong>~ لا تنسوا يوغرطة بن علي من صالح دعائكم ~</strong>
 </p>
