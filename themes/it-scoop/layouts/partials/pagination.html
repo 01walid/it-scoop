@@ -1,0 +1,42 @@
+
+
+  {{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<ul class="flex list-reset border border-grey-light rounded w-auto font-sans">
+    {{ with $pag.First }}
+    <li class="page-item">
+        <a href="{{ .URL }}" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+    </li>
+    {{ end }}
+    <li class="page-item{{ if not $pag.HasPrev }} disabled{{ end }} block hover:text-white hover:bg-blue text-blue border-r border-grey-light px-3 py-2">
+    <a {{ if $pag.HasPrev }}href="{{ $pag.Prev.URL }}"{{ end }} class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+    </li>
+    {{ $ellipsed := false }}
+    {{ $shouldEllipse := false }}
+    {{ range $pag.Pagers }}
+    {{ $right := sub .TotalPages .PageNumber }}
+    {{ $showNumber := or (le .PageNumber 3) (eq $right 0) }}
+    {{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2)))  }}
+    {{ if $showNumber }}
+        {{ $ellipsed = false }}
+        {{ $shouldEllipse = false }}
+    {{ else }}
+        {{ $shouldEllipse = not $ellipsed }}
+        {{ $ellipsed = true }}
+    {{ end }}
+    {{ if $showNumber }}
+    <li class="page-item{{ if eq . $pag }} active{{ end }} block hover:text-white hover:bg-blue text-blue border-r border-grey-light px-3 py-2"><a class="page-link" href="{{ .URL }}">{{ .PageNumber }}</a></li>
+    {{ else if $shouldEllipse }}
+    <li class="page-item disabled block text-white bg-blue border-r border-blue px-3 py-2"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></li>
+    {{ end }}
+    {{ end }}
+    <li class="page-item{{ if not $pag.HasNext }} disabled{{ end }} block hover:text-white hover:bg-blue text-blue px-3 py-2">
+    <a {{ if $pag.HasNext }}href="{{ $pag.Next.URL }}"{{ end }} class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+    </li>
+    {{ with $pag.Last }}
+    <li class="page-item block hover:text-white hover:bg-blue text-blue px-3 py-2">
+        <a href="{{ .URL }}" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}

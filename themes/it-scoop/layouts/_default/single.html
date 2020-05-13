@@ -1,6 +1,11 @@
 {{ define "main" }}
-<article class="text-gray-700 sm:mx-12">
-    <h1 class="font-bold text-3xl text-gray-700">{{ .Title }}</h1>
+<article class="text-gray-700 sm:mx-12 bg-white p-6 rounded-b border-t-2 border-solid border-orange-600 ">
+    <h1 class="font-bold text-3xl text-gray-700 mb-4">{{ .Title }}</h1>
+    <p class="text-sm text-gray-600 flex items-center mb-2">
+        نُشر يوم {{ .Date.Day }} {{ index $.Site.Data.months_ar (printf "%d" .Date.Month) }} {{ .Date.Year }} بواسطة
+        {{ .Params.Author }}
+    </p>
+    <hr class="mb-4">
     {{ .Content }}
 </article>
 {{ end }}

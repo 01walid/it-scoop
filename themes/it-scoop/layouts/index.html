@@ -1,6 +1,38 @@
-{{ define "main" }}
-<article class="text-center text-gray-700">
-    <h1 class="font-serif font-thin text-5xl text-gray-500">{{ .Title }}</h1>
-    {{ .Content }}
-</article>
+{{ define "main" }} 
+
+    {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ range (.Paginate $pages).Pages }}
+        <div class="max-w-sm w-full lg:max-w-full lg:flex mb-6">
+            {{ with .Resources.ByType "image" }}
+                {{ range first 1 . }}
+                    {{ $scaled := .Resize "x250 " }}
+                    <div class="bg-white h-48 lg:h-auto lg:w-48 flex-none bg-contain bg-no-repeat bg-center rounded-r lg:rounded-l-none lg:rounded-r text-center overflow-hidden" style="background-image: url('{{ $scaled.Permalink }}')" title="Woman holding a mug">
+                    </div>
+                {{ end }}
+            {{ end }}
+            <div class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-l lg:rounded-l-none lg:rounded-l p-4 flex flex-col justify-between leading-normal">
+            <div class="mb-8">
+                <a class="text-gray-900 font-bold text-xl mb-2" href="{{ .Permalink }}">{{ .Title }}</a>
+                <p class="text-sm text-gray-600 flex items-center mb-2">
+                    نُشر يوم {{ .Date.Day }} {{ index $.Site.Data.months_ar (printf "%d" .Date.Month) }} {{ .Date.Year }} بواسطة
+                    {{ .Params.Author }}
+                </p>
+                <p class="text-gray-700 text-base">{{ .Summary }}</p>
+                
+            </div>
+            <div class="flex items-center">
+                {{ if .Truncated }}
+                <a href="{{ .RelPermalink }}" class="bg-white hover:bg-gray-100 text-gray-800 font-semibold py-2 px-4 rounded hover:shadow">
+                    تابع القراءة...
+                </a>
+                {{ end }}
+            </div>
+            </div>
+        </div>
+
+    {{ end }} 
+    {{ partial "pagination.html" . }}
+
 {{ end }}
+
+

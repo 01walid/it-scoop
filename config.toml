@@ -6,10 +6,9 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "ar"
 SectionPagesMenu = "main"
 Paginate = 10
-
+summaryLength = 30 # in number of words
 googleAnalytics = ""
 enableRobotsTXT = true
-
 
 [languages]
   [languages.ar]
@@ -27,3 +26,4 @@ enableRobotsTXT = true
   facebook = "https://www.facebook.com/ITscoopMagazine"
   twitter = "https://twitter.com/it_scoop_com"
   recent_posts_number = 10
+  mainSections = ["post"]
