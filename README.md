@@ -22,6 +22,7 @@ content (and all of it-scoop.com co-authors) safer and harder to lose.
 - [x] Migrate all posts and pages to markdown. Including categories, tags, authors, dates, original URL.
 - [x] Download all images. Some posts images use an external URL that is no longer available or is 404. This is an issue even with the existing Wordpress version.
 - [x] Each post is browsable and readable on Github itself.
+- [ ] Fix posts permalinks with arabic text being URL-encoded in markdown. Confusing Hugo and leading to 404 pages.
 - [ ] Replace it-scoop.com (the current site) with this static version (once I have control over the domain name).
 - [ ] Implement Disqus (or equivalent) and import old comments (if I could get access to it-scoop Disqus admin panel).
 - [ ] Compare posts one by one. Currently, all posts are automatically processed (with a mix of custom, quickly made, Python and bash scripts). Although things look good (sometimes better than even the existing ones, like http to https auto-conversion, resurrected images ..), but still might require further case by case reviews.
